@@ -1,0 +1,11 @@
+about_resource: postgresql95-server-9.5.17-1PGDG.rhel7.x86_64.rpm
+download_url: https://download.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-x86_64/postgresql95-server-9.5.17-1PGDG.rhel7.x86_64.rpm
+license_expression: postgresql
+copyright: Copyright (c) PostgreSQL Global Development Group
+attribute: yes
+checksum_md5: eafb6cbde23fd54a32455a5809e04d51
+checksum_sha1: dac9ba1240f3c830bedb01adbe1242171168131e
+licenses:
+  - key: postgresql
+    name: PostgreSQL License
+    file: postgresql.LICENSE
