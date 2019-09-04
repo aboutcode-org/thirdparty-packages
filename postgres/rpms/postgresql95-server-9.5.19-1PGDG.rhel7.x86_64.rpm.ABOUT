@@ -1,0 +1,21 @@
+about_resource: postgresql95-server-9.5.19-1PGDG.rhel7.x86_64.rpm
+name: PostgreSQL
+version: 9.5.19
+download_url: https://download.postgresql.org/pub/repos/yum/9.5/redhat/rhel-7-x86_64/postgresql95-server-9.5.19-1PGDG.rhel7.x86_64.rpm
+description: PostgreSQL server, client programs and libraries
+homepage_url: http://www.postgresql.org/
+license_expression: postgresql
+copyright: Copyright (c) The PostgreSQL Global Development Group
+notice_file: postgresql95-server-9.5.19-1PGDG.rhel7.x86_64.rpm.NOTICE
+notice_url: https://git.postgresql.org/gitweb/?p=postgresql.git;a=blob_plain;f=COPYRIGHT;hb=refs/tags/REL9_5_19
+attribute: yes
+owner: PostgreSQL
+owner_url: http://www.postgresql.org/about/
+contact: http://www.postgresql.org/about/
+vcs_repository: https://git.postgresql.org/git/postgresql.git
+checksum_md5: 2fcb5ec9eda1e945e90d645d17d5dfb2
+checksum_sha1: 3bc9e4bc6e02d10931e878ab66959859453abf0f
+licenses:
+  - key: postgresql
+    name: PostgreSQL License
+    file: postgresql.LICENSE
