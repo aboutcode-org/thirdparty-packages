@@ -1,0 +1,14 @@
+about_resource: iniconfig-1.1.1-py2.py3-none-any.whl
+author: Ronny Pfannschmidt, Holger Krekel
+checksum_md5: 90f3e1bb7ced782f2b04eb5af266ecb7
+checksum_sha1: 77378afaf23c05657bed196a0e359d3e6a3f1cf2
+copyright: (C) Ronny Pfannschmidt, Holger Krekel
+description: brain-dead simple config-ini parsing
+download_url: https://files.pythonhosted.org/packages/9b/dd/b3c12c6d707058fa947864b67f0c4e0c39ef8610988d7baea9578f3c48f3/iniconfig-1.1.1-py2.py3-none-any.whl
+homepage_url: http://github.com/RonnyPfannschmidt/iniconfig
+license_expression: mit
+name: iniconfig
+package_url: pkg:pypi/iniconfig@1.1.1
+primary_language: Python
+type: pypi
+version: 1.1.1

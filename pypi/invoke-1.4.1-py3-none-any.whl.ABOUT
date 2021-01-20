@@ -1,0 +1,20 @@
+about_resource: invoke-1.4.1-py3-none-any.whl
+attribute: yes
+checksum_md5: c4f9cbc34682c209603c3022938cb505
+checksum_sha1: 386b946366c56090fcff006ecddb8567f27ef04f
+contact: jeff@bitprophet.org
+copyright: Copyright (c) 2017 Jeff Forcier
+description: Invoke is a Python (2.6+ and 3.3+) task execution tool & library, drawing inspiration
+  from various sources to arrive at a powerful & clean feature set.
+download_url: https://files.pythonhosted.org/packages/2c/16/f00efa99ae9f255142a230ce6819c37ae9dd29a7144477c1161cc72d01ed/invoke-1.4.1-py3-none-any.whl
+homepage_url: http://docs.pyinvoke.org/
+license_expression: bsd-simplified
+name: invoke
+notice_file: invoke-1.4.1-py3-none-any.whl.NOTICE
+notice_url: https://github.com/pyinvoke/invoke/blob/master/LICENSE
+owner: Jeffrey Forcier
+owner_url: https://github.com/bitprophet
+package_url: pkg:pypi/invoke@1.4.1
+primary_language: Python
+type: pypi
+version: 1.4.1

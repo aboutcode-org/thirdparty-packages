@@ -1,0 +1,12 @@
+about_resource: isort-5.0.3-py3-none-any.whl
+attribute: yes
+checksum_md5: 3b7c3c0616f98a659f467325fe2d30c5
+checksum_sha1: a2ec5838dbd492be810e1b82a5c54f1a4ad78194
+copyright: Copyright (c) Timothy Edmund Crosley
+download_url: https://files.pythonhosted.org/packages/b2/52/3b117bb6077f737b7c7da7a128be760b4b511954358a7ff1c93aa46acc4b/isort-5.0.3-py3-none-any.whl
+license_expression: mit
+name: isort
+package_url: pkg:pypi/isort@5.0.3
+primary_language: Python
+type: pypi
+version: 5.0.3

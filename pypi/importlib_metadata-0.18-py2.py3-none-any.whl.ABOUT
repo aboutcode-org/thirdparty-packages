@@ -1,0 +1,18 @@
+about_resource: importlib_metadata-0.18-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 76dc19f32bff3c485269ae5aa438dd86
+checksum_sha1: b1f7c4b179003bee77dad40bf2550c9b4bec1cba
+copyright: copyright Jason R. Coombs, Barry Warsaw
+download_url: https://files.pythonhosted.org/packages/bd/23/dce4879ec58acf3959580bfe769926ed8198727250c5e395e6785c764a02/importlib_metadata-0.18-py2.py3-none-any.whl
+homepage_url: https://gitlab.com/python-devs/importlib_metadata/
+license_expression: apache-2.0
+name: importlib-metadata
+notice_file: importlib_metadata-0.18-py2.py3-none-any.whl.NOTICE
+owner: python-devs
+owner_url: https://gitlab.com/python-devs
+package_url: pkg:pypi/importlib-metadata@0.18
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_repository: https://gitlab.com/python-devs/importlib_metadata.git
+version: '0.18'

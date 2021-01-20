@@ -1,0 +1,21 @@
+about_resource: intbitset-2.4.1-cp36-cp36m-win_amd64.whl
+attribute: yes
+checksum_md5: 8e81ca33ff10f7a89ce321fb459d2b7e
+checksum_sha1: 64cff4346fc797755f0eef76093157c6385ebc3f
+contact: http://public.web.cern.ch/public/en/Contact-en.html
+copyright: Copyright (C) CERN and others
+description: Python C-based extension implementing fast integer bit sets
+download_url: https://files.pythonhosted.org/packages/56/e9/2ec78530db21a7b78e028bf306126312e06508aae8023ac68186f9e1f0b5/intbitset-2.4.1-cp36-cp36m-win_amd64.whl
+homepage_url: https://github.com/inveniosoftware/intbitset
+license_expression: lgpl-3.0-plus
+name: intbitset
+notice_file: intbitset-2.4.1-cp36-cp36m-win_amd64.whl.NOTICE
+owner: CERN
+owner_url: http://public.web.cern.ch/public/
+package_url: pkg:pypi/intbitset@2.4.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/inveniosoftware/intbitset
+version: 2.4.1

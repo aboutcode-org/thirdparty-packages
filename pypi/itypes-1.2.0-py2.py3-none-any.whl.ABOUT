@@ -1,0 +1,14 @@
+about_resource: itypes-1.2.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: c5fe660c8dda870f7e64896c8f324bc4
+checksum_sha1: 96cf83ac83f3788aa55caaf851416ba486cd0566
+copyright: Copyright (c) Tom Christie
+description: Basic immutable container types for Python.
+download_url: https://files.pythonhosted.org/packages/3f/bb/3bd99c7cd34d4a123b2903e16da364f6d2078b1c3a3530a8ad105c668104/itypes-1.2.0-py2.py3-none-any.whl
+homepage_url: https://github.com/tomchristie/itypes
+license_expression: bsd-simplified
+name: itypes
+package_url: pkg:pypi/itypes@1.2.0
+primary_language: Python
+type: pypi
+version: 1.2.0
