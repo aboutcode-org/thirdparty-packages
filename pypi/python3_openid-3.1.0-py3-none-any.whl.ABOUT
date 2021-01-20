@@ -1,0 +1,19 @@
+about_resource: python3_openid-3.1.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 81e19b98c839ab7347bfe51708762b5e
+checksum_sha1: 7a7cbaac256fdbb1d39bd22a4446785db7110654
+copyright: Copyright (c) 2016-2017 python3-openid contributors
+description: Python 3 port of the python-openid library
+download_url: https://files.pythonhosted.org/packages/bd/de/52c5699f52dcee3037db587196dcaf63ffedf5fbeba3183afe9b21a3a89f/python3_openid-3.1.0-py3-none-any.whl
+homepage_url: https://github.com/necaris/python3-openid
+license_expression: apache-2.0
+name: python3-openid
+notice_file: python3_openid-3.1.0-py3-none-any.whl.NOTICE
+notice_url: https://github.com/necaris/python3-openid/blob/master/openid/__init__.py
+owner: necaris
+owner_url: https://github.com/necaris
+package_url: pkg:pypi/python3-openid@3.1.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 3.1.0

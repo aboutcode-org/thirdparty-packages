@@ -1,0 +1,19 @@
+about_resource: python-mimeparse-1.6.0.tar.gz
+attribute: yes
+checksum_md5: e2780ceb12929f2f8557c467fa8c2567
+checksum_sha1: a48227647fe3d9f33e6b8175e6757f4e8d463cce
+copyright: Copyright (c) 2010 Joe Gregorio
+description: Python-MimeParse provides basic functions for handling mime-types. It can handle
+  matching mime-types against a list of media-ranges.
+download_url: https://files.pythonhosted.org/packages/0f/40/ac5f9e44a55b678c3cd881b4c3376e5b002677dbeab6fb3a50bac5d50d29/python-mimeparse-1.6.0.tar.gz
+homepage_url: https://github.com/dbtsai/python-mimeparse
+license_expression: mit
+name: python-mimeparse
+notice_file: python-mimeparse-1.6.0.tar.gz.NOTICE
+notice_url: https://raw.github.com/dbtsai/python-mimeparse/master/LICENSE
+owner: Joe Gregorio
+package_url: pkg:pypi/python-mimeparse@1.6.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/dbtsai/python-mimeparse.git
+version: 1.6.0

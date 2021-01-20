@@ -1,0 +1,21 @@
+about_resource: selenium-3.141.0.tar.gz
+attribute: yes
+checksum_md5: 15d56e695f5bd2b12faf054e61047c7d
+checksum_sha1: 18ce45fef7e2e59b7770e99d7323d1f2cd243de8
+contact: http://docs.seleniumhq.org/support/
+copyright: Copyright 2008-2017 (c) Selenium Project contributors
+description: Selenium automates browsers. Primarily, it is for automating web applications for
+  testing purposes, but is certainly not limited to just that.
+download_url: https://files.pythonhosted.org/packages/ed/9c/9030520bf6ff0b4c98988448a93c04fcbd5b13cd9520074d8ed53569ccfe/selenium-3.141.0.tar.gz
+homepage_url: http://docs.seleniumhq.org/
+license_expression: apache-2.0
+name: selenium
+notice_file: selenium-3.141.0.tar.gz.NOTICE
+notice_url: https://github.com/SeleniumHQ/selenium/blob/master/README.md
+owner: Selenium HQ
+owner_url: http://docs.seleniumhq.org/
+package_url: pkg:pypi/selenium@3.141.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 3.141.0

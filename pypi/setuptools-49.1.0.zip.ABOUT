@@ -1,0 +1,15 @@
+about_resource: setuptools-49.1.0.zip
+attribute: yes
+checksum_md5: 7f7eeb429437342af32df0189348f922
+checksum_sha1: 593469f100a11eedf4c98fdba81984e138286a07
+copyright: Copyright (c) Python Packaging Authority
+description: Easily download, build, install, upgrade, and uninstall Python packages
+download_url: https://files.pythonhosted.org/packages/8b/0f/5f135746c4d0c95fcc3c9a30ac942330bbdf092879ccaae7e3dcba6ea214/setuptools-49.1.0.zip
+homepage_url: https://pypi.python.org/pypi/setuptools
+license_expression: python AND mit
+name: setuptools
+package_url: pkg:pypi/setuptools@49.1.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 49.1.0

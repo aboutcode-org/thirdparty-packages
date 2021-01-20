@@ -1,0 +1,19 @@
+about_resource: python_dateutil-2.8.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 36ae406e144ce50dfa6950a6db17b1d9
+checksum_sha1: 3005ff67df93ee276fb8631e17c677df852254ad
+contact: gustavo@niemeyer.net
+copyright: Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>
+description: The dateutil module provides powerful extensions to the standard Python datetime
+  module
+download_url: https://files.pythonhosted.org/packages/d4/70/d60450c3dd48ef87586924207ae8907090de0b306af2bce5d134d78615cb/python_dateutil-2.8.1-py2.py3-none-any.whl
+homepage_url: http://labix.org/python-dateutil
+license_expression: bsd-new
+name: python-dateutil
+notice_file: python_dateutil-2.8.1-py2.py3-none-any.whl.NOTICE
+owner: Gustavo Niemeyer
+owner_url: http://labix.org/
+package_url: pkg:pypi/python-dateutil@2.8.1
+primary_language: Python
+type: pypi
+version: 2.8.1

@@ -1,0 +1,13 @@
+about_resource: romp-2020.12-py2.py3-none-any.whl
+checksum_md5: 508a8bddc832b91ba3d94d95177f3514
+checksum_sha1: d04152e2285de8bfc6edd8f6fe1367baa25d39e4
+copyright: Copyright (c) Kyle Altendorf
+description: Run on multiple platforms
+download_url: https://files.pythonhosted.org/packages/e1/53/590153670a4e6401d0c1d8f379b66de846d47c63e04d661827963157707f/romp-2020.12-py2.py3-none-any.whl
+homepage_url: https://github.com/altendky/romp
+license_expression: mit
+name: romp
+package_url: pkg:pypi/romp@2020.12
+primary_language: Python
+type: pypi
+version: '2020.12'

@@ -1,0 +1,20 @@
+about_resource: PyYAML-3.12.tar.gz
+attribute: yes
+checksum_md5: 4c129761b661d181ebf7ff4eb2d79950
+checksum_sha1: cb7fd3e58c129494ee86e41baedfec69eb7dafbe
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://thirdparty.aboutcode.org/pypi/PyYAML-3.12.tar.gz
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notes: To build a wheel that does not depend on the native libyaml, download the sdist, extract
+  and run "python setup.py --without-libyaml bdist_wheel "
+notice_file: PyYAML-3.12.tar.gz.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@3.12
+primary_language: Python
+type: pypi
+version: '3.12'

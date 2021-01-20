@@ -1,0 +1,12 @@
+about_resource: qrcode-6.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: '19182caca83777efff2e9fdb57a44a8a'
+checksum_sha1: 964fdbdf6f6868cc6a420e4c26fc9eaedef0cc1c
+copyright: Copyright (c) Lincoln Loop
+download_url: https://files.pythonhosted.org/packages/42/87/4a3a77e59ab7493d64da1f69bf1c2e899a4cf81e51b2baa855e8cc8115be/qrcode-6.1-py2.py3-none-any.whl
+license_expression: bsd-new
+name: qrcode
+package_url: pkg:pypi/qrcode@6.1
+primary_language: Python
+type: pypi
+version: '6.1'

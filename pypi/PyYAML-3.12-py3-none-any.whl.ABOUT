@@ -1,0 +1,18 @@
+about_resource: PyYAML-3.12-py3-none-any.whl
+attribute: yes
+checksum_md5: a325ef4fc3eedad3437216f9f07cd791
+checksum_sha1: c4a05a8356401b0e81b3406a0d5916c9bccc2340
+copyright: Copyright (c) Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://thirdparty.aboutcode.org/pypi/PyYAML-3.12-py3-none-any.whl
+homepage_url: https://github.com/yaml/pyyaml/
+license_expression: mit
+name: PyYAML
+notes: |
+  To build a wheel that does not depend on the native libyaml, download the sdist, extract and run "python setup.py --without-libyaml bdist_wheel "
+  This package is a result of such a build for Python 3.
+notice_file: PyYAML-3.12-py3-none-any.whl.NOTICE
+package_url: pkg:pypi/pyyaml@3.12
+primary_language: Python
+type: pypi
+version: '3.12'

@@ -1,0 +1,20 @@
+about_resource: saneyaml-0.4.tar.gz
+attribute: yes
+checksum_md5: eec6b11326b463ccb7409f93d254e77e
+checksum_sha1: 8c45fd0c9a09b183238ad1f0137da64b5807c549
+contact: http://www.nexb.com/contactus.html
+copyright: Copyright (c) nexB Inc. and others
+description: This micro library is a PyYaml wrapper with sane behaviour to read and write readable
+  YAML safely, typically when used with configuration files.
+download_url: https://files.pythonhosted.org/packages/05/a0/2ba53d5e5dae030adabc0fd3e7f6bf1250a52d47cfc2cfe0e26e6fcdadfd/saneyaml-0.4.tar.gz
+homepage_url: https://github.com/nexB/saneyaml
+license_expression: apache-2.0
+name: saneyaml
+notice_file: saneyaml-0.4.tar.gz.NOTICE
+owner: nexB
+owner_url: http://www.nexb.com/
+package_url: pkg:pypi/saneyaml@0.4
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '0.4'

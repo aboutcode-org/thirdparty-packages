@@ -1,0 +1,13 @@
+about_resource: python_ldap-3.2.0-cp36-cp36m-linux_x86_64.whl
+attribute: yes
+checksum_md5: fe22522208dc9b06d16eb70f8553eaab
+checksum_sha1: f0658ddeffd4c059bb804890b80c00d62b70be60
+copyright: Copyright (c) Python Software Foundation
+download_url: https://thirdparty.aboutcode.org/pypi/python_ldap-3.2.0-cp36-cp36m-linux_x86_64.whl
+license_expression: python
+name: python-ldap
+package_url: pkg:pypi/python-ldap@3.2.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 3.2.0

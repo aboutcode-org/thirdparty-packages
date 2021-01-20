@@ -1,0 +1,13 @@
+about_resource: romp-2020.12.tar.gz
+checksum_md5: fccddddfdc615f7f0320fac37e8132a7
+checksum_sha1: b4a86c5635557d02b64adae49eb450bec4986f80
+copyright: Copyright (c) Kyle Altendorf
+description: Run on multiple platforms
+download_url: https://files.pythonhosted.org/packages/a8/03/e68bd1c1e57c65a8216fbe08ce56fb1c2f585fa325eae4d15d8741dddc8c/romp-2020.12.tar.gz
+homepage_url: https://github.com/altendky/romp
+license_expression: mit
+name: romp
+package_url: pkg:pypi/romp@2020.12
+primary_language: Python
+type: pypi
+version: '2020.12'

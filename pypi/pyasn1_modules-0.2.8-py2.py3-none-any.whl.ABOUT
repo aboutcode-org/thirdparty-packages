@@ -1,0 +1,15 @@
+about_resource: pyasn1_modules-0.2.8-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: b0da68111788ab964b8543d2ec1cb115
+checksum_sha1: d77aa46abbcaccc4054a0777a191e427c785c65a
+copyright: Copyright (c) Ilya Etingof <etingof@gmail.com>
+description: A collection of ASN.1-based protocols modules.
+download_url: https://files.pythonhosted.org/packages/95/de/214830a981892a3e286c3794f41ae67a4495df1108c3da8a9f62159b9a9d/pyasn1_modules-0.2.8-py2.py3-none-any.whl
+homepage_url: https://github.com/etingof/pyasn1-modules
+license_expression: bsd-simplified
+name: pyasn1-modules
+owner: Ilya Etingof
+package_url: pkg:pypi/pyasn1-modules@0.2.8
+primary_language: Python
+type: pypi
+version: 0.2.8

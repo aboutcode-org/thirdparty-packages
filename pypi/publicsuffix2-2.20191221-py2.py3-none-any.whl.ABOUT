@@ -1,0 +1,27 @@
+about_resource: publicsuffix2-2.20191221-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: eb5b7bd06270ca4c90352541831cea58
+checksum_sha1: dacd55374dc527e0d01986d24cd143acdf292dcc
+contact: http://www.nexb.com/contactus.html
+copyright: |
+  Copyright (c) nexB Inc.
+  Copyright (c) Tomaž Šolc
+  Copyright (c) David Wilson
+  Copyright (c) Mozilla
+description: A fork of publicsuffix with updated data as "package data" in a wheel friendly
+  format
+download_url: https://files.pythonhosted.org/packages/9d/16/053c2945c5e3aebeefb4ccd5c5e7639e38bc30ad1bdc7ce86c6d01707726/publicsuffix2-2.20191221-py2.py3-none-any.whl
+homepage_url: https://github.com/nexB/python-publicsuffix2
+license_expression: mit AND mpl-2.0
+name: publicsuffix2
+notice_file: publicsuffix2-2.20191221-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/nexB/python-publicsuffix2/blob/develop/publicsuffix2.LICENSE
+owner: nexB
+owner_url: http://www.nexb.com/
+package_url: pkg:pypi/publicsuffix2@2.20191221
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: git+https://github.com/nexB/python-publicsuffix2.git
+version: '2.20191221'

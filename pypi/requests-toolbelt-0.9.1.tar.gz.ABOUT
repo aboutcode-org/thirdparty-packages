@@ -1,0 +1,13 @@
+about_resource: requests-toolbelt-0.9.1.tar.gz
+checksum_md5: b1509735c4b4cf95df2619facbc3672e
+checksum_sha1: 14c31d15c4df128bf65c010b14a2ac3be52e1e3a
+copyright: copyright (c) Ian Cordasco, Cory Benfield
+description: A utility belt for advanced users of python-requests
+download_url: https://files.pythonhosted.org/packages/28/30/7bf7e5071081f761766d46820e52f4b16c8a08fef02d2eb4682ca7534310/requests-toolbelt-0.9.1.tar.gz
+homepage_url: https://toolbelt.readthedocs.org
+license_expression: apache-2.0
+name: requests-toolbelt
+package_url: pkg:pypi/requests-toolbelt@0.9.1
+primary_language: Python
+type: pypi
+version: 0.9.1

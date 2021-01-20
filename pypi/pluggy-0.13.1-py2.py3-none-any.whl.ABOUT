@@ -1,0 +1,17 @@
+about_resource: pluggy-0.13.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 32a771dc4df48273d4967e5aab043653
+checksum_sha1: bea186814eafe56aa821db73b242772329e60555
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel
+description: Plugin and hook calling mechanisms for python
+download_url: https://files.pythonhosted.org/packages/a0/28/85c7aa31b80d150b772fbe4a229487bc6644da9ccb7e427dd8cc60cb8a62/pluggy-0.13.1-py2.py3-none-any.whl
+homepage_url: https://github.com/pytest-dev/pluggy
+license_expression: mit
+name: pluggy
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pluggy@0.13.1
+primary_language: Python
+type: pypi
+version: 0.13.1

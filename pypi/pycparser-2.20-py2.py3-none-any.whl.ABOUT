@@ -1,0 +1,14 @@
+about_resource: pycparser-2.20-py2.py3-none-any.whl
+checksum_md5: b8f88de737db8c346ee8d31c07c7a25a
+checksum_sha1: 0ae93d89b69fab48af3a407a2f8663bcea270c3d
+copyright: copyright (c) Eli Bendersky
+description: C parser in Python
+download_url: https://files.pythonhosted.org/packages/ae/e7/d9c3a176ca4b02024debf82342dab36efadfc5776f9c8db077e8f6e71821/pycparser-2.20-py2.py3-none-any.whl
+holder_contact: eliben@gmail.com
+homepage_url: https://github.com/eliben/pycparser
+license_expression: bsd-new
+name: pycparser
+package_url: pkg:pypi/pycparser@2.20
+primary_language: Python
+type: pypi
+version: '2.20'

@@ -1,0 +1,29 @@
+about_resource: rdflib-4.2.1-py3-none-any.whl
+attribute: yes
+checksum_md5: ef32d7aecb6dc86f9fde2d9469171725
+checksum_sha1: 1a5d8ae2e999a2dfbf7b8ddc80226c5e0febcdba
+copyright: |
+  Copyright (c) Christopher Lenz
+  Copyright (c) Deron E. Meranda <http://deron.meranda.us/>
+  Copyright (c) RDFLib Team
+  Copyright Gunnar A. Grimnes
+  Copyright Sean B. Palmer
+  Copyright World Wide Web Consortium
+  Copyright Zolera Systems Inc.
+description: RDFLib is a Python library for working with RDF, a simple yet powerful language
+  for representing information.
+download_url: https://thirdparty.aboutcode.org/pypi/rdflib-4.2.1-py3-none-any.whl
+homepage_url: https://github.com/RDFLib/rdflib
+license_expression: bsd-new AND w3c AND w3c-software-19980720 AND lgpl-2.1-plus AND (gpl-2.0
+  OR bsd-new OR w3c OR mit)
+name: rdflib
+notes: |
+  vcs_tool: git
+  vcs_repository: https://github.com/RDFLib/rdflib.git
+notice_file: rdflib-4.2.1-py3-none-any.whl.NOTICE
+package_url: pkg:pypi/rdflib@4.2.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 4.2.1

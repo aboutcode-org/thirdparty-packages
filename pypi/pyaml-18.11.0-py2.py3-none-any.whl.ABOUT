@@ -1,0 +1,15 @@
+about_resource: pyaml-18.11.0-py2.py3-none-any.whl
+checksum_md5: ccb1eaf0202ef4bab5f288c80cb62062
+checksum_sha1: 87f9d9b2d9a689b6e6d33995a992a71dbbde1a79
+copyright: Copyright (C) 2012 Mike Kazantsev <mk.fraggod@gmail.com>
+description: PyYAML-based module to produce pretty and readable YAML-serialized data
+download_url: https://files.pythonhosted.org/packages/c5/e1/1523fb1dab744e2c6b1f02446f2139a78726c18c062a8ddd53875abb20f8/pyaml-18.11.0-py2.py3-none-any.whl
+homepage_url: https://github.com/mk-fg/pretty-yaml
+license_expression: wtfpl-2.0
+name: pyaml
+notice_file: pyaml-18.11.0-py2.py3-none-any.whl.NOTICE
+owner: Mike Kazantsev
+package_url: pkg:pypi/pyaml@18.11.0
+primary_language: Python
+type: pypi
+version: 18.11.0

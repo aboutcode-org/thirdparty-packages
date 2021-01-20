@@ -1,0 +1,22 @@
+about_resource: rdflib-4.2.1.tar.gz
+attribute: yes
+checksum_md5: 528adaa10536d14a608507d7831711f5
+checksum_sha1: 5970c89814d74a463857fbb747f55e8aad8ba918
+copyright: Copyright (c) 2002-2015, RDFLib Team
+description: RDFLib is a Python library for working with RDF, a simple yet powerful language
+  for representing information.
+download_url: https://files.pythonhosted.org/packages/9d/fa/4198e8d8b444a4ace5c8fd86d128c2faa210a6e281973c8e5e16d978eaf4/rdflib-4.2.1.tar.gz
+homepage_url: https://github.com/RDFLib/rdflib
+license_expression: bsd-new AND w3c AND w3c-software-19980720 AND lgpl-2.1-plus AND (gpl-2.0
+  OR bsd-new OR w3c OR mit)
+name: rdflib
+notes: |
+  vcs_tool: git
+  vcs_repository: https://github.com/RDFLib/rdflib.git
+notice_file: rdflib-4.2.1.tar.gz.NOTICE
+package_url: pkg:pypi/rdflib@4.2.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 4.2.1

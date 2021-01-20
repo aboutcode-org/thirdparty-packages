@@ -1,0 +1,18 @@
+about_resource: pytest-xdist-2.2.0.tar.gz
+attribute: yes
+checksum_md5: fbc0caa055a8822ef9d753f340e2f27b
+checksum_sha1: bddd3f0f1e00e87c85158bc121900ed798fcb10d
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and contributors
+description: py.test xdist plugin for distributed testing and loop-on-failing modes
+download_url: https://files.pythonhosted.org/packages/21/24/1e7ddb2216eb78cad09717fc11aa7f6b49ae11225e9e0616fb23e18cae0b/pytest-xdist-2.2.0.tar.gz
+homepage_url: https://github.com/pytest-dev/pytest-xdist
+license_expression: mit
+name: pytest-xdist
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest-xdist@2.2.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/pytest-dev/pytest-xdist
+version: 2.2.0

@@ -1,0 +1,21 @@
+about_resource: pytest_rerunfailures-9.1.1-py3-none-any.whl
+attribute: yes
+checksum_md5: cb87fab0c7e7a3a407128faf76798e20
+checksum_sha1: 365c8ecb163658dcb47763506dcc12525497bc3d
+contact: pytest-dev@python.org
+copyright: Copyright (c) Leah Klearman and pytest-dev authors
+download_url: https://files.pythonhosted.org/packages/63/e6/0489c3ef7b2e76741dd3057d05367452f2e46005751a8df70b397237046d/pytest_rerunfailures-9.1.1-py3-none-any.whl
+homepage_url: https://github.com/pytest-dev/pytest-rerunfailures
+license_expression: mpl-2.0
+name: pytest-rerunfailures
+notice_file: pytest_rerunfailures-9.1.1-py3-none-any.whl.NOTICE
+notice_url: https://github.com/pytest-dev/pytest-rerunfailures/blob/master/LICENSE
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest-rerunfailures@9.1.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/pytest-dev/pytest-rerunfailures
+version: 9.1.1

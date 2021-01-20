@@ -1,0 +1,22 @@
+about_resource: python_memcached-1.59-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: cb13eda8b1c3e3458a8e784c178b890c
+checksum_sha1: 66f4fdb9c46c07339398007ff42412f083b568a7
+contact: jafo@tummy.com
+copyright: Copyright (c) 2016 python-mmcached contributors
+description: python-memcached is a 100% Python interface to the memcached memory cache daemon.
+  It is the client side software which allows storing values in one or more, possibly remote,
+  memcached servers.
+download_url: https://files.pythonhosted.org/packages/f5/90/19d3908048f70c120ec66a39e61b92c253e834e6e895cd104ce5e46cbe53/python_memcached-1.59-py2.py3-none-any.whl
+homepage_url: https://pypi.python.org/pypi/python-memcached
+license_expression: python
+name: python-memcached
+notice_file: python_memcached-1.59-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/linsomniac/python-memcached/blob/master/PSF.LICENSE
+owner: Sean Reifschneider
+owner_url: https://github.com/linsomniac
+package_url: pkg:pypi/python-memcached@1.59
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '1.59'
