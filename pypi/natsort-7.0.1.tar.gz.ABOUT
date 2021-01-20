@@ -1,0 +1,17 @@
+about_resource: natsort-7.0.1.tar.gz
+attribute: yes
+checksum_md5: 4b497c49e271454ac98d5a03f902e43d
+checksum_sha1: bc0d448d826eb8cd1194fc21b83c894387de02df
+copyright: Copyright (c) 2012-2014 Seth M. Morton
+description: Simple yet flexible natural sorting in Python.
+download_url: https://files.pythonhosted.org/packages/b3/60/684d437b29c04bb08b5a145c94babbc802f551a3cd392680b1a2cd0104bb/natsort-7.0.1.tar.gz
+homepage_url: https://github.com/SethMMorton/natsort
+license_expression: mit
+name: natsort
+notice_file: natsort-7.0.1.tar.gz.NOTICE
+notice_url: https://github.com/SethMMorton/natsort/blob/master/LICENSE
+owner: Seth Morton
+package_url: pkg:pypi/natsort@7.0.1
+primary_language: Python
+type: pypi
+version: 7.0.1

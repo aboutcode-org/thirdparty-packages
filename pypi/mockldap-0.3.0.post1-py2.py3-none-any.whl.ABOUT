@@ -1,0 +1,20 @@
+about_resource: mockldap-0.3.0.post1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 8f76e4496ac575e744de01c879af9784
+checksum_sha1: d291d06cc8126cb2f8a7669f23a78f057d5b6b58
+copyright: Copyright (c) 2013, Peter Sagerson
+description: This project provides a mock replacement for python-ldap (pyldap on Python 3).
+  It's useful for any project that would like to write unit tests against LDAP code without
+  relying on a running LDAP server.
+download_url: https://files.pythonhosted.org/packages/e3/6e/1536bc788db4cbccf3f2ffb37737af5e90f163ce69858f5aa1275981ed8a/mockldap-0.3.0.post1-py2.py3-none-any.whl
+homepage_url: https://bitbucket.org/psagers/mockldap
+license_expression: bsd-new
+name: mockldap
+notice_file: mockldap-0.3.0.post1-py2.py3-none-any.whl.NOTICE
+notice_url: https://bitbucket.org/psagers/mockldap/src/8a83569d4b2f250fd4384e3aca5530c8baa21965/LICENSE?at=default&fileviewer=file-view-default
+owner: Peter Sagerson
+owner_url: https://www.linkedin.com/in/psagers
+package_url: pkg:pypi/mockldap@0.3.0.post1
+primary_language: Python
+type: pypi
+version: 0.3.0.post1

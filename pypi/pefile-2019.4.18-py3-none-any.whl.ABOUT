@@ -1,0 +1,16 @@
+about_resource: pefile-2019.4.18-py3-none-any.whl
+attribute: yes
+checksum_md5: e17de380e84f968337f721f3c96b6e32
+checksum_sha1: c9caf1e9c282abe4c3a76eebfff2eb7e6c3bc20c
+copyright: Copyright (c) Ero Carrera <ero.carrera@gmail.com>
+description: Python PE parsing module
+download_url: https://thirdparty.aboutcode.org/pypi/pefile-2019.4.18-py3-none-any.whl
+homepage_url: https://github.com/erocarrera/pefile
+keywords: pe,exe,dll,pefile,pecoff
+license_expression: mit
+name: pefile
+owner: Ero Carrera
+package_url: pkg:pypi/pefile@2019.4.18
+primary_language: Python
+type: pypi
+version: 2019.4.18

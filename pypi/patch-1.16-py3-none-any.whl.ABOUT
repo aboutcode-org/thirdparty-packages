@@ -1,0 +1,19 @@
+about_resource: patch-1.16-py3-none-any.whl
+attribute: yes
+checksum_md5: 1427b07bbb15e3bff42d9cd76f9b0f21
+checksum_sha1: d5841562adc62c1e433eb8661501494d147d2475
+copyright: Copyright (c) anatoly techtonik
+description: Library to parse and apply unified diffs
+download_url: https://thirdparty.aboutcode.org/pypi/patch-1.16-py3-none-any.whl
+homepage_url: https://github.com/techtonik/python-patch/
+license_expression: mit
+name: patch
+notes: |
+  vcs_tool: git
+  vcs_repository: https://github.com/techtonik/python-patch/
+  author: anatoly techtonik <techtonik@gmail.com>
+notice_file: patch-1.16-py3-none-any.whl.NOTICE
+package_url: pkg:pypi/patch@1.16
+primary_language: Python
+type: pypi
+version: '1.16'

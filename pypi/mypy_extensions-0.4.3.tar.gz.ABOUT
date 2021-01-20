@@ -1,0 +1,13 @@
+about_resource: mypy_extensions-0.4.3.tar.gz
+checksum_md5: 4163ff73d0db8631c0a78bb55b551c84
+checksum_sha1: 83a546f404433d851e51705dd7b1dd879582ae1d
+copyright: copyright (c) The mypy developers
+description: Experimental type system extensions for programs checked with the mypy typechecker.
+download_url: https://files.pythonhosted.org/packages/63/60/0582ce2eaced55f65a4406fc97beba256de4b7a95a0034c6576458c6519f/mypy_extensions-0.4.3.tar.gz
+homepage_url: https://github.com/python/mypy_extensions
+license_expression: mit
+name: mypy_extensions
+package_url: pkg:pypi/mypy-extensions@0.4.3
+primary_language: Python
+type: pypi
+version: 0.4.3

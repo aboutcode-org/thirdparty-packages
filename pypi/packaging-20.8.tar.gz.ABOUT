@@ -1,0 +1,13 @@
+about_resource: packaging-20.8.tar.gz
+attribute: yes
+checksum_md5: 101110b3d512d544b70fd61d58482eaf
+checksum_sha1: 860beac5bb1361dead58166dced967ca896c9937
+copyright: Copyright (c) Donald Stufft and individual contributors
+download_url: https://files.pythonhosted.org/packages/d7/c5/e81b9fb8033fe78a2355ea7b1774338e1dca2c9cbd2ee140211a9e6291ab/packaging-20.8.tar.gz
+license_expression: bsd-new OR apache-2.0
+name: packaging
+package_url: pkg:pypi/packaging@20.8
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '20.8'

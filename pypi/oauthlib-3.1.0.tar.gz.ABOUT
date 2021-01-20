@@ -1,0 +1,18 @@
+about_resource: oauthlib-3.1.0.tar.gz
+attribute: yes
+checksum_md5: de4829861f156a7fd7404f9f8d9ca444
+checksum_sha1: 52c42c870fea99ec71d4b1af876e3fb73f7c6ddf
+copyright: Copyright (c) 2011 Idan Gazit and contributors
+description: A generic, spec-compliant, thorough implementation of the OAuth request-signing
+  logic
+download_url: https://files.pythonhosted.org/packages/fc/c7/829c73c64d3749da7811c06319458e47f3461944da9d98bb4df1cb1598c2/oauthlib-3.1.0.tar.gz
+homepage_url: https://github.com/idan/oauthlib
+license_expression: bsd-new
+name: oauthlib
+notice_file: oauthlib-3.1.0.tar.gz.NOTICE
+notice_url: https://raw.github.com/idan/oauthlib/master/LICENSE
+owner: Idan Gazit
+package_url: pkg:pypi/oauthlib@3.1.0
+primary_language: Python
+type: pypi
+version: 3.1.0

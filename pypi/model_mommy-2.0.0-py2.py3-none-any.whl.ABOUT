@@ -1,0 +1,18 @@
+about_resource: model_mommy-2.0.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 77b6d7f8d941ab20d2e879504c4618c4
+checksum_sha1: bb72a5b17f4a6c63afa52ea54c0648eb110277ea
+copyright: Copyright 2011 Vanderson Mota
+description: Object factory for django
+download_url: https://files.pythonhosted.org/packages/35/69/1d588507ba30f51e5347696a42bd37d4bf5d46cfc12ad335ed9d77ccfac3/model_mommy-2.0.0-py2.py3-none-any.whl
+homepage_url: https://github.com/vandersonmota/model_mommy
+license_expression: apache-2.0
+name: model-mommy
+notice_file: model_mommy-2.0.0-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/vandersonmota/model_mommy/blob/development/LICENSE
+owner: Vanderson Mota
+package_url: pkg:pypi/model-mommy@2.0.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.0.0

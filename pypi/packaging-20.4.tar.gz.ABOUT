@@ -1,0 +1,13 @@
+about_resource: packaging-20.4.tar.gz
+attribute: yes
+checksum_md5: 101110b3d512d544b70fd61d58482eaf
+checksum_sha1: 860beac5bb1361dead58166dced967ca896c9937
+copyright: Copyright (c) Donald Stufft and individual contributors
+download_url: https://files.pythonhosted.org/packages/55/fd/fc1aca9cf51ed2f2c11748fa797370027babd82f87829c7a8e6dbe720145/packaging-20.4.tar.gz
+license_expression: bsd-new OR apache-2.0
+name: packaging
+package_url: pkg:pypi/packaging@20.4
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '20.4'

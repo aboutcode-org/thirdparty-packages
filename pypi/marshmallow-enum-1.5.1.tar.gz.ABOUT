@@ -1,0 +1,13 @@
+about_resource: marshmallow-enum-1.5.1.tar.gz
+checksum_md5: 7f4624f5b553c50895c33b5195108c10
+checksum_sha1: c049a50f03ffbeec5e7ee9d105c857243051005c
+copyright: copyright (c) Alec Nikolas Reiter
+description: Enum field for Marshmallow
+download_url: https://files.pythonhosted.org/packages/8e/8c/ceecdce57dfd37913143087fffd15f38562a94f0d22823e3c66eac0dca31/marshmallow-enum-1.5.1.tar.gz
+homepage_url: https://github.com/justanr/marshmallow_enum
+license_expression: mit
+name: marshmallow-enum
+package_url: pkg:pypi/marshmallow-enum@1.5.1
+primary_language: Python
+type: pypi
+version: 1.5.1
