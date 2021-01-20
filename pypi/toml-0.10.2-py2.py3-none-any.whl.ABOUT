@@ -1,0 +1,18 @@
+about_resource: toml-0.10.2-py2.py3-none-any.whl
+checksum_md5: dc26cd71b80d6757139f38156a43c545
+checksum_sha1: a55ae166e643e6c7a28c16fe005efc32ee98ee76
+contact: uiri@xqz.ca
+copyright: Copyright 2013-2018 William Pearson
+description: Python Library for Tom's Obvious, Minimal Language
+download_url: https://files.pythonhosted.org/packages/44/6f/7120676b6d73228c96e17f1f794d8ab046fc910d781c8d151120c3f1569e/toml-0.10.2-py2.py3-none-any.whl
+homepage_url: https://github.com/uiri/toml
+license_expression: mit
+name: toml
+notes: Used for parsing for TOML configuration files.
+owner: Willam Pearson
+owner_url: https://github.com/uiri
+package_url: pkg:pypi/toml@0.10.2
+primary_language: Python
+type: pypi
+vcs_url: https://github.com/uiri/toml
+version: 0.10.2

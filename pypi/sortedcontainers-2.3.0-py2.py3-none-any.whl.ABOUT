@@ -1,0 +1,17 @@
+about_resource: sortedcontainers-2.3.0-py2.py3-none-any.whl
+ame: sortedcontainers
+attribute: yes
+checksum_md5: 2eded606424a46296617c0df1c3941c4
+checksum_sha1: 76afff25dc697a7b5abd1964d2b8f01761ee6416
+copyright: Copyright (c) Grant Jenks
+description: Sorted Containers -- Sorted List, Sorted Dict, Sorted Set
+download_url: https://files.pythonhosted.org/packages/20/4d/a7046ae1a1a4cc4e9bbed194c387086f06b25038be596543d026946330c9/sortedcontainers-2.3.0-py2.py3-none-any.whl
+homepage_url: http://www.grantjenks.com/docs/sortedcontainers/
+license_expression: apache-2.0
+name: sortedcontainers
+owner: Grant Jenks
+package_url: pkg:pypi/sortedcontainers@2.3.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.3.0

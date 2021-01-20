@@ -1,0 +1,17 @@
+about_resource: tblib-1.6.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: dd8cf6a881678d59674306722565a554
+checksum_sha1: bb64b041659c4d6b8a979a9ead500b4f57bbafb4
+copyright: Copyright (c) 2013-2017, Ionel Cristian Mărieș
+description: Traceback fiddling library. Allows you to pickle tracebacks.
+download_url: https://files.pythonhosted.org/packages/0d/de/dca3e651ca62e59c08d324f4a51467fa4b8cbeaafb883b5e83720b4d4a47/tblib-1.6.0-py2.py3-none-any.whl
+homepage_url: https://github.com/ionelmc/python-tblib
+license_expression: bsd-simplified
+name: tblib
+notice_file: tblib-1.6.0-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/ionelmc/python-tblib/blob/master/LICENSE
+owner: Ionel Cristian Maries
+package_url: pkg:pypi/tblib@1.6.0
+primary_language: Python
+type: pypi
+version: 1.6.0

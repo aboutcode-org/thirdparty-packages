@@ -1,0 +1,17 @@
+about_resource: tblib-1.6.0.tar.gz
+attribute: yes
+checksum_md5: dd8cf6a881678d59674306722565a554
+checksum_sha1: bb64b041659c4d6b8a979a9ead500b4f57bbafb4
+copyright: Copyright (c) 2013-2017, Ionel Cristian Mărieș
+description: Traceback fiddling library. Allows you to pickle tracebacks.
+download_url: https://files.pythonhosted.org/packages/eb/9e/3e25e6db783be160cba6a668f3272abbb99b1bcf844e00a8fc38ab238892/tblib-1.6.0.tar.gz
+homepage_url: https://github.com/ionelmc/python-tblib
+license_expression: bsd-simplified
+name: tblib
+notice_file: tblib-1.6.0.tar.gz.NOTICE
+notice_url: https://github.com/ionelmc/python-tblib/blob/master/LICENSE
+owner: Ionel Cristian Maries
+package_url: pkg:pypi/tblib@1.6.0
+primary_language: Python
+type: pypi
+version: 1.6.0

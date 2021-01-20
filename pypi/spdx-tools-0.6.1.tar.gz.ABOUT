@@ -1,0 +1,20 @@
+about_resource: spdx-tools-0.6.1.tar.gz
+attribute: yes
+checksum_md5: 1e0cfec3ce506002ff7612ba5d6f3e35
+checksum_sha1: b915b717ec46d2e90fa22b88359955eddf4eadba
+contact: http://www.nexb.com/contactus.html
+copyright: Copyright (c) 2014 Ahmed H. Ismail and others
+description: An SPDX tag/values (and RDF) library to parse, validate and create SPDX documents
+  in Python
+download_url: https://files.pythonhosted.org/packages/79/66/c016ff763bd171240b80bda06ae3ec3a848aa8d006a8c6b79c0d9a369e81/spdx-tools-0.6.1.tar.gz
+homepage_url: https://github.com/spdx/tools-python
+license_expression: apache-2.0
+name: spdx-tools
+notice_file: spdx-tools-0.6.1.tar.gz.NOTICE
+owner: nexB
+owner_url: http://www.nexb.com/
+package_url: pkg:pypi/spdx-tools@0.6.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 0.6.1

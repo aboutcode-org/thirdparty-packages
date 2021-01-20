@@ -1,0 +1,12 @@
+about_resource: swapper-1.1.2.post1-py3-none-any.whl
+attribute: yes
+checksum_md5: 756f76c3000e41de7117a20aabb2f66f
+checksum_sha1: 3dce0f263dafab20ca43e4cc21ce6adc9479819a
+copyright: Copyright (c) S. Andrew Sheppard, http://wq.io
+download_url: https://files.pythonhosted.org/packages/3d/1c/c3048143084630b51e6991b2a13066221c5245a6732c6ee123f38f33c5ad/swapper-1.1.2.post1-py3-none-any.whl
+license_expression: mit
+name: swapper
+package_url: pkg:pypi/swapper@1.1.2.post1
+primary_language: Python
+type: pypi
+version: 1.1.2.post1

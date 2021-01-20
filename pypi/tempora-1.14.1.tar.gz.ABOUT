@@ -1,0 +1,12 @@
+about_resource: tempora-1.14.1.tar.gz
+attribute: yes
+checksum_md5: b0a4c526bd9c164cf4813e4799f97e85
+checksum_sha1: ac2afecfee990ff22f7cc7d161860ec0a95c8b1a
+copyright: Copyright Jason R. Coombs
+download_url: https://files.pythonhosted.org/packages/2f/b5/5b0464385454c5ca93a39a1c6acefdf574aeb10ef45fa8958b3832cc7d96/tempora-1.14.1.tar.gz
+license_expression: mit
+name: tempora
+package_url: pkg:pypi/tempora@1.14.1
+primary_language: Python
+type: pypi
+version: 1.14.1

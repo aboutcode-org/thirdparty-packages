@@ -1,0 +1,19 @@
+about_resource: sqlparse-0.3.1.tar.gz
+attribute: yes
+checksum_md5: 70f7ca550f636db5db40a5d26daff378
+checksum_sha1: 0000ad099183a7ce40ba2f9f83ca10a2bf52b28b
+contact: albrecht.andi@gmail.com
+copyright: Copyright (c) 2009, Andi Albrecht <albrecht.andi@gmail.com>
+description: sqlparse is a non-validating SQL parser module for Python.
+download_url: https://files.pythonhosted.org/packages/67/4b/253b6902c1526885af6d361ca8c6b1400292e649f0e9c95ee0d2e8ec8681/sqlparse-0.3.1.tar.gz
+homepage_url: https://github.com/andialbrecht/sqlparse
+license_expression: bsd-new
+name: sqlparse
+notice_file: sqlparse-0.3.1.tar.gz.NOTICE
+notice_url: https://github.com/andialbrecht/sqlparse/blob/master/LICENSE
+owner: Andi Albrecht
+owner_url: http://andialbrecht.de/
+package_url: pkg:pypi/sqlparse@0.3.1
+primary_language: Python
+type: pypi
+version: 0.3.1

@@ -1,0 +1,16 @@
+about_resource: typing-3.6.4-py3-none-any.whl
+attribute: yes
+checksum_md5: 85a16dd012aaa4f0c6943683c8878dee
+checksum_sha1: 115a21ab46f0c7f4942aa6dda8a1e25857e51087
+copyright: Copyright (c) Python Software Foundation
+download_url: https://files.pythonhosted.org/packages/05/2b/2b05bf1d5a9dd450447c9a5df3e118a465e5d3cb12b73b7220a5064a403f/typing-3.6.4-py3-none-any.whl
+homepage_url: https://github.com/python/typing
+license_expression: python
+name: typing
+notes: This is a backport of the standard library typing module to Python versions older than
+  3.5
+package_url: pkg:pypi/typing@3.6.4
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 3.6.4

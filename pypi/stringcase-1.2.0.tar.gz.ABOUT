@@ -1,0 +1,13 @@
+about_resource: stringcase-1.2.0.tar.gz
+checksum_md5: 5cb2a0b28f227f19dc830b66f6e46b52
+checksum_sha1: 4c3cfaa34cb32fdf8bb74c470b8980469d905bef
+copyright: copyright (c) Taka Okunishi
+description: String case converter.
+download_url: https://files.pythonhosted.org/packages/f3/1f/1241aa3d66e8dc1612427b17885f5fcd9c9ee3079fc0d28e9a3aeeb36fa3/stringcase-1.2.0.tar.gz
+homepage_url: https://github.com/okunishinishi/python-stringcase
+license_expression: mit
+name: stringcase
+package_url: pkg:pypi/stringcase@1.2.0
+primary_language: Python
+type: pypi
+version: 1.2.0

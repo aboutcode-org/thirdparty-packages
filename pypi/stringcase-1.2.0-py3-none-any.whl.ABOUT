@@ -1,0 +1,13 @@
+about_resource: stringcase-1.2.0-py3-none-any.whl
+checksum_md5: 778c472577f89d9fb9c69e9f503e23e6
+checksum_sha1: bcf402c2580ef186d4bc4539315ec977859159fd
+copyright: copyright (c) Taka Okunishi
+description: String case converter.
+download_url: https://thirdparty.aboutcode.org/pypi/stringcase-1.2.0-py3-none-any.whl
+homepage_url: https://github.com/okunishinishi/python-stringcase
+license_expression: mt
+name: stringcase
+package_url: pkg:pypi/stringcase@1.2.0
+primary_language: Python
+type: pypi
+version: 1.2.0
