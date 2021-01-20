@@ -1,0 +1,17 @@
+about_resource: execnet-1.7.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 96c7b7ff0be5a065649d5f2fab687c36
+checksum_sha1: 5e5d7d43f65021a13a314952e61e0374b3c1fe96
+contact: pytest-dev@python.org
+copyright: Copyright Holger Krekel and others
+description: 'execnet: rapid multi-Python deployment'
+download_url: https://files.pythonhosted.org/packages/d3/2e/c63af07fa471e0a02d05793c7a56a9f7d274a8489442a5dc4fb3b2b3c705/execnet-1.7.1-py2.py3-none-any.whl
+homepage_url: http://codespeak.net/execnet
+license_expression: mit
+name: execnet
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/execnet@1.7.1
+primary_language: Python
+type: pypi
+version: 1.7.1

@@ -1,0 +1,18 @@
+about_resource: confusable_homoglyphs-3.2.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: eff03a1e88ff8583f7c7ef896922481d
+checksum_sha1: d7b85ed7dd9b19d46d17cba3b419865ea44fe752
+copyright: Copyright (c) 2016 Victor Felder
+description: Detect confusable usage of unicode homoglyphs, prevent homograph attacks.
+download_url: https://files.pythonhosted.org/packages/a4/38/aadd1c42ae353943cd1523cdd38ffb267ba95861b4e8bb1a559d975ae612/confusable_homoglyphs-3.2.0-py2.py3-none-any.whl
+homepage_url: https://github.com/vhf/confusable_homoglyphs
+license_expression: mit
+name: confusable-homoglyphs
+notice_file: confusable_homoglyphs-3.2.0-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/vhf/confusable_homoglyphs/blob/master/LICENSE
+owner: Victor Felder
+owner_url: https://github.com/vhf
+package_url: pkg:pypi/confusable-homoglyphs@3.2.0
+primary_language: Python
+type: pypi
+version: 3.2.0

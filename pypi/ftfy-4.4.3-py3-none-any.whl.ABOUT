@@ -1,0 +1,14 @@
+about_resource: ftfy-4.4.3-py3-none-any.whl
+attribute: yes
+checksum_md5: 38a61b60a95d6d9a729a246261757f99
+checksum_sha1: cecbc96f4c47f4072b54263fae3b98556f1b9ffc
+copyright: Copyright (c) Rob Speer (rob@luminoso.com)
+description: Fixes some problems with Unicode text after the fact
+download_url: https://thirdparty.aboutcode.org/pypi/ftfy-4.4.3-py3-none-any.whl
+homepage_url: http://github.com/LuminosoInsight/python-ftfy
+license_expression: mit
+name: ftfy
+package_url: pkg:pypi/ftfy@4.4.3
+primary_language: Python
+type: pypi
+version: 4.4.3

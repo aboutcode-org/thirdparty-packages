@@ -1,0 +1,16 @@
+about_resource: colorama-0.4.4.tar.gz
+checksum_md5: 3a0e415259690f4dd7455c2683ee5850
+checksum_sha1: 3ab1a3cf1d35332f995acc444c120b6543776b73
+copyright: Copyright (c) Jonathan Hartley
+description: Cross-platform colored terminal text.
+download_url: https://files.pythonhosted.org/packages/1f/bb/5d3246097ab77fa083a61bd8d3d527b7ae063c7d8e8671b1cf8c4ec10cbe/colorama-0.4.4.tar.gz
+holder: Arnon Yaari
+holder_contact: tartley@tartley.com
+homepage_url: https://github.com/tartley/colorama
+keywords: color colour terminal text ansi windows crossplatform xplatform
+license_expression: bsd-new
+name: colorama
+package_url: pkg:pypi/colorama@0.4.4
+primary_language: Python
+type: pypi
+version: 0.4.4

@@ -1,0 +1,15 @@
+about_resource: commoncode-20.10.20.tar.gz
+checksum_md5: 0fe45e4bb8376ff8f4b7b8e494c3fc3e
+checksum_sha1: 9b0860c898de617788a2808282ff78073c61d719
+copyright: copyright (c) nexB. Inc. and others
+description: commoncode
+download_url: https://files.pythonhosted.org/packages/92/df/bb08a174d7a786007fa89f74437e284ee7b54286f5ee42ed77ee64e07b81/commoncode-20.10.20.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/commoncode
+license_expression: apache-2.0
+name: commoncode
+package_url: pkg:pypi/commoncode@20.10.20
+primary_language: Python
+type: pypi
+version: 20.10.20

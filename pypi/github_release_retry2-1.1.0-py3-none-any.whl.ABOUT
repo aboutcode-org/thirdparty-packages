@@ -1,0 +1,15 @@
+about_resource: github_release_retry2-1.1.0-py3-none-any.whl
+checksum_md5: ead1cfdaabfb1cbadb7dcd2202939e33
+checksum_sha1: 865381ce99eec74fb8cf77841da02a48e2dcf228
+copyright: copyright (c) The github-release-retry Project Authors
+description: A tool for creating GitHub Releases and uploading assets reliably. Temp fork with
+  patch for https://github.com/google/github-release-retry/pull/6
+download_url: https://files.pythonhosted.org/packages/10/55/1948cbae4f61963bd7f1563d13fc7210376cc771d1e560beeaf4dfcc2426/github_release_retry2-1.1.0-py3-none-any.whl
+homepage_url: https://github.com/pombredanne/github-release-retry
+keywords: GitHub Release Releases reliable retry upload assets
+license_expression: apache-2.0
+name: github-release-retry2
+package_url: pkg:pypi/github-release-retry2@1.1.0
+primary_language: Python
+type: pypi
+version: 1.1.0

@@ -1,0 +1,18 @@
+about_resource: funcparserlib-0.3.6.tar.gz
+attribute: yes
+checksum_md5: 3aba546bdad5d0826596910551ce37c0
+checksum_sha1: 6db0e9e78dcddd993cdd488945b040934a361f03
+copyright: Copyright 2008/2011 Andrey Vlasovskikh
+description: Recursive descent parsing library for Python based on functional combinators.  (Description
+  from project page)
+download_url: https://files.pythonhosted.org/packages/cb/f7/b4a59c3ccf67c0082546eaeb454da1a6610e924d2e7a2a21f337ecae7b40/funcparserlib-0.3.6.tar.gz
+homepage_url: http://code.google.com/p/funcparserlib/
+license_expression: mit
+name: funcparserlib
+notice_file: funcparserlib-0.3.6.tar.gz.NOTICE
+notice_url: https://github.com/vlasovskikh/funcparserlib/blob/master/LICENSE
+owner: Andrey Vlasovskikh
+package_url: pkg:pypi/funcparserlib@0.3.6
+primary_language: Python
+type: pypi
+version: 0.3.6

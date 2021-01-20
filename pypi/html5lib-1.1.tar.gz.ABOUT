@@ -1,0 +1,18 @@
+about_resource: html5lib-1.1.tar.gz
+attribute: yes
+checksum_md5: c94780c55ea28529c39ad19ed372d629
+checksum_sha1: 1b30a69c2ddd8a38c059a83565f69296d7c5aa3f
+copyright: Copyright (c) 2006-2013 James Graham and other contributors
+description: Standards-compliant library for parsing and serializing HTML documents and fragments
+  in Python
+download_url: https://files.pythonhosted.org/packages/ac/b6/b55c3f49042f1df3dcd422b7f224f939892ee94f22abcf503a9b7339eaf2/html5lib-1.1.tar.gz
+homepage_url: https://github.com/html5lib/html5lib-python
+license_expression: mit
+name: html5lib
+notice_file: html5lib-1.1.tar.gz.NOTICE
+owner: html5lib Project
+owner_url: https://github.com/html5lib
+package_url: pkg:pypi/html5lib@1.1
+primary_language: Python
+type: pypi
+version: '1.1'

@@ -1,0 +1,17 @@
+about_resource: execnet-1.7.1.tar.gz
+attribute: yes
+checksum_md5: f911a8db40cd43654f816ded0c4bfdb4
+checksum_sha1: 114f06cec49e9449526d95d84c5b8c70e36a6849
+contact: pytest-dev@python.org
+copyright: Copyright Holger Krekel and others
+description: 'execnet: rapid multi-Python deployment'
+download_url: https://files.pythonhosted.org/packages/5a/61/1b50e0891d9b934154637fdaac88c68a82fd8dc5648dfb04e65937fc6234/execnet-1.7.1.tar.gz
+homepage_url: http://codespeak.net/execnet
+license_expression: mit
+name: execnet
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/execnet@1.7.1
+primary_language: Python
+type: pypi
+version: 1.7.1

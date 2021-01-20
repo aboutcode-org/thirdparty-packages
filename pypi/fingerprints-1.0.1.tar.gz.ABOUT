@@ -1,0 +1,14 @@
+about_resource: fingerprints-1.0.1.tar.gz
+attribute: yes
+checksum_md5: a503dd59707f7d84a23100bf3adcb138
+checksum_sha1: 57afde52842b4ad76e92cb4a8b8f6f53b606f9e0
+copyright: |
+  Copyright (c) Friedrich Lindenberg
+  Copyright (c) Journalism Development Network, Inc.
+download_url: https://files.pythonhosted.org/packages/80/70/6ce12abda0d54fec3508afb7bdf1746e6097c9da74e817030d6fff386263/fingerprints-1.0.1.tar.gz
+license_expression: mit
+name: fingerprints
+package_url: pkg:pypi/fingerprints@1.0.1
+primary_language: Python
+type: pypi
+version: 1.0.1

@@ -1,0 +1,15 @@
+about_resource: commoncode-20.10.20-py2.py3-none-any.whl
+checksum_md5: 5d6e56209b87b90a3c549db925b54bea
+checksum_sha1: a50e87478b7b8e82215cefaafff3ffcf4ad04c19
+copyright: copyright (c) nexB. Inc. and others
+description: commoncode
+download_url: https://files.pythonhosted.org/packages/14/b4/dae13f133d46d96d3233fc1450d9f7d04e033ab4bb0df1c7bbd885e30902/commoncode-20.10.20-py2.py3-none-any.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/commoncode
+license_expression: apache-2.0
+name: commoncode
+package_url: pkg:pypi/commoncode@20.10.20
+primary_language: Python
+type: pypi
+version: 20.10.20

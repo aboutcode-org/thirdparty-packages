@@ -1,0 +1,15 @@
+about_resource: commoncode-21.1.14-py3-none-any.whl
+checksum_md5: 0fe45e4bb8376ff8f4b7b8e494c3fc3e
+checksum_sha1: 9b0860c898de617788a2808282ff78073c61d719
+copyright: copyright (c) nexB. Inc. and others
+description: commoncode
+download_url: https://files.pythonhosted.org/packages/ae/ca/6f0812123c412dff8543be607f7eaf5989dfe769673e77468826e368b037/commoncode-21.1.14-py3-none-any.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/commoncode
+license_expression: apache-2.0
+name: commoncode
+package_url: pkg:pypi/commoncode@21.1.14
+primary_language: Python
+type: pypi
+version: 21.1.14

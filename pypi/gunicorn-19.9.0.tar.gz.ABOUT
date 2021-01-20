@@ -1,0 +1,20 @@
+about_resource: gunicorn-19.9.0.tar.gz
+attribute: yes
+checksum_md5: 45d9b5297c52641400c41d1851ba853e
+checksum_sha1: af1caa9560a324956f6ed14979f69d939790a6fe
+contact: bchesneau@gmail.com
+copyright: |
+  2009-2018 (c) BenoÃ®t Chesneau <benoitc@e-engura.org>
+  2009-2015 (c) Paul J. Davis <paul.joseph.davis@gmail.com>
+description: Gunicorn  'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy
+  applications.
+download_url: https://files.pythonhosted.org/packages/47/52/68ba8e5e8ba251e54006a49441f7ccabca83b6bef5aedacb4890596c7911/gunicorn-19.9.0.tar.gz
+homepage_url: https://gunicorn.org/
+license_expression: mit
+name: gunicorn
+owner: Benoit Chesneau
+owner_url: https://github.com/benoitc
+package_url: pkg:pypi/gunicorn@19.9.0
+primary_language: Python
+type: pypi
+version: '19.9.0'

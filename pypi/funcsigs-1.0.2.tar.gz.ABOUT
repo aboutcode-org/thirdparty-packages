@@ -1,0 +1,22 @@
+about_resource: funcsigs-1.0.2.tar.gz
+attribute: yes
+checksum_md5: 7e583285b1fb8a76305d6d68f4ccc14e
+checksum_sha1: d09f1a17d4b7323f815e27c1baabfa1f4dd2d9fe
+copyright: Copyright 2013 Aaron Iles
+description: funcsigs is a backport of the PEP 362 function signature features from Python 3.3's
+  inspect module. The backport is compatible with Python 2.6, 2.7 as well as 3.3 and up. 3.2
+  was supported by version 0.4, but with setuptools and pip no longer supporting 3.2, we cannot
+  make any statement about 3.2 compatibility.
+download_url: https://files.pythonhosted.org/packages/94/4a/db842e7a0545de1cdb0439bb80e6e42dfe82aaeaadd4072f2263a4fbed23/funcsigs-1.0.2.tar.gz
+homepage_url: http://funcsigs.readthedocs.org/
+license_expression: python AND apache-2.0
+name: funcsigs
+notice_file: funcsigs-1.0.2.tar.gz.NOTICE
+notice_url: https://github.com/testing-cabal/funcsigs/blob/master/LICENSE
+owner: testing-cabal
+owner_url: https://github.com/testing-cabal
+package_url: pkg:pypi/funcsigs@1.0.2
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 1.0.2
