@@ -1,0 +1,20 @@
+about_resource: jsonfield-3.1.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 13f1ad7433832529b9182c4bc772e389
+checksum_sha1: b0b10cd0b430e844f419c0e49b06c3ef64afd90e
+contact: contact@bradjasper.com
+copyright: Copyright (c) 2012-2017 Brad Jasper
+description: django-jsonfield is a reusable Django field that allows you to store validated
+  JSON in your model.
+download_url: https://files.pythonhosted.org/packages/7c/97/3a4805532a9c1982368fd9f37b58133419e83704744b733ccab9e9827176/jsonfield-3.1.0-py3-none-any.whl
+homepage_url: https://pypi.org/project/jsonfield/
+license_expression: mit
+name: jsonfield
+notice_file: jsonfield-3.1.0-py3-none-any.whl.NOTICE
+notice_url: https://github.com/dmkoch/django-jsonfield/blob/2.0.2/LICENSE
+owner: Brad Jasper
+owner_url: https://bradjasper.com/
+package_url: pkg:pypi/jsonfield@3.1.0
+primary_language: Python
+type: pypi
+version: 3.1.0

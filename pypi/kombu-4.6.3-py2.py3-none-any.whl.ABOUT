@@ -1,0 +1,18 @@
+about_resource: kombu-4.6.3-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 1fd04f3ae54d20c8ede7ddb25abea166
+checksum_sha1: 63271210b65b283ddc5b61177289c3a7b74284dd
+copyright: Copyright (c) 2015-2016 Ask Solem & contributors.
+description: Messaging library for Python.
+download_url: https://files.pythonhosted.org/packages/8f/f6/a60d03e6179166134aab2ee15603641eeb91c6ac9344018209d3ef13fb7c/kombu-4.6.3-py2.py3-none-any.whl
+homepage_url: https://github.com/celery/kombu
+license_expression: bsd-new
+name: kombu
+notice_file: kombu-4.6.3-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/celery/kombu/blob/master/LICENSE
+owner: Celery
+owner_url: http://celeryproject.org/
+package_url: pkg:pypi/kombu@4.6.3
+primary_language: Python
+type: pypi
+version: 4.6.3

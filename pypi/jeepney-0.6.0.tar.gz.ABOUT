@@ -1,0 +1,14 @@
+about_resource: jeepney-0.6.0.tar.gz
+checksum_md5: 90784fbeb15a4f96bcaf74d851ee620a
+checksum_sha1: 21ffa0741428f600e9b2398d9ea129eb54f6df37
+copyright: Copyright (c) 2017 Thomas Kluyver
+description: Low-level, pure Python DBus protocol wrapper.
+download_url: https://files.pythonhosted.org/packages/bb/4f/06017fbbe94eeaf1e7852c2dd7a065ca7d813e17b4500f4e842531d72593/jeepney-0.6.0.tar.gz
+homepage_url: https://gitlab.com/takluyver/jeepney
+license_expression: mit
+name: jeepney
+owner: Thomas Kluyver
+package_url: pkg:pypi/jeepney@0.6.0
+primary_language: Python
+type: pypi
+version: 0.6.0
