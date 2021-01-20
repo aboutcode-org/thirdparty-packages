@@ -8,7 +8,7 @@ description: NLTK is a leading platform for building Python programs to work wit
   WordNet, along with a suite of text processing libraries for classification, tokenization,
   stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries,
   and an active discussion forum.
-download_url: https://thirdparty.aboutcode.org/pypi/nltk-3.2.tar.gz
+download_url: https://files.pythonhosted.org/packages/f7/39/64085c900493000bbc3d101929a58d6f28b8f43219cff7b50df7d73843a8/nltk-3.2.tar.gz
 homepage_url: http://www.nltk.org/
 license_expression: apache-2.0
 name: nltk
