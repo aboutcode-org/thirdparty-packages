@@ -1,0 +1,16 @@
+about_resource: webencodings-0.5.tar.gz
+attribute: yes
+checksum_md5: 36654e7c7b772611b536014fa9e6e918
+checksum_sha1: e3a9cf249ab74b68056e96e5968245291b40ca1a
+copyright: Copyright by Simon Sapin
+description: Character encoding for the web. This is a Python implementation of the WHATWG Encoding
+  standard.
+download_url: https://files.pythonhosted.org/packages/c3/e5/74d05eed73b09752ac3dc4a8a69ae92ffa1ce92fcb03eaa624d1fcd17e33/webencodings-0.5.tar.gz
+homepage_url: https://github.com/gsnedders/python-webencodings
+license_expression: bsd-new
+name: webencodings
+owner: Simon Sapin
+package_url: pkg:pypi/webencodings@0.5
+primary_language: Python
+type: pypi
+version: '0.5'

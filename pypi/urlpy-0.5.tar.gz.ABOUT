@@ -1,0 +1,15 @@
+about_resource: urlpy-0.5.tar.gz
+attribute: yes
+checksum_md5: 91eeb2f03ab9a7d91f9d110223f7cc55
+checksum_sha1: c38d10f349c612fdbaee632b298a6883e5fc75cf
+copyright: |
+  Copyright (c) Moz Inc.
+  Copyright (c) nexB Inc.
+download_url: https://files.pythonhosted.org/packages/23/21/d176a137e4cc1ec4809534d116e9a06fc5fc0519077530ab5d040e356454/urlpy-0.5.tar.gz
+homepage_url: https://github.com/nexB/urlpy
+license_expression: mit
+name: urlpy
+package_url: pkg:pypi/urlpy@0.5
+primary_language: Python
+type: pypi
+version: '0.5'

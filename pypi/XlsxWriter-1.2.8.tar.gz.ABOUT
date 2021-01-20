@@ -1,0 +1,17 @@
+about_resource: XlsxWriter-1.2.8.tar.gz
+attribute: yes
+checksum_md5: 162648462304e9df76cc574f2eb2877e
+checksum_sha1: def26244c909b5f599969018a60c6beb47dc74bd
+copyright: Copyright 2013-2016, John McNamara.
+description: XlsxWriter is a Python module for creating Excel XLSX files.
+download_url: https://files.pythonhosted.org/packages/6a/50/77a5d3377e0b5caff56609a9075160f57951015c274e6ba891e5ad96f61f/XlsxWriter-1.2.8.tar.gz
+homepage_url: https://xlsxwriter.readthedocs.io/
+license_expression: bsd-simplified
+name: XlsxWriter
+notice_file: XlsxWriter-1.2.8.tar.gz.NOTICE
+notice_url: http://xlsxwriter.readthedocs.io/license.html?highlight=license
+owner: Pavel Akimov
+package_url: pkg:pypi/xlsxwriter@1.2.8
+primary_language: Python
+type: pypi
+version: 1.2.8

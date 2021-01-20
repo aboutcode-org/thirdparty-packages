@@ -1,0 +1,18 @@
+about_resource: wheel-0.36.2.tar.gz
+attribute: yes
+checksum_md5: 155170d46d4de0794b7aac020c44260d
+checksum_sha1: 4b590117f78ed80e9a8dd5f6e1ffe3c588dc8e98
+contact: distutils-sig@python.org
+copyright: copyright (c) Daniel Holth <dholth@fastmail.fm> and contributors
+description: The official binary distribution format for Python
+download_url: https://files.pythonhosted.org/packages/ed/46/e298a50dde405e1c202e316fa6a3015ff9288423661d7ea5e8f22f589071/wheel-0.36.2.tar.gz
+homepage_url: https://github.com/pypa/wheel/
+license_expression: mit AND (bsd-simplified OR apache-2.0)
+name: wheel
+owner: Python Packaging Authority
+owner_url: https://www.pypa.io/en/latest/
+package_url: pkg:pypi/wheel@0.36.2
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 0.36.2

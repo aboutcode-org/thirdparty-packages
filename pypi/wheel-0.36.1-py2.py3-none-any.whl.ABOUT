@@ -1,0 +1,15 @@
+about_resource: wheel-0.36.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 6b94e1ce344fe889ded702a8fb419737
+checksum_sha1: fb93607604a0530ee77579d61558d990b4c2adaf
+copyright: copyright (c) Daniel Holth <dholth@fastmail.fm> and contributors
+description: The official binary distribution format for Python
+download_url: https://files.pythonhosted.org/packages/c9/0b/e0fd299d93cd9331657f415085a4956422959897b333e3791dde40bd711d/wheel-0.36.1-py2.py3-none-any.whl
+homepage_url: https://github.com/pypa/wheel/
+license_expression: mit AND (bsd-simplified OR apache-2.0)
+name: wheel
+package_url: pkg:pypi/wheel@0.36.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 0.36.1
