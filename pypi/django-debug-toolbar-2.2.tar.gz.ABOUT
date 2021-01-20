@@ -1,0 +1,18 @@
+about_resource: django-debug-toolbar-2.2.tar.gz
+attribute: yes
+checksum_md5: 120b94b70de6a3b13b1a8ead103789f8
+checksum_sha1: 1853e44d7448c2732e5f4321c4ddbe7156d1492b
+copyright: Copyright (c) Rob Hudson and individual contributors.
+description: A configurable set of panels that display various debug information about the current
+  request/response.
+download_url: https://files.pythonhosted.org/packages/7d/ee/ef1ae02385765e5511f7e870fade9bdbd4f3025ce3f4e9bfb2ce52e87bdf/django-debug-toolbar-2.2.tar.gz
+homepage_url: https://github.com/jazzband/django-debug-toolbar
+license_expression: bsd-new
+name: django-debug-toolbar
+notice_file: django-debug-toolbar-2.2.tar.gz.NOTICE
+owner: Django Debug Toolbar authors
+owner_url: https://github.com/django-debug-toolbar
+package_url: pkg:pypi/django-debug-toolbar@2.2
+primary_language: Python
+type: pypi
+version: '2.2'

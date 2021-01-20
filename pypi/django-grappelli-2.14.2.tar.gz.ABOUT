@@ -1,0 +1,18 @@
+about_resource: django-grappelli-2.14.2.tar.gz
+attribute: yes
+checksum_md5: c1025d7aa9f9e8eefebeef458a68ba70
+checksum_sha1: 2c7114dc1b83cd84b05a0bbba70d1f7e4acf81fe
+copyright: Copyright (c) Patrick Kranzlmueller, Axel Swoboda
+description: A jazzy skin for the Django Admin-Interface
+download_url: https://files.pythonhosted.org/packages/0e/72/640ba2737198bad03c926da71ec890563a43a364e25ee2733b5f0bf4c565/django-grappelli-2.14.2.tar.gz
+homepage_url: http://grappelliproject.com/
+license_expression: bsd-new AND mit
+name: django-grappelli
+notice_file: django-grappelli-2.14.2.tar.gz.NOTICE
+notice_url: https://github.com/sehmaschine/django-grappelli/blob/master/LICENSE
+owner: django-grappelli Project
+package_url: pkg:pypi/django-grappelli@2.14.2
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/sehmaschine/django-grappelli
+version: 2.14.2

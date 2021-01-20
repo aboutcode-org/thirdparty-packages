@@ -1,0 +1,13 @@
+about_resource: bleach-3.2.1.tar.gz
+checksum_md5: a9d75613d2411da8beb650784a67e383
+checksum_sha1: fe9e3c773c0fd6681352c17619c5748932cb481e
+copyright: Copyright (c) James Socol, Mozilla Corporation and Foundation and other contributors.
+description: An easy safelist-based HTML-sanitizing tool.
+download_url: https://files.pythonhosted.org/packages/04/2c/8e256291cfeaefb72d1dafc888b1ad447e754d8062520b41f1d3ffa7e139/bleach-3.2.1.tar.gz
+homepage_url: https://github.com/mozilla/bleach
+license_expression: apache-2.0
+name: bleach
+package_url: pkg:pypi/bleach@3.2.1
+primary_language: Python
+type: pypi
+version: 3.2.1

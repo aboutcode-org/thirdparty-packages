@@ -1,0 +1,18 @@
+about_resource: binaryornot-0.4.4.tar.gz
+checksum_md5: 09c0b7f5f3f7c881e2f306780eac7128
+checksum_sha1: 9f6d0d0cf064f673194d8a9f9fbb5d11cd591ad8
+copyright: Copyright (c) Audrey Roy
+description: Ultra-lightweight pure Python package to check if a file is binary or text.
+download_url: https://files.pythonhosted.org/packages/a7/fe/7ebfec74d49f97fc55cd38240c7a7d08134002b1e14be8c3897c0dd5e49b/binaryornot-0.4.4.tar.gz
+homepage_url: https://github.com/audreyr/binaryornot
+keywords: binaryornot
+license_expression: bsd-new
+name: binaryornot
+notice_url: https://github.com/audreyr/binaryornot/blob/master/LICENSE
+owner: Audrey Roy Greenfeld
+owner_url: https://github.com/audreyr
+package_url: pkg:pypi/binaryornot@0.4.4
+primary_language: Python
+type: pypi
+vcs_url: https://github.com/audreyr/binaryornot.git
+version: 0.4.4

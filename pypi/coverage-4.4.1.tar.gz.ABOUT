@@ -1,0 +1,14 @@
+about_resource: coverage-4.4.1.tar.gz
+checksum_md5: 4c4d997cb32be4703f1fde54e6cd1b1c
+checksum_sha1: 4f7ed244125c3fc174bca3d3857b6f92b9f652bf
+copyright: Copyright (c) Ned Batchelder and others
+description: Code coverage measurement for Python
+download_url: https://files.pythonhosted.org/packages/36/db/690ee79312bb60f121c0da1c973856ddb751afe09cc10caec1452208eaf4/coverage-4.4.1.tar.gz
+homepage_url: https://coverage.readthedocs.io
+license_expression: apache-2.0
+name: coverage
+owner: Ned Batchelder and others
+package_url: pkg:pypi/coverage@4.4.1
+primary_language: Python
+type: pypi
+version: 4.4.1

@@ -1,0 +1,15 @@
+about_resource: coverage-4.4.1-cp36-cp36m-manylinux1_x86_64.whl
+checksum_md5: f068984b5ae071c997a4be3026232607
+checksum_sha1: a2a8d32ea6752aaaec519a11b774cd21c4248350
+copyright: Copyright (c) Ned Batchelder and others
+description: Code coverage measurement for Python
+download_url: https://files.pythonhosted.org/packages/12/9f/b5030263383b551ae844b2365b9a607a3266c48b0f7cc55fc2a6c852d6e3/coverage-4.4.1-cp36-cp36m-manylinux1_x86_64.whl
+homepage_url: https://coverage.readthedocs.io
+keywords: code coverage testing
+license_expression: apache-2.0
+name: coverage
+owner: Ned Batchelder and others
+package_url: pkg:pypi/coverage@4.4.1
+primary_language: Python
+type: pypi
+version: 4.4.1

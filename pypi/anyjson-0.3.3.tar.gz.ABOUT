@@ -1,0 +1,19 @@
+about_resource: anyjson-0.3.3.tar.gz
+attribute: yes
+checksum_md5: 2ea28d6ec311aeeebaf993cb3008b27c
+checksum_sha1: 2cd3c6cc61206664268e0e8684dbadf6e2428497
+copyright: Copyright (c) 2009, by the authors
+description: |
+  anyjson - JSON library wrapper
+  Anyjson loads whichever is the fastest JSON module installed and provides a uniform API regardless of which JSON implementation is used.
+download_url: https://files.pythonhosted.org/packages/c3/4d/d4089e1a3dd25b46bebdb55a992b0797cff657b4477bc32ce28038fdecbc/anyjson-0.3.3.tar.gz
+homepage_url: http://bitbucket.org/runeh/anyjson/
+license_expression: bsd-simplified
+name: anyjson
+notice_file: anyjson-0.3.3.tar.gz.NOTICE
+notice_url: https://bitbucket.org/runeh/anyjson/src/0026a68c035696bdc8db8628e364139eba9a8ba8/LICENSE?at=default&fileviewer=file-view-default
+owner: Rune Halvorsen
+package_url: pkg:pypi/anyjson@0.3.3
+primary_language: Python
+type: pypi
+version: 0.3.3

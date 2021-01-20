@@ -1,0 +1,12 @@
+about_resource: django_otp-0.9.3-py3-none-any.whl
+attribute: yes
+checksum_md5: 4bc3ded885642b67af369f229faa5fc7
+checksum_sha1: 5fbdeada10cf7f1811a7a4076167e55455fee857
+copyright: Copyright (c) Peter Sagerson
+download_url: https://files.pythonhosted.org/packages/6e/f8/0f8936cad637fee76c627fbed7831dc2e23f1a046b8e5ee2feea9b4e3269/django_otp-0.9.3-py3-none-any.whl
+license_expression: bsd-simplified
+name: django-otp
+package_url: pkg:pypi/django-otp@0.9.3
+primary_language: Python
+type: pypi
+version: 0.9.3

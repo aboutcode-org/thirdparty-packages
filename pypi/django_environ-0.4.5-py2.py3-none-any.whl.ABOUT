@@ -1,0 +1,15 @@
+about_resource: django_environ-0.4.5-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 6877c282082fb4e3a7bd90ef18cf1623
+checksum_sha1: 8154e8637c2d222034f0b3e66d1e882149e45b9c
+copyright: Copyright (c) 2013-2017, Daniele Faraglia
+description: Django-environ allows you to utilize 12factor inspired environment variables to
+  configure your Django application.
+download_url: https://files.pythonhosted.org/packages/9f/32/76295a1a5d00bf556c495216581c6997e7fa5f533b2229e0a9d6cbaa95ae/django_environ-0.4.5-py2.py3-none-any.whl
+homepage_url: https://github.com/joke2k/django-environ/
+license_expression: mit
+name: django-environ
+package_url: pkg:pypi/django-environ@0.4.5
+primary_language: Python
+type: pypi
+version: 0.4.5

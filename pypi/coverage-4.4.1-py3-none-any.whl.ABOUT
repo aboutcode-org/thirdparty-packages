@@ -1,0 +1,14 @@
+about_resource: coverage-4.4.1-py3-none-any.whl
+checksum_md5: 1f05717351a9195affa3610f4ad2153b
+checksum_sha1: af32e99607427c023ed62966420219c68b000455
+copyright: Copyright (c) Ned Batchelder and others
+description: Code coverage measurement for Python
+download_url: https://thirdparty.aboutcode.org/pypi/coverage-4.4.1-py3-none-any.whl
+homepage_url: https://coverage.readthedocs.io
+license_expression: apache-2.0
+name: coverage
+owner: Ned Batchelder and others
+package_url: pkg:pypi/coverage@4.4.1
+primary_language: Python
+type: pypi
+version: 4.4.1

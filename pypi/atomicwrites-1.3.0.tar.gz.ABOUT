@@ -1,0 +1,16 @@
+about_resource: atomicwrites-1.3.0.tar.gz
+attribute: yes
+checksum_md5: ce11f780a4ce0fce8a55d64494a88178
+checksum_sha1: 836c1786159ad8cc2bec3552156c849aaca8b7dc
+copyright: Copyright (c) Markus Unterwaditzer
+description: Atomic file writes.
+download_url: https://files.pythonhosted.org/packages/ec/0f/cd484ac8820fed363b374af30049adc8fd13065720fd4f4c6be8a2309da7/atomicwrites-1.3.0.tar.gz
+homepage_url: https://github.com/untitaker/python-atomicwrites
+license_expression: mit
+name: atomicwrites
+owner: Markus Unterwaditzer
+package_url: pkg:pypi/atomicwrites@1.3.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/untitaker/python-atomicwrites
+version: 1.3.0

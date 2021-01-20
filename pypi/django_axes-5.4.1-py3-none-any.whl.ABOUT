@@ -1,0 +1,12 @@
+about_resource: django_axes-5.4.1-py3-none-any.whl
+attribute: yes
+checksum_md5: 4a600f18c1f7f14401c2082c929846e3
+checksum_sha1: 908b5254662e6e74d03f4165f464f119ac6c9d14
+copyright: Copyright (c) Jazzband <security@jazzband.co>
+download_url: https://files.pythonhosted.org/packages/d9/02/9b9b0123172a372eacc29abdeccbd4ec086285390bffe624715238d61fd6/django_axes-5.4.1-py3-none-any.whl
+license_expression: mit
+name: django-axes
+package_url: pkg:pypi/django-axes@5.4.1
+primary_language: Python
+type: pypi
+version: 5.4.1

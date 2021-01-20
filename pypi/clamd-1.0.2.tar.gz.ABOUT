@@ -1,0 +1,14 @@
+about_resource: clamd-1.0.2.tar.gz
+attribute: yes
+checksum_md5: 355f5210a2a4096a3fd88aeb9e41630c
+checksum_sha1: c7c6cdae81ca38057442fdfc0d6c9ddc4317dcc3
+copyright: copyright (c) Thomas Grainger
+download_url: https://files.pythonhosted.org/packages/14/8b/55332f1f79f28a5ccc50f66364087e64fae8e4ed62e52007ca82b3072221/clamd-1.0.2.tar.gz
+license_expression: lgpl-2.0-plus
+name: clamd
+package_url: pkg:pypi/clamd@1.0.2
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 1.0.2

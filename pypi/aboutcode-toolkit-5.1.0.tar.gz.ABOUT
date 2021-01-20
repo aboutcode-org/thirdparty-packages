@@ -1,0 +1,13 @@
+about_resource: aboutcode-toolkit-5.1.0.tar.gz
+attribute: yes
+checksum_md5: 57d9fe9eacb4da441a82cc5932baca07
+checksum_sha1: 121802957cdf5c8a31e6561b92d8d11639675a19
+copyright: Copyright (c) nexB Inc and others
+download_url: https://files.pythonhosted.org/packages/ee/b8/5f1a44d5d33b1c40b004eea9cda2cf79e93f509e1b26a89fb5a2f8f90b4c/aboutcode-toolkit-5.1.0.tar.gz
+license_expression: apache-2.0
+name: aboutcode-toolkit
+package_url: pkg:pypi/aboutcode-toolkit@5.1.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 5.1.0

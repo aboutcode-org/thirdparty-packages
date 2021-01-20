@@ -1,0 +1,17 @@
+about_resource: amqp-2.6.0.tar.gz
+attribute: yes
+checksum_md5: 0a9169cabdc325ca3b87191efd68f3f1
+checksum_sha1: 69bdaeaf3490f0daee88868ba78b55f47c749777
+copyright: Copyright (c) 2015-2016 Ask Solem & contributors.
+description: This is a fork of amqplib which was originally written by Barry Pederson. It is
+  maintained by the Celery project, and used by kombu as a pure python alternative when librabbitmq
+  is not available. This library should be API compatible with librabbitmq.
+download_url: https://files.pythonhosted.org/packages/21/2e/3f06f2e063c6548a399f1eb221d9d128de1f29c4ee7a4a9bb0e0d33f3ca8/amqp-2.6.0.tar.gz
+homepage_url: http://github.com/celery/py-amqp
+license_expression: bsd-new
+name: amqp
+notice_file: amqp-2.6.0.tar.gz.NOTICE
+package_url: pkg:pypi/amqp@2.6.0
+primary_language: Python
+type: pypi
+version: 2.6.0

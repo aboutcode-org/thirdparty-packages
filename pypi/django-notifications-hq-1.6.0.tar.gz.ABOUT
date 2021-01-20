@@ -1,0 +1,19 @@
+about_resource: django-notifications-hq-1.6.0.tar.gz
+attribute: yes
+checksum_md5: 974d8bc73d959b5a0681a4c04d278e0c
+checksum_sha1: c7c25fdef00ac4a6dafa06295ee390488988aa07
+contact: yang@yangyubo.com
+copyright: copyright (c) by django-notifications team
+description: GitHub notifications alike app for Django
+download_url: https://files.pythonhosted.org/packages/12/b9/dd3525a3af44dea70a67f614056750daf4f506a32b1c8af41a2dd335b244/django-notifications-hq-1.6.0.tar.gz
+homepage_url: https://pypi.org/project/django-notifications-hq/
+license_expression: bsd-new
+name: django-notifications-hq
+notice_file: django-notifications-hq-1.6.0.tar.gz.NOTICE
+notice_url: https://github.com/django-notifications/django-notifications/blob/1.5.0/LICENSE.txt
+owner: Yang Yubo
+owner_url: https://github.com/yangyubo
+package_url: pkg:pypi/django-notifications-hq@1.6.0
+primary_language: Python
+type: pypi
+version: 1.6.0

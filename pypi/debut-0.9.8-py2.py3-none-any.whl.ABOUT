@@ -1,0 +1,23 @@
+about_resource: debut-0.9.8-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 37a77e6af0fa65d2263a0d8a045d2aed
+checksum_sha1: 93610195d1a513fbc2b7534dc5d50b76d727685a
+copyright: |
+  Copyright (c) Peter Odding
+  Copyright (c) nexB Inc. and others. http://nexb.com and https://github.com/nexB/debut
+  Copyright (c) Security Innovation, Inc
+  Copyright The Climate Corporation (https://climate.com)
+  Copyright Agustin Henze <tin@sluc.org.ar>
+description: Utilities to parse Debian package, copyright and control files.
+download_url: https://files.pythonhosted.org/packages/44/c3/b63fe5a167e4b8317d2bc7a3eb5d75123607e9fb53f0652e2bc8e61cd3e5/debut-0.9.8-py2.py3-none-any.whl
+homepage_url: https://github.com/nexB/debut
+keywords: debian,deb822,copyright,package,dependency,license,licensing,dep5,control,dsc,python-debian,dpkg,libapt
+license_expression: apache-2.0 AND bsd-new AND mit
+name: debut
+notice_file: debut-0.9.8-py2.py3-none-any.whl.NOTICE
+owner: nexB. Inc. and others
+package_url: pkg:pypi/debut@0.9.8
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 0.9.8

@@ -1,0 +1,18 @@
+about_resource: django_zerodowntime-0.3.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: b8a4e1e8f6b06702b749ff026ef95226
+checksum_sha1: 61aafac0866dac0ea515daf25589e6fe3b86c3ed
+copyright: Copyright (c) 2016, Phil Plante
+description: django migration utilities for zero downtime continuous delivery
+download_url: https://files.pythonhosted.org/packages/7e/01/87321a7d48ff2510af1e0b5168edfee363452e0bf826427e865e1176f8fa/django_zerodowntime-0.3.0-py2.py3-none-any.whl
+homepage_url: https://github.com/rentlytics/django-zerodowntime
+license_expression: isc
+name: django-zerodowntime
+notice_file: django_zerodowntime-0.3.0-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/rentlytics/django-zerodowntime/blob/master/LICENSE
+owner: Rentlytics
+package_url: pkg:pypi/django-zerodowntime@0.3.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/rentlytics/django-zerodowntime.git
+version: 0.3.0

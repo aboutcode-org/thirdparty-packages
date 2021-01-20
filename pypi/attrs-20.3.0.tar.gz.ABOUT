@@ -1,0 +1,12 @@
+about_resource: attrs-20.3.0.tar.gz
+attribute: yes
+checksum_md5: 4fe38f89297b2b446d83190fce189f29
+checksum_sha1: 05215357efc6bcfa1f0f76fbc01671e484e3e30a
+copyright: Copyright (c) Hynek Schlawack
+download_url: https://files.pythonhosted.org/packages/f0/cb/80a4a274df7da7b8baf083249b0890a0579374c3d74b5ac0ee9291f912dc/attrs-20.3.0.tar.gz
+license_expression: mit
+name: attrs
+package_url: pkg:pypi/attrs@20.3.0
+primary_language: Python
+type: pypi
+version: 20.3.0

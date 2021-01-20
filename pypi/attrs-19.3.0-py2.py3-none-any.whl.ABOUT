@@ -1,0 +1,12 @@
+about_resource: attrs-19.3.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 4fe38f89297b2b446d83190fce189f29
+checksum_sha1: 05215357efc6bcfa1f0f76fbc01671e484e3e30a
+copyright: Copyright (c) Hynek Schlawack
+download_url: https://files.pythonhosted.org/packages/a2/db/4313ab3be961f7a763066401fb77f7748373b6094076ae2bda2806988af6/attrs-19.3.0-py2.py3-none-any.whl
+license_expression: mit
+name: attrs
+package_url: pkg:pypi/attrs@19.3.0
+primary_language: Python
+type: pypi
+version: '19.3.0'

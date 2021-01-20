@@ -1,0 +1,14 @@
+about_resource: bump2version-1.0.1-py2.py3-none-any.whl
+checksum_md5: 9735698e470af816b0ac7f9f149ac8a1
+checksum_sha1: 0f41a2706fccb32ec95cce3d5588367797b1552f
+copyright: Copyright (C) Filip Noetzel and others
+description: Version-bump your software with a single command!
+download_url: https://files.pythonhosted.org/packages/1d/e3/fa60c47d7c344533142eb3af0b73234ef8ea3fb2da742ab976b947e717df/bump2version-1.0.1-py2.py3-none-any.whl
+homepage_url: https://github.com/c4urself/bump2version
+license_expression: mit
+name: bump2version
+owner: Christian Verkerk
+package_url: pkg:pypi/bump2version@1.0.1
+primary_language: Python
+type: pypi
+version: 1.0.1

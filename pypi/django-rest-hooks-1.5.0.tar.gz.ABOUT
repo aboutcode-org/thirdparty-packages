@@ -1,0 +1,17 @@
+about_resource: django-rest-hooks-1.5.0.tar.gz
+attribute: yes
+checksum_md5: 7e37315a6572c6771ba6877392fb18ed
+checksum_sha1: 4007c278d712146a6e07acea505afe1ef4ea5941
+copyright: Copyright (c) 2016 Zapier Inc.
+description: Add webhook subscriptions to your Django app.
+download_url: https://files.pythonhosted.org/packages/3c/e8/20566d6f93117d4bef867fa66ec06c40764bf8b559120ce4d50ad7ab4dba/django-rest-hooks-1.5.0.tar.gz
+homepage_url: https://github.com/zapier/django-rest-hooks
+license_expression: isc
+name: django-rest-hooks
+notice_file: django-rest-hooks-1.5.0.tar.gz.NOTICE
+notice_url: https://github.com/zapier/django-rest-hooks/blob/master/LICENSE.md
+owner: Zapier
+package_url: pkg:pypi/django-rest-hooks@1.5.0
+primary_language: Python
+type: pypi
+version: 1.5.0

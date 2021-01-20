@@ -1,0 +1,16 @@
+about_resource: dparse2-0.5.0.4-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: d393e83af0a1ea6be8549ebcde6bdf9d
+checksum_sha1: 2f810959d257210f675604c099377d42062911e2
+copyright: Copyright (c) Jannis Gebauer
+description: A parser for Python dependency files. Temp fork for Python 2 support.
+download_url: https://files.pythonhosted.org/packages/22/c5/0ed7b34d6488964015a34d3a38f238799916fb89bbb0f21c2fe99fed37e6/dparse2-0.5.0.4-py2.py3-none-any.whl
+homepage_url: https://github.com/nexB/dparse
+keywords: dparse
+license_expression: mit
+name: dparse2
+oner: Jannis Gebauer
+package_url: pkg:pypi/dparse2@0.5.0.4
+primary_language: Python
+type: pypi
+version: 0.5.0.4

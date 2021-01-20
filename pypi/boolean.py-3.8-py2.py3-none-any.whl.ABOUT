@@ -1,0 +1,14 @@
+about_resource: boolean.py-3.8-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: fa308ca6a746135feb248097cc35c107
+checksum_sha1: 9bfaf3104f7beb2a762b9b494c8849358d46bbfc
+copyright: Copyright (c) 2009-2016 Sebastian Kraemer, basti.kr@gmail.com and others
+description: Implements boolean algebra in one module.
+download_url: https://files.pythonhosted.org/packages/eb/5b/f82983127b1a1a4db83ee290e00a94a2b08c566fa6c58466e82ed7b0a76f/boolean.py-3.8-py2.py3-none-any.whl
+homepage_url: https://github.com/bastikr/boolean.py
+license_expression: bsd-simplified
+name: boolean.py
+package_url: pkg:pypi/boolean.py@3.8
+primary_language: Python
+type: pypi
+version: '3.8'

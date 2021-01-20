@@ -1,0 +1,21 @@
+about_resource: django_sendfile-0.3.11-py3-none-any.whl
+attribute: yes
+checksum_md5: 3fb0e91c195aa209e1a877e92888c91f
+checksum_sha1: bac7a38ad0592c34127e193d826557b0312fd0f7
+contact: john@littlespikeyland.com
+copyright: Copyright (c) 2011, Sensible Development
+description: django-sendfile is a wrapper around web-server specific methods for sending files
+  to web clients.
+download_url: https://thirdparty.aboutcode.org/pypi/django_sendfile-0.3.11-py3-none-any.whl
+homepage_url: https://github.com/johnsensible/django-sendfile
+license_expression: bsd-new
+name: django-sendfile
+notice_file: django_sendfile-0.3.11-py3-none-any.whl.NOTICE
+notice_url: https://github.com/johnsensible/django-sendfile/blob/master/LICENSE
+owner: John Montgomery
+owner_url: http://www.psychicorigami.com/
+package_url: pkg:pypi/django-sendfile@0.3.11
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/johnsensible/django-sendfile.git
+version: 0.3.11

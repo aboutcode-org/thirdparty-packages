@@ -1,0 +1,13 @@
+about_resource: cffi-1.14.4.tar.gz
+checksum_md5: ad3d8537b1516bad6bcdc36c458788be
+checksum_sha1: 45bd57a0903a2d63b93461e096c5d291875a457b
+copyright: copyright (c) Armin Rigo, Maciej Fijalkowski
+description: Foreign Function Interface for Python calling C code.
+download_url: https://files.pythonhosted.org/packages/66/6a/98e023b3d11537a5521902ac6b50db470c826c682be6a8c661549cb7717a/cffi-1.14.4.tar.gz
+homepage_url: http://cffi.readthedocs.org
+license_expression: mit
+name: cffi
+package_url: pkg:pypi/cffi@1.14.4
+primary_language: Python
+type: pypi
+version: 1.14.4

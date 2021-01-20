@@ -1,0 +1,19 @@
+about_resource: apipkg-1.5.tar.gz
+attribute: yes
+checksum_md5: 2eccec16980e44cc8051b63cddff2df0
+checksum_sha1: 1e0df1d216243e4cb8bffd21e7ab851d0a629c49
+contact: pytest-dev@python.org
+copyright: Copyright (c)  Holger Krekel
+description: With apipkg you can control the exported namespace of a python package and greatly
+  reduce the number of imports for your users.
+download_url: https://files.pythonhosted.org/packages/a8/af/07a13b1560ebcc9bf4dd439aeb63243cbd8d374f4f328691470d6a9b9804/apipkg-1.5.tar.gz
+homepage_url: https://github.com/pytest-dev/apipkg
+license_expression: mit
+name: apipkg
+notice_file: apipkg-1.5.tar.gz.NOTICE
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/apipkg@1.5
+primary_language: Python
+type: pypi
+version: '1.5'
