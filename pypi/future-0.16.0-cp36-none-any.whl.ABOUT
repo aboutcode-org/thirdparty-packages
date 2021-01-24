@@ -33,7 +33,7 @@ copyright: |
 description: python-future is the missing compatibility layer between Python 2 and Python 3.
   It allows you to use a single, clean Python 3.x-compatible codebase to support both Python
   2 and Python 3 with minimal overhead.
-download_url: https://thirdparty.aboutcode.org//pypi/future-0.16.0-cp36-none-any.whl
+download_url: https://thirdparty.aboutcode.org/pypi/future-0.16.0-cp36-none-any.whl
 homepage_url: http://python-future.org/
 keywords: future past python3 migration futurize backport six 2to3 modernize pasteurize 3to2
 license_expression: mit AND bsd-new AND python AND apache-2.0 AND bsd-simplified AND historical
