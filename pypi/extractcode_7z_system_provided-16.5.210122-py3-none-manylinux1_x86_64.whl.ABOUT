@@ -1,0 +1,16 @@
+about_resource: extractcode_7z_system_provided-16.5.210122-py3-none-manylinux1_x86_64.whl
+checksum_md5: 8f3337c7fe714c7938dbe28322619e99
+checksum_sha1: 632fc9f6b16a4eceb83dc05216a0cde48567a89d
+copyright: Copyright (C) Igor Pavlov.
+description: A ScanCode path provider plugin to provide system package provided sevenzip binary.
+download_url: https://files.pythonhosted.org/packages/3c/3f/8fe4acb12620306a8cd3b414e6ae4e274ba0273e587065e869b4dcb01245/extractcode_7z_system_provided-16.5.210122-py3-none-manylinux1_x86_64.whl
+holder: nexB
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/scancode-plugins
+keywords: open source,extractcode,libarchive
+license_expression: lgpl-2.1 and unrar and brian-gladman-3-clause
+name: extractcode-7z-system-provided
+package_url: pkg:pypi/extractcode-7z-system-provided@16.5.210122
+primary_language: Python
+type: pypi
+version: 16.5.210122
