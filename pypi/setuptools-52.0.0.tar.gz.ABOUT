@@ -1,0 +1,16 @@
+about_resource: setuptools-52.0.0.tar.gz
+attribute: yes
+checksum_md5: c0cc26022ec424da5a5a9aa67cfa18ba
+checksum_sha1: 9ffc72a2b3a048304122f943e8d54c23498a6194
+copyright: Copyright (c) Python Packaging Authority
+description: Easily download, build, install, upgrade, and uninstall Python packages
+download_url: https://files.pythonhosted.org/packages/84/48/5c99d8770fd0a9eb0f82654c3294aad6d0ba9f8600638c2e2ad74f2c5d52/setuptools-52.0.0.tar.gz
+homepage_url: https://github.com/pypa/setuptools
+keywords: CPAN PyPI distutils eggs package management
+license_expression: mit AND python AND (bsd-simplified OR apache-2.0)
+name: setuptools
+package_url: pkg:pypi/setuptools@52.0.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 52.0.0
