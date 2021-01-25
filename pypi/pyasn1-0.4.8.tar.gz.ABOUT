@@ -1,7 +1,7 @@
 about_resource: pyasn1-0.4.8.tar.gz
 attribute: yes
-checksum_md5: 9b019026fd706d25eb7ce5f707deb7bf
-checksum_sha1: c3c9f195dc89eb6d04828b881314743b548318d0
+checksum_md5: dffae4ff9f997a83324b3f33fe62be54
+checksum_sha1: e0fa19f8fda46a1fa2253477499b116b33f67175
 copyright: Copyright (c) Ilya Etingof <etingof@gmail.com>
 description: Generic ASN.1 library for Python
 download_url: https://files.pythonhosted.org/packages/a4/db/fffec68299e6d7bad3d504147f9094830b704527a7fc098b721d38cc7fa7/pyasn1-0.4.8.tar.gz

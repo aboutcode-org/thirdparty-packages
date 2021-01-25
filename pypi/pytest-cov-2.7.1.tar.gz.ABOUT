@@ -1,7 +1,7 @@
 about_resource: pytest-cov-2.7.1.tar.gz
 attribute: yes
-checksum_md5: 9c3adf39cf0b0516d721f2764511c159
-checksum_sha1: 7faf984b0e9135adbef79529b955343902a394b3
+checksum_md5: 053bc1570960cbc41810cf00997e3995
+checksum_sha1: 41758d0c51ad2e6ca43cb2e91892e8222fc71a45
 contact: pytest-dev@python.org
 copyright: Copyright (c) Meme Dough and contributors
 description: Coverage plugin for pytest.

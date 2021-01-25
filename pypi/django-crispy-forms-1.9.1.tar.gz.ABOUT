@@ -1,7 +1,7 @@
 about_resource: django-crispy-forms-1.9.1.tar.gz
 attribute: yes
-checksum_md5: 5a2fb5682aeb35eff845330da6f34bad
-checksum_sha1: 0efba4889e9954f2db0228c8d91776b1a1760866
+checksum_md5: 6be9feda546ec923f90a05b7d2711da6
+checksum_sha1: 2349a39a7fc543881256f29975ed823a5a5fe34e
 copyright: Copyright (c) 2009-2011 Miguel Araujo and contributors.
 description: The best way to have DRY Django forms. The app provides a tag and filter that lets
   you quickly render forms in a div format while providing an enormous amount of capability

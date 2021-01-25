@@ -1,7 +1,7 @@
 about_resource: packageurl-python-0.9.0.tar.gz
 attribute: yes
-checksum_md5: 09e7d9ab8559ef43c34cbaa33dd480ba
-checksum_sha1: 68b423b9e709d6e8aa917cde8b12f24683fc947f
+checksum_md5: d0afd39b5b8317159037e8825d7126fb
+checksum_sha1: 1abac0b9dfb4a258a8e2dce881c008836106d195
 copyright: Copyright (c) the purl authors
 download_url: https://files.pythonhosted.org/packages/4b/8b/e7c3d4409380ea91ffa093359bb9c5684bbb96813059de9ae0fb5bfafadc/packageurl-python-0.9.0.tar.gz
 license_expression: mit

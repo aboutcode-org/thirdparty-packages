@@ -1,7 +1,7 @@
 about_resource: qrcode-6.1.tar.gz
 attribute: yes
-checksum_md5: '19182caca83777efff2e9fdb57a44a8a'
-checksum_sha1: 964fdbdf6f6868cc6a420e4c26fc9eaedef0cc1c
+checksum_md5: 168ba09033463737315e3b596ccf43d0
+checksum_sha1: 1d21c20127c435c43e6365f4166857546fcac074
 copyright: Copyright (c) Lincoln Loop
 download_url: https://files.pythonhosted.org/packages/19/d5/6c7d4e103d94364d067636417a77a6024219c58cd6e9f428ece9b5061ef9/qrcode-6.1.tar.gz
 license_expression: bsd-new

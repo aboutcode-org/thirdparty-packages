@@ -1,7 +1,7 @@
 about_resource: typing-3.6.6.tar.gz
 attribute: yes
-checksum_md5: 85a16dd012aaa4f0c6943683c8878dee
-checksum_sha1: 115a21ab46f0c7f4942aa6dda8a1e25857e51087
+checksum_md5: 64614206b4bdc0864fc0e0bccd69efc9
+checksum_sha1: 8414f7e523f1f286f72392e9f8929d346df6f6a2
 copyright: Copyright (c) Python Software Foundation
 download_url: https://files.pythonhosted.org/packages/bf/9b/2bf84e841575b633d8d91ad923e198a415e3901f228715524689495b4317/typing-3.6.6.tar.gz
 homepage_url: https://github.com/python/typing

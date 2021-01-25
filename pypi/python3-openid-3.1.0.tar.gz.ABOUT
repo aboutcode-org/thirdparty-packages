@@ -1,7 +1,7 @@
 about_resource: python3-openid-3.1.0.tar.gz
 attribute: yes
-checksum_md5: 81e19b98c839ab7347bfe51708762b5e
-checksum_sha1: 7a7cbaac256fdbb1d39bd22a4446785db7110654
+checksum_md5: da10aae18117165b053eed117d0d1e9f
+checksum_sha1: edba1083be3e6783baaeaf2fa78a1242eb6b8e24
 copyright: Copyright (c) 2016-2017 python3-openid contributors
 description: Python 3 port of the python-openid library
 download_url: https://files.pythonhosted.org/packages/9e/75/83541390a7fa0bc9083be88980e2fbd574f927a53a0e60cb61f0c28e83b6/python3-openid-3.1.0.tar.gz

@@ -1,6 +1,6 @@
 about_resource: extractcode_libarchive-3.5.1.210122-py3-none-win_amd64.whl
-checksum_md5: 0f2a95162ef80c0bac0b86f3f8c93b6a
-checksum_sha1: f4808fe6dd20e83e06f1f7b9f0d73d16efda228f
+checksum_md5: 7c498475204f13d3b55ec98e9409abda
+checksum_sha1: bba150798a0aacf9720c346ce1297e575c32eb97
 copyright: copyright (c) Tim Kientzle and others
 description: A ScanCode path provider plugin to provide a prebuilt native libarchive binary.
 download_url: https://files.pythonhosted.org/packages/c1/1a/602276434ea78584654dfd53d84352500e31ac0469f279e2c58fc59631a1/extractcode_libarchive-3.5.1.210122-py3-none-win_amd64.whl

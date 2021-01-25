@@ -1,7 +1,7 @@
 about_resource: pip-20.3.3-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: b4846caf68e1b55a618977e00c720db4
-checksum_sha1: 8f72fbd3ef7a5d0e1db9c174d05c24a466ce7bd8
+checksum_md5: b41d5f3a723ed4d330b7cb0dfb3eb6fe
+checksum_sha1: 47b983adbeff9e966bc78c1dac17bf9a43a6067b
 copyright: Copyright (c) The Python Software Foundation and the pip authors
 description: A tool for installing and managing Python packages.
 download_url: https://files.pythonhosted.org/packages/54/eb/4a3642e971f404d69d4f6fa3885559d67562801b99d7592487f1ecc4e017/pip-20.3.3-py2.py3-none-any.whl

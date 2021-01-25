@@ -1,7 +1,7 @@
 about_resource: natsort-7.0.1.tar.gz
 attribute: yes
-checksum_md5: 4b497c49e271454ac98d5a03f902e43d
-checksum_sha1: bc0d448d826eb8cd1194fc21b83c894387de02df
+checksum_md5: 45bbb488f4ad3600393833e9d81371bb
+checksum_sha1: 212e3d0a8c750102a055adbeeffbf2ba77150c66
 copyright: Copyright (c) 2012-2014 Seth M. Morton
 description: Simple yet flexible natural sorting in Python.
 download_url: https://files.pythonhosted.org/packages/b3/60/684d437b29c04bb08b5a145c94babbc802f551a3cd392680b1a2cd0104bb/natsort-7.0.1.tar.gz

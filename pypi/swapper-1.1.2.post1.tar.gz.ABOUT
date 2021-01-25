@@ -1,7 +1,7 @@
 about_resource: swapper-1.1.2.post1.tar.gz
 attribute: yes
-checksum_md5: 756f76c3000e41de7117a20aabb2f66f
-checksum_sha1: 3dce0f263dafab20ca43e4cc21ce6adc9479819a
+checksum_md5: aef8fd86af4d9fcca579340b7f8f9133
+checksum_sha1: 66292a9e5d82c6cbcda5e7854f75678656349b80
 copyright: Copyright (c) S. Andrew Sheppard, http://wq.io
 download_url: https://files.pythonhosted.org/packages/f1/1d/6060584adde0c951a1c0de668fbb319eb17abb3f095ade1aff176143cb4f/swapper-1.1.2.post1.tar.gz
 license_expression: mit

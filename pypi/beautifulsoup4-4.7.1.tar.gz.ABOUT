@@ -1,7 +1,7 @@
 about_resource: beautifulsoup4-4.7.1.tar.gz
 attribute: yes
-checksum_md5: d1d6d1be4f8080ce7e3406449ba541ce
-checksum_sha1: e85fa7c27e4428a53f6dff7478d7c4263cfd9a11
+checksum_md5: c71f53fcb2580c376ab7b010a9178983
+checksum_sha1: 1000ef6113d020d5140d556862107c3d502dd5ed
 copyright: |
   Copyright (c) Leonard Richardson
   Copyright (c) James Graham and other contributors

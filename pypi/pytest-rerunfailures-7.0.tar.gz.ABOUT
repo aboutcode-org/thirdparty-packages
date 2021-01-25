@@ -1,7 +1,7 @@
 about_resource: pytest-rerunfailures-7.0.tar.gz
 attribute: yes
-checksum_md5: fe21612be35d540dd7ddd4a715f6f7f0
-checksum_sha1: 7c1e94eb21348badfce98ecfcc60b1292fbe1bb4
+checksum_md5: 898c15d1c99f85d9c48005dd380fa3fe
+checksum_sha1: 18fb2e2e85b1fab5bf911d5a393c46b13bec0da9
 contact: pytest-dev@python.org
 copyright: Copyright (c) Leah Klearman and pytest-dev authors
 download_url: https://files.pythonhosted.org/packages/21/44/4662543ba52f26ff00b33b05e7530482f26e59a871043f8fbdf455f7ef7d/pytest-rerunfailures-7.0.tar.gz

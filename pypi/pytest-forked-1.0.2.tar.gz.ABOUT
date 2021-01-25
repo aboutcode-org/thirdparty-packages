@@ -1,7 +1,7 @@
 about_resource: pytest-forked-1.0.2.tar.gz
 attribute: yes
-checksum_md5: d80c4e26056d72095502b2a726bbab9e
-checksum_sha1: 128e1e02a31f51dec8145db123a4028163f04ea2
+checksum_md5: 03602b9ef5277b70086d0697e0a45838
+checksum_sha1: ef58e285e84be4c31c450062984a4bfd95230e97
 contact: pytest-dev@python.org
 copyright: Copyright (c) Holger Krekel and contributors
 description: |

@@ -1,7 +1,7 @@
 about_resource: sqlparse-0.3.1.tar.gz
 attribute: yes
-checksum_md5: 70f7ca550f636db5db40a5d26daff378
-checksum_sha1: 0000ad099183a7ce40ba2f9f83ca10a2bf52b28b
+checksum_md5: 423047887a3590b04dd18f8caf843a2f
+checksum_sha1: 6885b71f22e9fcefd4ed6f5c398f01b56a023587
 contact: albrecht.andi@gmail.com
 copyright: Copyright (c) 2009, Andi Albrecht <albrecht.andi@gmail.com>
 description: sqlparse is a non-validating SQL parser module for Python.

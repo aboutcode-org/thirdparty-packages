@@ -1,7 +1,7 @@
 about_resource: beautifulsoup4-4.9.3-py3-none-any.whl
 attribute: yes
-checksum_md5: d1d6d1be4f8080ce7e3406449ba541ce
-checksum_sha1: e85fa7c27e4428a53f6dff7478d7c4263cfd9a11
+checksum_md5: bc7da27acae18d1907995f602ee572fe
+checksum_sha1: 7cd5856dbec587be19faa3eece41bb5ff5e28550
 copyright: |
   Copyright (c) Leonard Richardson
   Copyright (c) James Graham and other contributors

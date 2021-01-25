@@ -1,7 +1,7 @@
 about_resource: attrs-19.3.0.tar.gz
 attribute: yes
-checksum_md5: 4fe38f89297b2b446d83190fce189f29
-checksum_sha1: 05215357efc6bcfa1f0f76fbc01671e484e3e30a
+checksum_md5: 5b2db50fcc31be34d32798183c9bd062
+checksum_sha1: 5cad208b39fe854745c35b75f667eaf6400e2720
 copyright: Copyright (c) Hynek Schlawack
 download_url: https://files.pythonhosted.org/packages/98/c3/2c227e66b5e896e15ccdae2e00bbc69aa46e9a8ce8869cc5fa96310bf612/attrs-19.3.0.tar.gz
 license_expression: mit

@@ -1,7 +1,7 @@
 about_resource: pyparsing-2.4.0-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: f0953e47a0112f7a65aec2305ffdf7b4
-checksum_sha1: ca8d892c93fe2d54ea5e6f31c5798e40c58e8667
+checksum_md5: 0a90ca524ce3ba201be4b80e21ae7c3b
+checksum_sha1: 854588b2e20826cd322f4e692f9650ae3472ab4f
 copyright: Copyright (c) Paul T. McGuire
 description: The pyparsing module is an alternative approach to creating and executing simple
   grammars, vs. the traditional lex/yacc approach, or the use of regular expressions. The pyparsing

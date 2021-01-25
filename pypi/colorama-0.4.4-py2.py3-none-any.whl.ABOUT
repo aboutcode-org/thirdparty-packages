@@ -1,6 +1,6 @@
 about_resource: colorama-0.4.4-py2.py3-none-any.whl
-checksum_md5: 3a0e415259690f4dd7455c2683ee5850
-checksum_sha1: 3ab1a3cf1d35332f995acc444c120b6543776b73
+checksum_md5: 1dcd07acf2b1875ed09428e1ddf7e028
+checksum_sha1: 69a966ff2db15bee941f4efbc592d1e33024c67b
 copyright: Copyright (c) Jonathan Hartley
 description: Cross-platform colored terminal text.
 download_url: https://files.pythonhosted.org/packages/44/98/5b86278fbbf250d239ae0ecb724f8572af1c91f4a11edf4d36a206189440/colorama-0.4.4-py2.py3-none-any.whl

@@ -1,7 +1,7 @@
 about_resource: pluggy-0.12.0-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: 7f610e28b8b34487336b585a3dfb803d
-checksum_sha1: 828b2c10996d902b8c47f2fded0e101c636b9ff9
+checksum_md5: 5c27b54570a48d4ad783eec40f87f930
+checksum_sha1: c3f83d321ed13911660a1e7a98d0c61222c47183
 contact: pytest-dev@python.org
 copyright: Copyright (c) Holger Krekel
 description: Plugin and hook calling mechanisms for python

@@ -1,7 +1,7 @@
 about_resource: python_ldap-3.2.0-cp36-cp36m-linux_x86_64.whl
 attribute: yes
-checksum_md5: fe22522208dc9b06d16eb70f8553eaab
-checksum_sha1: f0658ddeffd4c059bb804890b80c00d62b70be60
+checksum_md5: 41173f602afc249fd5c88d970bdd4780
+checksum_sha1: b19b5d4c8bac67919caed4797840fee24a755b5f
 copyright: Copyright (c) Python Software Foundation
 download_url: https://thirdparty.aboutcode.org/pypi/python_ldap-3.2.0-cp36-cp36m-linux_x86_64.whl
 license_expression: python

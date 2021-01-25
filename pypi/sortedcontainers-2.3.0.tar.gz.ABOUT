@@ -1,8 +1,8 @@
 about_resource: sortedcontainers-2.3.0.tar.gz
 ame: sortedcontainers
 attribute: yes
-checksum_md5: 2eded606424a46296617c0df1c3941c4
-checksum_sha1: 76afff25dc697a7b5abd1964d2b8f01761ee6416
+checksum_md5: 660260df593a3769c7b5854f13d574c0
+checksum_sha1: 68c81f9065bed49839e40d820c7bdf771a7f8296
 copyright: Copyright (c) Grant Jenks
 description: Sorted Containers -- Sorted List, Sorted Dict, Sorted Set
 download_url: https://files.pythonhosted.org/packages/14/10/6a9481890bae97da9edd6e737c9c3dec6aea3fc2fa53b0934037b35c89ea/sortedcontainers-2.3.0.tar.gz

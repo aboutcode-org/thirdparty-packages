@@ -1,7 +1,7 @@
 about_resource: asgiref-3.2.10.tar.gz
 attribute: yes
-checksum_md5: 9929d67766f047634dbe4679a679f00e
-checksum_sha1: e03f0ec2b5019d8ce43ef23929f7da04e6bb6f9a
+checksum_md5: d58c9ec83e6263138073b57d159232fa
+checksum_sha1: 18d38f9177e344b9d7ba766a58179636f659a13d
 copyright: Copyright (c) Django Software Foundation and individual contributors
 download_url: https://files.pythonhosted.org/packages/6d/6e/6e0ff19e7054491be7390fec2b711f838b31282fd3afe28057314d72f11b/asgiref-3.2.10.tar.gz
 license_expression: bsd-new

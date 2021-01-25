@@ -1,7 +1,7 @@
 about_resource: webencodings-0.5.tar.gz
 attribute: yes
-checksum_md5: 36654e7c7b772611b536014fa9e6e918
-checksum_sha1: e3a9cf249ab74b68056e96e5968245291b40ca1a
+checksum_md5: 878714d45241f7970dffd8991d61fff9
+checksum_sha1: ddfaad0b2ee2ba84dde81a6793c60934a4172f4d
 copyright: Copyright by Simon Sapin
 description: Character encoding for the web. This is a Python implementation of the WHATWG Encoding
   standard.

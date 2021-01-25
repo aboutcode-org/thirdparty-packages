@@ -1,7 +1,7 @@
 about_resource: intbitset-2.4.1-cp37-cp37m-win_amd64.whl
 attribute: yes
-checksum_md5: 4f76e100da761aa92188151c0dbdec60
-checksum_sha1: 7b212b559f2881a04ca25d7eb428accd9be80074
+checksum_md5: a5af0b0093ca9a375e4064f283a6a9e1
+checksum_sha1: 6445b260e6b920c9cba31326c07a3a8fe4a4411c
 contact: http://public.web.cern.ch/public/en/Contact-en.html
 copyright: Copyright (C) CERN and others
 description: Python C-based extension implementing fast integer bit sets

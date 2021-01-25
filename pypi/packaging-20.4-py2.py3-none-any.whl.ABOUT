@@ -1,7 +1,7 @@
 about_resource: packaging-20.4-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: 101110b3d512d544b70fd61d58482eaf
-checksum_sha1: 860beac5bb1361dead58166dced967ca896c9937
+checksum_md5: 10fb9726d3c55a20ec972098865601ba
+checksum_sha1: 4047d7afbf467986709e0856a7526a9211d6e030
 copyright: Copyright (c) Donald Stufft and individual contributors
 download_url: https://files.pythonhosted.org/packages/46/19/c5ab91b1b05cfe63cccd5cfc971db9214c6dd6ced54e33c30d5af1d2bc43/packaging-20.4-py2.py3-none-any.whl
 license_expression: bsd-new OR apache-2.0

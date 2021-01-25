@@ -1,7 +1,7 @@
 about_resource: pip-21.0.tar.gz
 attribute: yes
-checksum_md5: b4846caf68e1b55a618977e00c720db4
-checksum_sha1: 8f72fbd3ef7a5d0e1db9c174d05c24a466ce7bd8
+checksum_md5: f01b5510769f98158aabdeafa0d67f07
+checksum_sha1: 401c6699b6af79b147148a792626ec39e4a3475a
 copyright: Copyright (c) The Python Software Foundation and the pip authors
 description: A tool for installing and managing Python packages.
 download_url: https://files.pythonhosted.org/packages/9e/24/bc928987f35dd0167f21b13a1777c21b9c5917c9894cff93f1c1a6cb8f3b/pip-21.0.tar.gz

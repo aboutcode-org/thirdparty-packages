@@ -1,7 +1,7 @@
 about_resource: pdfminer.six-20181108.tar.gz
 attribute: yes
-checksum_md5: 23d44733f43a93eb6077d4239e2b9720
-checksum_sha1: 7a1633ef5233447d583a362622fec8185ef087b1
+checksum_md5: 09f1afb968aab5299e238f24ec895aa8
+checksum_sha1: e0b1476ce35c18c4a59661c621dfa47ce8bd4fc7
 contact: pdfminer@goulu.net
 copyright: Copyright (c) Yusuke Shinyama <yusuke at shinyama dot jp> and contributors
 description: 'PDFMiner.six is a fork of PDFMiner using six for Python 2+3 compatibility the

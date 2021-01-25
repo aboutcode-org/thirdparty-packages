@@ -1,7 +1,7 @@
 about_resource: soupsieve-2.1.tar.gz
 attribute: yes
-checksum_md5: 7a7e8932b3d9aeab02350b80fca6456b
-checksum_sha1: cc6112372d5116654e3af61a6f41764732ee84b8
+checksum_md5: 0194a795d6073b4336e7b95e42e5292f
+checksum_sha1: 5470b2d1788eec79277c11ad0612e8d993e900ad
 copyright: Copyright (c) Isaac Muse
 description: A modern CSS selector implementation for Beautiful Soup.
 download_url: https://files.pythonhosted.org/packages/58/5d/445e21e92345848305eecf473338e9ec7ed8905b99ea78415042060127fc/soupsieve-2.1.tar.gz

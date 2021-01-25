@@ -1,7 +1,7 @@
 about_resource: jsonfield-3.1.0.tar.gz
 attribute: yes
-checksum_md5: 13f1ad7433832529b9182c4bc772e389
-checksum_sha1: b0b10cd0b430e844f419c0e49b06c3ef64afd90e
+checksum_md5: 0758b8a3b6cc67a3ba74dccdee3e8f4a
+checksum_sha1: b30025673776c16a4e1f22f91f2b1c7c28ec319a
 contact: contact@bradjasper.com
 copyright: Copyright (c) 2012-2017 Brad Jasper
 description: django-jsonfield is a reusable Django field that allows you to store validated

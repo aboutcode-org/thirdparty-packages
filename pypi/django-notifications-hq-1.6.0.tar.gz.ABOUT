@@ -1,7 +1,7 @@
 about_resource: django-notifications-hq-1.6.0.tar.gz
 attribute: yes
-checksum_md5: 974d8bc73d959b5a0681a4c04d278e0c
-checksum_sha1: c7c25fdef00ac4a6dafa06295ee390488988aa07
+checksum_md5: 315924588c4b6ff29b3b61407e6e9a0a
+checksum_sha1: 6670eac5ef53fb9f0ed6ff5a578739b0b1e7002f
 contact: yang@yangyubo.com
 copyright: copyright (c) by django-notifications team
 description: GitHub notifications alike app for Django

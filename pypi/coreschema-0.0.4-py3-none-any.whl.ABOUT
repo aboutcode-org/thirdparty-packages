@@ -1,7 +1,7 @@
 about_resource: coreschema-0.0.4-py3-none-any.whl
 attribute: yes
-checksum_md5: 144cb7262fc9e3024b20fa606343fd32
-checksum_sha1: 36d2d193b28cb6e22debd7b10665a2a2eb97288b
+checksum_md5: 145f6d91ac9d44df52eca9ab6bf61551
+checksum_sha1: c66832b60b9a3c47629a93244ee24b4dfb398355
 copyright: Copyright (c) Tom Christie
 description: |
   Core API is a format-independent Document Object Model for representing Web APIs. It can be used to represent either Schema or Hypermedia responses, and allows you to interact with an API at the layer of an application interface, rather than a network interface. Core API can be used to interact with any API that exposes a supported Schema or Hypermedia format.

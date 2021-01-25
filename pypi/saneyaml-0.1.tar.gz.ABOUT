@@ -1,7 +1,7 @@
 about_resource: saneyaml-0.1.tar.gz
 attribute: yes
-checksum_md5: 53509e4f1ee9f6565158163a56513b7c
-checksum_sha1: a66920309794ead47711473a21f1c7d003acd005
+checksum_md5: 16f5d67aeaf6624310705f5ecdb57713
+checksum_sha1: cd2878aae260e360543030e10818a3115a6ea56e
 contact: http://www.nexb.com/contactus.html
 copyright: Copyright (c) nexB Inc. and others.
 download_url: https://files.pythonhosted.org/packages/2e/32/ff0a1d930bb7466d5c5a93e76d7f697340a520692fc6ee3d7b9278c0708f/saneyaml-0.1.tar.gz

@@ -1,7 +1,7 @@
 about_resource: certifi-2020.6.20.tar.gz
 attribute: yes
-checksum_md5: 9a4c30d65c718cc2217f1e457ca6dc4c
-checksum_sha1: f37eb16dd168e81f95c31495516aa948e7b846ee
+checksum_md5: 89525ece725d674d91b0c43007d2a47e
+checksum_sha1: 4bb6fad4f43f262f61d306581d9e29c91ff1d1e2
 copyright: Copyright (c) Mozilla Contributors, packaged by Kenneth Reitz and others
 description: Certifi is a carefully curated collection of Root Certificates for validating the
   trustworthiness of SSL certificates while verifying the identity of TLS hosts. It has been

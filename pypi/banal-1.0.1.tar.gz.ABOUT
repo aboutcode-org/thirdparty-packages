@@ -1,7 +1,7 @@
 about_resource: banal-1.0.1.tar.gz
 attribute: yes
-checksum_md5: 57c8142433d922d03df4844201c8ab22
-checksum_sha1: 5b7bcc2c1da5f9e9509f8b318e85e0cfc7193c57
+checksum_md5: 2f00791147bd751beb1348795f0c3dd4
+checksum_sha1: 83b1766a6269dd006bd52e4ccaf124074c3544c7
 copyright: Copyright (c) Friedrich Lindenberg
 description: Commons of banal micro-functions for Python.
 download_url: https://files.pythonhosted.org/packages/f2/9a/2494c3fcdf194d2bf737912c27944e448e6e009f71a1c0acb8b8acf9dbcd/banal-1.0.1.tar.gz

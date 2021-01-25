@@ -1,6 +1,6 @@
 about_resource: dataclasses_json-0.5.2-py3-none-any.whl
-checksum_md5: 375b7343e353158295e3b76bbea24870
-checksum_sha1: c2ac5e55d7101aaa7f6a5e29aa118325716b6154
+checksum_md5: 7a408c2eeb238f0a01765ae11e4765f3
+checksum_sha1: 0ffb6c735a4f697401629b04009233ca0ee008c2
 copyright: copyright (c) lidatong <charles.dt.li@gmail.com>
 description: Easily serialize dataclasses to and from JSON
 download_url: https://files.pythonhosted.org/packages/e5/a8/c0cc9483b88f6412a17b535d2f2b599b82caa8ba794b1aa62ee4e5191208/dataclasses_json-0.5.2-py3-none-any.whl

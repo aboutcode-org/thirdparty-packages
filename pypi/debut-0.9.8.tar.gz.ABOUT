@@ -1,7 +1,7 @@
 about_resource: debut-0.9.8.tar.gz
 attribute: yes
-checksum_md5: 37a77e6af0fa65d2263a0d8a045d2aed
-checksum_sha1: 93610195d1a513fbc2b7534dc5d50b76d727685a
+checksum_md5: 06e89ee95281c712d4d796983be17020
+checksum_sha1: 1f1ee997b47f0320aa2a205af7f3434dbebac328
 copyright: |
   Copyright (c) Peter Odding
   Copyright (c) nexB Inc. and others. http://nexb.com and https://github.com/nexB/debut

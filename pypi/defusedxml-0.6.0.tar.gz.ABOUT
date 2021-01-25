@@ -1,7 +1,7 @@
 about_resource: defusedxml-0.6.0.tar.gz
 attribute: yes
-checksum_md5: 02efabcb521dcec66151157842090c9e
-checksum_sha1: 0f6a3cdff195e4d315813cec6629cd2b676c0003
+checksum_md5: a59741f675c4cba649de40a99f732897
+checksum_sha1: 0bba33cc1e6d59f8fc71ceb8d12ad951072ad122
 copyright: Copyright (c) 2013-2017 by Christian Heimes <christian@python.org>
 description: defusedxml -- defusing XML bombs and other exploits
 download_url: https://files.pythonhosted.org/packages/a4/5f/f8aa58ca0cf01cbcee728abc9d88bfeb74e95e6cb4334cfd5bed5673ea77/defusedxml-0.6.0.tar.gz

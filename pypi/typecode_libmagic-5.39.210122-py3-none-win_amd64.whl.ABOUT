@@ -1,6 +1,6 @@
 about_resource: typecode_libmagic-5.39.210122-py3-none-win_amd64.whl
-checksum_md5: 1679bcb2f680615eef60595e9e76b549
-checksum_sha1: b7398d7c150452d1bfabdc0a010e547b03f0dbe7
+checksum_md5: 719031c1f3d89375c0919a656e370ad5
+checksum_sha1: 74345c8a92e7ded100022e78feaac7b05d2489e7
 copyright: Copyright (c) Ian F. Darwin 1986, 1987, 1989, 1990, 1991, 1992, 1994, 1995. Software
   written by Ian F. Darwin and others; maintained 1994- Christos Zoulas.
 description: A ScanCode path provider plugin to provide a prebuilt native libmagic binary and

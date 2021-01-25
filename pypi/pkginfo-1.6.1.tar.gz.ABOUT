@@ -1,6 +1,6 @@
 about_resource: pkginfo-1.6.1.tar.gz
-checksum_md5: dd6e07f0bc4481dac94d3559c11a8373
-checksum_sha1: 4036ab842fc55315107ca8c4271010f385051943
+checksum_md5: c38eaaee71bef6df7cec228a1dd1a645
+checksum_sha1: 8e9aec1cd06479838341aa3f41dffa85d6b3f455
 copyright: Copyright (c) Agendaless Consulting, Inc.
 description: Query metadatdata from sdists / bdists / installed packages.
 download_url: https://files.pythonhosted.org/packages/30/e3/5b17405ee8c8a78b5ae6ede4c5f296bebd97eb5982b28bbe37d61802bbc5/pkginfo-1.6.1.tar.gz

@@ -1,7 +1,7 @@
 about_resource: funcparserlib-0.3.6-py3-none-any.whl
 attribute: yes
-checksum_md5: 3aba546bdad5d0826596910551ce37c0
-checksum_sha1: 6db0e9e78dcddd993cdd488945b040934a361f03
+checksum_md5: 6bf555e783509c7dc832799039357cc3
+checksum_sha1: 71cb76e0db626ff770c36f1f35e3e07b0555676f
 copyright: Copyright 2008/2011 Andrey Vlasovskikh
 description: Recursive descent parsing library for Python based on functional combinators.  (Description
   from project page)

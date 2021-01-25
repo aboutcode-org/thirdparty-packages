@@ -1,7 +1,7 @@
 about_resource: requests-2.18.4.tar.gz
 attribute: yes
-checksum_md5: a1b2f02e7ba45dff7c76f621cde042c4
-checksum_sha1: '19be6a67488d6067af8c89e7c9745edbfcd11580'
+checksum_md5: 081412b2ef79bdc48229891af13f4d82
+checksum_sha1: f5e1dbba5a12ff2df063333fd2bf071e24659b63
 contact: me@kennethreitz.com
 copyright: Copyright 2017 Kenneth Reitz
 description: Requests allow you to send HTTP/1.1 requests. You can add headers, form data, multipart

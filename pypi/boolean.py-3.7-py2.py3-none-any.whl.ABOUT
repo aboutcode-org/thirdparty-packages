@@ -1,7 +1,7 @@
 about_resource: boolean.py-3.7-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: fa308ca6a746135feb248097cc35c107
-checksum_sha1: 9bfaf3104f7beb2a762b9b494c8849358d46bbfc
+checksum_md5: 97af5906f5eaa22539a034a99c24c824
+checksum_sha1: 514c2b60f10521988063a9e6b56e3fae24b393c7
 copyright: Copyright (c) 2009-2016 Sebastian Kraemer, basti.kr@gmail.com and others
 description: Implements boolean algebra in one module.
 download_url: https://files.pythonhosted.org/packages/dc/53/b9c4f026bac231cbf7ddc214d879c3bdb5cda9a57adbe10520deeae4f154/boolean.py-3.7-py2.py3-none-any.whl

@@ -1,6 +1,6 @@
 about_resource: plugincode-21.1.21-py3-none-any.whl
-checksum_md5: 134fa8545834ff35e6f84fbc89b9805d
-checksum_sha1: e808e733c93966074a276a4817073d65febb3dfd
+checksum_md5: 61cbeba587c0fa389abd9ab16e186d5e
+checksum_sha1: d771350ce6e8271fc3d9ba9ec6c02cd0cdd6bf5b
 copyright: Copyright (c) nexB. Inc. and others
 description: plugincode is a library that provides plugin functionality for ScanCode toolkit.
 download_url: https://files.pythonhosted.org/packages/5e/30/d06d92e6a29b9a1d9abaf80b2d1aa410c3e46a5144bbc437dd79afdc6747/plugincode-21.1.21-py3-none-any.whl

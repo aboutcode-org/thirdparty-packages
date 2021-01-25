@@ -1,7 +1,7 @@
 about_resource: django-zerodowntime-0.3.0.tar.gz
 attribute: yes
-checksum_md5: b8a4e1e8f6b06702b749ff026ef95226
-checksum_sha1: 61aafac0866dac0ea515daf25589e6fe3b86c3ed
+checksum_md5: 1da17c16df9365a23c4f49d80a4a0805
+checksum_sha1: 291565db937902e5aece52acabe65cc133d280bf
 copyright: Copyright (c) 2016, Phil Plante
 description: django migration utilities for zero downtime continuous delivery
 download_url: https://files.pythonhosted.org/packages/10/8d/df1c944db30d6185038aeb4c455f31251fe58613fb90e6ae63f64b8f27b1/django-zerodowntime-0.3.0.tar.gz

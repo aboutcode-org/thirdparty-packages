@@ -1,7 +1,7 @@
 about_resource: django-auth-ldap-2.1.0.tar.gz
 attribute: yes
-checksum_md5: c81e40bae921e5b3a3532cc73d328418
-checksum_sha1: b7973edf2f693a0b1005b876f8216ab1820f6d27
+checksum_md5: f22fa3cd9ee624bf850662f6fefdee3a
+checksum_sha1: 39373185d5a8bb7401fa2a5c704c4f2c567a4573
 copyright: Copyright (c) Peter Sagerson
 download_url: https://files.pythonhosted.org/packages/57/b3/755493fcba5d1d2a0b04f73bfc55f52f18549069f9032d3b2e04192976d6/django-auth-ldap-2.1.0.tar.gz
 license_expression: bsd-simplified

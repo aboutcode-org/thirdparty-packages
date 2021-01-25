@@ -1,6 +1,6 @@
 about_resource: colorama-0.4.4.tar.gz
-checksum_md5: 3a0e415259690f4dd7455c2683ee5850
-checksum_sha1: 3ab1a3cf1d35332f995acc444c120b6543776b73
+checksum_md5: 57b22f2597f63df051b69906fbf310cc
+checksum_sha1: 4591cc4448b3b23dfc958e997b7622e066a57132
 copyright: Copyright (c) Jonathan Hartley
 description: Cross-platform colored terminal text.
 download_url: https://files.pythonhosted.org/packages/1f/bb/5d3246097ab77fa083a61bd8d3d527b7ae063c7d8e8671b1cf8c4ec10cbe/colorama-0.4.4.tar.gz

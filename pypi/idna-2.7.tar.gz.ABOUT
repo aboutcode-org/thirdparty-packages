@@ -1,7 +1,7 @@
 about_resource: idna-2.7.tar.gz
 attribute: yes
-checksum_md5: 5c020ab590181efac6674970182927b8
-checksum_sha1: 18abb4c2adda523d5a70d1c7c18d801acea402a0
+checksum_md5: 0e5bb69018ddef1b9d95f681182be82c
+checksum_sha1: 9e1aec32b35423438c285ec21ee234228bedd6fb
 contact: http://kim.id.au/
 copyright: Copyright (c) 2013-2017, Kim Davies
 description: 'Internationalized Domain Names for Python (IDNA 2008 and UTS #46)'

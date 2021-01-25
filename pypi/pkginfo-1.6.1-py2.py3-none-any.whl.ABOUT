@@ -1,6 +1,6 @@
 about_resource: pkginfo-1.6.1-py2.py3-none-any.whl
-checksum_md5: dd6e07f0bc4481dac94d3559c11a8373
-checksum_sha1: 4036ab842fc55315107ca8c4271010f385051943
+checksum_md5: 2e746ca9a6eb66f0aa9f5b62cd765108
+checksum_sha1: e597ab729f25cd9a2ef70c5b02f01bbd69c40be9
 copyright: Copyright (c) Agendaless Consulting, Inc.
 description: Query metadatdata from sdists / bdists / installed packages.
 download_url: https://files.pythonhosted.org/packages/4f/3c/535287349af1b117e082f8e77feca52fbe2fdf61ef1e6da6bcc2a72a3a79/pkginfo-1.6.1-py2.py3-none-any.whl

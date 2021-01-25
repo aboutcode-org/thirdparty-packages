@@ -1,6 +1,6 @@
 about_resource: typecode-21.1.8.1.tar.gz
-checksum_md5: 820267dab7ac590f021e0c893e7d2f62
-checksum_sha1: 4f13e49fa8e25bd84ad0de3a23962ab1a4aa58c8
+checksum_md5: 1af715b1bec741285972c6d5880a235a
+checksum_sha1: c05483017fd56ca78f3be85555667d839b98f7c9
 copyright: copyright (c) nexB. Inc. and others
 description: Comprehensive filetype and mimetype detection using libmagic and Pygments.
 download_url: https://files.pythonhosted.org/packages/a2/43/e2c4e023bb9d0fdc8bda8c51b9102b2a0dd8647cd0b0b2ecf3d9b42b49b6/typecode-21.1.8.1.tar.gz

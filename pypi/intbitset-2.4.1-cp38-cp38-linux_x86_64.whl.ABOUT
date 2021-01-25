@@ -1,7 +1,7 @@
 about_resource: intbitset-2.4.1-cp38-cp38-linux_x86_64.whl
 attribute: yes
-checksum_md5: 4f76e100da761aa92188151c0dbdec60
-checksum_sha1: 7b212b559f2881a04ca25d7eb428accd9be80074
+checksum_md5: d6d2ce147edad8b2345d8de3be30a438
+checksum_sha1: 08d95e6b215bff3f611bea7485cfbb1d70b14169
 contact: http://public.web.cern.ch/public/en/Contact-en.html
 copyright: Copyright (C) CERN and others
 description: Python C-based extension implementing fast integer bit sets

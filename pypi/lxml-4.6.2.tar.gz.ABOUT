@@ -1,7 +1,7 @@
 about_resource: lxml-4.6.2.tar.gz
 attribute: yes
-checksum_md5: c266d9062e23b08f66426979a2b36f51
-checksum_sha1: 5ac888d5957f74298fb6daf74778bd91812f7571
+checksum_md5: 2e39c6e17d61f61e5be68fd328ba6a51
+checksum_sha1: ab5b8053945d1404b4e54cfd62afc38c8b62aa0c
 copyright: Copyright (c) 2004 Infrae.
 description: lxml is the most feature-rich and easy-to-use library for processing XML and HTML
   in the Python language.

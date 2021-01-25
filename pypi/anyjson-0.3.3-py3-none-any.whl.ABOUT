@@ -1,7 +1,7 @@
 about_resource: anyjson-0.3.3-py3-none-any.whl
 attribute: yes
-checksum_md5: 2ea28d6ec311aeeebaf993cb3008b27c
-checksum_sha1: 2cd3c6cc61206664268e0e8684dbadf6e2428497
+checksum_md5: c8b9e7304e2316e45ff3f7d92340c900
+checksum_sha1: a61373e6d78b89deb69d19d7ef1cff230c0b9253
 copyright: Copyright (c) 2009, by the authors
 description: |
   anyjson - JSON library wrapper

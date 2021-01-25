@@ -1,6 +1,6 @@
 about_resource: jeepney-0.6.0-py3-none-any.whl
-checksum_md5: 90784fbeb15a4f96bcaf74d851ee620a
-checksum_sha1: 21ffa0741428f600e9b2398d9ea129eb54f6df37
+checksum_md5: a8c9a0fdf64248b63230e37490a21422
+checksum_sha1: 6d5bf57992133e17ca6c68a4776a73b1ae643438
 copyright: Copyright (c) 2017 Thomas Kluyver
 description: Low-level, pure Python DBus protocol wrapper.
 download_url: https://files.pythonhosted.org/packages/51/b0/a6ea72741aaac3f37fb96d195e4ee576a103c4c04e279bc6b446a70960e1/jeepney-0.6.0-py3-none-any.whl

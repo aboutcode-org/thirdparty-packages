@@ -1,7 +1,7 @@
 about_resource: bitarray-0.8.1-cp38-cp38-macosx_10_14_x86_64.whl
 attribute: yes
-checksum_md5: 3825184f54f4d93508a28031b4c65d3b
-checksum_sha1: cfdde3a6584eb5e94d479771644aa6ba9948310f
+checksum_md5: b61d8942f63fed12959dd3eb61c1719d
+checksum_sha1: 4025e55476bebfce01d3fb04c2c4eb996406d65b
 contact: ilanschnell@gmail.com
 copyright: Copyright (c) Ilan Schnell and others
 description: efficient arrays of booleans for Python

@@ -1,7 +1,7 @@
 about_resource: urlpy-0.5.tar.gz
 attribute: yes
-checksum_md5: 91eeb2f03ab9a7d91f9d110223f7cc55
-checksum_sha1: c38d10f349c612fdbaee632b298a6883e5fc75cf
+checksum_md5: 5269297d7129cbee8022b8af4417c28b
+checksum_sha1: b9ce0c5716bef00d692c1d5f8df621ba2f9dc4cf
 copyright: |
   Copyright (c) Moz Inc.
   Copyright (c) nexB Inc.

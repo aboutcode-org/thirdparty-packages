@@ -1,7 +1,7 @@
 about_resource: MarkupSafe-1.1.1-cp38-cp38-macosx_10_9_x86_64.whl
 attribute: yes
-checksum_md5: 49e3f3230cedb7ae34faf06913db83fc
-checksum_sha1: ec0079f4d4fbdc92b6fd4720fa04933350044ad5
+checksum_md5: fe4b006d07921e8484d503f4ac85175e
+checksum_sha1: fabc580af11f1b7dece8b7ab273bf6f310b403c0
 contact: armin.ronacher@active-4.com
 copyright: Copyright (c) Armin Ronacher
 description: Implements an XML/HTML/XHTML Markup safe string for Python

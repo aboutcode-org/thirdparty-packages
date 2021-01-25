@@ -1,7 +1,7 @@
 about_resource: Markdown-3.1.1.tar.gz
 attribute: yes
-checksum_md5: d35922c82cf6b6fe12af42ca07cf1182
-checksum_sha1: b80598369cacd1f28b9746dd5469f2573e545178
+checksum_md5: d84732ecc65b3a1bff693d9d4c24277f
+checksum_sha1: dd466b1d0f5ea38e68b3dde2287dd0cac356ef8c
 copyright: Copyright 2010-2012 Python Markdown Project
 description: This is a Python implementation of John Gruber's Markdown.
 download_url: https://files.pythonhosted.org/packages/ac/df/0ae25a9fd5bb528fe3c65af7143708160aa3b47970d5272003a1ad5c03c6/Markdown-3.1.1.tar.gz

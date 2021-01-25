@@ -1,7 +1,7 @@
 about_resource: text-unidecode-1.3.tar.gz
 attribute: yes
-checksum_md5: fde3074c2cb8cb7277d814dba033f835
-checksum_sha1: 30c67c0013c7971132ae6f3a349dfa149b928e36
+checksum_md5: 53a0a6c5aef8f5eb5834e78e0fdf0499
+checksum_sha1: 3b467632934ad9d110861bed63ccc583c023d8c1
 contact: kmike84@gmail.com
 copyright: Copyright (c) Mikhail Korobov and Sean Burke
 description: A basic port of the Perl module "Text::Unidecode" from http://search.cpan.org/~sburke/Text-Unidecode-1.30/lib/Text/Unidecode.pm

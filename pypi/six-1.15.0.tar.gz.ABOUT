@@ -1,7 +1,7 @@
 about_resource: six-1.15.0.tar.gz
 attribute: yes
-checksum_md5: b0dc15d494e2d6e6c19cbbe482e91c5d
-checksum_sha1: eb69e52f67f270fa1e362a9dbe64e3f6faaf4252
+checksum_md5: 9f90a0eaa0ea7747fda01ca79d21ebcb
+checksum_sha1: a785c20658b3676333c749436f088394c12b0c26
 contact: benjamin@python.org
 copyright: Copyright (c) 2010-2011 Benjamin Peterson
 description: Six is a Python 2 and 3 compatibility library. It provides utility functions for

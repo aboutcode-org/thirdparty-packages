@@ -1,7 +1,7 @@
 about_resource: Pygments-2.7.3.tar.gz
 attribute: yes
-checksum_md5: 5ecc3fbb2a783e917b369271fc0e6cd1
-checksum_sha1: 5296c3b92ef0cbb8f4abede623be4a89e4f0f3c9
+checksum_md5: 3db74ee3bd11e1196dccf0b770c5d238
+checksum_sha1: 4df75dc28f5d8f8689302446e8bb741aa8df9f58
 contact: georg@python.org
 copyright: Copyright by the Pygments team
 description: Pygments is a generic syntax highlighter suitable for use in code hosting, forums,

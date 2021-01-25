@@ -1,6 +1,6 @@
 about_resource: typecode-21.1.9.1-py3-none-any.whl
-checksum_md5: 820267dab7ac590f021e0c893e7d2f62
-checksum_sha1: 4f13e49fa8e25bd84ad0de3a23962ab1a4aa58c8
+checksum_md5: b2486eb25d8f2fd2a4e0fe85198ec04e
+checksum_sha1: 0561911c8cb7eed64ce38af5107ebda345345e5e
 copyright: copyright (c) nexB. Inc. and others
 description: Comprehensive filetype and mimetype detection using libmagic and Pygments.
 download_url: https://files.pythonhosted.org/packages/1a/0b/88d6217962dd2305d5a57105959dc3889a79e852ed47326a917621067aa4/typecode-21.1.9.1-py3-none-any.whl

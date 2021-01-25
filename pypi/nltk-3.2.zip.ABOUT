@@ -1,7 +1,7 @@
 about_resource: nltk-3.2.zip
 attribute: yes
-checksum_md5: cec19785ffd176fa6d18ef41a29eb227
-checksum_sha1: cb146331ffee538cf90ec7fc972cc3d50ea67c54
+checksum_md5: 722e5acfcd957fa6ecd4d6f831d597b7
+checksum_sha1: 5c09412ea4b3675e3de012706925e275b34c595a
 copyright: Copyright (c) NLTK contributors
 description: NLTK is a leading platform for building Python programs to work with human language
   data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as

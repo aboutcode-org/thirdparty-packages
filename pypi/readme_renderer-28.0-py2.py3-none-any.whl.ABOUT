@@ -1,6 +1,6 @@
 about_resource: readme_renderer-28.0-py2.py3-none-any.whl
-checksum_md5: 32550499e18fe6696a3cc9457cc6be1d
-checksum_sha1: ecf8f4d0b01d306bff02e9e16da8ff47cc46461b
+checksum_md5: 48cf726e98e1e296aef61aed2eeb562d
+checksum_sha1: e836821409a1f0cb111c32a69aa6e801b14ed492
 copyright: copyright (c) The Python Packaging Authority
 description: readme_renderer is a library for rendering "readme" descriptions for Warehouse
 download_url: https://files.pythonhosted.org/packages/54/18/0adfcac99c08a6d45947e5da4e1388a7bb9957502a2b4ad12176fed6aeaf/readme_renderer-28.0-py2.py3-none-any.whl

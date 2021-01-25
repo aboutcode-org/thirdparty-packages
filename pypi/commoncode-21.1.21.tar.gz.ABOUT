@@ -1,6 +1,6 @@
 about_resource: commoncode-21.1.21.tar.gz
-checksum_md5: 0fe45e4bb8376ff8f4b7b8e494c3fc3e
-checksum_sha1: 9b0860c898de617788a2808282ff78073c61d719
+checksum_md5: 45d971b0c90947c2ca8539e5a550312c
+checksum_sha1: ae5a9a5b154fc3223552b251dcad57ced11275f3
 copyright: copyright (c) nexB. Inc. and others
 description: Set of common utilities, originally split from ScanCode
 download_url: https://files.pythonhosted.org/packages/cb/0b/9e0aeb9eea0c2762f42b946bac44553410a83e67abf4e96da6156aa9d2aa/commoncode-21.1.21.tar.gz

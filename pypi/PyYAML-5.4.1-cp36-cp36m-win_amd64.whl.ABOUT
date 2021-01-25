@@ -1,7 +1,7 @@
 about_resource: PyYAML-5.4.1-cp36-cp36m-win_amd64.whl
 attribute: yes
-checksum_md5: b78b96636d68ac581c0e2f38158c224f
-checksum_sha1: 22f95fe2f5ef29ab17110f92c7186e2cfde6b419
+checksum_md5: cc88f3537f1c85f9a58db1df2b55d032
+checksum_sha1: 66b6f80bf0061c4d6351bbb9474037fd3d6d4c92
 copyright: Copyright (c) 2006 Kirill Simonov
 description: YAML parser and emitter for Python
 download_url: https://files.pythonhosted.org/packages/30/d0/8699372d1c22202e80b160527f8412d98a5edfefeefac056df3997e84801/PyYAML-5.4.1-cp36-cp36m-win_amd64.whl

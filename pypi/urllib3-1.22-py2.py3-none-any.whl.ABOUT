@@ -1,7 +1,7 @@
 about_resource: urllib3-1.22-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: 5f6517ff625681ebb8e9e57a3b936fd7
-checksum_sha1: c463ecd4d59f4e149e620566ba07e2e59ff30565
+checksum_md5: 1c11e1c80371cc4e89911071010a98d1
+checksum_sha1: ae6715ae61c34b72d5e0c3241abfb20c2c4d1313
 copyright: Copyright 2008-2016 Andrey Petrov and contributors
 description: |
   urllib3 is a powerful, sanity-friendly HTTP client for Python. Much of the Python ecosystem already uses urllib3 and you should too. urllib3 brings many critical features that are missing from the Python standard libraries:

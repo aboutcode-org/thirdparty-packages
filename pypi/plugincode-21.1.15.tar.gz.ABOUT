@@ -1,6 +1,6 @@
 about_resource: plugincode-21.1.15.tar.gz
-checksum_md5: 134fa8545834ff35e6f84fbc89b9805d
-checksum_sha1: e808e733c93966074a276a4817073d65febb3dfd
+checksum_md5: e7f467a33cd96bdbe3946b5c990a695c
+checksum_sha1: 643e49b1b34a7ebf3d1fa9322d375d2652c2f428
 copyright: Copyright (c) nexB. Inc. and others
 description: plugincode is a library that provides plugin functionality for ScanCode toolkit.
 download_url: https://files.pythonhosted.org/packages/a6/50/fac4dda7af31a1e88ef68e7a73f500dbd1226a855d6ef5eaebdd2d937e89/plugincode-21.1.15.tar.gz

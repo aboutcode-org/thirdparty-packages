@@ -1,7 +1,7 @@
 about_resource: pycodestyle-2.6.0.tar.gz
 attribute: yes
-checksum_md5: 521fa754fc411478d1810db25a29187f
-checksum_sha1: 324b762897d6a3c72675f4b50ac4894508b06609
+checksum_md5: e2fcdace728267d5fa3aa98e08ee40db
+checksum_sha1: b6dad24feff7e3eacb3f7f6044883b162836a8aa
 copyright: 2006-2009 Johann C. Rocholl <johann@rocholl.net>
 description: pycodestyle (formerly pep8) is a tool to check your Python code against some of
   the style conventions in PEP 8.

@@ -1,6 +1,6 @@
 about_resource: django-appconf-1.0.4.tar.gz
-checksum_md5: f9ab452659d3f67bcec05a56d99d5fa9
-checksum_sha1: ce6eaf6f3ca67214f4157ed7c02553fdbda5326c
+checksum_md5: da4a355140acaa3eeb236987ab174e9d
+checksum_sha1: f6131eb2e5d31ecff63b3b7d13810bfbd46d7580
 copyright: Copyright (c) Jannis Leidel and individual contributors.
 download_url: https://files.pythonhosted.org/packages/11/17/3093cd487d17e54d7d25ede33b0c7694982bf5f2a3d8055059f25eb9f90c/django-appconf-1.0.4.tar.gz
 license_expression: bsd-new

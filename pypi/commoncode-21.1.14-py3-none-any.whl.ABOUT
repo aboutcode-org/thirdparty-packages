@@ -1,6 +1,6 @@
 about_resource: commoncode-21.1.14-py3-none-any.whl
-checksum_md5: 0fe45e4bb8376ff8f4b7b8e494c3fc3e
-checksum_sha1: 9b0860c898de617788a2808282ff78073c61d719
+checksum_md5: 362bd10cae569c1924fa191b4d384c64
+checksum_sha1: eac5dbfa1f209eebe6896bdbd3406cf6c55f491f
 copyright: copyright (c) nexB. Inc. and others
 description: commoncode
 download_url: https://files.pythonhosted.org/packages/ae/ca/6f0812123c412dff8543be607f7eaf5989dfe769673e77468826e368b037/commoncode-21.1.14-py3-none-any.whl

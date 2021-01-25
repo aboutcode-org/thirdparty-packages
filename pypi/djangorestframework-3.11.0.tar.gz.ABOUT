@@ -1,7 +1,7 @@
 about_resource: djangorestframework-3.11.0.tar.gz
 attribute: yes
-checksum_md5: 68f92eaf0fe04d88db5ee7f314f7a231
-checksum_sha1: 30bb7c01c0834ad40238f3777bddda8fc50a153e
+checksum_md5: 07ce4697d7b1e46b5846d63915045686
+checksum_sha1: d1719570438e1ef48d784b1613c92c738fe3a3c9
 copyright: Copyright (c) 2011-2016, Tom Christie
 description: Web APIs for Django.
 download_url: https://files.pythonhosted.org/packages/80/f6/f742b0352d4ade1934fcb2a12f6fd669922415bea3d5d2d6596dc47abe14/djangorestframework-3.11.0.tar.gz

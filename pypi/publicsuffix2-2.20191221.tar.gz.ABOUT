@@ -1,7 +1,7 @@
 about_resource: publicsuffix2-2.20191221.tar.gz
 attribute: yes
-checksum_md5: eb5b7bd06270ca4c90352541831cea58
-checksum_sha1: dacd55374dc527e0d01986d24cd143acdf292dcc
+checksum_md5: 6983c3a76459487056aa1334d174d6de
+checksum_sha1: 980ab5203cd4cc9756c990293d22c143efe7a2d8
 contact: http://www.nexb.com/contactus.html
 copyright: |
   Copyright (c) nexB Inc.

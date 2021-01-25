@@ -1,7 +1,7 @@
 about_resource: clamd-1.0.2.tar.gz
 attribute: yes
-checksum_md5: 355f5210a2a4096a3fd88aeb9e41630c
-checksum_sha1: c7c6cdae81ca38057442fdfc0d6c9ddc4317dcc3
+checksum_md5: 637f1d44a60a511544b6bd0bcb817f8a
+checksum_sha1: 6064f4f4d2a1ebfdb04a5f23a8e53b8b17e27d08
 copyright: copyright (c) Thomas Grainger
 download_url: https://files.pythonhosted.org/packages/14/8b/55332f1f79f28a5ccc50f66364087e64fae8e4ed62e52007ca82b3072221/clamd-1.0.2.tar.gz
 license_expression: lgpl-2.0-plus

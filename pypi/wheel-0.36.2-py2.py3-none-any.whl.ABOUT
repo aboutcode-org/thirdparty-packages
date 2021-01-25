@@ -1,7 +1,7 @@
 about_resource: wheel-0.36.2-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: 155170d46d4de0794b7aac020c44260d
-checksum_sha1: 4b590117f78ed80e9a8dd5f6e1ffe3c588dc8e98
+checksum_md5: 6c222a4df97a3311b4e189a59c47dea0
+checksum_sha1: 9e78f9fc756bc09c02c717fae6610cfd6d6a0fe7
 contact: distutils-sig@python.org
 copyright: copyright (c) Daniel Holth <dholth@fastmail.fm> and contributors
 description: The official binary distribution format for Python

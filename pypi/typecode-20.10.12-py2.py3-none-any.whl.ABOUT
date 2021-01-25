@@ -1,6 +1,6 @@
 about_resource: typecode-20.10.12-py2.py3-none-any.whl
-checksum_md5: 820267dab7ac590f021e0c893e7d2f62
-checksum_sha1: 4f13e49fa8e25bd84ad0de3a23962ab1a4aa58c8
+checksum_md5: 5ff0da17222761c153ccc841af443058
+checksum_sha1: 52df945707e5193e00aa1c5a0d94e85c53aeda92
 copyright: copyright (c) nexB. Inc. and others
 description: Comprehensive filetype and mimetype detection using libmagic and Pygments.
 download_url: https://files.pythonhosted.org/packages/c9/c6/f8e99ec28ff0d24d3c0c4f29fda80f37861bfa44173541784477e6d20520/typecode-20.10.12-py2.py3-none-any.whl

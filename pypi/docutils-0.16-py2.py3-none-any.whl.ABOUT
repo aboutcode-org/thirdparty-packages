@@ -1,6 +1,6 @@
 about_resource: docutils-0.16-py2.py3-none-any.whl
-checksum_md5: 44952782107930ddfcd37ae48eee0857
-checksum_sha1: 35f6d15225f8e830ef379cbc9a7ae0b82db97231
+checksum_md5: de3600f5400e8a8264db17277a69179a
+checksum_sha1: 16c8a2c9de0db445973404f9d0caa1d58014f61f
 copyright: copyight (c) David Goodger and others
 description: Docutils -- Python Documentation Utilities
 download_url: https://files.pythonhosted.org/packages/81/44/8a15e45ffa96e6cf82956dd8d7af9e666357e16b0d93b253903475ee947f/docutils-0.16-py2.py3-none-any.whl

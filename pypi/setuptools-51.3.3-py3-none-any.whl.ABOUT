@@ -1,7 +1,7 @@
 about_resource: setuptools-51.3.3-py3-none-any.whl
 attribute: yes
-checksum_md5: c0cc26022ec424da5a5a9aa67cfa18ba
-checksum_sha1: 9ffc72a2b3a048304122f943e8d54c23498a6194
+checksum_md5: ac7facec94e1852abb13241ef1356feb
+checksum_sha1: 10745b019291a6d7625f4fb6e4cd7022e255cf84
 copyright: Copyright (c) Python Packaging Authority
 description: Easily download, build, install, upgrade, and uninstall Python packages
 download_url: https://files.pythonhosted.org/packages/b2/81/509db0082c0d2ca2af307c6652ea422865de1f83c14b1e1f3549e415cfac/setuptools-51.3.3-py3-none-any.whl

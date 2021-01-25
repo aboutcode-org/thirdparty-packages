@@ -1,7 +1,7 @@
 about_resource: PyYAML-5.3.1-cp38-cp38-win_amd64.whl
 attribute: yes
-checksum_md5: b78b96636d68ac581c0e2f38158c224f
-checksum_sha1: 22f95fe2f5ef29ab17110f92c7186e2cfde6b419
+checksum_md5: 425149f16db853985d660c42bf5ea017
+checksum_sha1: 3baa64d31010b098282adf12c09e08b0188d8596
 copyright: Copyright (c) 2006 Kirill Simonov
 description: YAML parser and emitter for Python
 download_url: https://files.pythonhosted.org/packages/7b/1d/3cf27312e162ff8bf3a9ae8c7472bb28ca6ae7f86e7130c23b798ec4c12a/PyYAML-5.3.1-cp38-cp38-win_amd64.whl

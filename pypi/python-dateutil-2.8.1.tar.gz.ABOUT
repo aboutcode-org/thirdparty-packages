@@ -1,7 +1,7 @@
 about_resource: python-dateutil-2.8.1.tar.gz
 attribute: yes
-checksum_md5: 36ae406e144ce50dfa6950a6db17b1d9
-checksum_sha1: 3005ff67df93ee276fb8631e17c677df852254ad
+checksum_md5: f2a1d4b680b297b367a974664ca3a4f6
+checksum_sha1: bd26127e57f83a10f656b62c46524c15aeb844dd
 contact: gustavo@niemeyer.net
 copyright: Copyright (c) 2003-2011 - Gustavo Niemeyer <gustavo@niemeyer.net>
 description: The dateutil module provides powerful extensions to the standard Python datetime

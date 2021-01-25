@@ -1,7 +1,7 @@
 about_resource: setuptools-49.1.0.zip
 attribute: yes
-checksum_md5: 7f7eeb429437342af32df0189348f922
-checksum_sha1: 593469f100a11eedf4c98fdba81984e138286a07
+checksum_md5: ce7caa84ea23e89b7f28db37c19a5c69
+checksum_sha1: 83bd58e73c61112d3db1d6b6f4f29daf0bb32597
 copyright: Copyright (c) Python Packaging Authority
 description: Easily download, build, install, upgrade, and uninstall Python packages
 download_url: https://files.pythonhosted.org/packages/8b/0f/5f135746c4d0c95fcc3c9a30ac942330bbdf092879ccaae7e3dcba6ea214/setuptools-49.1.0.zip

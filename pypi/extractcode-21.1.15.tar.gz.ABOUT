@@ -1,6 +1,6 @@
 about_resource: extractcode-21.1.15.tar.gz
-checksum_md5: 233f6ed0a775a9be1e9350d12a048bd2
-checksum_sha1: 01a68b84ce55abf82f50b5b61e5ceca4bfc159d6
+checksum_md5: 18d732fe039405f3866f5a8cd1098388
+checksum_sha1: 35eb41ae7a824757cb1697e5bd696f3bae32958c
 copyright: copyright (c) nexB. Inc. and others
 description: A set of utilities and functions for extracting archives.
 download_url: https://files.pythonhosted.org/packages/04/da/8b25effcbc8b4a1662d93e6bb409346cb15374f1b1dfbc5738c457870a09/extractcode-21.1.15.tar.gz

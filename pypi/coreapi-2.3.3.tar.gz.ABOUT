@@ -1,7 +1,7 @@
 about_resource: coreapi-2.3.3.tar.gz
 attribute: yes
-checksum_md5: 05f392bc31296d90377f1a2f1cd1e271
-checksum_sha1: 0ae2fd413f8966c63d188b1e43c70acf73779c9b
+checksum_md5: 5d99e8e91ca68eb259199da00b5cb501
+checksum_sha1: 0caf1d6cc4140c8d18127e8cc7841eccff71289e
 copyright: Copyright 2015-2016, Tom Christie
 description: Python client library for Core API.
 download_url: https://files.pythonhosted.org/packages/ca/f2/5fc0d91a0c40b477b016c0f77d9d419ba25fc47cc11a96c825875ddce5a6/coreapi-2.3.3.tar.gz

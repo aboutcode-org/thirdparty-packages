@@ -1,6 +1,6 @@
 about_resource: pycparser-2.20-py2.py3-none-any.whl
-checksum_md5: b8f88de737db8c346ee8d31c07c7a25a
-checksum_sha1: 0ae93d89b69fab48af3a407a2f8663bcea270c3d
+checksum_md5: 61112f106163fef25a95b73ad471c4cc
+checksum_sha1: a0df3ebc552b551f8e99a05cf0a29ce30bef62ee
 copyright: copyright (c) Eli Bendersky
 description: C parser in Python
 download_url: https://files.pythonhosted.org/packages/ae/e7/d9c3a176ca4b02024debf82342dab36efadfc5776f9c8db077e8f6e71821/pycparser-2.20-py2.py3-none-any.whl

@@ -1,6 +1,6 @@
 about_resource: pyaml-18.11.0.tar.gz
-checksum_md5: ccb1eaf0202ef4bab5f288c80cb62062
-checksum_sha1: 87f9d9b2d9a689b6e6d33995a992a71dbbde1a79
+checksum_md5: b252ad7f3a967c0d5a3ca8d07da3ce0b
+checksum_sha1: 84e1dadb83ef4b6b31ded61262fff2be9dea2998
 copyright: Copyright (C) 2012 Mike Kazantsev <mk.fraggod@gmail.com>
 description: PyYAML-based module to produce pretty and readable YAML-serialized data
 download_url: https://files.pythonhosted.org/packages/e3/a2/e430a32409d059c56d2c5c09af35985250b83b69da90eb358bf4ad6b974c/pyaml-18.11.0.tar.gz

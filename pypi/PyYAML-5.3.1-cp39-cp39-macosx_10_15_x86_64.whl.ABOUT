@@ -1,7 +1,7 @@
 about_resource: PyYAML-5.3.1-cp39-cp39-macosx_10_15_x86_64.whl
 attribute: yes
-checksum_md5: b78b96636d68ac581c0e2f38158c224f
-checksum_sha1: 22f95fe2f5ef29ab17110f92c7186e2cfde6b419
+checksum_md5: 610203e8505a329b97018a1e1de2fabe
+checksum_sha1: eabae5d66197bbf97a4d526c8bce6d08315b4a16
 copyright: Copyright (c) 2006 Kirill Simonov
 description: YAML parser and emitter for Python
 download_url: https://thirdparty.aboutcode.org/pypi/PyYAML-5.3.1-cp39-cp39-macosx_10_15_x86_64.whl

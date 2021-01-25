@@ -1,7 +1,7 @@
 about_resource: model_mommy-2.0.0.tar.gz
 attribute: yes
-checksum_md5: 77b6d7f8d941ab20d2e879504c4618c4
-checksum_sha1: bb72a5b17f4a6c63afa52ea54c0648eb110277ea
+checksum_md5: 577eb82392db10d46478c01dc9bc88ad
+checksum_sha1: 761ca72e2220cb910b8a7503fe5e40bb8f6bb259
 copyright: Copyright 2011 Vanderson Mota
 description: Object factory for django
 download_url: https://files.pythonhosted.org/packages/0b/71/ae2850e1a466020e10f218ef5a917bed1812b50f9f0fd794330cb0475e70/model_mommy-2.0.0.tar.gz

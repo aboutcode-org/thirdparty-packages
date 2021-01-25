@@ -1,6 +1,6 @@
 about_resource: extractcode-21.1.15-py3-none-any.whl
-checksum_md5: 233f6ed0a775a9be1e9350d12a048bd2
-checksum_sha1: 01a68b84ce55abf82f50b5b61e5ceca4bfc159d6
+checksum_md5: a69c90c76de9b90622f4e9bb2be5b0c2
+checksum_sha1: 9ed325ac0ec9373273560a4ef79a3f6f3ead0d77
 copyright: copyright (c) nexB. Inc. and others
 description: A set of utilities and functions for extracting archives.
 download_url: https://files.pythonhosted.org/packages/46/bf/864d7faaf2787abb14149c3d892d3f3d538f0e05e4df3054d796a28e83f9/extractcode-21.1.15-py3-none-any.whl

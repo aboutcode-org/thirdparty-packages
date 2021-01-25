@@ -1,7 +1,7 @@
 about_resource: pdfminer.six-20201018-py3-none-any.whl
 attribute: yes
-checksum_md5: 23d44733f43a93eb6077d4239e2b9720
-checksum_sha1: 7a1633ef5233447d583a362622fec8185ef087b1
+checksum_md5: da80aed00753f6c8f001a0d51cfe2f89
+checksum_sha1: 6bd4989d559decfbafc7d5b06845ea0a32ae5a81
 contact: pdfminer@goulu.net
 copyright: Copyright (c) Yusuke Shinyama <yusuke at shinyama dot jp> and contributors
 description: 'PDFMiner.six is a fork of PDFMiner using six for Python 2+3 compatibility the

@@ -1,7 +1,7 @@
 about_resource: python-memcached-1.59.tar.gz
 attribute: yes
-checksum_md5: cb13eda8b1c3e3458a8e784c178b890c
-checksum_sha1: 66f4fdb9c46c07339398007ff42412f083b568a7
+checksum_md5: fe5a7c66da01b0c4f5223a4db8cb8659
+checksum_sha1: 9c3ebea5125b85239ba4db1c520b29e46578a36e
 contact: jafo@tummy.com
 copyright: Copyright (c) 2016 python-mmcached contributors
 description: python-memcached is a 100% Python interface to the memcached memory cache daemon.

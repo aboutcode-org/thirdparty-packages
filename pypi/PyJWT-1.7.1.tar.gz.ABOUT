@@ -1,7 +1,7 @@
 about_resource: PyJWT-1.7.1.tar.gz
 attribute: yes
-checksum_md5: 634a1763b3201f7670adb981b06b1b26
-checksum_sha1: c279f764ba3bf3b21b29e5a12dfd2ea7dead4ab5
+checksum_md5: a4712f980c008696e13e09504120b2a0
+checksum_sha1: 10067a763a8b788e3573a6d6cab32240a1d8dea0
 contact: hello@jpadilla.com
 copyright: Copyright (c) 2015 Jose Padilla
 description: JSON Web Token implementation in Python

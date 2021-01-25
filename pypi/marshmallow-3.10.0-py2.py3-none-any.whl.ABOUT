@@ -1,6 +1,6 @@
 about_resource: marshmallow-3.10.0-py2.py3-none-any.whl
-checksum_md5: 1f3757150b312c380f1fc2ec4a73b243
-checksum_sha1: 6759190a6afbb5afd725a0e68821aaef0141fc48
+checksum_md5: 878d55ea1f8b6c08d04347a2fa021593
+checksum_sha1: 21a525cd455bb405f9ed8ce3cd51eea29038b672
 copyright: copyright (c) Steven Loria and contributors
 description: A lightweight library for converting complex datatypes to and from native Python
   datatypes.

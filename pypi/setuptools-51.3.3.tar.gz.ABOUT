@@ -1,7 +1,7 @@
 about_resource: setuptools-51.3.3.tar.gz
 attribute: yes
-checksum_md5: c0cc26022ec424da5a5a9aa67cfa18ba
-checksum_sha1: 9ffc72a2b3a048304122f943e8d54c23498a6194
+checksum_md5: 83c2360e359139957c41c0798b2f4b67
+checksum_sha1: fa2f1ed181c619bd4138f4b0a0d65e5fd728e5ba
 copyright: Copyright (c) Python Packaging Authority
 description: Easily download, build, install, upgrade, and uninstall Python packages
 download_url: https://files.pythonhosted.org/packages/96/66/1138b7ec901e86139c07900ce906c2f1e5c3400ee1cfd1e7ab3c776248c9/setuptools-51.3.3.tar.gz

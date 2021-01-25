@@ -1,7 +1,7 @@
 about_resource: Pygments-2.7.3-py3-none-any.whl
 attribute: yes
-checksum_md5: 5ecc3fbb2a783e917b369271fc0e6cd1
-checksum_sha1: 5296c3b92ef0cbb8f4abede623be4a89e4f0f3c9
+checksum_md5: 4bad440dd916de038210d33e153a12bd
+checksum_sha1: bcd49340f126261569c009c12ae78a3fc64121b4
 contact: georg@python.org
 copyright: Copyright by the Pygments team
 description: Pygments is a generic syntax highlighter suitable for use in code hosting, forums,

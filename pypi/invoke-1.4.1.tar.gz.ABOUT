@@ -1,7 +1,7 @@
 about_resource: invoke-1.4.1.tar.gz
 attribute: yes
-checksum_md5: c4f9cbc34682c209603c3022938cb505
-checksum_sha1: 386b946366c56090fcff006ecddb8567f27ef04f
+checksum_md5: 8cd6fd9891739a2327805b19ddcfc351
+checksum_sha1: ae5a3f850a252a19a118f16539b26d1f89f3ac2b
 contact: jeff@bitprophet.org
 copyright: Copyright (c) 2017 Jeff Forcier
 description: Invoke is a Python (2.6+ and 3.3+) task execution tool & library, drawing inspiration

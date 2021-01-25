@@ -1,7 +1,7 @@
 about_resource: itypes-1.2.0.tar.gz
 attribute: yes
-checksum_md5: c5fe660c8dda870f7e64896c8f324bc4
-checksum_sha1: 96cf83ac83f3788aa55caaf851416ba486cd0566
+checksum_md5: 8c8e98875d885e87074d071c447cd9c4
+checksum_sha1: 6be8f5ef9a8e17a01431f6c5241e51a5c1038d08
 copyright: Copyright (c) Tom Christie
 description: Basic immutable container types for Python.
 download_url: https://files.pythonhosted.org/packages/0e/53/764524b3907d0af00523f8794daca181c08ca7cb32ceee25a0754d5e63a5/itypes-1.2.0.tar.gz

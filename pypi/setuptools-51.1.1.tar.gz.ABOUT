@@ -1,7 +1,7 @@
 about_resource: setuptools-51.1.1.tar.gz
 attribute: yes
-checksum_md5: deb5970a83ea9ee52c046dd1190d7ac5
-checksum_sha1: c2cca9c60bd609e96918168e8d58b61622a59439
+checksum_md5: e22db062c2429f9dd7239aecdeb64d6f
+checksum_sha1: 77d3f0bd339c3d7778b3b7dacd14f47d09ac56be
 copyright: Copyright (c) Python Packaging Authority
 description: Easily download, build, install, upgrade, and uninstall Python packages
 download_url: https://files.pythonhosted.org/packages/94/23/e9e3d96500c063129a19feb854efbb01e6ffe7d913f1da8176692418ab8e/setuptools-51.1.1.tar.gz

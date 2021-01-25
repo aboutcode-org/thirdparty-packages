@@ -1,7 +1,7 @@
 about_resource: django_sendfile-0.3.11-py3-none-any.whl
 attribute: yes
-checksum_md5: 3fb0e91c195aa209e1a877e92888c91f
-checksum_sha1: bac7a38ad0592c34127e193d826557b0312fd0f7
+checksum_md5: eb19e35d26b79e652c16653d9d4080f2
+checksum_sha1: 1ecbcc21e7d54dfbaccfac7bd73360a378a7e0b6
 contact: john@littlespikeyland.com
 copyright: Copyright (c) 2011, Sensible Development
 description: django-sendfile is a wrapper around web-server specific methods for sending files

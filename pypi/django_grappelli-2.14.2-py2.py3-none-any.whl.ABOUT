@@ -1,7 +1,7 @@
 about_resource: django_grappelli-2.14.2-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: c1025d7aa9f9e8eefebeef458a68ba70
-checksum_sha1: 2c7114dc1b83cd84b05a0bbba70d1f7e4acf81fe
+checksum_md5: fa69c0eef90308766356b37940b73094
+checksum_sha1: 18e70885c7c0ebbd9d553fa6bda075e7d2a7e0ec
 copyright: Copyright (c) Patrick Kranzlmueller, Axel Swoboda
 description: A jazzy skin for the Django Admin-Interface
 download_url: https://files.pythonhosted.org/packages/69/30/2aac7dd2c4cea9a4f6cf43055d185027c1175afa48f6504f4d8617de4ac5/django_grappelli-2.14.2-py2.py3-none-any.whl

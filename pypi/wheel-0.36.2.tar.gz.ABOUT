@@ -1,7 +1,7 @@
 about_resource: wheel-0.36.2.tar.gz
 attribute: yes
-checksum_md5: 155170d46d4de0794b7aac020c44260d
-checksum_sha1: 4b590117f78ed80e9a8dd5f6e1ffe3c588dc8e98
+checksum_md5: 800401c0549ea01449dc47305858c833
+checksum_sha1: be566aa87fa26a25f29c53f8a1bfe1f722534457
 contact: distutils-sig@python.org
 copyright: copyright (c) Daniel Holth <dholth@fastmail.fm> and contributors
 description: The official binary distribution format for Python

@@ -1,7 +1,7 @@
 about_resource: typing-3.6.6-py3-none-any.whl
 attribute: yes
-checksum_md5: 85a16dd012aaa4f0c6943683c8878dee
-checksum_sha1: 115a21ab46f0c7f4942aa6dda8a1e25857e51087
+checksum_md5: 0c84fda6fd4303fa6aee13a36ea62897
+checksum_sha1: a933f376ccb30e864ebf58a120b7c254e157587a
 copyright: Copyright (c) Python Software Foundation
 download_url: https://files.pythonhosted.org/packages/4a/bd/eee1157fc2d8514970b345d69cb9975dcd1e42cd7e61146ed841f6e68309/typing-3.6.6-py3-none-any.whl
 homepage_url: https://github.com/python/typing

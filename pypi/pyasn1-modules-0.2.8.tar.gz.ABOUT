@@ -1,7 +1,7 @@
 about_resource: pyasn1-modules-0.2.8.tar.gz
 attribute: yes
-checksum_md5: b0da68111788ab964b8543d2ec1cb115
-checksum_sha1: d77aa46abbcaccc4054a0777a191e427c785c65a
+checksum_md5: 107e1ece7d0a41d782f69f8a95a4d9bc
+checksum_sha1: 43b89feb6864fe359aae89120627165219de313b
 copyright: Copyright (c) Ilya Etingof <etingof@gmail.com>
 description: A collection of ASN.1-based protocols modules.
 download_url: https://files.pythonhosted.org/packages/88/87/72eb9ccf8a58021c542de2588a867dbefc7556e14b2866d1e40e9e2b587e/pyasn1-modules-0.2.8.tar.gz

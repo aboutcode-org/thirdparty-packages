@@ -1,7 +1,7 @@
 about_resource: pymaven-patch-0.2.9.tar.gz
 attribute: yes
-checksum_md5: dc80ac241d075cd0f801319a1be74666
-checksum_sha1: 17400b91a2eb964d431dbe2b939607512dcb8b9d
+checksum_md5: 4fd4632f43a7d0c251fde365b384434b
+checksum_sha1: fc73c2fcbb939e1594c245cca58f74706fb150aa
 contact: github@sas.com
 copyright: Copyright (c) SAS Institute Inc.
 description: pymaven is a library for working with maven repositories via python. pymaven is

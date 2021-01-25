@@ -1,7 +1,7 @@
 about_resource: lxml-4.6.2-cp38-cp38-macosx_10_9_x86_64.whl
 attribute: yes
-checksum_md5: c266d9062e23b08f66426979a2b36f51
-checksum_sha1: 5ac888d5957f74298fb6daf74778bd91812f7571
+checksum_md5: 88ab9f746e54717e307ded6b1675d6ef
+checksum_sha1: 650bbeea779c3341507730e260942b02ded97770
 copyright: Copyright (c) 2004 Infrae.
 description: lxml is the most feature-rich and easy-to-use library for processing XML and HTML
   in the Python language.

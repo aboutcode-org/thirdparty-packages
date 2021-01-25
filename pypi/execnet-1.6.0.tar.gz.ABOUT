@@ -1,7 +1,7 @@
 about_resource: execnet-1.6.0.tar.gz
 attribute: yes
-checksum_md5: f911a8db40cd43654f816ded0c4bfdb4
-checksum_sha1: 114f06cec49e9449526d95d84c5b8c70e36a6849
+checksum_md5: 3b59ac6c7878efddee4246384168d3d9
+checksum_sha1: f46736a23edd2802c3c4400929c39734ec87ed01
 contact: pytest-dev@python.org
 copyright: Copyright Holger Krekel and others
 description: 'execnet: rapid multi-Python deployment'

@@ -1,6 +1,6 @@
 about_resource: cryptography-3.3.1-cp36-abi3-manylinux2010_x86_64.whl
-checksum_md5: 6faa1a7125c500c0e1586ad342ba3b30
-checksum_sha1: f63b7bbf6ae3b6f4c178d1e8c1f89aac9507ba38
+checksum_md5: bb332b203e71615277a9303065af8250
+checksum_sha1: bb060cd344238791e4b1a2a7b37e078cc68e9ecf
 copyright: copyright (c) The cryptography developers
 description: cryptography is a package which provides cryptographic recipes and primitives to
   Python developers.

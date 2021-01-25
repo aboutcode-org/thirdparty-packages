@@ -1,6 +1,6 @@
 about_resource: commoncode-21.1.14.tar.gz
-checksum_md5: 0fe45e4bb8376ff8f4b7b8e494c3fc3e
-checksum_sha1: 9b0860c898de617788a2808282ff78073c61d719
+checksum_md5: 1b65ae731dc3e7c539872b9df275d8cf
+checksum_sha1: 432c5416b46cc25cbe84c123f728f24fb4131ce0
 copyright: copyright (c) nexB. Inc. and others
 description: commoncode
 download_url: https://files.pythonhosted.org/packages/f9/be/045384349b5b072b481e12b2e3d41305f5e32b5f61aba8ab73e753f85fd3/commoncode-21.1.14.tar.gz

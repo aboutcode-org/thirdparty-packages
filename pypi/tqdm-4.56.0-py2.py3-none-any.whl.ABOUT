@@ -1,6 +1,6 @@
 about_resource: tqdm-4.56.0-py2.py3-none-any.whl
-checksum_md5: 78bbcc96725be02ef60650b58cedddbb
-checksum_sha1: e292479ef68d788226ee84d208e183ac5ae45fac
+checksum_md5: ac2d749cad099dcc4f97530442209703
+checksum_sha1: cddae99946cac2c59730515ee122a852c865a108
 copyright: Copyright (c) Noam Yorav-Raphael, Casper da Costa-Luis, Google Inc. and others
 description: Fast, Extensible Progress Meter
 download_url: https://files.pythonhosted.org/packages/80/02/8f8880a4fd6625461833abcf679d4c12a44c76f9925f92bf212bb6cefaad/tqdm-4.56.0-py2.py3-none-any.whl

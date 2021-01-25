@@ -1,6 +1,6 @@
 about_resource: typecode-20.10.20.tar.gz
-checksum_md5: 820267dab7ac590f021e0c893e7d2f62
-checksum_sha1: 4f13e49fa8e25bd84ad0de3a23962ab1a4aa58c8
+checksum_md5: b6d54109454702eb2703820c333ec16e
+checksum_sha1: e2f89affee0a27eb503b0f12296dfe686010793f
 copyright: copyright (c) nexB. Inc. and others
 description: Comprehensive filetype and mimetype detection using libmagic and Pygments.
 download_url: https://files.pythonhosted.org/packages/e6/ef/a8be79aabd6939f1ef9cedb48447780e795ab1a81088cbf9ec590f1eecb9/typecode-20.10.20.tar.gz

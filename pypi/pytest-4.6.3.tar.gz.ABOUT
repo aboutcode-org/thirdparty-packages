@@ -1,7 +1,7 @@
 about_resource: pytest-4.6.3.tar.gz
 attribute: yes
-checksum_md5: bfa856bfc2cd9a7af22490f68497db57
-checksum_sha1: 101e3ed9be57dd561453721b92e62ddf3c02bd23
+checksum_md5: 7256f2a6d2abe659b1af2cc9c7a591d8
+checksum_sha1: 0cb821cec85298dfa6f94f7b252668f273a387d2
 contact: pytest-dev@python.org
 copyright: Copyright (c) Holger Krekel and others
 description: 'pytest: simple powerful testing with Python'

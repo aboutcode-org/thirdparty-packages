@@ -1,7 +1,7 @@
 about_resource: webencodings-0.5-py3-none-any.whl
 attribute: yes
-checksum_md5: 36654e7c7b772611b536014fa9e6e918
-checksum_sha1: e3a9cf249ab74b68056e96e5968245291b40ca1a
+checksum_md5: c25f155182c53d4d0f824839818bb170
+checksum_sha1: b3c2741784a68b62030dd81d79f95ad59b900f7d
 copyright: Copyright by Simon Sapin
 description: Character encoding for the web. This is a Python implementation of the WHATWG Encoding
   standard.

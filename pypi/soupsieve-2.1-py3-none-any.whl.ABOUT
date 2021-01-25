@@ -1,7 +1,7 @@
 about_resource: soupsieve-2.1-py3-none-any.whl
 attribute: yes
-checksum_md5: 7a7e8932b3d9aeab02350b80fca6456b
-checksum_sha1: cc6112372d5116654e3af61a6f41764732ee84b8
+checksum_md5: aad3aedd0ba35202db8e57d9e5f0a9e1
+checksum_sha1: 912b571ebc16e8003f9f316456a5ab29b34b4e1a
 copyright: Copyright (c) Isaac Muse
 description: A modern CSS selector implementation for Beautiful Soup.
 download_url: https://files.pythonhosted.org/packages/02/fb/1c65691a9aeb7bd6ac2aa505b84cb8b49ac29c976411c6ab3659425e045f/soupsieve-2.1-py3-none-any.whl

@@ -1,7 +1,7 @@
 about_resource: importlib_metadata-0.18-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: 76dc19f32bff3c485269ae5aa438dd86
-checksum_sha1: b1f7c4b179003bee77dad40bf2550c9b4bec1cba
+checksum_md5: 424676f92482daa952f38c817d20558a
+checksum_sha1: f447cf203849bfe3616e73d584e07c2eb3640843
 copyright: copyright Jason R. Coombs, Barry Warsaw
 download_url: https://files.pythonhosted.org/packages/bd/23/dce4879ec58acf3959580bfe769926ed8198727250c5e395e6785c764a02/importlib_metadata-0.18-py2.py3-none-any.whl
 homepage_url: https://gitlab.com/python-devs/importlib_metadata/

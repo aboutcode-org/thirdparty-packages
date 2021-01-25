@@ -1,7 +1,7 @@
 about_resource: amqp-2.6.0.tar.gz
 attribute: yes
-checksum_md5: 0a9169cabdc325ca3b87191efd68f3f1
-checksum_sha1: 69bdaeaf3490f0daee88868ba78b55f47c749777
+checksum_md5: e7e3b8d409cbc153f598bf4fa52d41a8
+checksum_sha1: 82532a10c573588706a66a3154791a97e0891631
 copyright: Copyright (c) 2015-2016 Ask Solem & contributors.
 description: This is a fork of amqplib which was originally written by Barry Pederson. It is
   maintained by the Celery project, and used by kombu as a pure python alternative when librabbitmq

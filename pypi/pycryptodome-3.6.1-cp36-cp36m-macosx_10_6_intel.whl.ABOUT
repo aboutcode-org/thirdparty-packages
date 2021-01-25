@@ -1,7 +1,7 @@
 about_resource: pycryptodome-3.6.1-cp36-cp36m-macosx_10_6_intel.whl
 attribute: yes
-checksum_md5: eed64fdb7ac5c91ac218d2bac564cd93
-checksum_sha1: 07a84b4345f475a442c83b29ce01e6cbeac1c5ce
+checksum_md5: 8c6c04e845068d0ff1d7c879348ba00e
+checksum_sha1: 0dd84b1a01416ca142d3dce67802b8c2d1c4dd62
 copyright: Copyright (c) pycryptodome contributors
 description: A self-contained cryptographic library for Python
 download_url: https://files.pythonhosted.org/packages/9c/83/8f8a9e94d3cc495dd49082ac79e366b368cd10c8d25734fbcea59de93e5a/pycryptodome-3.6.1-cp36-cp36m-macosx_10_6_intel.whl

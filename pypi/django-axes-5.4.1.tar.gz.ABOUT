@@ -1,7 +1,7 @@
 about_resource: django-axes-5.4.1.tar.gz
 attribute: yes
-checksum_md5: 4a600f18c1f7f14401c2082c929846e3
-checksum_sha1: 908b5254662e6e74d03f4165f464f119ac6c9d14
+checksum_md5: d8487fac1e3257105d9ecea0bbcf20ae
+checksum_sha1: 4e48d8bc06438aad88e9f9a37769e666dc345d2e
 copyright: Copyright (c) Jazzband <security@jazzband.co>
 download_url: https://files.pythonhosted.org/packages/8c/4a/ae120105d22871041e96dfe391538fc27d6989102697730ff160ea0683f9/django-axes-5.4.1.tar.gz
 license_expression: mit

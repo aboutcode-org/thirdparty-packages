@@ -1,7 +1,7 @@
 about_resource: six-1.15.0-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: b0dc15d494e2d6e6c19cbbe482e91c5d
-checksum_sha1: eb69e52f67f270fa1e362a9dbe64e3f6faaf4252
+checksum_md5: 16dc2d0f87a1ed05579ad7c4965cf0ef
+checksum_sha1: 8730d16507db66e828c696ecc7cb785e557900bb
 contact: benjamin@python.org
 copyright: Copyright (c) 2010-2011 Benjamin Peterson
 description: Six is a Python 2 and 3 compatibility library. It provides utility functions for

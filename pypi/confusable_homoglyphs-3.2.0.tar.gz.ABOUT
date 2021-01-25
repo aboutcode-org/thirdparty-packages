@@ -1,7 +1,7 @@
 about_resource: confusable_homoglyphs-3.2.0.tar.gz
 attribute: yes
-checksum_md5: eff03a1e88ff8583f7c7ef896922481d
-checksum_sha1: d7b85ed7dd9b19d46d17cba3b419865ea44fe752
+checksum_md5: e8f03a9076c079f2d304db3a9848b709
+checksum_sha1: f0f5affd8418d510f4a578989636169423d8a990
 copyright: Copyright (c) 2016 Victor Felder
 description: Detect confusable usage of unicode homoglyphs, prevent homograph attacks.
 download_url: https://files.pythonhosted.org/packages/62/55/0aac1a100d755987e62c12367724b33419ed15921c6a915dc257c886ceff/confusable_homoglyphs-3.2.0.tar.gz

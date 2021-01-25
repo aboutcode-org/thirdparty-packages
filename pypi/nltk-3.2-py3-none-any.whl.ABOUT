@@ -1,7 +1,7 @@
 about_resource: nltk-3.2-py3-none-any.whl
 attribute: yes
-checksum_md5: cec19785ffd176fa6d18ef41a29eb227
-checksum_sha1: cb146331ffee538cf90ec7fc972cc3d50ea67c54
+checksum_md5: 1c4536dee0c0b8e3edba04689c174db9
+checksum_sha1: 031e0030af18fc79f5f4a981ca3cc6a6dabbf837
 copyright: Copyright (c) NLTK contributors
 description: NLTK is a leading platform for building Python programs to work with human language
   data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as

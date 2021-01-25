@@ -1,7 +1,7 @@
 about_resource: redis-3.5.3.tar.gz
 attribute: yes
-checksum_md5: c37ac6eeeb79559fe0c4cfe23d79b754
-checksum_sha1: 94fb9ce4f94dbb22c5c53eff16e4b8303aef21ae
+checksum_md5: 7a00d4540374f34e152a33faa1fcee5f
+checksum_sha1: 320212e552a6d92f708f83ac1bdc4e2330afb067
 copyright: Copyright (c) 2012 Andy McCurdy
 description: The Python interface to the Redis key-value store.
 download_url: https://files.pythonhosted.org/packages/b3/17/1e567ff78c83854e16b98694411fe6e08c3426af866ad11397cddceb80d3/redis-3.5.3.tar.gz

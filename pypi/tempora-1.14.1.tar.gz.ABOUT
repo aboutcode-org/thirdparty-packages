@@ -1,7 +1,7 @@
 about_resource: tempora-1.14.1.tar.gz
 attribute: yes
-checksum_md5: b0a4c526bd9c164cf4813e4799f97e85
-checksum_sha1: ac2afecfee990ff22f7cc7d161860ec0a95c8b1a
+checksum_md5: f8b2b0df1adf3f83b829a85e31bddb2d
+checksum_sha1: d26b45cfc2c941f029092e9217b4d2a97bb62979
 copyright: Copyright Jason R. Coombs
 download_url: https://files.pythonhosted.org/packages/2f/b5/5b0464385454c5ca93a39a1c6acefdf574aeb10ef45fa8958b3832cc7d96/tempora-1.14.1.tar.gz
 license_expression: mit

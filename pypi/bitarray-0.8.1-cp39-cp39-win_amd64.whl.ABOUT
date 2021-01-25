@@ -1,7 +1,7 @@
 about_resource: bitarray-0.8.1-cp39-cp39-win_amd64.whl
 attribute: yes
-checksum_md5: 3825184f54f4d93508a28031b4c65d3b
-checksum_sha1: cfdde3a6584eb5e94d479771644aa6ba9948310f
+checksum_md5: 5e600cf46b1cb1388d4f8f9f41be2e15
+checksum_sha1: 654b99c5af74aff9ba3517be76a54c5a97f8a73a
 contact: ilanschnell@gmail.com
 copyright: Copyright (c) Ilan Schnell and others
 description: efficient arrays of booleans for Python

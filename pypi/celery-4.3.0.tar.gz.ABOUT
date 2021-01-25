@@ -1,7 +1,7 @@
 about_resource: celery-4.3.0.tar.gz
 attribute: yes
-checksum_md5: f1a0221fdd2666837bd6b879f577e715
-checksum_sha1: 33693b689d84b7961ca079fabc68cae49d8483e2
+checksum_md5: 7015c93e6869276deedfd8638ca4a770
+checksum_sha1: a1dda6e867d34e7f9906f0e28a72c9442eba7bb1
 copyright: Copyright (c) 2015-2016 Ask Solem & contributors
 description: |
   Celery: Distributed Task Queue

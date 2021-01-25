@@ -1,6 +1,6 @@
 about_resource: toml-0.10.0-py2.py3-none-any.whl
-checksum_md5: 59bce5d8d67e858735ec3f399ec90253
-checksum_sha1: 00137fc72f31100edd1c03670081b03053b6c836
+checksum_md5: 70f2a3ce1fc099c20702b55f44f0b130
+checksum_sha1: 5a6d4ad5089719e4f567997a24da13204db2eb28
 contact: uiri@xqz.ca
 copyright: Copyright 2013-2018 William Pearson
 description: Python Library for Tom's Obvious, Minimal Language

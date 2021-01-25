@@ -1,6 +1,6 @@
 about_resource: rfc3986-1.4.0-py2.py3-none-any.whl
-checksum_md5: 1b03ad2853e33d47eea698571255247c
-checksum_sha1: 73c7ca3eb801da630abfb458de69fc38087c874e
+checksum_md5: 500ca1e8ed5489a5581b7e5802cb91a5
+checksum_sha1: 5a23e1abb130e8055f9187f24e2874e8adb1348e
 copyright: copyright (c) Ian Stapleton Cordasco
 description: Validating URI References per RFC 3986
 download_url: https://files.pythonhosted.org/packages/78/be/7b8b99fd74ff5684225f50dd0e865393d2265656ef3b4ba9eaaaffe622b8/rfc3986-1.4.0-py2.py3-none-any.whl

@@ -1,7 +1,7 @@
 about_resource: lxml-4.6.2-cp36-cp36m-manylinux1_x86_64.whl
 attribute: yes
-checksum_md5: c266d9062e23b08f66426979a2b36f51
-checksum_sha1: 5ac888d5957f74298fb6daf74778bd91812f7571
+checksum_md5: d9d1dd2212e1fa6091f35b98f23fe68b
+checksum_sha1: a31b4641e59c8a88d40ce03d06e19a8680fca362
 copyright: Copyright (c) 2004 Infrae.
 description: lxml is the most feature-rich and easy-to-use library for processing XML and HTML
   in the Python language.

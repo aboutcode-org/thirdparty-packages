@@ -1,7 +1,7 @@
 about_resource: Jinja2-2.10.3.tar.gz
 attribute: yes
-checksum_md5: 8ea90ab711841aad4d846613305ca59e
-checksum_sha1: 4111b038c0fc0870dcb1fae59157cab3eff63c5c
+checksum_md5: 7883559bc5cc3e2781d94b4be61cfdcd
+checksum_sha1: fbb6a03ad01b766d816650147d1fccfc145de9e0
 contact: armin.ronacher@active-4.com
 copyright: Copyright (c) 2009 by the Jinja Team
 description: Jinja2 is a full featured template engine for Python. It has full unicode support,

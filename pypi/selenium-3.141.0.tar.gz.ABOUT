@@ -1,7 +1,7 @@
 about_resource: selenium-3.141.0.tar.gz
 attribute: yes
-checksum_md5: 15d56e695f5bd2b12faf054e61047c7d
-checksum_sha1: 18ce45fef7e2e59b7770e99d7323d1f2cd243de8
+checksum_md5: 274693e383ff507df7ee190359828c84
+checksum_sha1: 383f2c8d7b05a1083c65fec58580a5f2081d4482
 contact: http://docs.seleniumhq.org/support/
 copyright: Copyright 2008-2017 (c) Selenium Project contributors
 description: Selenium automates browsers. Primarily, it is for automating web applications for

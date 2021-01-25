@@ -1,7 +1,7 @@
 about_resource: spdx-tools-0.6.1.tar.gz
 attribute: yes
-checksum_md5: 1e0cfec3ce506002ff7612ba5d6f3e35
-checksum_sha1: b915b717ec46d2e90fa22b88359955eddf4eadba
+checksum_md5: b2cf5b6ae46f0a1c5ac60ffc88097d3a
+checksum_sha1: f18292de9f1c894ca011f6a6c0a242f25f4480d8
 contact: http://www.nexb.com/contactus.html
 copyright: Copyright (c) 2014 Ahmed H. Ismail and others
 description: An SPDX tag/values (and RDF) library to parse, validate and create SPDX documents

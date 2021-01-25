@@ -1,7 +1,7 @@
 about_resource: html5lib-0.999999999.tar.gz
 attribute: yes
-checksum_md5: c94780c55ea28529c39ad19ed372d629
-checksum_sha1: 1b30a69c2ddd8a38c059a83565f69296d7c5aa3f
+checksum_md5: 8578e4e3a341436cb9743a9e4a299239
+checksum_sha1: 814e7ab8d865c3c0ba96a13fe383c06735329c36
 copyright: Copyright (c) 2006-2013 James Graham and other contributors
 description: Standards-compliant library for parsing and serializing HTML documents and fragments
   in Python

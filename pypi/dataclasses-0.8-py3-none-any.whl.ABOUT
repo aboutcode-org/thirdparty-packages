@@ -1,6 +1,6 @@
 about_resource: dataclasses-0.8-py3-none-any.whl
-checksum_md5: c9a52e322ada1406bfde9ebe3cdbbcca
-checksum_sha1: ef25d3e9e2523805baa314a4adcb915ae901740e
+checksum_md5: 0d6e5bb7adcc8fb0de3ef1ace1b32999
+checksum_sha1: '1935b8c204f4783c63def2d7edc5352e45cd47c3'
 copyright: copyright (c) Eric V. Smith
 description: A backport of the dataclasses module for Python 3.6
 download_url: https://files.pythonhosted.org/packages/fe/ca/75fac5856ab5cfa51bbbcefa250182e50441074fdc3f803f6e76451fab43/dataclasses-0.8-py3-none-any.whl

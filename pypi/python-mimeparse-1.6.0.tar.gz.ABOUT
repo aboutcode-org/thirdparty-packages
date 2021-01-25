@@ -1,7 +1,7 @@
 about_resource: python-mimeparse-1.6.0.tar.gz
 attribute: yes
-checksum_md5: e2780ceb12929f2f8557c467fa8c2567
-checksum_sha1: a48227647fe3d9f33e6b8175e6757f4e8d463cce
+checksum_md5: a32ae1df93be1ddb581d1c0fa124bab4
+checksum_sha1: 675c262a74635f5e5326bb2dd1834f97c826ffa6
 copyright: Copyright (c) 2010 Joe Gregorio
 description: Python-MimeParse provides basic functions for handling mime-types. It can handle
   matching mime-types against a list of media-ranges.

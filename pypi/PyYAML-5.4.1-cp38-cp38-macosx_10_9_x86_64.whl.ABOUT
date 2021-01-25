@@ -1,7 +1,7 @@
 about_resource: PyYAML-5.4.1-cp38-cp38-macosx_10_9_x86_64.whl
 attribute: yes
-checksum_md5: b78b96636d68ac581c0e2f38158c224f
-checksum_sha1: 22f95fe2f5ef29ab17110f92c7186e2cfde6b419
+checksum_md5: ea9048185f8a3ddcd06869c549d11a53
+checksum_sha1: 49c26c7cc7d09a7b37fe8223530b6c6ef6cf7494
 copyright: Copyright (c) 2006 Kirill Simonov
 description: YAML parser and emitter for Python
 download_url: https://files.pythonhosted.org/packages/cb/3f/2f35751408c0b2a425aa48dd79301a48418858d3366f84c75d1aa42b6e2d/PyYAML-5.4.1-cp38-cp38-macosx_10_9_x86_64.whl

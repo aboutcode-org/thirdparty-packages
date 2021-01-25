@@ -1,7 +1,7 @@
 about_resource: mockldap-0.3.0.post1.tar.gz
 attribute: yes
-checksum_md5: 8f76e4496ac575e744de01c879af9784
-checksum_sha1: d291d06cc8126cb2f8a7669f23a78f057d5b6b58
+checksum_md5: d48dc593c7afe9c7a97b561b869501b0
+checksum_sha1: 9d883a6afbd66f94cbaeb4fc7bfcb356920f1f18
 copyright: Copyright (c) 2013, Peter Sagerson
 description: This project provides a mock replacement for python-ldap (pyldap on Python 3).
   It's useful for any project that would like to write unit tests against LDAP code without

@@ -1,7 +1,7 @@
 about_resource: django_ipware-3.0.0-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: 2eda623087a24aeb2c950f738d88a511
-checksum_sha1: 210b9c6f5bf6309c373dedb4add724dd214a51be
+checksum_md5: 26c803033e9fa1f4e7e9b212b7701fa6
+checksum_sha1: 6c05d9eb1a885e57886f9969bd0f73e44f620a6a
 copyright: Copyright (c) Val Neekman Neekware Inc. http://neekware.com
 download_url: https://thirdparty.aboutcode.org/pypi/django_ipware-3.0.0-py2.py3-none-any.whl
 license_expression: mit

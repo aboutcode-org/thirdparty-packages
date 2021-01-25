@@ -1,7 +1,7 @@
 about_resource: gunicorn-19.9.0.tar.gz
 attribute: yes
-checksum_md5: 45d9b5297c52641400c41d1851ba853e
-checksum_sha1: af1caa9560a324956f6ed14979f69d939790a6fe
+checksum_md5: f581937e9d8569ebd3fd6af1f9ab809f
+checksum_sha1: 4fa8b5a57c8be192b761ed2d76bcafe29b379aed
 contact: bchesneau@gmail.com
 copyright: |
   2009-2018 (c) BenoÃ®t Chesneau <benoitc@e-engura.org>

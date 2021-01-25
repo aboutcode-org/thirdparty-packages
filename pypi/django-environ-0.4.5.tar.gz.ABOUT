@@ -1,7 +1,7 @@
 about_resource: django-environ-0.4.5.tar.gz
 attribute: yes
-checksum_md5: 6877c282082fb4e3a7bd90ef18cf1623
-checksum_sha1: 8154e8637c2d222034f0b3e66d1e882149e45b9c
+checksum_md5: a4c6331421327275ea32e62152afe539
+checksum_sha1: 9eef2b2f377e8fcbeeaac5bdb49aca9b15857c23
 copyright: Copyright (c) 2013-2017, Daniele Faraglia
 description: Django-environ allows you to utilize 12factor inspired environment variables to
   configure your Django application.

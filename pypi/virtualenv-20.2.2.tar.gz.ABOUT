@@ -1,7 +1,7 @@
 about_resource: virtualenv-20.2.2.tar.gz
 attribute: yes
-checksum_md5: fe7b0e540b0f2ff824e0650eefdb100b
-checksum_sha1: 2e5ecff06182c14cbfe954a0311ee44d77b00229
+checksum_md5: ad5f4586b6a03088a399692949712007
+checksum_sha1: fd4d72b017ca7e3e64f2ec2f890e45857cd9c510
 copyright: Copyright (c) The Python Software Foundation and others
 description: virtualenv is a tool to create isolated Python environments.
 download_url: https://files.pythonhosted.org/packages/c6/3e/d00f1500aa0e8a69323101c33f6e6910bbc68d34df3e8a0b1e510219a956/virtualenv-20.2.2.tar.gz

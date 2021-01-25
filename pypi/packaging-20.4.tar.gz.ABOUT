@@ -1,7 +1,7 @@
 about_resource: packaging-20.4.tar.gz
 attribute: yes
-checksum_md5: 101110b3d512d544b70fd61d58482eaf
-checksum_sha1: 860beac5bb1361dead58166dced967ca896c9937
+checksum_md5: 3208229da731c5d8e29d4d8941e75005
+checksum_sha1: b99fa7af153646722b2d1817bb09906cc5a94bc6
 copyright: Copyright (c) Donald Stufft and individual contributors
 download_url: https://files.pythonhosted.org/packages/55/fd/fc1aca9cf51ed2f2c11748fa797370027babd82f87829c7a8e6dbe720145/packaging-20.4.tar.gz
 license_expression: bsd-new OR apache-2.0

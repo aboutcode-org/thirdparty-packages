@@ -1,7 +1,7 @@
 about_resource: social-auth-core-3.2.0.tar.gz
 attribute: yes
-checksum_md5: 7eff588e81623e7ad653867d0a700cdc
-checksum_sha1: 2168dc4ff44f6c165b1e8a0f8ebde5998c66a612
+checksum_md5: d35cce415f6e9e7729b125dfcad512b7
+checksum_sha1: 9f808a0b504bf042379af7f95f4ad916096ed120
 contact: matiasaguirre@gmail.com
 copyright: Copyright (c) 2012-2015, Matias Aguirre
 description: Python Social Auth is an easy to setup social authentication/registration mechanism
