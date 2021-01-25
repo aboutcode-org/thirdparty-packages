@@ -1,7 +1,7 @@
 about_resource: license-expression-1.2.tar.gz
 attribute: yes
-checksum_md5: dc7bf41e6e232cabdc36f6c206c55710
-checksum_sha1: 942765d9af237b1bfee363c64465013b8690428d
+checksum_md5: fd4cb295cc345be1071274cdbd81c969
+checksum_sha1: e74285df1f8ccac744089ef0d109dd4055e5adef
 contact: http://www.nexb.com/contactus.html
 copyright: Copyright (c) 2017 nexB Inc. and others.
 description: Utility library to parse, normalize and compare License expressions for Python

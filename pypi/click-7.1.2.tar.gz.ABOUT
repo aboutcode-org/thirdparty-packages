@@ -1,7 +1,7 @@
 about_resource: click-7.1.2.tar.gz
 attribute: yes
-checksum_md5: 5e7a4e296b3212da2ff11017675d7a4d
-checksum_sha1: 9490775172e63ba94233d4b201f0e8d78b0cd939
+checksum_md5: 53692f62cb99a1a10c59248f1776d9c0
+checksum_sha1: 1e55974c8a8d75b0733dd40841a1a354ad36ae10
 contact: armin.ronacher@active-4.com
 copyright: Copyright (c) 2014 by Armin Ronacher.
 description: A simple wrapper around optparse for powerful command line utilities.

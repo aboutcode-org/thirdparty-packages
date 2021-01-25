@@ -1,6 +1,6 @@
 about_resource: chardet-4.0.0.tar.gz
-checksum_md5: 0004b00caff7bb543a1d0d0bd0185a03
-checksum_sha1: 96faab7de7e9a71b37f22adb64daf2898e967e3e
+checksum_md5: bc9a5603d8d0994b2d4cbf255f99e654
+checksum_sha1: 2384f6cfba4685d901262e073a4455d4cf76d102
 copyright: Copyright (c) Mark Pilgrim, Netscape Communications Corporation, Dan Blanchard, Ian
   Cordasco and others
 description: Python 2/3 compatible character encoding detector.

@@ -1,0 +1,18 @@
+about_resource: codecov-2.1.11.tar.gz
+attribute: yes
+checksum_md5: 8ab9cc6162ee6833b157aef483a1a323
+checksum_sha1: 9a75463a0af4f31d9742af86da68f9c137bb5269
+copyright: Copyright (c) codecov
+description: Python report uploader for Codecov https://codecov.io
+download_url: https://files.pythonhosted.org/packages/5a/1e/aff89bf606c8939568b3f5fc388699af37e8e91c35ec10840d8224ebdca0/codecov-2.1.11.tar.gz
+homepage_url: https://github.com/codecov/codecov-python
+keywords: coverage codecov code python java scala php
+license_expression: apache-2.0
+name: codecov
+owner: codecov
+owner_url: https://github.com/codecov
+package_url: pkg:pypi/codecov@2.1.11
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.1.11

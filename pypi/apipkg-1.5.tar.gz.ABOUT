@@ -1,7 +1,7 @@
 about_resource: apipkg-1.5.tar.gz
 attribute: yes
-checksum_md5: 2eccec16980e44cc8051b63cddff2df0
-checksum_sha1: 1e0df1d216243e4cb8bffd21e7ab851d0a629c49
+checksum_md5: 6d2bc4d9358e046cc56efc677c976a5c
+checksum_sha1: df3cb7615735ca7bb1b5e4eff06e4de08612ec2a
 contact: pytest-dev@python.org
 copyright: Copyright (c)  Holger Krekel
 description: With apipkg you can control the exported namespace of a python package and greatly

@@ -1,7 +1,7 @@
 about_resource: requests-2.25.1-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: a1b2f02e7ba45dff7c76f621cde042c4
-checksum_sha1: '19be6a67488d6067af8c89e7c9745edbfcd11580'
+checksum_md5: ec79209809129bf13cb002a0a573ef45
+checksum_sha1: b1009d9fd6acadc64e1a3cecb6f0083fe047e753
 contact: me@kennethreitz.com
 copyright: Copyright 2017 Kenneth Reitz
 description: Requests allow you to send HTTP/1.1 requests. You can add headers, form data, multipart

@@ -1,7 +1,7 @@
 about_resource: pytest_xdist-2.2.0-py3-none-any.whl
 attribute: yes
-checksum_md5: fbc0caa055a8822ef9d753f340e2f27b
-checksum_sha1: bddd3f0f1e00e87c85158bc121900ed798fcb10d
+checksum_md5: 1a847dae38c928f1fd941deb9070fd25
+checksum_sha1: c82008618b2365bed7fb59cf0a97c12ede284908
 contact: pytest-dev@python.org
 copyright: Copyright (c) Holger Krekel and contributors
 description: py.test xdist plugin for distributed testing and loop-on-failing modes

@@ -8,7 +8,6 @@ download_url: https://files.pythonhosted.org/packages/44/6f/7120676b6d73228c96e1
 homepage_url: https://github.com/uiri/toml
 license_expression: mit
 name: toml
-notes: Used for parsing for TOML configuration files.
 owner: Willam Pearson
 owner_url: https://github.com/uiri
 package_url: pkg:pypi/toml@0.10.2

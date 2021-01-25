@@ -1,7 +1,7 @@
 about_resource: importlib_metadata-3.4.0.tar.gz
 attribute: yes
-checksum_md5: 76dc19f32bff3c485269ae5aa438dd86
-checksum_sha1: b1f7c4b179003bee77dad40bf2550c9b4bec1cba
+checksum_md5: 9cc01b572ffbef3539d51b87f95d8cdb
+checksum_sha1: 325a75778f7d9925c6a6aaaa0051ae85fbf30650
 copyright: copyright Jason R. Coombs, Barry Warsaw
 download_url: https://files.pythonhosted.org/packages/0c/89/412afa5f0018dccf637c2d25b9d6a41623cd22beef6797c0d67a2082ccfe/importlib_metadata-3.4.0.tar.gz
 homepage_url: https://gitlab.com/python-devs/importlib_metadata/

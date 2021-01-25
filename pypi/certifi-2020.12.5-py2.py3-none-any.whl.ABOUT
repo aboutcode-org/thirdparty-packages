@@ -1,7 +1,7 @@
 about_resource: certifi-2020.12.5-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: 9a4c30d65c718cc2217f1e457ca6dc4c
-checksum_sha1: f37eb16dd168e81f95c31495516aa948e7b846ee
+checksum_md5: f29a46c26b4f06fa5721827fb8b3e173
+checksum_sha1: 7dff15a2066b8809c8772a243991bd1a25740ec3
 copyright: Copyright (c) Mozilla Contributors, packaged by Kenneth Reitz and others
 description: Certifi is a carefully curated collection of Root Certificates for validating the
   trustworthiness of SSL certificates while verifying the identity of TLS hosts. It has been

@@ -1,7 +1,7 @@
 about_resource: py-1.10.0-py2.py3-none-any.whl
 attribute: yes
-checksum_md5: daca50cf07cb09cae0469c9f6ea5272a
-checksum_sha1: 6839acef734821cb91c2c42a33364ab36c2fe9fc
+checksum_md5: 025a8dee6cd7e51790536da11d4a5aff
+checksum_sha1: a47d6d05e4af457283c7a3e2651e2e0f1a3dd8f6
 contact: pytest-dev@python.org
 copyright: Copyright (c) Holger Krekel and others
 description: library with cross-python path, ini-parsing, io, code, log facilities

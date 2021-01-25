@@ -1,7 +1,7 @@
 about_resource: saneyaml-0.4.tar.gz
 attribute: yes
-checksum_md5: eec6b11326b463ccb7409f93d254e77e
-checksum_sha1: 8c45fd0c9a09b183238ad1f0137da64b5807c549
+checksum_md5: 9359719331a836e766035030a624146e
+checksum_sha1: e8fe0aa5e6a68281b3f90f264a66e75418d21940
 contact: http://www.nexb.com/contactus.html
 copyright: Copyright (c) nexB Inc. and others
 description: This micro library is a PyYaml wrapper with sane behaviour to read and write readable

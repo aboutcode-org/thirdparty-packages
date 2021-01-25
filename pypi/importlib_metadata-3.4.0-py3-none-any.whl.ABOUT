@@ -1,7 +1,7 @@
 about_resource: importlib_metadata-3.4.0-py3-none-any.whl
 attribute: yes
-checksum_md5: 76dc19f32bff3c485269ae5aa438dd86
-checksum_sha1: b1f7c4b179003bee77dad40bf2550c9b4bec1cba
+checksum_md5: 83c9f2107da69f0dac857ff49735b3b6
+checksum_sha1: f0cc8e4ad44186fd93d2b6d00200313dd83e01bb
 copyright: copyright Jason R. Coombs, Barry Warsaw
 download_url: https://files.pythonhosted.org/packages/f3/ed/da40116a204abb5c4dd1d929346d33e0d29cedb2cedd18ea98f0385dcd92/importlib_metadata-3.4.0-py3-none-any.whl
 homepage_url: https://gitlab.com/python-devs/importlib_metadata/

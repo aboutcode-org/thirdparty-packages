@@ -1,0 +1,18 @@
+about_resource: PyYAML-3.13-cp36-cp36m-linux_x86_64.whl
+attribute: yes
+checksum_md5: db0b5fa6ae8a7f5a4029f84aea6cf3a4
+checksum_sha1: 214901d5f1b2fca8243f663a8f1614b8d20b2bf9
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://thirdparty.aboutcode.org/pypi/PyYAML-3.13-cp36-cp36m-linux_x86_64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notice_file: PyYAML-3.13-cp36-cp36m-linux_x86_64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@3.13
+primary_language: Python
+type: pypi
+version: '3.13'

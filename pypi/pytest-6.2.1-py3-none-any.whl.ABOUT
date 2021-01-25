@@ -1,7 +1,7 @@
 about_resource: pytest-6.2.1-py3-none-any.whl
 attribute: yes
-checksum_md5: bfa856bfc2cd9a7af22490f68497db57
-checksum_sha1: 101e3ed9be57dd561453721b92e62ddf3c02bd23
+checksum_md5: 304d5faf418f73198944e8805b1d2f92
+checksum_sha1: f64e2a29bf72fc46da4811ec5959e719e96d522d
 contact: pytest-dev@python.org
 copyright: Copyright (c) Holger Krekel and others
 description: 'pytest: simple powerful testing with Python'

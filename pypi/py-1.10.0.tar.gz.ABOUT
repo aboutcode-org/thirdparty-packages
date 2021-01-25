@@ -1,7 +1,7 @@
 about_resource: py-1.10.0.tar.gz
 attribute: yes
-checksum_md5: daca50cf07cb09cae0469c9f6ea5272a
-checksum_sha1: 6839acef734821cb91c2c42a33364ab36c2fe9fc
+checksum_md5: 5f108bfe00d5468cbdb8071051f86a55
+checksum_sha1: 690e4e3dcaeafe02ad4af36233148e7e10032d1a
 contact: pytest-dev@python.org
 copyright: Copyright (c) Holger Krekel and others
 description: library with cross-python path, ini-parsing, io, code, log facilities

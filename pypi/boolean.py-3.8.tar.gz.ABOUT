@@ -1,7 +1,7 @@
 about_resource: boolean.py-3.8.tar.gz
 attribute: yes
-checksum_md5: fa308ca6a746135feb248097cc35c107
-checksum_sha1: 9bfaf3104f7beb2a762b9b494c8849358d46bbfc
+checksum_md5: 83ccc145ba74a585637124c8bc648333
+checksum_sha1: 6bb29eb99fd4bad617f65f6ae6dd0d001977eff0
 copyright: Copyright (c) 2009-2016 Sebastian Kraemer, basti.kr@gmail.com and others
 description: Implements boolean algebra in one module.
 download_url: https://files.pythonhosted.org/packages/a1/eb/b37ef5647243ade8308f7bb46b1a45e6204790c163cbd8cf6df990d5c1c1/boolean.py-3.8.tar.gz
