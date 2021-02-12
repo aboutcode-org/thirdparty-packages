@@ -1,0 +1,23 @@
+about_resource: debut-0.9.9.tar.gz
+attribute: yes
+checksum_md5: c0d5fb172c3b7052c53161ae4b756560
+checksum_sha1: 3794a87d2b0e5e66ec0b7ef0004db3d35af7b13b
+copyright: |
+  Copyright (c) Peter Odding
+  Copyright (c) nexB Inc. and others. http://nexb.com and https://github.com/nexB/debut
+  Copyright (c) Security Innovation, Inc
+  Copyright The Climate Corporation (https://climate.com)
+  Copyright Agustin Henze <tin@sluc.org.ar>
+description: Debian deb822 file format utilities
+download_url: https://files.pythonhosted.org/packages/f8/17/f3d293a25e80fa4c3ac34751c374af16ecbbe8423872f12b58f937d52c02/debut-0.9.9.tar.gz
+homepage_url: https://github.com/nexB/debut
+keywords: debian,deb822,copyright,package,dependency,license,licensing,dep5,control,dsc,python-debian,dpkg,libapt
+license_expression: apache-2.0 AND bsd-new AND mit
+name: debut
+notice_file: debut-0.9.9.tar.gz.NOTICE
+owner: nexB. Inc. and others
+package_url: pkg:pypi/debut@0.9.9
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 0.9.9
