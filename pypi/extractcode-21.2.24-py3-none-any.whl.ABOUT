@@ -1,0 +1,15 @@
+about_resource: extractcode-21.2.24-py3-none-any.whl
+checksum_md5: 71f2bb6c7128e5e597b66d266eae36f2
+checksum_sha1: bfd96d1028710d66677cba46076894521eb29516
+copyright: copyright (c) nexB. Inc. and others
+description: A set of utilities and functions for extracting archives.
+download_url: https://files.pythonhosted.org/packages/5b/b4/15068db93e581f6381483ad8f2d0a7486ddf098c2d765f1eec2ab1a7a97e/extractcode-21.2.24-py3-none-any.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/extractcode
+license_expression: apache-2.0
+name: extractcode
+package_url: pkg:pypi/extractcode@21.2.24
+primary_language: Python
+type: pypi
+version: 21.2.24
