@@ -1,0 +1,15 @@
+about_resource: setuptools_scm-5.0.1.tar.gz
+checksum_md5: c11bf23d80224691a46ee5deb84c42db
+checksum_sha1: af08a257a725dbdde9795859249ddf79caf4fc22
+copyright: copyright (c) Ronny Pfannschmidt
+description: the blessed package to manage your versions by scm tags
+download_url: https://files.pythonhosted.org/packages/af/df/f8aa8a78d4d29e0cffa4512e9bc223ed02f24893fe1837c6cee2749ebd67/setuptools_scm-5.0.1.tar.gz
+holder: Ronny Pfannschmidt
+holder_contact: opensource@ronnypfannschmidt.de
+homepage_url: https://github.com/pypa/setuptools_scm/
+license_expression: mit
+name: setuptools_scm
+package_url: pkg:pypi/setuptools-scm@5.0.1
+primary_language: Python
+type: pypi
+version: 5.0.1

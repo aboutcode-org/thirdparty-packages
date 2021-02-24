@@ -1,0 +1,19 @@
+about_resource: virtualenv-20.4.2.tar.gz
+attribute: yes
+checksum_md5: 0f629c8eba7797d240c5a817da2b4e8e
+checksum_sha1: 8ad03e3014849d359710ffb49e3dcb515510bce8
+copyright: Copyright (c) The Python Software Foundation and others
+description: virtualenv is a tool to create isolated Python environments.
+download_url: https://files.pythonhosted.org/packages/79/64/203241c2e2b5abfd5edca4e28242c21bf8a9e84490873e4a8a155a9658fc/virtualenv-20.4.2.tar.gz
+homepage_url: https://virtualenv.pypa.io/
+keywords: virtual,environments,isolated
+license_expression: lgpl-2.1-plus AND (bsd-new OR apache-2.0) AND mit AND python AND bsd-new
+  AND apache-2.0 AND isc AND (bsd-simplified OR apache-2.0)
+name: virtualenv
+package_url: pkg:pypi/virtualenv@20.4.2
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_url: https://github.com/pypa/virtualenv
+version: 20.4.2
