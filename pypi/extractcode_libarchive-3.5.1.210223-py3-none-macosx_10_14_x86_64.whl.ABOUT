@@ -1,0 +1,17 @@
+about_resource: extractcode_libarchive-3.5.1.210223-py3-none-macosx_10_14_x86_64.whl
+checksum_md5: bb0b1ce36b9491bad9c9f06e4b1d890a
+checksum_sha1: d91df483b3874b362983b766ba39a4e3cd48a2b9
+copyright: copyright (c) Tim Kientzle and others
+description: A ScanCode path provider plugin to provide a prebuilt native libarchive binary.
+download_url: https://thirdparty.aboutcode.org/pypi/extractcode_libarchive-3.5.1.210223-py3-none-macosx_10_14_x86_64.whl
+holder: nexB
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/scancode-plugins
+keywords: open source,extractcode,libarchive
+license_expression: bsd-simplified
+name: extractcode-libarchive
+notice_file: extractcode_libarchive-3.5.1.210223-py3-none-macosx_10_14_x86_64.whl.NOTICE
+package_url: pkg:pypi/extractcode-libarchive@3.5.1.210223
+primary_language: Python
+type: pypi
+version: 3.5.1.210223

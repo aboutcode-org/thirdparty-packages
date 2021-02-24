@@ -1,0 +1,17 @@
+about_resource: textcode_pdf2text-4.3.210217-py3-none-win_amd64.whl
+checksum_md5: c22c44b7f21e9b7c5277f41bdfc37353
+checksum_sha1: 30832d103ec53794601b218261541e8598853f35
+copyright:  Copyright (c) Glyph & Cog, LLC and others
+license_expression: apache-2.0 AND (gpl-2.0 OR gpl-3.0)
+description: A ScanCode path provider plugin to provide a prebuilt native libmagic binary and
+  database.
+download_url: https://files.pythonhosted.org/packages/07/ff/10dea80814da633018504461af8bb7ebf6f7a4f3def7bd6e16d808275242/textcode_pdf2text-4.3.210217-py3-none-win_amd64.whl
+holder: nexB
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/scancode-plugins
+keywords: open source,textcode,scancode,pdf,pdf2text,xpdf
+name: textcode-pdf2text
+package_url: pkg:pypi/textcode-pdf2text@4.3.210217
+primary_language: Python
+type: pypi
+version: 4.3.210217
