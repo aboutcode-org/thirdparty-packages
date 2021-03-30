@@ -1,0 +1,26 @@
+about_resource: urllib3-1.26.4-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 614921c9cf13a83124446ac86baf70f3
+checksum_sha1: ed6d9706f74bc3e27b341884e2dc9e577e7f9cb5
+copyright: Copyright 2008-2016 Andrey Petrov and contributors
+description: |
+  urllib3 is a powerful, sanity-friendly HTTP client for Python. Much of the Python ecosystem already uses urllib3 and you should too. urllib3 brings many critical features that are missing from the Python standard libraries:
+      Thread safety.
+      Connection pooling.
+      Client-side SSL/TLS verification.
+      File uploads with multipart encoding.
+      Helpers for retrying requests and dealing with HTTP redirects.
+      Support for gzip and deflate encoding.
+      Proxy support for HTTP and SOCKS.
+      100% test coverage.
+download_url: https://files.pythonhosted.org/packages/09/c6/d3e3abe5b4f4f16cf0dfc9240ab7ce10c2baa0e268989a4e3ec19e90c84e/urllib3-1.26.4-py2.py3-none-any.whl
+homepage_url: https://github.com/shazow/urllib3
+license_expression: mit
+name: urllib3
+notice_file: urllib3-1.26.4-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/shazow/urllib3/blob/master/LICENSE.txt
+owner: Andrey Petrov
+package_url: pkg:pypi/urllib3@1.26.4
+primary_language: Python
+type: pypi
+version: 1.26.4
