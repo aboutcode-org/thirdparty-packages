@@ -1,0 +1,16 @@
+about_resource: Django-3.1.7-py3-none-any.whl
+attribute: yes
+checksum_md5: 28fea6fbd0ab6cb4e0c861c7b192daeb
+checksum_sha1: 5958625f9b3788dec7075ba068702a986ae70bd3
+copyright: Copyright (c) Django Software Foundation and individual contributors.
+description: |
+  Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+  Developed by a fast-moving online-news operation, Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it. It lets you build high-performing, elegant Web applications quickly.
+download_url: https://files.pythonhosted.org/packages/b8/6f/9a4415cc4fe9228e26ea53cf2005961799b2abb8da0411e519fdb74754fa/Django-3.1.7-py3-none-any.whl
+homepage_url: https://www.djangoproject.com/
+license_expression: bsd-new
+name: Django
+package_url: pkg:pypi/django@3.1.7
+primary_language: Python
+type: pypi
+version: 3.1.7
