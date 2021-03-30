@@ -3,6 +3,7 @@ checksum_md5: 20b7cf9fbb6fe8c321846bf81d9f5294
 checksum_sha1: 5103052f6c5f824e808588db04ccc33d1da0f474
 copyright: Copyright (C) Igor Pavlov.
 description: A ScanCode path provider plugin to provide a prebuilt native sevenzip binary.
+download_url: https://files.pythonhosted.org/packages/87/09/605b61c958d37cbc198ed09754e6560c7b13195f37a77a0ca894abd54ab5/extractcode_7z-16.5.210122-py3-none-macosx_11_0_intel.whl
 holder: nexB
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/scancode-plugins

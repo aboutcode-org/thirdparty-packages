@@ -5,7 +5,7 @@ checksum_sha1: 59d70a68e5def855583019a48ac573732037322f
 contact: armin.ronacher@active-4.com
 copyright: Copyright (c) Armin Ronacher
 description: Implements an XML/HTML/XHTML Markup safe string for Python
-download_url: https://thirdparty.aboutcode.org/pypi/MarkupSafe-1.1.1-cp39-cp39-win_amd64.whl
+download_url: https://files.pythonhosted.org/packages/fb/39/de6ecf2652dc1b0fb374888a398f326d6c61f12e8004ed3dccb093e33e00/MarkupSafe-1.1.1-cp39-cp39-win_amd64.whl
 homepage_url: https://pypi.python.org/pypi/MarkupSafe/
 license_expression: bsd-new
 name: MarkupSafe

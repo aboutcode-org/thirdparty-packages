@@ -1,6 +1,7 @@
 about_resource: rpm_inspector_rpm-4.16.1.2.210223-py3-none-manylinux2014_x86_64.whl
 checksum_md5: fc6abf609d8e38544f1e000f6e65cd34
 checksum_sha1: ea951387256c9a793f0132b98a820694544e2bda
+copyright: Copyright (c) the RPM authors
 description: A ScanCode path provider plugin to provide a prebuilt native rpm binary built with
   many rpmdb formats support. rpm binaries are is built from sources that are bundled in the
   repo and sdist.
@@ -8,7 +9,6 @@ download_url: https://files.pythonhosted.org/packages/d4/ff/2b83d6b42ac581f158d7
 holder: nexB
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/scancode-plugins
-copyright: Copyright (c) the RPM authors
 keywords: open source,packagedcode,scancode,rpm,rpmdb
 license_expression: apache-2.0 AND (gpl-2.0 AND lgpl-2.0)
 name: rpm-inspector-rpm

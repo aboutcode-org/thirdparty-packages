@@ -5,7 +5,7 @@ copyright: Copyright (c) Ian F. Darwin 1986, 1987, 1989, 1990, 1991, 1992, 1994,
   written by Ian F. Darwin and others; maintained 1994- Christos Zoulas.
 description: A ScanCode path provider plugin to provide a prebuilt native libmagic binary and
   database.
-download_url: https://thirdparty.aboutcode.org/pypi/typecode_libmagic-5.39.210223-py3-none-win_amd64.whl
+download_url: https://files.pythonhosted.org/packages/33/b0/488163eee1a07733368d9129291b32074f6405bd4e6f6f802e2a527f5316/typecode_libmagic-5.39.210223-py3-none-win_amd64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/scancode-plugins

@@ -4,7 +4,7 @@ checksum_sha1: abaaf677f4f8ff9a62ce2975d786dc93cba1540e
 copyright: copyright (c) Tim Kientzle and others
 description: A ScanCode path provider plugin to provide a system package provided libarchive
   shared library.
-download_url: https://thirdparty.aboutcode.org/pypi/extractcode_libarchive_system_provided-3.5.1.210223-py3-none-manylinux1_x86_64.whl
+download_url: https://files.pythonhosted.org/packages/b4/e6/8e6768e84d3e43ab5f652df7348c071202fe4ee7617fa8c5f9f94742ffa1/extractcode_libarchive_system_provided-3.5.1.210223-py3-none-manylinux1_x86_64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/scancode-plugins
