@@ -1,0 +1,15 @@
+about_resource: GitPython-3.1.14.tar.gz
+checksum_md5: 8d4a922cb32ce13b5c91fee1e4ecd84c
+checksum_sha1: c1ada3a86243ad5f2871394a0d6d54a7f8f069bc
+copyright: Copyright (C) Michael Trier and contributors
+license_expression: bsd-new
+description: Python Git Library
+download_url: https://files.pythonhosted.org/packages/5f/f2/ea3242d97695451ab1521775a85253e002942d2c8f4519ae1172c0f5f979/GitPython-3.1.14.tar.gz
+holder: Sebastian Thiel, Michael Trier
+holder_contact: byronimo@gmail.com, mtrier@gmail.com
+homepage_url: https://github.com/gitpython-developers/GitPython
+name: GitPython
+package_url: pkg:pypi/gitpython@3.1.14
+primary_language: Python
+type: pypi
+version: 3.1.14
