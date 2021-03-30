@@ -1,0 +1,15 @@
+about_resource: smmap-4.0.0-py2.py3-none-any.whl
+checksum_md5: 48c7fcf59ad0f78ef757e0aab6d8eb04
+checksum_sha1: 5eb1d8910b7c93de92bd8db25d0a8293b2d1de6f
+copyright: Copyright (C) Sebastian Thiel and contributors
+description: A pure Python implementation of a sliding window memory map manager
+download_url: https://files.pythonhosted.org/packages/68/ee/d540eb5e5996eb81c26ceffac6ee49041d473bc5125f2aa995cf51ec1cf1/smmap-4.0.0-py2.py3-none-any.whl
+holder: Sebastian Thiel
+holder_contact: byronimo@gmail.com
+homepage_url: https://github.com/gitpython-developers/smmap
+license_expression: bsd-new
+name: smmap
+package_url: pkg:pypi/smmap@4.0.0
+primary_language: Python
+type: pypi
+version: 4.0.0

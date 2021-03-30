@@ -2,12 +2,12 @@ about_resource: GitPython-3.1.14-py3-none-any.whl
 checksum_md5: 020c4697335110886e270066fb861e9d
 checksum_sha1: 12a5b68124ef6c73132bbadd6cf059cba1672f15
 copyright: Copyright (C) Michael Trier and contributors
-license_expression: bsd-new
 description: Python Git Library
 download_url: https://files.pythonhosted.org/packages/a6/99/98019716955ba243657daedd1de8f3a88ca1f5b75057c38e959db22fb87b/GitPython-3.1.14-py3-none-any.whl
 holder: Sebastian Thiel, Michael Trier
 holder_contact: byronimo@gmail.com, mtrier@gmail.com
 homepage_url: https://github.com/gitpython-developers/GitPython
+license_expression: bsd-new
 name: GitPython
 package_url: pkg:pypi/gitpython@3.1.14
 primary_language: Python
