@@ -1,0 +1,13 @@
+about_resource: aboutcode_toolkit-6.0.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 6b68eefa8a91cd97b86b3124b90a8ded
+checksum_sha1: 8480590a35b0fb83f9d5ece37d1fdfb6cc70e99d
+copyright: Copyright (c) nexB Inc and others
+download_url: https://files.pythonhosted.org/packages/0b/2a/8b6aa939a84dd406db47d516fd31056e72e0ee7346d90dcfddd3ef34dd40/aboutcode_toolkit-6.0.0-py3-none-any.whl
+license_expression: apache-2.0
+name: aboutcode-toolkit
+package_url: pkg:pypi/aboutcode-toolkit@6.0.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 6.0.0
