@@ -1,0 +1,15 @@
+about_resource: fetchcode_container-1.2.3.210512-py3-none-manylinux1_x86_64.whl
+checksum_md5: c6dc883eabc048ee5d3f2eb90926f4e4
+checksum_sha1: 7b8ce6421fb0924ea092c05d1db631b34d1080bf
+copyright: Copyright (c) nexB Inc. and others
+description: A ScanCode path provider plugin to provide a prebuilt native skopeobinary built
+  from sources that are bundled in the repo and sdist.
+download_url: https://thirdparty.aboutcode.org/pypi/fetchcode_container-1.2.3.210512-py3-none-manylinux1_x86_64.whl
+homepage_url: https://github.com/nexB/scancode-plugins
+keywords: open source,docker,scancode,container,fetchcode,skopeo
+license_expression: apache-2.0 AND other-permissive
+name: fetchcode-container
+package_url: pkg:pypi/fetchcode-container@1.2.3.210512
+primary_language: Python
+type: pypi
+version: 1.2.3.210512
