@@ -1,0 +1,18 @@
+about_resource: pkginfo-1.7.0.tar.gz
+checksum_md5: d05db0ca821692f4da590ba5c5c8ef2d
+checksum_sha1: f4d7d9631430d098d49e8d91706536a8cb90681f
+copyright: Copyright (c) Agendaless Consulting, Inc.
+description: Query metadatdata from sdists / bdists / installed packages.
+download_url: https://files.pythonhosted.org/packages/36/d3/f56bbbb9e03812de99be566a4c8ed90a0202b9aebd4528b2ad98900b9063/pkginfo-1.7.0.tar.gz
+holder: Tres Seaver, Agendaless Consulting
+holder_contact: tseaver@agendaless.com
+homepage_url: https://code.launchpad.net/~tseaver/pkginfo/trunk
+keywords: distribution sdist installed metadata
+license_expression: mit
+name: pkginfo
+owner: Tres Seaver
+owner_url: https://pypi.org/user/tseaver/
+package_url: pkg:pypi/pkginfo@1.7.0
+primary_language: Python
+type: pypi
+version: 1.7.0
