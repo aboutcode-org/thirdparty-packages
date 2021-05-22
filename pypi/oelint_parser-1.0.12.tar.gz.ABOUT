@@ -1,0 +1,13 @@
+about_resource: oelint_parser-1.0.12.tar.gz
+checksum_md5: 5c4c3b4fb3af573347201e8bf4a542cb
+checksum_sha1: bd391db9c62899bd248a0fa74f3eb6fe856e2d37
+copyright: Copyright (c) Konrad Weihmann
+description: Alternative parser for bitbake recipes
+download_url: https://files.pythonhosted.org/packages/f6/90/4b2f7cba2d7e436f83b71b88626515c1259bd57a03f7d83984582df0731d/oelint_parser-1.0.12.tar.gz
+homepage_url: https://github.com/priv-kweihmann/oelint-parser
+license_expression: bsd-simplified
+name: oelint_parser
+package_url: pkg:pypi/oelint-parser@1.0.12
+primary_language: Python
+type: pypi
+version: 1.0.12
