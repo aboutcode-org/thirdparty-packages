@@ -1,0 +1,14 @@
+about_resource: typing-3.10.0.0-py3-none-any.whl
+attribute: yes
+checksum_md5: cf38139027dc160e3ecd8e5ccf151da9
+checksum_sha1: 47124212e74212643addeefea65b4b58722e6dec
+copyright: Copyright (c) Python Software Foundation
+download_url: https://files.pythonhosted.org/packages/f2/5d/865e17349564eb1772688d8afc5e3081a5964c640d64d1d2880ebaed002d/typing-3.10.0.0-py3-none-any.whl
+homepage_url: https://github.com/python/typing
+license_expression: python
+name: typing
+package_url: pkg:pypi/typing@3.10.0.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 3.10.0.0

@@ -1,0 +1,13 @@
+about_resource: moreorless-0.4.0-py2.py3-none-any.whl
+checksum_md5: 6b635168aaacec6a262e42be6cab2a1d
+checksum_sha1: 5cd3db2955b1eaf3394dce8c90e50d2a482aabbc
+copyright: copyright (c) Tim Hatch <tim@timhatch.com>
+description: Python diff wrapper
+download_url: https://files.pythonhosted.org/packages/ad/88/18597dcf9ef8c5e99e1b7961975c56135810fd9d620fc43c6be8362c506a/moreorless-0.4.0-py2.py3-none-any.whl
+homepage_url: https://github.com/thatch/moreorless/
+license_expression: mit
+name: moreorless
+package_url: pkg:pypi/moreorless@0.4.0
+primary_language: Python
+type: pypi
+version: 0.4.0

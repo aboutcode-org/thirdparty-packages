@@ -1,0 +1,13 @@
+about_resource: parameterized-0.8.1-py2.py3-none-any.whl
+checksum_md5: c4969d09c87200cf06cd6e969e216057
+checksum_sha1: 72c88d61e5ef3fdcfd33b61c28144933226c62ae
+copyright: copyright (c) David Wolever <david@wolever.net>
+description: Parameterized testing with any Python test framework
+download_url: https://files.pythonhosted.org/packages/31/13/fe468c8c7400a8eca204e6e160a29bf7dcd45a76e20f1c030f3eaa690d93/parameterized-0.8.1-py2.py3-none-any.whl
+homepage_url: https://github.com/wolever/parameterized
+license_expression: bsd-2-clause-views
+name: parameterized
+package_url: pkg:pypi/parameterized@0.8.1
+primary_language: Python
+type: pypi
+version: 0.8.1

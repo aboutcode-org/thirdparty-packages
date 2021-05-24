@@ -1,0 +1,13 @@
+about_resource: scandir-1.10.0.tar.gz
+checksum_md5: f8378f4d9f95a6a78e97ab01aa900c1d
+checksum_sha1: 460c739b514872233c573dded3490718348ec820
+copyright: copyright (c) Ben Hoyt <benhoyt@gmail.com>
+description: scandir, a better directory iterator and faster os.walk()
+download_url: https://files.pythonhosted.org/packages/df/f5/9c052db7bd54d0cbf1bc0bb6554362bba1012d03e5888950a4f5c5dadc4e/scandir-1.10.0.tar.gz
+homepage_url: https://github.com/benhoyt/scandir
+license_expression: bsd-new
+name: scandir
+package_url: pkg:pypi/scandir@1.10.0
+primary_language: Python
+type: pypi
+version: 1.10.0

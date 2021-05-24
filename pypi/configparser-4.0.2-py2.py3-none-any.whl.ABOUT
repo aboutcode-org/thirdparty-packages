@@ -1,0 +1,17 @@
+about_resource: configparser-4.0.2-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 7f64f596556950d557e9da5255da81d7
+checksum_sha1: 2568d94cb8730d7be7a3e068583fba17fe0530db
+copyright: Copyright (c) Jason R. Coombs
+description: Updated configparser from Python 3.7 for Python 2.6+.
+download_url: https://files.pythonhosted.org/packages/7a/2a/95ed0501cf5d8709490b1d3a3f9b5cf340da6c433f896bbe9ce08dbe6785/configparser-4.0.2-py2.py3-none-any.whl
+homepage_url: https://github.com/jaraco/configparser/
+keywords: configparser ini parsing conf cfg configuration file
+license_expression: mit
+name: configparser
+owner: Jason R. Coombs
+package_url: pkg:pypi/configparser@4.0.2
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/jaraco/configparser/
+version: 4.0.2

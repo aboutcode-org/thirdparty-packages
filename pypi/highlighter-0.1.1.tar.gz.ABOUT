@@ -1,0 +1,13 @@
+about_resource: highlighter-0.1.1.tar.gz
+checksum_md5: da7d710d0b6e523002daf2710c20ea3a
+checksum_sha1: 83855bea895d28f1fa613135922abf19567b5d27
+copyright: copyright (c) Tim Hatch <tim@timhatch.com>
+description: Easy-to-use PEP 508 markers
+download_url: https://files.pythonhosted.org/packages/ca/8f/47273c515f1db516fa48b705869d67950c13806d966d80b3401af1779829/highlighter-0.1.1.tar.gz
+homepage_url: https://github.com/python-packaging/highlighter
+license_expression: mit
+name: highlighter
+package_url: pkg:pypi/highlighter@0.1.1
+primary_language: Python
+type: pypi
+version: 0.1.1

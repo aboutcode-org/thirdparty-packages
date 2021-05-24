@@ -1,0 +1,14 @@
+about_resource: singledispatch-3.6.1.tar.gz
+checksum_md5: 023d23223f73a04bf8c1c842a92fcda7
+checksum_sha1: b8422c125f1154dcbf4134e162a82881b0692872
+copyright: copyright (c) Jason R. Coombs <jaraco@jaraco.com>
+description: Backport functools.singledispatch from Python 3.4 to Python 2.6-3.3.
+download_url: https://files.pythonhosted.org/packages/57/f7/4e2c333915f0ea1a4e16ed50d9a420b453c4096d8b3c9b6e721211b5b47d/singledispatch-3.6.1.tar.gz
+homepage_url: https://github.com/jaraco/singledispatch
+keywords: single,dispatch,generic,functions,singledispatch,genericfunctions,decorator,backport
+license_expression: mit
+name: singledispatch
+package_url: pkg:pypi/singledispatch@3.6.1
+primary_language: Python
+type: pypi
+version: 3.6.1

@@ -1,0 +1,14 @@
+about_resource: libcst-0.3.19-py3-none-any.whl
+checksum_md5: 083545df35e1bec01b386884ab8058b2
+checksum_sha1: 70ae8a12707019e676e199fb3aecad14fc592849
+copyright: copyright (c) Instagram
+description: A concrete syntax tree with AST-like properties for Python 3.5, 3.6, 3.7 and 3.8
+  programs.
+download_url: https://files.pythonhosted.org/packages/0d/47/ad8ba60c667252be40be06073b58e3234e960ec70608579518e97b368994/libcst-0.3.19-py3-none-any.whl
+homepage_url: https://github.com/Instagram/LibCST
+license_expression: mit
+name: libcst
+package_url: pkg:pypi/libcst@0.3.19
+primary_language: Python
+type: pypi
+version: 0.3.19

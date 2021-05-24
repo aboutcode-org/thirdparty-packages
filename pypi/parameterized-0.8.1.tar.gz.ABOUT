@@ -1,0 +1,13 @@
+about_resource: parameterized-0.8.1.tar.gz
+checksum_md5: 30e34da8db0b31bbc5c0ed86cfa9e7c1
+checksum_sha1: 144f58915cf77222f6463003c426643520f9ec9c
+copyright: copyright (c) David Wolever <david@wolever.net>
+description: Parameterized testing with any Python test framework
+download_url: https://files.pythonhosted.org/packages/c6/23/2288f308d238b4f261c039cafcd650435d624de97c6ffc903f06ea8af50f/parameterized-0.8.1.tar.gz
+homepage_url: https://github.com/wolever/parameterized
+license_expression: bsd-2-clause-views
+name: parameterized
+package_url: pkg:pypi/parameterized@0.8.1
+primary_language: Python
+type: pypi
+version: 0.8.1

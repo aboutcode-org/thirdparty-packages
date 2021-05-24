@@ -1,0 +1,13 @@
+about_resource: dowsing-0.9.0b2.tar.gz
+checksum_md5: d04f65e12de36ceeaebe111436199fe3
+checksum_sha1: 459262b0ea22e38526908f773d9acfb25e0bd0e0
+copyright: copyright (c) Tim Hatch <tim@timhatch.com>
+description: Guess metadata from sdist without running
+download_url: https://files.pythonhosted.org/packages/a4/88/cc06b19e153414de3cbfea9a08c103edef3d647de3a6ceff8d570801ba45/dowsing-0.9.0b2.tar.gz
+homepage_url: https://github.com/python-packaging/dowsing/
+license_expression: mit
+name: dowsing
+package_url: pkg:pypi/dowsing@0.9.0b2
+primary_language: Python
+type: pypi
+version: 0.9.0b2

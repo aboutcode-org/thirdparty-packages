@@ -1,0 +1,15 @@
+about_resource: appdirs-1.4.4.tar.gz
+checksum_md5: d6bca12613174185dd9abc8a29f4f012
+checksum_sha1: 1fa04e44b1084338cb7b21e9cf44fce5efb81840
+copyright: Copyright (c) ActiveState Software Inc.
+description: A small Python module for determining appropriate platform-specific dirs, e.g.
+  a "user data dir".
+download_url: https://files.pythonhosted.org/packages/d7/d8/05696357e0311f5b5c316d7b95f46c669dd9c15aaeecbb48c7d0aeb88c40/appdirs-1.4.4.tar.gz
+homepage_url: http://github.com/ActiveState/appdirs
+keywords: application directory log cache user
+license_expression: mit
+name: appdirs
+package_url: pkg:pypi/appdirs@1.4.4
+primary_language: Python
+type: pypi
+version: 1.4.4

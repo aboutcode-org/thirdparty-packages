@@ -1,0 +1,13 @@
+about_resource: imperfect-0.3.0-py3-none-any.whl
+checksum_md5: 82c1644e20c48458041bb3f15da398a3
+checksum_sha1: e479e8e031b0e19247be5db73a4f9b4f4f6e3f05
+copyright: copyright (c) Tim Hatch <tim@timhatch.com>
+description: A CST-based config editor for configparser
+download_url: https://files.pythonhosted.org/packages/ad/c1/469cc0d9ac261c1c98620d65bed23c69565696963562fd14f1583a116b9b/imperfect-0.3.0-py3-none-any.whl
+homepage_url: https://github.com/thatch/imperfect/
+license_expression: mit
+name: imperfect
+package_url: pkg:pypi/imperfect@0.3.0
+primary_language: Python
+type: pypi
+version: 0.3.0

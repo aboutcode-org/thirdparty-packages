@@ -1,0 +1,13 @@
+about_resource: scandir-1.10.0-cp36-cp36m-linux_x86_64.whl
+checksum_md5: 272156dc6b79d9e0deb1095b0141ff29
+checksum_sha1: 56c14d4ef61ee29d589ac6fec81176c51a82a0e2
+copyright: copyright (c) Ben Hoyt <benhoyt@gmail.com>
+description: scandir, a better directory iterator and faster os.walk()
+download_url: https://thirdparty.aboutcode.org/pypi/scandir-1.10.0-cp36-cp36m-linux_x86_64.whl
+homepage_url: https://github.com/benhoyt/scandir
+license_expression: bsd-new
+name: scandir
+package_url: pkg:pypi/scandir@1.10.0
+primary_language: Python
+type: pypi
+version: 1.10.0

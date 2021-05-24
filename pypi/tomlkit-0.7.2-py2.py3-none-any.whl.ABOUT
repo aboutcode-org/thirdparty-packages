@@ -1,0 +1,13 @@
+about_resource: tomlkit-0.7.2-py2.py3-none-any.whl
+checksum_md5: 686218bda9d607449135d365c144e48d
+checksum_sha1: 69891a8f357e82a365e2157836c33a8948d053d7
+copyright: copyright (c) Sébastien Eustace <sebastien@eustace.io>
+description: Style preserving TOML library
+download_url: https://files.pythonhosted.org/packages/eb/ef/5bd27c1a8040874cc863c263bf38857b5607017b656943c6c93b29bc8f42/tomlkit-0.7.2-py2.py3-none-any.whl
+homepage_url: https://github.com/sdispater/tomlkit
+license_expression: mit
+name: tomlkit
+package_url: pkg:pypi/tomlkit@0.7.2
+primary_language: Python
+type: pypi
+version: 0.7.2
