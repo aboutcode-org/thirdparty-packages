@@ -1,0 +1,17 @@
+about_resource: pip-20.3.4.tar.gz
+attribute: yes
+checksum_md5: 577a375b66ec109e0ac6a4c4aa99bbd0
+checksum_sha1: 6b9b6f5e507773c592606f304ff8727c86cc7290
+copyright: Copyright (c) The Python Software Foundation and the pip authors
+description: A tool for installing and managing Python packages.
+download_url: https://files.pythonhosted.org/packages/53/7f/55721ad0501a9076dbc354cc8c63ffc2d6f1ef360f49ad0fbcce19d68538/pip-20.3.4.tar.gz
+homepage_url: https://pip.pypa.io
+license_expression: mit AND lgpl-2.1-plus AND python AND mit AND bsd-new AND (bsd-new OR apache-2.0)
+  AND apache-2.0 AND isc
+name: pip
+package_url: pkg:pypi/pip@20.3.4
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 20.3.4

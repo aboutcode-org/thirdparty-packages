@@ -1,0 +1,17 @@
+about_resource: pip-20.3.4-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 428d963b355040908117fda68108ff5f
+checksum_sha1: 886594f52f2ba60299892fd93111383d92f207be
+copyright: Copyright (c) The Python Software Foundation and the pip authors
+description: A tool for installing and managing Python packages.
+download_url: https://files.pythonhosted.org/packages/27/79/8a850fe3496446ff0d584327ae44e7500daf6764ca1a382d2d02789accf7/pip-20.3.4-py2.py3-none-any.whl
+homepage_url: https://pip.pypa.io
+license_expression: mit AND lgpl-2.1-plus AND python AND mit AND bsd-new AND (bsd-new OR apache-2.0)
+  AND apache-2.0 AND isc
+name: pip
+package_url: pkg:pypi/pip@20.3.4
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 20.3.4
