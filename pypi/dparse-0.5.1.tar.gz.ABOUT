@@ -1,25 +1,12 @@
 about_resource: dparse-0.5.1.tar.gz
 checksum_md5: d5174ef465e97f8465a427a4aa64cce9
 checksum_sha1: bf92ae484d7986a9b2528f70fc9e89180f375024
-classifiers:
-  - 'Development Status :: 2 - Pre-Alpha'
-  - 'Intended Audience :: Developers'
-  - 'Natural Language :: English'
-  - 'Programming Language :: Python :: 3'
-  - 'Programming Language :: Python :: 3.5'
-  - 'Programming Language :: Python :: 3.6'
-  - 'Programming Language :: Python :: 3.7'
-  - 'Programming Language :: Python :: 3.8'
 copyright: Copyright (c) Jannis Gebauer
-declared_license:
-  - MIT license
-  - 'License :: OSI Approved :: MIT License'
 description: A parser for Python dependency files
 download_url: https://files.pythonhosted.org/packages/a2/09/cfd9b2d31e6be7277c9aa554f07ede0529f945d2b2e63c7d0556a66dfa01/dparse-0.5.1.tar.gz
-holder: Jannis Gebauer
-holder_contact: support@pyup.io
 homepage_url: https://github.com/pyupio/dparse
 keywords: dparse
+license_expression: mit
 name: dparse
 package_url: pkg:pypi/dparse@0.5.1
 primary_language: Python

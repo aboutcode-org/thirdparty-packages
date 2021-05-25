@@ -4,10 +4,9 @@ checksum_sha1: 55f820c96b99cd1a535811b6357e7b8688ab4bac
 copyright: Copyright (c) Jannis Gebauer
 description: A parser for Python dependency files
 download_url: https://files.pythonhosted.org/packages/7e/9c/ff5e37350c75056667f2de633fc20ea68720204230d1d67e82226a45419a/dparse-0.5.1-py3-none-any.whl
-holder: Jannis Gebauer
-holder_contact: support@pyup.io
 homepage_url: https://github.com/pyupio/dparse
 keywords: dparse
+license_expression: mit
 name: dparse
 package_url: pkg:pypi/dparse@0.5.1
 primary_language: Python
