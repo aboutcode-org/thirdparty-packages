@@ -1,0 +1,18 @@
+about_resource: djangorestframework-3.12.4-py3-none-any.whl
+attribute: yes
+checksum_md5: b008156930b8a81845f3431cd2ea6de1
+checksum_sha1: 0cafc4886b912654e38ebd7d3cd698e8f873149d
+copyright: Copyright (c) 2011-2016, Tom Christie
+description: Web APIs for Django.
+download_url: https://files.pythonhosted.org/packages/d7/fe/18d96db43d440654e01a5831accd02948d373c160082bef186d6dc926255/djangorestframework-3.12.4-py3-none-any.whl
+homepage_url: http://www.django-rest-framework.org/
+license_expression: bsd-simplified
+name: djangorestframework
+notice_file: djangorestframework-3.12.4-py3-none-any.whl.NOTICE
+notice_url: https://github.com/encode/django-rest-framework/blob/master/LICENSE.md
+owner: Tom Christie
+owner_url: https://github.com/tomchristie
+package_url: pkg:pypi/djangorestframework@3.12.4
+primary_language: Python
+type: pypi
+version: 3.12.4

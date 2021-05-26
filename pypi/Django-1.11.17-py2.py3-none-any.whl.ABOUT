@@ -1,0 +1,16 @@
+about_resource: Django-1.11.17-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: a638d81ed5a9f3e72aaa623208a0328e
+checksum_sha1: f9f2302e3c18d2655a6912fcea1a3b822702f65e
+copyright: Copyright (c) Django Software Foundation and individual contributors.
+description: |
+  Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+  Developed by a fast-moving online-news operation, Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it. It lets you build high-performing, elegant Web applications quickly.
+download_url: https://files.pythonhosted.org/packages/09/2b/6c2d363e3d46307251a9d6bf74ec28543805bbcadf56ca729f4a04846914/Django-1.11.17-py2.py3-none-any.whl
+homepage_url: https://www.djangoproject.com/
+license_expression: bsd-new
+name: Django
+package_url: pkg:pypi/django@1.11.17
+primary_language: Python
+type: pypi
+version: 1.11.17

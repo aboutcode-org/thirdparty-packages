@@ -1,0 +1,14 @@
+about_resource: django_filter-2.4.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 8fa5aff9a048b227464b1512fc1edd0d
+checksum_sha1: 59a95969f9d181743ffe881747bdc2a631d42640
+copyright: Copyright (c) Alex Gaynor and individual contributors.
+description: A generic system for filtering Django QuerySets based on user selections
+download_url: https://files.pythonhosted.org/packages/71/2b/b2fe483c3095b6222725dd05f9ad9e6ed6cb7347c154fdbd80238d36f1a8/django_filter-2.4.0-py3-none-any.whl
+homepage_url: https://github.com/alex/django-filter
+license_expression: bsd-new
+name: django-filter
+package_url: pkg:pypi/django-filter@2.4.0
+primary_language: Python
+type: pypi
+version: 2.4.0

@@ -1,0 +1,16 @@
+about_resource: Django-1.11.17.tar.gz
+attribute: yes
+checksum_md5: 7ca3b663495a78895f014573f37db606
+checksum_sha1: eefdad39bfc854130676d9a0780f083f93e55642
+copyright: Copyright (c) Django Software Foundation and individual contributors.
+description: |
+  Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+  Developed by a fast-moving online-news operation, Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it. It lets you build high-performing, elegant Web applications quickly.
+download_url: https://files.pythonhosted.org/packages/a3/60/9d004f544297259b9467a1429e48d1fe1bda990aeb80744afaccb34aab4a/Django-1.11.17.tar.gz
+homepage_url: https://www.djangoproject.com/
+license_expression: bsd-new
+name: Django
+package_url: pkg:pypi/django@1.11.17
+primary_language: Python
+type: pypi
+version: 1.11.17
