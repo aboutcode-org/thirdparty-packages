@@ -1,0 +1,14 @@
+about_resource: pytz-2021.1.tar.gz
+attribute: yes
+checksum_md5: 8c849bdf95414fe708a84473e42d4406
+checksum_sha1: 738cff9addf39084e5655558482f865dca2c66dd
+copyright: Copyright (c) 2003-2017 Stuart Bishop <stuart@stuartbishop.net>
+description: World timezone definitions, modern and historical
+download_url: https://files.pythonhosted.org/packages/b0/61/eddc6eb2c682ea6fd97a7e1018a6294be80dba08fa28e7a3570148b4612d/pytz-2021.1.tar.gz
+homepage_url: http://pythonhosted.org/pytz
+license_expression: mit
+name: pytz
+package_url: pkg:pypi/pytz@2021.1
+primary_language: Python
+type: pypi
+version: '2021.1'

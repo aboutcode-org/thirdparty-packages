@@ -1,0 +1,17 @@
+about_resource: pycryptodome-3.6.6-cp39-cp39-linux_x86_64.whl
+attribute: yes
+checksum_md5: 6d6e16935f750f3cc881c092374fba72
+checksum_sha1: 4867aad04a9332619db24c9237be2cec104c4bfc
+copyright: Copyright (c) pycryptodome contributors
+description: A self-contained cryptographic library for Python
+download_url: https://thirdparty.aboutcode.org/pypi/pycryptodome-3.6.6-cp39-cp39-linux_x86_64.whl
+homepage_url: https://github.com/Legrandin/pycryptodome
+license_expression: bsd-simplified AND public-domain AND other-permissive
+name: pycryptodome
+notice_file: pycryptodome-3.6.6-cp39-cp39-linux_x86_64.whl.NOTICE
+owner: Helder Eijs
+owner_url: https://github.com/Legrandin
+package_url: pkg:pypi/pycryptodome@3.6.6
+primary_language: Python
+type: pypi
+version: 3.6.6

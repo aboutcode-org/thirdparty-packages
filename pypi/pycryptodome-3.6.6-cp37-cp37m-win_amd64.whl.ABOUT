@@ -1,0 +1,17 @@
+about_resource: pycryptodome-3.6.6-cp37-cp37m-win_amd64.whl
+attribute: yes
+checksum_md5: b409e1bfad494647214ea1360e02ff76
+checksum_sha1: 631624d1d6b2a1ad3be753829e00ff5a51d47f6c
+copyright: Copyright (c) pycryptodome contributors
+description: A self-contained cryptographic library for Python
+download_url: https://files.pythonhosted.org/packages/c8/58/6bcd5e9d66c4dc2a36032936aedeb698b879b88a0ad9a82bbae28792b505/pycryptodome-3.6.6-cp37-cp37m-win_amd64.whl
+homepage_url: https://github.com/Legrandin/pycryptodome
+license_expression: bsd-simplified AND public-domain AND other-permissive
+name: pycryptodome
+notice_file: pycryptodome-3.6.6-cp37-cp37m-win_amd64.whl.NOTICE
+owner: Helder Eijs
+owner_url: https://github.com/Legrandin
+package_url: pkg:pypi/pycryptodome@3.6.6
+primary_language: Python
+type: pypi
+version: 3.6.6

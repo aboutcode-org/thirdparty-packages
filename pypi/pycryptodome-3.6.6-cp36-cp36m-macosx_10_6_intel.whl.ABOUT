@@ -1,0 +1,17 @@
+about_resource: pycryptodome-3.6.6-cp36-cp36m-macosx_10_6_intel.whl
+attribute: yes
+checksum_md5: 24f302ff65907658a99cb3595ba6ceae
+checksum_sha1: f005a79c32e39f6150810fd558c7a70d561a3daa
+copyright: Copyright (c) pycryptodome contributors
+description: A self-contained cryptographic library for Python
+download_url: https://files.pythonhosted.org/packages/18/50/439be74dd1b63c8fe87bcb163ce2c9edb0419c77b94ee45159e20b2d714c/pycryptodome-3.6.6-cp36-cp36m-macosx_10_6_intel.whl
+homepage_url: https://github.com/Legrandin/pycryptodome
+license_expression: bsd-simplified AND public-domain AND other-permissive
+name: pycryptodome
+notice_file: pycryptodome-3.6.6-cp36-cp36m-macosx_10_6_intel.whl.NOTICE
+owner: Helder Eijs
+owner_url: https://github.com/Legrandin
+package_url: pkg:pypi/pycryptodome@3.6.6
+primary_language: Python
+type: pypi
+version: 3.6.6
