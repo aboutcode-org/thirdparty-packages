@@ -1,0 +1,13 @@
+about_resource: rubymarshal-1.2.7-py3-none-any.whl
+checksum_md5: c647ca2592c1dd785e3feb6f88c56bb3
+checksum_sha1: 6393f48f902eff8b78d1ebdafaa4c89ef9309688
+copyright: copyright (c) Matthieu Gallet <github@19pouces.net>
+description: Read and write Ruby-marshalled data
+download_url: https://thirdparty.aboutcode.org/pypi/rubymarshal-1.2.7-py3-none-any.whl
+homepage_url: https://github.com/d9pouces/RubyMarshal
+license_expression: wtfpl-2.0
+name: rubymarshal
+package_url: pkg:pypi/rubymarshal@1.2.7
+primary_language: Python
+type: pypi
+version: 1.2.7
