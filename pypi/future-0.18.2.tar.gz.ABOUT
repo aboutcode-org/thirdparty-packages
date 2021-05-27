@@ -1,0 +1,52 @@
+about_resource: future-0.18.2.tar.gz
+attribute: yes
+checksum_md5: e4579c836b9c025872efe230f6270349
+checksum_sha1: d8c8b2d3889fc22bb38f049ed8e3dbdc35a83d6e
+copyright: |
+  Copyright (c) 2013-2016 Python Charmers Pty Ltd, Australia
+    Copyright: (c) 2013-2016, Ed Schofield <ed@pythoncharmers.com>
+    Copyright (c) Python Software Foundation and contributors (multiple backports)
+    Copyright (c) Jack Diederich (2to3 fixers)
+    Copyright (c) Daniel NeuhÃ¤user (2to3 fixers)
+    Copyright (c) 2013 Damian Avila (2to3 fixers)
+    Copyright (c) 2010 Armin Ronacher (Flask and 2to3 fixers)
+    Copyright (c) Armin Ronacher (python modernize https://github.com/python-modernize/python-modernize )
+    Copyright (c) 2011 Ryan Kelly (magicsuper backport https://github.com/rfk/magicsuper)
+    Copyright (c) Dan Crosta (xrange https://github.com/dcrosta/xrange)
+    Copyright (c) 2006 Google, Inc. (lib2to3, part of the Python standard library)
+    Copyright (c) 2009-2010 Joseph Amenta (lib3to2 (which includes part of lib2to3 https://bitbucket.org/amentajo/lib3to2/)
+    Copyright (c) Django Software Foundation and individual contributors. (https://github.com/django/django/
+    Copyright (c) 2009 Jinja Team. (https://github.com/pallets/jinja)
+    Copyright (c) 2010-2017 Benjamin Peterson  (https://github.com/benjaminp/six)
+    Copyright (c) Jeff Tratner (raise_with_traceback and _raise https://github.com/PythonCharmers/python-future/commits?author=jtratner
+    Copyright (c) Varriount https://github.com/Varriount
+    Copyright (c) 2012 Vinay Sajip  (https://bitbucket.org/vinay.sajip/uprefix/)
+    Copyright (c) IPython Development Team.  (https://ipython.org/)
+    Copyright (c) 2000 Luke Kenneth Casson Leighton <lkcl@samba.org>
+    Copyright (c) 1999-2002 Secret Labs AB. Copyright (c) 1999-2002 by Fredrik Lundh."
+    Copyright (c) 2000 Timothy O'Malley <timo@alum.mit.edu>
+    Copyright (c) 2000 Bastian Kleineidam (robotparser)
+    Copyright (c) 2015 Association of Universities for Research in Astronomy (AURA)
+    Copyright (c) Victor Stinner (surrogateescape)
+    Copyright (c) Raymond Hettinger (ordereddict, counter)
+    Copyright (c) Benjamin Peterson (pandas comapt)
+description: python-future is the missing compatibility layer between Python 2 and Python 3.
+  It allows you to use a single, clean Python 3.x-compatible codebase to support both Python
+  2 and Python 3 with minimal overhead.
+download_url: https://files.pythonhosted.org/packages/45/0b/38b06fd9b92dc2b68d58b75f900e97884c45bedd2ff83203d933cf5851c9/future-0.18.2.tar.gz
+homepage_url: http://python-future.org/
+keywords: future past python3 migration futurize backport six 2to3 modernize pasteurize 3to2
+license_expression: mit AND bsd-new AND python AND apache-2.0 AND bsd-simplified AND historical
+  AND public-domain AND (python OR gpl-2.0)
+name: future
+notice_file: future-0.18.2.tar.gz.NOTICE
+notice_url: https://github.com/PythonCharmers/python-future/blob/master/LICENSE.txt
+owner: Python Charmers
+owner_url: http://python-future.org/
+package_url: pkg:pypi/future@0.18.2
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/PythonCharmers/python-future
+version: 0.18.2

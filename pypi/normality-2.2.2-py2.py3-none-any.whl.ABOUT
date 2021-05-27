@@ -1,0 +1,16 @@
+about_resource: normality-2.2.2-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 242b94ba5252b4449bcfaf8864a63193
+checksum_sha1: 1b77343b794b8f613504e8f7c3fae079a9019fea
+copyright: Copyright (c) Open Knowledge Foundation, Friedrich Lindenberg, Gregor Aisch
+description: Micro-library to normalize text strings
+download_url: https://files.pythonhosted.org/packages/07/c8/93252610e6de5d45d484d08b0af0c28b21cbe338d19b6e34f695d432e359/normality-2.2.2-py2.py3-none-any.whl
+homepage_url: http://github.com/pudo/normality
+keywords: text unicode normalization slugs
+license_expression: mit
+name: normality
+owner: Friedrich Lindenberg
+package_url: pkg:pypi/normality@2.2.2
+primary_language: Python
+type: pypi
+version: 2.2.2

@@ -1,0 +1,16 @@
+about_resource: banal-1.0.6.tar.gz
+attribute: yes
+checksum_md5: eee3dba88d495b5f9c54a971ba4da31b
+checksum_sha1: c388a42788012fc8b0b3042f885fcf9e3e0ee5c6
+copyright: Copyright (c) Friedrich Lindenberg
+description: Commons of banal micro-functions for Python.
+download_url: https://files.pythonhosted.org/packages/8c/a7/3301a69b4a31f7324b99332d758ae8da691f7f865ccd1b2adcd973c45344/banal-1.0.6.tar.gz
+homepage_url: http://github.com/pudo/banal
+keywords: utilities commons functions
+license_expression: mit
+name: banal
+owner: Friedrich Lindenberg
+package_url: pkg:pypi/banal@1.0.6
+primary_language: Python
+type: pypi
+version: 1.0.6

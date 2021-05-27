@@ -1,0 +1,16 @@
+about_resource: jsonstreams-0.6.0-py2.py3-none-any.whl
+checksum_md5: db41682f5cb55033ba6400f08003a87a
+checksum_sha1: 710d89d93e5af97af7537241b25c4fb16d5c8919
+copyright: Copyright (c) Dylan Baker
+description: A JSON streaming writer
+download_url: https://files.pythonhosted.org/packages/af/be/233b55906cc033b890c2e4593077bc10c7e09257c46f5253dd9b2850f3f4/jsonstreams-0.6.0-py2.py3-none-any.whl
+holder: Dylan Baker
+holder_contact: dylan@pnwbakers.com
+homepage_url: https://github.com/dcbaker/jsonstreams
+keywords: JSON stream
+license_expression: mit
+name: jsonstreams
+package_url: pkg:pypi/jsonstreams@0.6.0
+primary_language: Python
+type: pypi
+version: 0.6.0
