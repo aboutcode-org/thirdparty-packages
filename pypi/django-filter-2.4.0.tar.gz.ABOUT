@@ -1,0 +1,14 @@
+about_resource: django-filter-2.4.0.tar.gz
+attribute: yes
+checksum_md5: b4ae8c342f517e7bfd3701bf5fba6281
+checksum_sha1: ba88eaf464e63cbd2438334111ee54d5bb1b9e8b
+copyright: Copyright (c) Alex Gaynor and individual contributors.
+description: A generic system for filtering Django QuerySets based on user selections
+download_url: https://files.pythonhosted.org/packages/7b/cf/adae3e55995ea27e1dceb493e0226557d4207d8819ddb99591df5204a471/django-filter-2.4.0.tar.gz
+homepage_url: https://github.com/alex/django-filter
+license_expression: bsd-new
+name: django-filter
+package_url: pkg:pypi/django-filter@2.4.0
+primary_language: Python
+type: pypi
+version: 2.4.0
