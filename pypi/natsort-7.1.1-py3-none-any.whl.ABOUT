@@ -1,0 +1,17 @@
+about_resource: natsort-7.1.1-py3-none-any.whl
+attribute: yes
+checksum_md5: 26876849bfc971158cb0e7727eaae617
+checksum_sha1: b75522cf60b055dd60e241f59673e2bfa10f1b0c
+copyright: Copyright (c) 2012-2014 Seth M. Morton
+description: Simple yet flexible natural sorting in Python.
+download_url: https://files.pythonhosted.org/packages/63/23/8b6acd2e9c0b427802dd45aacf0b2a0250893c3b26c7b1340589a588cc2a/natsort-7.1.1-py3-none-any.whl
+homepage_url: https://github.com/SethMMorton/natsort
+license_expression: mit
+name: natsort
+notice_file: natsort-7.1.1-py3-none-any.whl.NOTICE
+notice_url: https://github.com/SethMMorton/natsort/blob/master/LICENSE
+owner: Seth Morton
+package_url: pkg:pypi/natsort@7.1.1
+primary_language: Python
+type: pypi
+version: 7.1.1
