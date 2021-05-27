@@ -1,0 +1,16 @@
+about_resource: pefile-2021.5.24-py3-none-any.whl
+attribute: yes
+checksum_md5: af0ce1e7c6ea94a4ea16ef773c9355eb
+checksum_sha1: 42fddb7d318b69c0e32d5c546b67920621e5bbd6
+copyright: Copyright (c) Ero Carrera <ero.carrera@gmail.com>
+description: Python PE parsing module
+download_url: https://thirdparty.aboutcode.org/pypi/pefile-2021.5.24-py3-none-any.whl
+homepage_url: https://github.com/erocarrera/pefile
+keywords: pe,exe,dll,pefile,pecoff
+license_expression: mit
+name: pefile
+owner: Ero Carrera
+package_url: pkg:pypi/pefile@2021.5.24
+primary_language: Python
+type: pypi
+version: 2021.5.24

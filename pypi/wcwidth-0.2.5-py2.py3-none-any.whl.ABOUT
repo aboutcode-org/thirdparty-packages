@@ -1,0 +1,18 @@
+about_resource: wcwidth-0.2.5-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 8b664207c7e30fc97917d2ac444e2232
+checksum_sha1: 6cbb5d6384f6d2c8667fb3c5710ecf90dbf9e7fc
+contact: contact@jeffquast.com
+copyright: Copyright (c) 2014 Jeff Quast <contact@jeffquast.com>
+download_url: https://files.pythonhosted.org/packages/59/7c/e39aca596badaf1b78e8f547c807b04dae603a433d3e7a7e04d67f2ef3e5/wcwidth-0.2.5-py2.py3-none-any.whl
+homepage_url: https://github.com/jquast/wcwidth/
+license_expression: mit AND other-permissive
+name: wcwidth
+notice_file: wcwidth-0.2.5-py2.py3-none-any.whl.NOTICE
+owner: Jeff Quast
+owner_url: http://jeffquast.com
+package_url: pkg:pypi/wcwidth@0.2.5
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/jquast/wcwidth/
+version: 0.2.5

@@ -1,0 +1,13 @@
+about_resource: regex-2021.4.4-cp38-cp38-manylinux2014_x86_64.whl
+checksum_md5: 6f7a2123cd4583fd7272e369e91d499b
+checksum_sha1: 5d154310099e4e9527d38ab571a20c1a45aa9b63
+copyright: copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+description: Alternative regular expression module, to replace re.
+download_url: https://files.pythonhosted.org/packages/ff/e6/bdc72d3c1e3440b5ba201c6c0184c33234cf0506fa049dff7dbe09bf6602/regex-2021.4.4-cp38-cp38-manylinux2014_x86_64.whl
+homepage_url: https://bitbucket.org/mrabarnett/mrab-regex
+license_expression: apache-2.0 AND python
+name: regex
+package_url: pkg:pypi/regex@2021.4.4
+primary_language: Python
+type: pypi
+version: 2021.4.4

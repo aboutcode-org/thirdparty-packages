@@ -1,0 +1,16 @@
+about_resource: ply-3.11.tar.gz
+attribute: yes
+checksum_md5: 6465f602e656455affcd7c5734c638f8
+checksum_sha1: 10a555a32095991fbc7f7ed10c677a14e21fad1d
+copyright: Copyright (c) 2001-2016 David M. Beazley (Dabeaz LLC)
+description: PLY (Python Lex-Yacc) is an implementation of lex and yacc parsing tools for Python.
+download_url: https://files.pythonhosted.org/packages/e5/69/882ee5c9d017149285cab114ebeab373308ef0f874fcdac9beb90e0ac4da/ply-3.11.tar.gz
+homepage_url: http://www.dabeaz.com/ply/
+license_expression: bsd-new
+name: ply
+owner: David Beazley
+owner_url: http://www.dabeaz.com/ply/
+package_url: pkg:pypi/ply@3.11
+primary_language: Python
+type: pypi
+version: '3.11'

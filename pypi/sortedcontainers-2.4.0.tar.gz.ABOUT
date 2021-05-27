@@ -1,0 +1,17 @@
+about_resource: sortedcontainers-2.4.0.tar.gz
+ame: sortedcontainers
+attribute: yes
+checksum_md5: 50eeb6cb739568b590b28f9a3f445c78
+checksum_sha1: 2eb89d4aac3a41ca340e277e084573eb76f8f0c1
+copyright: Copyright (c) Grant Jenks
+description: Sorted Containers -- Sorted List, Sorted Dict, Sorted Set
+download_url: https://files.pythonhosted.org/packages/e8/c4/ba2f8066cceb6f23394729afe52f3bf7adec04bf9ed2c820b39e19299111/sortedcontainers-2.4.0.tar.gz
+homepage_url: http://www.grantjenks.com/docs/sortedcontainers/
+license_expression: apache-2.0
+name: sortedcontainers
+owner: Grant Jenks
+package_url: pkg:pypi/sortedcontainers@2.4.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.4.0

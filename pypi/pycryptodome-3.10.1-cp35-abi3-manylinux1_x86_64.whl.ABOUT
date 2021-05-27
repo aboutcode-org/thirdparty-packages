@@ -1,0 +1,17 @@
+about_resource: pycryptodome-3.10.1-cp35-abi3-manylinux1_x86_64.whl
+attribute: yes
+checksum_md5: bd6058e327995ad6022558ae3274acad
+checksum_sha1: 69990e91b9b2149aa44321f88d53354836b776f5
+copyright: Copyright (c) pycryptodome contributors
+description: A self-contained cryptographic library for Python
+download_url: https://files.pythonhosted.org/packages/af/ef/bedde9b7a1f237b743eb307e6c247369c2ae5ca6a79b61c064698cfd78cd/pycryptodome-3.10.1-cp35-abi3-manylinux1_x86_64.whl
+homepage_url: https://github.com/Legrandin/pycryptodome
+license_expression: bsd-simplified AND public-domain AND other-permissive
+name: pycryptodome
+notice_file: pycryptodome-3.10.1-cp35-abi3-manylinux1_x86_64.whl.NOTICE
+owner: Helder Eijs
+owner_url: https://github.com/Legrandin
+package_url: pkg:pypi/pycryptodome@3.10.1
+primary_language: Python
+type: pypi
+version: 3.10.1
