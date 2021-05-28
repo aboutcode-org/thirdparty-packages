@@ -1,0 +1,14 @@
+about_resource: fingerprints-1.0.3-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 6f884098a8ac2d54a623b57db431115c
+checksum_sha1: 06bae03ce69936e6ef46e719ae606daab544a441
+copyright: |
+  Copyright (c) Friedrich Lindenberg
+  Copyright (c) Journalism Development Network, Inc.
+download_url: https://files.pythonhosted.org/packages/ad/17/309d6bff8ad23902be7a75c8dc7137c608456f09bd999da7f58f2c626be7/fingerprints-1.0.3-py2.py3-none-any.whl
+license_expression: mit
+name: fingerprints
+package_url: pkg:pypi/fingerprints@1.0.3
+primary_language: Python
+type: pypi
+version: 1.0.3

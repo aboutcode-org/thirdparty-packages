@@ -1,0 +1,13 @@
+about_resource: cffi-1.14.5-cp36-cp36m-manylinux1_x86_64.whl
+checksum_md5: 25b39997abb9e65b4f1907e5f0e8f5f1
+checksum_sha1: 40af10ba6d0dbc3b6231c9e53cc7e39df43b1c4f
+copyright: copyright (c) Armin Rigo, Maciej Fijalkowski
+description: Foreign Function Interface for Python calling C code.
+download_url: https://files.pythonhosted.org/packages/2b/cf/9a3b04e57191a970836aeaa8b2075574f02fbdb65d6368457a2f13213e7f/cffi-1.14.5-cp36-cp36m-manylinux1_x86_64.whl
+homepage_url: http://cffi.readthedocs.org
+license_expression: mit
+name: cffi
+package_url: pkg:pypi/cffi@1.14.5
+primary_language: Python
+type: pypi
+version: 1.14.5
