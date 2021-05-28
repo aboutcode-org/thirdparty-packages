@@ -2,7 +2,7 @@ about_resource: pyahocorasick-1.4.2.tar.gz
 attribute: yes
 checksum_md5: d254c8e6f53d1f895fb1e9bb03cc73c7
 checksum_sha1: d7680c41f11de61207677a270deb35fe5335f410
-copyright: Copyright (c) Wojciech Mula
+copyright: Copyright (c) Wojciech Muła
 description: pyahocorasick is a fast and memory efficient library for exact or approximate multi-pattern
   string search.  With the ahocorasick.Automaton class, you can find multiple key strings occurrences
   at once in some input text.  You can use it as a plain dict-like Trie or convert a Trie to

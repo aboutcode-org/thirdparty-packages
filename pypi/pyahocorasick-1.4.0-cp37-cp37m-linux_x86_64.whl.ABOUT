@@ -8,6 +8,7 @@ description: pyahocorasick is a fast and memory efficient library for exact or a
   at once in some input text.  You can use it as a plain dict-like Trie or convert a Trie to
   an automaton for efficient Aho-Corasick search.  Implemented in C and tested on Python 2.7
   and 3.4+.  Works on Linux, Mac and Windows. BSD-3-clause license.
+download_url: https://thirdparty.aboutcode.org/pypi/pyahocorasick-1.4.0-cp37-cp37m-linux_x86_64.whl
 holder: Wojciech Muła
 holder_contact: wojciech_mula@poczta.onet.pl
 homepage_url: https://github.com/WojciechMula/pyahocorasick
