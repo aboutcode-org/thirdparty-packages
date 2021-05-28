@@ -8,7 +8,6 @@ download_url: https://thirdparty.aboutcode.org/pypi/ply-3.9-py2.py3-none-any.whl
 homepage_url: http://www.dabeaz.com/ply/
 license_expression: bsd-new
 name: ply
-notes: "vcs_tool: git\r\nvcs_repository: https://github.com/dabeaz/ply.git"
 owner: David Beazley
 owner_url: http://www.dabeaz.com/ply/
 package_url: pkg:pypi/ply@3.9

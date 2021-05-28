@@ -39,9 +39,6 @@ keywords: future past python3 migration futurize backport six 2to3 modernize pas
 license_expression: mit AND bsd-new AND python AND apache-2.0 AND bsd-simplified AND historical
   AND public-domain AND (python OR gpl-2.0)
 name: future
-notes: |
-  vcs_tool: git
-  vcs_repository: https://github.com/PythonCharmers/python-future.git
 notice_file: future-0.16.0-cp36-none-any.whl.NOTICE
 notice_url: https://github.com/PythonCharmers/python-future/blob/master/LICENSE.txt
 owner: Python Charmers

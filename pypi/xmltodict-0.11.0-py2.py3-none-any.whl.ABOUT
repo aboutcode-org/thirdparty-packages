@@ -9,9 +9,6 @@ download_url: https://files.pythonhosted.org/packages/42/a9/7e99652c6bc619d19d58
 homepage_url: https://github.com/martinblech/xmltodict/
 license_expression: mit
 name: xmltodict
-notes: |
-  vcs_tool: git
-  vcs_repo: https://github.com/martinblech/xmltodict.git
 owner: Martin Blech
 owner_url: https://github.com/martinblech
 package_url: pkg:pypi/xmltodict@0.11.0

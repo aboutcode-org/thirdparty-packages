@@ -1,0 +1,18 @@
+about_resource: MarkupSafe-2.0.1-cp36-cp36m-manylinux2010_x86_64.whl
+attribute: yes
+checksum_md5: 92d7282d2a2ec2c762bb276eadb02ffb
+checksum_sha1: a7de4a44200606159bb2004527d5f263737f1764
+contact: armin.ronacher@active-4.com
+copyright: Copyright (c) Armin Ronacher
+description: Implements an XML/HTML/XHTML Markup safe string for Python
+download_url: https://files.pythonhosted.org/packages/08/dc/a5ed54fcc61f75343663ee702cbf69831dcec9b1a952ae21cf3d1fbc56ba/MarkupSafe-2.0.1-cp36-cp36m-manylinux2010_x86_64.whl
+homepage_url: https://pypi.python.org/pypi/MarkupSafe/
+license_expression: bsd-new
+name: MarkupSafe
+notice_file: MarkupSafe-2.0.1-cp36-cp36m-manylinux2010_x86_64.whl.NOTICE
+owner: Armin Ronacher
+owner_url: http://lucumr.pocoo.org/about/
+package_url: pkg:pypi/markupsafe@2.0.1
+primary_language: Python
+type: pypi
+version: 2.0.1
