@@ -1,7 +1,7 @@
 about_resource: future-0.18.2-py3-none-any.whl
 attribute: yes
-checksum_md5: 4f9d0b2d6446616625517ce0b99e4495
-checksum_sha1: 4af064b5bd5cbe1d0998e953acc47b3c4a8618bf
+checksum_md5: 4e329e723411dc7b83eb8ce43d9fb08d
+checksum_sha1: cfa6cd00724fcea904fd20b5ae5a994d92f37ce8
 copyright: |
   Copyright (c) 2013-2016 Python Charmers Pty Ltd, Australia
     Copyright: (c) 2013-2016, Ed Schofield <ed@pythoncharmers.com>
