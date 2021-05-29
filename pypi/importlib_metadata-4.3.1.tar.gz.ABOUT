@@ -1,0 +1,18 @@
+about_resource: importlib_metadata-4.3.1.tar.gz
+attribute: yes
+checksum_md5: 68b3517fdd6fbe54d9a8eb141340eabb
+checksum_sha1: dc72861da683779bb17e53466d970dbe9f3150df
+copyright: copyright Jason R. Coombs, Barry Warsaw
+download_url: https://files.pythonhosted.org/packages/a4/8b/1d63614ef7ced52a7da2d40753968c40a4bbc14fd9c0ba85d612b44ffd9a/importlib_metadata-4.3.1.tar.gz
+homepage_url: https://gitlab.com/python-devs/importlib_metadata/
+license_expression: apache-2.0
+name: importlib_metadata
+notice_file: importlib_metadata-4.3.1.tar.gz.NOTICE
+owner: python-devs
+owner_url: https://gitlab.com/python-devs
+package_url: pkg:pypi/importlib-metadata@4.3.1
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_repository: https://gitlab.com/python-devs/importlib_metadata.git
+version: 4.3.1

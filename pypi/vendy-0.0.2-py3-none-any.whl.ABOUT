@@ -1,0 +1,13 @@
+about_resource: vendy-0.0.2-py3-none-any.whl
+checksum_md5: ca1da99fe1e72feead488753d817e97b
+checksum_sha1: f132ab10ce01fbc257acc8a12652cf2f53b84ede
+copyright: copyright (c) Dustin Ingram <di@python.org> Copyright (c) The pip developers
+description: Vendy is a tool for vendoring third-party packages into your project
+download_url: https://files.pythonhosted.org/packages/c1/f0/9c6092ca2cf1998cff66a7166ff2147131cf979427fd4b78f09baf2da30a/vendy-0.0.2-py3-none-any.whl
+homepage_url: http://github.com/di/vendy
+license_expression: apache-2.0 AND mit
+name: vendy
+package_url: pkg:pypi/vendy@0.0.2
+primary_language: Python
+type: pypi
+version: 0.0.2
