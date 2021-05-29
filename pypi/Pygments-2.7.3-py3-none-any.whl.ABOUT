@@ -11,7 +11,6 @@ homepage_url: http://pygments.org/
 license_expression: bsd-simplified AND (bsd-new AND apache-2.0 AND public-domain)
 name: Pygments
 notice_file: Pygments-2.7.3-py3-none-any.whl.NOTICE
-notice_url: https://bitbucket.org/birkenfeld/pygments-main/src/default/LICENSE?at=default
 owner: Pocoo Team
 owner_url: http://www.pocoo.org/
 package_url: pkg:pypi/pygments@2.7.3
@@ -19,3 +18,4 @@ primary_language: Python
 track_changes: yes
 type: pypi
 version: 2.7.3
+vcs_url: git+https://github.com/pygments/pygments.git

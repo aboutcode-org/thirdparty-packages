@@ -12,7 +12,6 @@ license_expression: bsd-simplified AND (bsd-new AND apache-2.0 AND public-domain
 name: Pygments
 notes: there are many test and example files under many different permissive and copyleft licenses
 notice_file: Pygments-2.4.2.tar.gz.NOTICE
-notice_url: https://bitbucket.org/birkenfeld/pygments-main/src/default/LICENSE?at=default
 owner: Pocoo Team
 owner_url: http://www.pocoo.org/
 package_url: pkg:pypi/pygments@2.4.2
@@ -20,3 +19,4 @@ primary_language: Python
 track_changes: yes
 type: pypi
 version: 2.4.2
+vcs_url: git+https://github.com/pygments/pygments.git
