@@ -1,0 +1,17 @@
+about_resource: extractcode_7z-16.5.210531-py3-none-macosx_10_14_x86_64.whl
+checksum_md5: c9e2d368db48f980347df22f269a9e01
+checksum_sha1: 8e53777b6776094bb6da184127b446775d6d8e95
+copyright: Copyright (C) Igor Pavlov.
+description: A ScanCode path provider plugin to provide a prebuilt native sevenzip binary.
+download_url: https://thirdparty.aboutcode.org/pypi/extractcode_7z-16.5.210531-py3-none-macosx_10_14_x86_64.whl
+holder: nexB
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/scancode-plugins
+keywords: open source,extractcode,libarchive
+license_expression: lgpl-2.1 and unrar and brian-gladman-3-clause
+name: extractcode-7z
+notice_file: extractcode_7z-16.5.210531-py3-none-macosx_10_14_x86_64.whl.NOTICE
+package_url: pkg:pypi/extractcode-7z@16.5.210531
+primary_language: Python
+type: pypi
+version: 16.5.210531

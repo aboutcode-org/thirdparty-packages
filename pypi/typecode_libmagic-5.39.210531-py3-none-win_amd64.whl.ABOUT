@@ -1,0 +1,19 @@
+about_resource: typecode_libmagic-5.39.210531-py3-none-win_amd64.whl
+checksum_md5: 37389638a946a69c9e42d47472963535
+checksum_sha1: 23adc8626541dca26399ea875a930fa797497863
+copyright: Copyright (c) Ian F. Darwin 1986, 1987, 1989, 1990, 1991, 1992, 1994, 1995. Software
+  written by Ian F. Darwin and others; maintained 1994- Christos Zoulas.
+description: A ScanCode path provider plugin to provide a prebuilt native libmagic binary and
+  database.
+download_url: https://thirdparty.aboutcode.org/pypi/typecode_libmagic-5.39.210531-py3-none-win_amd64.whl
+holder: nexB
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/scancode-plugins
+keywords: open source,typecode,libmagic
+license_expression: bsd-simplified-darwin AND bsd-simplified AND public-domain AND bsd-new AND
+  isc AND (bsd-new OR gpl-1.0-plus) AND bsd-original
+name: typecode-libmagic
+package_url: pkg:pypi/typecode-libmagic@5.39.210531
+primary_language: Python
+type: pypi
+version: 5.39.210531
