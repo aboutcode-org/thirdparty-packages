@@ -1,0 +1,17 @@
+about_resource: execnet-1.8.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 46e1fc6586b1b155d2c12bd96af14ac1
+checksum_sha1: be5f02eef45ef76dadb31184615abdb51b1342b8
+contact: pytest-dev@python.org
+copyright: Copyright Holger Krekel and others
+description: 'execnet: rapid multi-Python deployment'
+download_url: https://files.pythonhosted.org/packages/41/85/0cd8c8670ea330150be3427f9d279143e766839e83545f77572749b6d8c3/execnet-1.8.1-py2.py3-none-any.whl
+homepage_url: http://codespeak.net/execnet
+license_expression: mit
+name: execnet
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/execnet@1.8.1
+primary_language: Python
+type: pypi
+version: 1.8.1

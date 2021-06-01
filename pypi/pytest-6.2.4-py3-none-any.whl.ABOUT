@@ -1,0 +1,17 @@
+about_resource: pytest-6.2.4-py3-none-any.whl
+attribute: yes
+checksum_md5: 526ba1a103013bdf0438706c4461c4e0
+checksum_sha1: 984a60c72e850d523258b2ad386823b49bcbe729
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and others
+description: 'pytest: simple powerful testing with Python'
+download_url: https://files.pythonhosted.org/packages/a1/59/6821e900592fbe261f19d67e4def0cb27e52ef8ed16d9922c144961cc1ee/pytest-6.2.4-py3-none-any.whl
+homepage_url: http://pytest.org
+license_expression: mit
+name: pytest
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest@6.2.4
+primary_language: Python
+type: pypi
+version: 6.2.4

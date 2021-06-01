@@ -1,0 +1,17 @@
+about_resource: pytest-6.2.4.tar.gz
+attribute: yes
+checksum_md5: 78d75c37901f5df462afc86acaa443cd
+checksum_sha1: 2b34c657aa83b4fffa9da71c155e6c89e2106718
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and others
+description: 'pytest: simple powerful testing with Python'
+download_url: https://files.pythonhosted.org/packages/5b/98/92bbda5f83ed995ef8953349ef30c77c934abcc251c42ab3d7787a40c49c/pytest-6.2.4.tar.gz
+homepage_url: http://pytest.org
+license_expression: mit
+name: pytest
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest@6.2.4
+primary_language: Python
+type: pypi
+version: 6.2.4

@@ -1,0 +1,18 @@
+about_resource: pytest-cov-2.12.0.tar.gz
+attribute: yes
+checksum_md5: 9e2f5885f024d9205bfed45ba02a284e
+checksum_sha1: 1820d510d3c45e997565ab3247f58ae2e1013baa
+contact: pytest-dev@python.org
+copyright: Copyright (c) Meme Dough and contributors
+description: Coverage plugin for pytest.
+download_url: https://files.pythonhosted.org/packages/48/4f/07cb54230a88dd3d2af3d9a14a3fcf6d6f1fb94559345c027bcefae93501/pytest-cov-2.12.0.tar.gz
+homepage_url: https://github.com/pytest-dev/pytest-cov
+license_expression: mit AND bsd-new
+name: pytest-cov
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest-cov@2.12.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/pytest-dev/pytest-cov
+version: 2.12.0
