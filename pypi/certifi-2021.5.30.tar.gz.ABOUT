@@ -1,0 +1,20 @@
+about_resource: certifi-2021.5.30.tar.gz
+attribute: yes
+checksum_md5: 4b38238b7305fcb3ffbc4368be4e8845
+checksum_sha1: 93145f31550b5e11dc323085d75a227856b93fd4
+copyright: Copyright (c) Mozilla Contributors, packaged by Kenneth Reitz and others
+description: Certifi is a carefully curated collection of Root Certificates for validating the
+  trustworthiness of SSL certificates while verifying the identity of TLS hosts. It has been
+  extracted from the Requests project.
+download_url: https://files.pythonhosted.org/packages/6d/78/f8db8d57f520a54f0b8a438319c342c61c22759d8f9a1cd2e2180b5e5ea9/certifi-2021.5.30.tar.gz
+homepage_url: https://certifi.io/en/latest/
+license_expression: mpl-2.0
+name: certifi
+notice_file: certifi-2021.5.30.tar.gz.NOTICE
+owner: Kenneth Reitz
+package_url: pkg:pypi/certifi@2021.5.30
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 2021.5.30
