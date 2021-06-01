@@ -1,0 +1,21 @@
+about_resource: pytest-rerunfailures-10.0.tar.gz
+attribute: yes
+checksum_md5: 0e9a5e8cc06743c9f0bf08ca45895bb0
+checksum_sha1: a06cfc51439dd4eb0b3713c08edfedfbc58b4cf1
+contact: pytest-dev@python.org
+copyright: Copyright (c) Leah Klearman and pytest-dev authors
+download_url: https://files.pythonhosted.org/packages/f4/8a/3d385e40f23ad27a2d687ac213e5e760f658e646a0ebe40483c3a4143918/pytest-rerunfailures-10.0.tar.gz
+homepage_url: https://github.com/pytest-dev/pytest-rerunfailures
+license_expression: mpl-2.0
+name: pytest-rerunfailures
+notice_file: pytest-rerunfailures-10.0.tar.gz.NOTICE
+notice_url: https://github.com/pytest-dev/pytest-rerunfailures/blob/master/LICENSE
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest-rerunfailures@10.0
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/pytest-dev/pytest-rerunfailures
+version: '10.0'
