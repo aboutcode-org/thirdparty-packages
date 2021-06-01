@@ -1,16 +1,16 @@
-about_resource: typecode-21.5.31.tar.gz
-checksum_md5: cb6e6405912e94d1b18de305506d996d
-checksum_sha1: ba34ec94638f33d0da1daff42d9eff33a8f340e3
+about_resource: typecode-21.6.1-py3-none-any.whl
+checksum_md5: 4ee287f1f9ee34e65307805478634d23
+checksum_sha1: e90549e2e86f1d8808f67bef701898f9a6a96056
 copyright: copyright (c) nexB. Inc. and others
 description: Comprehensive filetype and mimetype detection using libmagic and Pygments.
-download_url: https://files.pythonhosted.org/packages/d5/91/2efdf62fc1ed71213c7eb7596a2a392354291255561a6226e0856aaeea97/typecode-21.5.31.tar.gz
+download_url: https://files.pythonhosted.org/packages/b7/16/671586d0fd255e60510873c5a681515e5e98dd311636326eefa7683665cd/typecode-21.6.1-py3-none-any.whl
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/typecode
 keywords: scancode,scancode-toolkit,typecode
 license_expression: apache-2.0
 name: typecode
-package_url: pkg:pypi/typecode@21.5.31
+package_url: pkg:pypi/typecode@21.6.1
 primary_language: Python
 type: pypi
-version: 21.5.31
+version: 21.6.1
