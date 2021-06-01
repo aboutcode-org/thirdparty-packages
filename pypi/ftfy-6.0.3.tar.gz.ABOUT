@@ -1,0 +1,14 @@
+about_resource: ftfy-6.0.3.tar.gz
+attribute: yes
+checksum_md5: 207c1f5f4f491d71804c43807b9ab89a
+checksum_sha1: 9cf6232d75236a4bdecd5001d2d9d00eb85ab0af
+copyright: Copyright (c) Rob Speer (rob@luminoso.com)
+description: Fixes some problems with Unicode text after the fact
+download_url: https://files.pythonhosted.org/packages/af/da/d215a091986e5f01b80f5145cff6f22e2dc57c6b048aab2e882a07018473/ftfy-6.0.3.tar.gz
+homepage_url: http://github.com/LuminosoInsight/python-ftfy
+license_expression: mit
+name: ftfy
+package_url: pkg:pypi/ftfy@6.0.3
+primary_language: Python
+type: pypi
+version: 6.0.3

@@ -1,0 +1,19 @@
+about_resource: bitarray-2.1.0-cp36-cp36m-linux_x86_64.whl
+attribute: yes
+checksum_md5: b1f83ba4c7a5c08b7d2d98c5b8cdb0b3
+checksum_sha1: 17aaa7f7921274034e6003842ab179bc410f71ce
+contact: ilanschnell@gmail.com
+copyright: Copyright (c) Ilan Schnell and others
+description: efficient arrays of booleans for Python
+download_url: https://thirdparty.aboutcode.org/pypi/bitarray-2.1.0-cp36-cp36m-linux_x86_64.whl
+homepage_url: https://github.com/ilanschnell/bitarray
+license_expression: python
+name: bitarray
+notice_file: bitarray-2.1.0-cp36-cp36m-linux_x86_64.whl.NOTICE
+owner: Ilan Schnell
+owner_url: https://github.com/ilanschnell
+package_url: pkg:pypi/bitarray@2.1.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.1.0

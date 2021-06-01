@@ -5,7 +5,7 @@ checksum_sha1: b314cfa8b197a7f3c1dbfd0de3c04e8323a8ea87
 contact: http://public.web.cern.ch/public/en/Contact-en.html
 copyright: Copyright (C) CERN and others
 description: Python C-based extension implementing fast integer bit sets
-download_url: https://thirdparty.aboutcode.org/pypi/intbitset-2.4.1-cp39-cp39-win_amd64.whl
+download_url: https://files.pythonhosted.org/packages/02/e7/bca0cad2bb39afbddfa4b23e5234ee6528261975cf186898852a4377d31f/intbitset-2.4.1-cp39-cp39-win_amd64.whl
 homepage_url: https://github.com/inveniosoftware/intbitset
 license_expression: lgpl-3.0-plus
 name: intbitset
