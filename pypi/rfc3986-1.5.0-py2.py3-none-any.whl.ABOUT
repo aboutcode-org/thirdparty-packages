@@ -1,0 +1,13 @@
+about_resource: rfc3986-1.5.0-py2.py3-none-any.whl
+checksum_md5: 7f72f95f22ce02cd7e286166322580be
+checksum_sha1: b8e2041ff9ad37dba2f78e4b59b57cbed5f1b8ff
+copyright: copyright (c) Ian Stapleton Cordasco
+description: Validating URI References per RFC 3986
+download_url: https://files.pythonhosted.org/packages/c4/e5/63ca2c4edf4e00657584608bee1001302bbf8c5f569340b78304f2f446cb/rfc3986-1.5.0-py2.py3-none-any.whl
+homepage_url: http://rfc3986.readthedocs.io
+license_expression: apache-2.0
+name: rfc3986
+package_url: pkg:pypi/rfc3986@1.5.0
+primary_language: Python
+type: pypi
+version: 1.5.0

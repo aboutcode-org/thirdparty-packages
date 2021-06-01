@@ -1,0 +1,15 @@
+about_resource: docutils-0.17.1-py2.py3-none-any.whl
+checksum_md5: 33064e11c729bd8ad8f653159fd58503
+checksum_sha1: fbf7e9f9398442c425ca6bef22b87aef81cf2618
+copyright: copyight (c) David Goodger and others
+description: Docutils -- Python Documentation Utilities
+download_url: https://files.pythonhosted.org/packages/4c/5e/6003a0d1f37725ec2ebd4046b657abb9372202655f96e76795dca8c0063c/docutils-0.17.1-py2.py3-none-any.whl
+homepage_url: http://docutils.sourceforge.net/
+license_expression: public-domain AND other-permissive AND python AND bsd-simplified AND gpl-3.0-plus
+name: docutils
+notice_file: docutils-0.17.1-py2.py3-none-any.whl.NOTICE
+owner: David Goodger
+package_url: pkg:pypi/docutils@0.17.1
+primary_language: Python
+type: pypi
+version: 0.17.1

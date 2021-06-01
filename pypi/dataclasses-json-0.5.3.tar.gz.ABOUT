@@ -1,0 +1,15 @@
+about_resource: dataclasses-json-0.5.3.tar.gz
+checksum_md5: 1ca7b025fc7b222b9e806b4092ef2bc7
+checksum_sha1: 6bf7dea5209534490eac3daf2fef99d7811d31dd
+copyright: copyright (c) lidatong <charles.dt.li@gmail.com>
+description: Easily serialize dataclasses to and from JSON
+download_url: https://files.pythonhosted.org/packages/4b/56/f550eba1f7d567659b1e8e3f99c5e51cb921d50d4ca6857fa251c2d9810f/dataclasses-json-0.5.3.tar.gz
+homepage_url: https://github.com/lidatong/dataclasses-json
+keywords: dataclasses json
+license_expression: mit
+name: dataclasses-json
+owner: lidatong
+package_url: pkg:pypi/dataclasses-json@0.5.3
+primary_language: Python
+type: pypi
+version: 0.5.3

@@ -1,0 +1,13 @@
+about_resource: twine-3.4.1.tar.gz
+checksum_md5: 7fd23a9118400a6595abd33404decf32
+checksum_sha1: 16968db854a3cea0f7d76ad9e206a4b3815727f2
+copyright: copyright (c) Donald Stufft and individual contributors
+description: Collection of utilities for publishing packages on PyPI
+download_url: https://files.pythonhosted.org/packages/ac/5c/e12811190a3560c85dfb4caea752635abea59c53390592493549d88f086a/twine-3.4.1.tar.gz
+homepage_url: https://twine.readthedocs.io/
+license_expression: apache-2.0
+name: twine
+package_url: pkg:pypi/twine@3.4.1
+primary_language: Python
+type: pypi
+version: 3.4.1
