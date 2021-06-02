@@ -1,0 +1,15 @@
+about_resource: extractcode-21.6.2.tar.gz
+checksum_md5: ab33e7ee394036e9250c22c008bb87b5
+checksum_sha1: 88c41f7f5681a758c8638337e3b1a9a6e6c2f46c
+copyright: copyright (c) nexB. Inc. and others
+description: A set of utilities and functions for extracting archives.
+download_url: https://files.pythonhosted.org/packages/1a/20/0451639992d2f9dfc05fa4e595a83d264d4f895c68ce6fb982c2ec46a943/extractcode-21.6.2.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/extractcode
+license_expression: apache-2.0
+name: extractcode
+package_url: pkg:pypi/extractcode@21.6.2
+primary_language: Python
+type: pypi
+version: 21.6.2
