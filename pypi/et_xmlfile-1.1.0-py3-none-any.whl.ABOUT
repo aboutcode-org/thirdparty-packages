@@ -1,0 +1,13 @@
+about_resource: et_xmlfile-1.1.0-py3-none-any.whl
+checksum_md5: 9a29d8fafcf8ee613d29a2cd0035f088
+checksum_sha1: 85d20d45ef9e8e6246f804f87d2ac87abe4685cf
+copyright: Copyright (c) openpyxl and others
+description: An implementation of lxml.xmlfile for the standard library
+download_url: https://files.pythonhosted.org/packages/96/c2/3dd434b0108730014f1b96fd286040dc3bcb70066346f7e01ec2ac95865f/et_xmlfile-1.1.0-py3-none-any.whl
+homepage_url: https://foss.heptapod.net/openpyxl/et_xmlfile
+license_expression: mit
+name: et-xmlfile
+package_url: pkg:pypi/et-xmlfile@1.1.0
+primary_language: Python
+type: pypi
+version: 1.1.0
