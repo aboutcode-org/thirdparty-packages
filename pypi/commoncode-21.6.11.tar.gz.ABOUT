@@ -1,0 +1,15 @@
+about_resource: commoncode-21.6.11.tar.gz
+checksum_md5: 0a89f28d22a3f2682615d6eb3f23d326
+checksum_sha1: e02a7933794a144a7d08e60db966837796827544
+copyright: copyright (c) nexB. Inc. and others
+description: Set of common utilities, originally split from ScanCode
+download_url: https://thirdparty.aboutcode.org/pypi/commoncode-21.6.11.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/commoncode
+license_expression: apache-2.0
+name: commoncode
+package_url: pkg:pypi/commoncode@21.6.11
+primary_language: Python
+type: pypi
+version: 21.6.11

@@ -1,0 +1,15 @@
+about_resource: commoncode-21.6.11-py3-none-any.whl
+checksum_md5: 9090169c32ee05142dfe2ed5030ae707
+checksum_sha1: 56d6a9513f45498e2a05d520274750f0e7a18f4c
+copyright: copyright (c) nexB. Inc. and others
+description: Set of common utilities, originally split from ScanCode
+download_url: https://thirdparty.aboutcode.org/pypi/commoncode-21.6.11-py3-none-any.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/commoncode
+license_expression: apache-2.0
+name: commoncode
+package_url: pkg:pypi/commoncode@21.6.11
+primary_language: Python
+type: pypi
+version: 21.6.11
