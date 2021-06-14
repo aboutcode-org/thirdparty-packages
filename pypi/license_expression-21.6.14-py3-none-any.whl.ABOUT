@@ -1,0 +1,7 @@
+about_resource: license_expression-21.6.14-py3-none-any.whl
+name: license-expression
+version: 21.6.14
+download_url: https://files.pythonhosted.org/packages/32/20/84b153347691fb850d3eb96f7836b7f25251657e48456497ded4b63886f9/license_expression-21.6.14-py3-none-any.whl
+checksum_md5: 523e9c47c5ae80367bbe5068a5b25070
+checksum_sha1: 05f6d7c57f1bf51a80aefc35ea97b203309c5bc6
+package_url: pkg:pypi/license-expression@21.6.14
