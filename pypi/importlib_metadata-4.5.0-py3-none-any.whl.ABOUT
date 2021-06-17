@@ -1,0 +1,18 @@
+about_resource: importlib_metadata-4.5.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 94631ad1786db262a0e13604b5b29600
+checksum_sha1: ebd89b764180afd22e361a46b82f8200af49de67
+copyright: copyright Jason R. Coombs, Barry Warsaw
+download_url: https://files.pythonhosted.org/packages/23/5d/f2151217058e7d5c5b4b584bc6052c2ae478c5a36b58a056364351613bfb/importlib_metadata-4.5.0-py3-none-any.whl
+homepage_url: https://gitlab.com/python-devs/importlib_metadata/
+license_expression: apache-2.0
+name: importlib-metadata
+notice_file: importlib_metadata-4.5.0-py3-none-any.whl.NOTICE
+owner: python-devs
+owner_url: https://gitlab.com/python-devs
+package_url: pkg:pypi/importlib-metadata@4.5.0
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_repository: https://gitlab.com/python-devs/importlib_metadata.git
+version: 4.5.0

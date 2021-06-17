@@ -3,7 +3,7 @@ checksum_md5: 0a89f28d22a3f2682615d6eb3f23d326
 checksum_sha1: e02a7933794a144a7d08e60db966837796827544
 copyright: copyright (c) nexB. Inc. and others
 description: Set of common utilities, originally split from ScanCode
-download_url: https://thirdparty.aboutcode.org/pypi/commoncode-21.6.11.tar.gz
+download_url: https://files.pythonhosted.org/packages/47/51/354f7e43ac1abe0c9410bbcd90ee274858fc807338a98fd699c3105a5418/commoncode-21.6.11.tar.gz
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/commoncode

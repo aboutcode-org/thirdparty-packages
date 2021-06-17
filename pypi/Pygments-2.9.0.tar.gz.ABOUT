@@ -11,11 +11,11 @@ homepage_url: http://pygments.org/
 license_expression: bsd-simplified AND (bsd-new AND apache-2.0 AND public-domain)
 name: Pygments
 notice_file: Pygments-2.9.0.tar.gz.NOTICE
-\owner: Pocoo Team
+owner: Pocoo Team
 owner_url: http://www.pocoo.org/
 package_url: pkg:pypi/pygments@2.9.0
 primary_language: Python
 track_changes: yes
 type: pypi
-version: 2.9.0
 vcs_url: git+https://github.com/pygments/pygments.git
+version: 2.9.0
