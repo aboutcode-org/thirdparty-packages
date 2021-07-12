@@ -1,0 +1,16 @@
+about_resource: zipp-3.5.0.tar.gz
+attribute: yes
+checksum_md5: 617efbf3edb707c57008ec00f408972f
+checksum_sha1: 53234d6dbfc809d03f2b85db6dbb4e559ef200a1
+copyright: Copyright Jason R. Coombs
+description: Backport of pathlib-compatible object wrapper for zip files
+download_url: https://files.pythonhosted.org/packages/3a/9f/1d4b62cbe8d222539a84089eeab603d8e45ee1f897803a0ae0860400d6e7/zipp-3.5.0.tar.gz
+homepage_url: https://github.com/jaraco/zipp
+license_expression: mit
+name: zipp
+owner: Jason R. Coombs
+package_url: pkg:pypi/zipp@3.5.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/jaraco/zipp
+version: 3.5.0

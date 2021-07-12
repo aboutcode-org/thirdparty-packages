@@ -1,0 +1,14 @@
+about_resource: construct-2.10.67-py3-none-any.whl
+checksum_md5: a5d0ed9b614ee5db8106f479ba146a8c
+checksum_sha1: f1b9770d7d7a8a236cd0dacb6e8d70c4548ba0e5
+copyright: Copyright (c) Arkadiusz Bulski, Tomer Filiba, Corbin Simpson
+description: A powerful declarative symmetric parser/builder for binary data
+download_url: https://thirdparty.aboutcode.org/pypi/construct-2.10.67-py3-none-any.whl
+homepage_url: http://construct.readthedocs.org
+keywords: construct,kaitai,declarative,data structure,struct,binary,symmetric,parser,builder,parsing,building,pack,unpack,packer,unpacker
+license_expression: mit
+name: construct
+package_url: pkg:pypi/construct@2.10.67
+primary_language: Python
+type: pypi
+version: 2.10.67

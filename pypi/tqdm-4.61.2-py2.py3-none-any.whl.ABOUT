@@ -1,0 +1,15 @@
+about_resource: tqdm-4.61.2-py2.py3-none-any.whl
+checksum_md5: 743543ea076e91a257e2b9ca0421117a
+checksum_sha1: e4ae25beccc09ab976347f613411e63aa9e92add
+copyright: Copyright (c) Noam Yorav-Raphael, Casper da Costa-Luis, Google Inc. and others
+description: Fast, Extensible Progress Meter
+download_url: https://files.pythonhosted.org/packages/7a/ec/f8ff3ccfc4e59ce619a66a0bf29dc3b49c2e8c07de29d572e191c006eaa2/tqdm-4.61.2-py2.py3-none-any.whl
+homepage_url: https://github.com/tqdm/tqdm
+keywords: progressbar,progressmeter,progress,bar,meter,rate,eta,console,terminal,time
+license_expression: mit AND mpl-2.0
+name: tqdm
+notice_file: tqdm-4.61.2-py2.py3-none-any.whl.NOTICE
+package_url: pkg:pypi/tqdm@4.61.2
+primary_language: Python
+type: pypi
+version: 4.61.2

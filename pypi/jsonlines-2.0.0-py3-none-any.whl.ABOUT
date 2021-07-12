@@ -1,0 +1,13 @@
+about_resource: jsonlines-2.0.0-py3-none-any.whl
+checksum_md5: 0462566738e3693b06b5bb3ab9b387b9
+checksum_sha1: 125a515bb55acabd8aa1c2b156137eaf25de98b5
+copyright: Copyright (c) Wouter Bolsterlee
+description: Library with helpers for the jsonlines file format
+download_url: https://files.pythonhosted.org/packages/d4/58/06f430ff7607a2929f80f07bfd820acbc508a4e977542fefcc522cde9dff/jsonlines-2.0.0-py3-none-any.whl
+homepage_url: https://github.com/wbolster/jsonlines
+license_expression: bsd-new
+name: jsonlines
+package_url: pkg:pypi/jsonlines@2.0.0
+primary_language: Python
+type: pypi
+version: 2.0.0

@@ -1,0 +1,13 @@
+about_resource: inflection-0.5.1.tar.gz
+checksum_md5: c3287d4f0e3bdf625a52d655cc514403
+checksum_sha1: 150a7705e88fb722139c2df7643c80717bc222e7
+copyright: Copyright (c) Janne Vanhala
+description: A port of Ruby on Rails inflector to Python
+download_url: https://files.pythonhosted.org/packages/e1/7e/691d061b7329bc8d54edbf0ec22fbfb2afe61facb681f9aaa9bff7a27d04/inflection-0.5.1.tar.gz
+homepage_url: https://github.com/jpvanhal/inflection
+license_expression: mit
+name: inflection
+package_url: pkg:pypi/inflection@0.5.1
+primary_language: Python
+type: pypi
+version: 0.5.1

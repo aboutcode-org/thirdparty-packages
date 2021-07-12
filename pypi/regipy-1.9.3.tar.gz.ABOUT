@@ -1,0 +1,14 @@
+about_resource: regipy-1.9.3.tar.gz
+checksum_md5: 78286c124b59d8aea58cf84520fbd4bc
+checksum_sha1: ba2b8489b1255d0cd4aa96d31071c858d6356828
+copyright: Copyright (c) Martin G. Korman
+description: Python Registry Parser
+download_url: https://files.pythonhosted.org/packages/68/d9/44a939a5e32e706d904cb7ebdc099964cdc4b677a3ebac6db2477f6ef908/regipy-1.9.3.tar.gz
+homepage_url: https://github.com/mkorman90/regipy/
+keywords: Python,Python3,registry,windows registry,registry parser
+license_expression: mit
+name: regipy
+package_url: pkg:pypi/regipy@1.9.3
+primary_language: Python
+type: pypi
+version: 1.9.3

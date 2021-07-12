@@ -1,0 +1,13 @@
+about_resource: tabulate-0.8.9-py3-none-any.whl
+checksum_md5: 1a2ab1fba64a6c181c0c0924601c0851
+checksum_sha1: 3a6b15b963c44fd9c13065ef8bad183d9896d79d
+copyright: Copyright (c) Sergey Astanin
+description: Pretty-print tabular data
+download_url: https://files.pythonhosted.org/packages/ca/80/7c0cad11bd99985cfe7c09427ee0b4f9bd6b048bd13d4ffb32c6db237dfb/tabulate-0.8.9-py3-none-any.whl
+homepage_url: https://github.com/astanin/python-tabulate
+license_expression: mit
+name: tabulate
+package_url: pkg:pypi/tabulate@0.8.9
+primary_language: Python
+type: pypi
+version: 0.8.9

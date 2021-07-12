@@ -1,0 +1,13 @@
+about_resource: inflection-0.5.1-py2.py3-none-any.whl
+checksum_md5: 8c12f5ff8ebd8c4e5e0767cab635100f
+checksum_sha1: 34b129b8a4df2b62019a83633b77525022616acd
+copyright: Copyright (c) Janne Vanhala
+description: A port of Ruby on Rails inflector to Python
+download_url: https://files.pythonhosted.org/packages/59/91/aa6bde563e0085a02a435aa99b49ef75b0a4b062635e606dab23ce18d720/inflection-0.5.1-py2.py3-none-any.whl
+homepage_url: https://github.com/jpvanhal/inflection
+license_expression: mit
+name: inflection
+package_url: pkg:pypi/inflection@0.5.1
+primary_language: Python
+type: pypi
+version: 0.5.1

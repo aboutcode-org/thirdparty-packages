@@ -1,0 +1,13 @@
+about_resource: Logbook-1.5.3.tar.gz
+checksum_md5: 719970ea22dd274797bb4328161d700f
+checksum_sha1: e1d8d11b8616b8a9f7c2fe38d89141b013505cac
+copyright: Copyright (c) Armin Ronacher, Georg Brandl
+description: A logging replacement for Python
+download_url: https://files.pythonhosted.org/packages/2f/d9/16ac346f7c0102835814cc9e5b684aaadea101560bb932a2403bd26b2320/Logbook-1.5.3.tar.gz
+homepage_url: http://logbook.pocoo.org/
+license_expression: bsd-new
+name: Logbook
+package_url: pkg:pypi/logbook@1.5.3
+primary_language: Python
+type: pypi
+version: 1.5.3
