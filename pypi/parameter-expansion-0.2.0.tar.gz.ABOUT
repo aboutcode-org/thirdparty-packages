@@ -1,0 +1,12 @@
+about_resource: parameter-expansion-0.2.0.tar.gz
+checksum_md5: 80f5e39e7caf30e35a96aceaccaf66af
+checksum_sha1: 99167259eb73be264079d4df4dfc2786878395bd
+copyright: copyright (c) Michael A. Smith
+description: POSIX parameter expansion in Python
+download_url: https://files.pythonhosted.org/packages/4f/f3/f629b31fdac9ffd7c79339eac22f0449a42e6ea53e57bea019806e2be177/parameter-expansion-0.2.0.tar.gz
+license_expression: apache-2.0
+name: parameter-expansion
+package_url: pkg:pypi/parameter-expansion@0.2.0
+primary_language: Python
+type: pypi
+version: 0.2.0
