@@ -1,0 +1,15 @@
+about_resource: pygmars-0.7.0b3.tar.gz
+checksum_md5: f752ddee189fe155d74dbe994b21a329
+checksum_sha1: 93595e63935c717ec1f23f5453f6de22a435eeae
+copyright: copyright (c) nexB. Inc. and others. Copyright (C) NLTK Project
+description: Craft simple regex-based small language lexers and parsers. Build parsers from
+  grammars and accept Pygments lexers as an input. Derived from NLTK.
+download_url: https://files.pythonhosted.org/packages/a0/e6/1c8b0a7c22db13dcf6b1ae01a1f04759fd794cb46e625a1ed8c50bfbb75b/pygmars-0.7.0b3.tar.gz
+homepage_url: https://github.com/nexB/pygmars
+keywords: utilities
+license_expression: apache-2.0
+name: pygmars
+package_url: pkg:pypi/pygmars@0.7.0b3
+primary_language: Python
+type: pypi
+version: 0.7.0b3
