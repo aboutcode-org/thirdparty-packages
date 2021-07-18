@@ -1,0 +1,12 @@
+about_resource: parameter_expansion_patched-0.2.1b4-py3-none-any.whl
+checksum_md5: 2a097d81f853dd7e9f6fc67cd719c588
+checksum_sha1: 142aa8080fda40424f6246ffaa786b198cfdc41b
+copyright: copyright (c) Michael A. Smith
+description: POSIX parameter expansion in Python
+download_url: https://thirdparty.aboutcode.org/pypi/parameter_expansion_patched-0.2.1b4-py3-none-any.whl
+license_expression: apache-2.0
+name: parameter-expansion-patched
+package_url: pkg:pypi/parameter-expansion-patched@0.2.1b4
+primary_language: Python
+type: pypi
+version: 0.2.1b4
