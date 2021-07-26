@@ -1,0 +1,7 @@
+about_resource: extractcode-21.7.23-py3-none-any.whl
+name: extractcode
+version: 21.7.23
+download_url: https://files.pythonhosted.org/packages/64/a3/03a25f820f8a404759bb085854089363d527f82da1e1f57b4565493bd77e/extractcode-21.7.23-py3-none-any.whl
+checksum_md5: c9761f5ab9f57b056ec8f93955eaf7ae
+checksum_sha1: 43b6dc57fff6058be9a18adba38f7b4d9a22659e
+package_url: pkg:pypi/extractcode@21.7.23

@@ -1,0 +1,7 @@
+about_resource: extractcode-21.7.23.tar.gz
+name: extractcode
+version: 21.7.23
+download_url: https://files.pythonhosted.org/packages/28/5e/008767d2905cb99f145a1bc02d26924cd546c3492264679dd09f279fec5e/extractcode-21.7.23.tar.gz
+checksum_md5: 3a0eb10ab2a57e470a00fa854fb58ec4
+checksum_sha1: 76bce89788299303ce83a455076cfad9cd35da99
+package_url: pkg:pypi/extractcode@21.7.23
