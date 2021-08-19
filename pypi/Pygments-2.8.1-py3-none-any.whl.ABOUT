@@ -17,5 +17,5 @@ package_url: pkg:pypi/pygments@2.8.1
 primary_language: Python
 track_changes: yes
 type: pypi
-version: 2.8.1
 vcs_url: git+https://github.com/pygments/pygments.git
+version: 2.8.1

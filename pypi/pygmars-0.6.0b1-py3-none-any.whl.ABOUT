@@ -4,7 +4,7 @@ checksum_sha1: cffbec7f94545510691833a9708facc8c220603f
 copyright: copyright (c) nexB. Inc. and others. Copyright (C) NLTK Project
 description: Craft simple regex-based small language lexers and parsers. Build parsers from
   grammars and accept Pygments lexers as an input. Derived from NLTK.
-download_url: https://thirdparty.aboutcode.org/pypi/pygmars-0.6.0b1-py3-none-any.whl
+download_url: https://files.pythonhosted.org/packages/a0/2a/ed7b8ae3cc8c9ac71a71901e4ec9b8775041ad19a21d5323c276ed25dd33/pygmars-0.6.0b1-py3-none-any.whl
 homepage_url: https://github.com/nexB/pygmars
 keywords: utilities
 license_expression: apache-2.0

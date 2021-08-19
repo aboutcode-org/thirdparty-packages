@@ -1,13 +1,15 @@
 about_resource: packagedcode_msitools-0.101.210706-py3-none-manylinux1_x86_64.whl
-name: packagedcode-msitools
-version: 0.101.210706
+attribute: yes
+checksum_md5: 427b35a0ca0963ffe3017532691167ee
+checksum_sha1: 4c0d602b4061a20e200ccd7797896881f6358b3c
 copyright: Copyright (c) Red Hat, Inc.
 description: A LocationProvider that provides msitool binaries for PackagedCode and ScanCode
 download_url: https://files.pythonhosted.org/packages/6f/c9/bb5ba90a3eee6706b0ac8b983d081bf03cc6d8545cead72005b38d3cd8db/packagedcode_msitools-0.101.210706-py3-none-manylinux1_x86_64.whl
-checksum_md5: 427b35a0ca0963ffe3017532691167ee
-checksum_sha1: 4c0d602b4061a20e200ccd7797896881f6358b3c
-package_url: pkg:pypi/packagedcode-msitools@0.101.210706
 license_expression: apache-2.0 AND lgpl-2.1-plus AND gpl-2.0-plus AND mit
+name: packagedcode-msitools
+package_url: pkg:pypi/packagedcode-msitools@0.101.210706
+primary_language: Python
 redistribute: yes
-attribute: yes
 track_changes: yes
+type: pypi
+version: 0.101.210706

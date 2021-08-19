@@ -4,7 +4,7 @@ checksum_sha1: 56e00a96fab5d0ac25c680aeb8849d29589a713a
 copyright: Copyright (c) nexB Inc. and others
 description: A ScanCode path provider plugin to provide a system package provided libmagic binary
   and database.
-download_url: https://thirdparty.aboutcode.org/pypi/typecode_libmagic_system_provided-5.39.210531-py3-none-manylinux1_x86_64.whl
+download_url: https://files.pythonhosted.org/packages/40/2b/e1a74f7720122d598e9faf4bb1b88bbc17e2e846bafc80130b2082656117/typecode_libmagic_system_provided-5.39.210531-py3-none-manylinux1_x86_64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/scancode-plugins

@@ -3,7 +3,7 @@ checksum_md5: c50685466a9ffeae0892a6cd1a896655
 checksum_sha1: 81cd4fb754a683e3d7b97eefa71f1ba4574b7f77
 copyright: copyright (c) Michael A. Smith
 description: POSIX parameter expansion in Python
-download_url: https://thirdparty.aboutcode.org/pypi/parameter-expansion-patched-0.2.1b4.tar.gz
+download_url: https://files.pythonhosted.org/packages/ce/3c/8601cbb2e508f29f2d396abf8bf52c173ddc7fa771a4a5b15604e262b6d4/parameter-expansion-patched-0.2.1b4.tar.gz
 license_expression: apache-2.0
 name: parameter-expansion-patched
 package_url: pkg:pypi/parameter-expansion-patched@0.2.1b4

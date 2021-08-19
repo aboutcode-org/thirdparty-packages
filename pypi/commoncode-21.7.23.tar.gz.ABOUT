@@ -1,7 +1,15 @@
 about_resource: commoncode-21.7.23.tar.gz
-name: commoncode
-version: 21.7.23
-download_url: https://files.pythonhosted.org/packages/f5/11/e92ca1fcc68c17ac9b98358c4ab11e7827365f6306fe8aed24f12b325882/commoncode-21.7.23.tar.gz
 checksum_md5: c8ab79f7a12597657290833690e1f279
 checksum_sha1: d160384fae59d7279b5ed1625d91011a7a261885
+copyright: copyright (c) nexB. Inc. and others
+description: Set of common utilities, originally split from ScanCode
+download_url: https://files.pythonhosted.org/packages/f5/11/e92ca1fcc68c17ac9b98358c4ab11e7827365f6306fe8aed24f12b325882/commoncode-21.7.23.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/commoncode
+license_expression: apache-2.0
+name: commoncode
 package_url: pkg:pypi/commoncode@21.7.23
+primary_language: Python
+type: pypi
+version: 21.7.23
