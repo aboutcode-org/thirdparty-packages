@@ -1,0 +1,17 @@
+about_resource: compiledcode-2.0.0-py3-none-any.whl
+checksum_md5: a71380d929034acd219037590a840caa
+checksum_sha1: e18e77a4d0498b0058aea351579becfa6c702ca3
+copyright: copyright (c) nexB and others
+copyrightdescription: A ScanCode scan plugin to get lkmclue, dwarf, gwt, cpp includes, code/comments
+  lines generated code and elf info.
+description: A ScanCode scan plugin to get lkmclue, dwarf, gwt, cpp includes, code/comments
+  lines generated code and elf info.
+download_url: https://files.pythonhosted.org/packages/eb/38/aeab03079f5a43fd2e4614f83e7c03cdbc213a52cde9cb6c4c6664dcc8e4/compiledcode-2.0.0-py3-none-any.whl
+homepage_url: https://github.com/nexB/scancode-plugins/binary-analysis/scancode-compiledcode
+keywords: open source,scancode,dwarf,lkmclue,elf,cpp includes,gwt
+license_expression: apache-2.0
+name: compiledcode
+package_url: pkg:pypi/compiledcode@2.0.0
+primary_language: Python
+type: pypi
+version: 2.0.0
