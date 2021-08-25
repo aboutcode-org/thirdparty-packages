@@ -1,17 +1,17 @@
-about_resource: pip-20.1.1-py2.py3-none-any.whl
+about_resource: pip-21.2.4-py3-none-any.whl
 attribute: yes
-checksum_md5: eeea173ab944151eb8ffb7bc8a3d1ddc
-checksum_sha1: 9b9ebd3baf2ce1b149c24cd430e86c6646312e88
+checksum_md5: 1b4245e809bfcf23c985e273e88e4cbe
+checksum_sha1: 12a96603947f0368b603064151a8de60b607988f
 copyright: Copyright (c) The Python Software Foundation and the pip authors
 description: A tool for installing and managing Python packages.
-download_url: https://files.pythonhosted.org/packages/43/84/23ed6a1796480a6f1a2d38f2802901d078266bda38388954d01d3f2e821d/pip-20.1.1-py2.py3-none-any.whl
+download_url: https://files.pythonhosted.org/packages/ca/31/b88ef447d595963c01060998cb329251648acf4a067721b0452c45527eb8/pip-21.2.4-py3-none-any.whl
 homepage_url: https://pip.pypa.io
 license_expression: mit AND lgpl-2.1-plus AND python AND mit AND bsd-new AND (bsd-new OR apache-2.0)
   AND apache-2.0 AND isc
 name: pip
-package_url: pkg:pypi/pip@20.1.1
+package_url: pkg:pypi/pip@21.2.4
 primary_language: Python
 redistribute: yes
 track_changes: yes
 type: pypi
-version: 20.1.1
+version: 21.2.4
