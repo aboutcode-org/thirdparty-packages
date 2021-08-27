@@ -1,0 +1,17 @@
+about_resource: execnet-1.9.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 6d06f41bd3b5d800debf505d81d0cb37
+checksum_sha1: e31c860f99997ca51266bd63ab9a1f6ecf12b92b
+contact: pytest-dev@python.org
+copyright: Copyright Holger Krekel and others
+description: 'execnet: rapid multi-Python deployment'
+download_url: https://files.pythonhosted.org/packages/81/c0/3072ecc23f4c5e0a1af35e3a222855cfd9c80a1a105ca67be3b6172637dd/execnet-1.9.0-py2.py3-none-any.whl
+homepage_url: http://codespeak.net/execnet
+license_expression: mit
+name: execnet
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/execnet@1.9.0
+primary_language: Python
+type: pypi
+version: 1.9.0

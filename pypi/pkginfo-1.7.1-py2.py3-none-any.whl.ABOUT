@@ -1,0 +1,18 @@
+about_resource: pkginfo-1.7.1-py2.py3-none-any.whl
+checksum_md5: 88cfb340c02511e23582aa2dfc8b8774
+checksum_sha1: 9efbab1c3fcdd05af94c11e61c19282ef70e770c
+copyright: Copyright (c) Agendaless Consulting, Inc.
+description: Query metadatdata from sdists / bdists / installed packages.
+download_url: https://files.pythonhosted.org/packages/77/83/1ef010f7c4563e218854809c0dff9548de65ebec930921dedf6ee5981f27/pkginfo-1.7.1-py2.py3-none-any.whl
+holder: Tres Seaver, Agendaless Consulting
+holder_contact: tseaver@agendaless.com
+homepage_url: https://code.launchpad.net/~tseaver/pkginfo/trunk
+keywords: distribution sdist installed metadata
+license_expression: mit
+name: pkginfo
+owner: Tres Seaver
+owner_url: https://pypi.org/user/tseaver/
+package_url: pkg:pypi/pkginfo@1.7.1
+primary_language: Python
+type: pypi
+version: 1.7.1

@@ -1,0 +1,12 @@
+about_resource: asgiref-3.4.1.tar.gz
+attribute: yes
+checksum_md5: b9cdefdf1c24172c8664bbac59f28812
+checksum_sha1: 1a31f1be86efec846c48df6ff449c2fde4376176
+copyright: Copyright (c) Django Software Foundation and individual contributors
+download_url: https://files.pythonhosted.org/packages/07/93/3618b68b4ba6b54bc97b5fd7d90e4981471edfaf51c8321a29a3c76cf47c/asgiref-3.4.1.tar.gz
+license_expression: bsd-new
+name: asgiref
+package_url: pkg:pypi/asgiref@3.4.1
+primary_language: Python
+type: pypi
+version: 3.4.1

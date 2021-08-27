@@ -1,0 +1,15 @@
+about_resource: cryptography-3.4.8-cp36-abi3-macosx_10_10_x86_64.whl
+checksum_md5: 7d9aca2013ac63527bb3a18359185872
+checksum_sha1: 78fb299573b4bf2ecb17d8d1111ba7f7672042f5
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/00/e4/da1509e64a92e32ec8df97f5c4372e7f0e56b5b0bad299da61a9632b900c/cryptography-3.4.8-cp36-abi3-macosx_10_10_x86_64.whl
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-3.4.8-cp36-abi3-macosx_10_10_x86_64.whl.NOTICE
+package_url: pkg:pypi/cryptography@3.4.8
+primary_language: Python
+type: pypi
+version: 3.4.8
