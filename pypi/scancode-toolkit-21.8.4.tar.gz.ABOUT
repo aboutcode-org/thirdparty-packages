@@ -1,0 +1,15 @@
+about_resource: scancode-toolkit-21.8.4.tar.gz
+checksum_md5: fe71cf4f446d3165a1601ed9323d6f1a
+checksum_sha1: 333a01e6a610b5cb00e52603e34015c017ce3fc1
+copyright: Copyright (c) nexB, Inc. <info@aboutcode.org>
+description: ScanCode is a tool to scan code for license, copyright, package and their documented
+  dependencies and other interesting facts.
+download_url: https://files.pythonhosted.org/packages/43/ff/2fa363e4f4f4e71cd356520cb216dab3115ec7fdc6315c63c75623c2fa00/scancode-toolkit-21.8.4.tar.gz
+homepage_url: https://github.com/nexB/scancode-toolkit
+keywords: open source,scan,license,package,dependency,copyright,filetype,author,extract,licensing
+license_expression: apache-2.0 AND cc-by-4.0 AND other-permissive AND other-copyleft
+name: scancode-toolkit
+package_url: pkg:pypi/scancode-toolkit@21.8.4
+primary_language: Python
+type: pypi
+version: 21.8.4
