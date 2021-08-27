@@ -1,0 +1,15 @@
+about_resource: commoncode-21.8.27.tar.gz
+checksum_md5: 7a8f029fd0db7db5ea9011f4c319f51c
+checksum_sha1: f237ebb1064f71843428daabc7f33c3ae3262ab0
+copyright: copyright (c) nexB. Inc. and others
+description: Set of common utilities, originally split from ScanCode
+download_url: https://files.pythonhosted.org/packages/14/a1/2cf55ec8fb1921ed6cedffb4f86c8af21125935b01b94a68dc683c4d8735/commoncode-21.8.27.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/commoncode
+license_expression: apache-2.0
+name: commoncode
+package_url: pkg:pypi/commoncode@21.8.27
+primary_language: Python
+type: pypi
+version: 21.8.27
