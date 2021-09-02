@@ -1,0 +1,13 @@
+about_resource: click-repl-0.2.0.tar.gz
+checksum_md5: 97a5d1dc17b0e4eb09d836872ceb78c8
+checksum_sha1: 66e26ca6ab71ee8e6979470cdc11822168c106d3
+license_expression: mit
+description: REPL plugin for Click
+download_url: https://files.pythonhosted.org/packages/60/30/11d3f09eff5ae3627bca79563855035e8d241444520500a3c7914eae6a74/click-repl-0.2.0.tar.gz
+copyright: Copyright Markus Unterwaditzer <markus@unterwaditzer.net>
+homepage_url: https://github.com/untitaker/click-repl
+name: click-repl
+package_url: pkg:pypi/click-repl@0.2.0
+primary_language: Python
+type: pypi
+version: 0.2.0

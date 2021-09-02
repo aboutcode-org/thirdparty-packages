@@ -1,0 +1,14 @@
+about_resource: Deprecated-1.2.12-py2.py3-none-any.whl
+checksum_md5: 5a2948b207c2c0713a7942d9a76bf6a2
+checksum_sha1: 81a5431cd6deaf0406f832b0eab73cadb4efc049
+license_expression: mit
+description: Python @deprecated decorator to deprecate old python classes, functions or methods.
+download_url: https://files.pythonhosted.org/packages/fb/73/994edfcba74443146c84b91921fcc269374354118d4f452fb0c54c1cbb12/Deprecated-1.2.12-py2.py3-none-any.whl
+copyright: Copyright Laurent LAPORTE <tantale.solutions@gmail.com>
+homepage_url: https://github.com/tantale/deprecated
+keywords: deprecate,deprecated,deprecation,warning,warn,decorator
+name: Deprecated
+package_url: pkg:pypi/deprecated@1.2.12
+primary_language: Python
+type: pypi
+version: 1.2.12

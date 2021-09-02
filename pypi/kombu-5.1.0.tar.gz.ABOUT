@@ -1,0 +1,18 @@
+about_resource: kombu-5.1.0.tar.gz
+attribute: yes
+checksum_md5: d5b173352cce571a49d0b08c6019747f
+checksum_sha1: 7238b31322ea1a3ea92898b5cdfadb2c270699a2
+copyright: Copyright (c) 2015-2016 Ask Solem & contributors.
+description: Messaging library for Python.
+download_url: https://files.pythonhosted.org/packages/de/e1/0410ca7f47494c979b7d479884eb36c36feec45af3b0dfc050c3611a0a85/kombu-5.1.0.tar.gz
+homepage_url: https://github.com/celery/kombu
+license_expression: bsd-new
+name: kombu
+notice_file: kombu-5.1.0.tar.gz.NOTICE
+notice_url: https://github.com/celery/kombu/blob/master/LICENSE
+owner: Celery
+owner_url: http://celeryproject.org/
+package_url: pkg:pypi/kombu@5.1.0
+primary_language: Python
+type: pypi
+version: 5.1.0

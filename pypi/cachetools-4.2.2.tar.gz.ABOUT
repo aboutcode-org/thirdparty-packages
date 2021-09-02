@@ -1,0 +1,13 @@
+about_resource: cachetools-4.2.2.tar.gz
+checksum_md5: c96a6502ae5f283c897abcf60163b211
+checksum_sha1: b32d19bba4eab37fa50898d54fdb114c5f6faaba
+license_expression: mit
+description: Extensible memoizing collections and decorators
+download_url: https://files.pythonhosted.org/packages/52/ba/619250fa6bc11ce6aa4de0604d45843090a53cd7d10d7253b89669313370/cachetools-4.2.2.tar.gz
+copyright: Copyright Thomas Kemmer <tkemmer@computer.org>
+homepage_url: https://github.com/tkem/cachetools/
+name: cachetools
+package_url: pkg:pypi/cachetools@4.2.2
+primary_language: Python
+type: pypi
+version: 4.2.2
