@@ -1,0 +1,13 @@
+about_resource: PyGithub-1.55.tar.gz
+checksum_md5: 03e5883a8d4358b0786a0db84ad56a22
+checksum_sha1: 66e8d3799264c247d807ee17158659b43cc5fdc6
+license_expression: lgpl-3.0-plus
+description: Use the full Github API v3
+download_url: https://files.pythonhosted.org/packages/98/36/386d282903c572b18abc36de68aaf4146db4659c82dceee009ef88a86b67/PyGithub-1.55.tar.gz
+copyright: Copyright Vincent Jacques <vincent@vincent-jacques.net>
+homepage_url: https://github.com/pygithub/pygithub
+name: PyGithub
+package_url: pkg:pypi/pygithub@1.55
+primary_language: Python
+type: pypi
+version: '1.55'

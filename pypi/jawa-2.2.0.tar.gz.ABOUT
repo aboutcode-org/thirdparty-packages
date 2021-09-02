@@ -1,0 +1,14 @@
+about_resource: jawa-2.2.0.tar.gz
+checksum_md5: c6b49f635bbaa25181889cda8cf035cc
+checksum_sha1: ea685b4b5fa93bf61e09d43eccb66e4d4f8b418a
+license_expression: mit
+description: Doing fun stuff with JVM ClassFiles.
+download_url: https://files.pythonhosted.org/packages/40/34/f5a11f9583b21af80c3477aff24ed5086bd144dc79059dcd8d8b1c4d3a43/jawa-2.2.0.tar.gz
+copyright: Copyright Tyler Kennedy <tk@tkte.ch>
+homepage_url: http://github.com/TkTech/Jawa
+keywords: java,disassembly,disassembler,assembly
+name: jawa
+package_url: pkg:pypi/jawa@2.2.0
+primary_language: Python
+type: pypi
+version: 2.2.0

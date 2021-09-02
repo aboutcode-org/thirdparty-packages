@@ -1,0 +1,13 @@
+about_resource: PyNaCl-1.4.0.tar.gz
+checksum_md5: 8c6c57893327a694c72510fb620e4744
+checksum_sha1: 70f0da7ec7aa757c8e99532e9a6acfdfac3d5342
+license_expression: apache-2.0
+description: Python binding to the Networking and Cryptography (NaCl) library
+download_url: https://files.pythonhosted.org/packages/cf/5a/25aeb636baeceab15c8e57e66b8aa930c011ec1c035f284170cacb05025e/PyNaCl-1.4.0.tar.gz
+copyright: Copyright The PyNaCl developers <cryptography-dev@python.org>
+homepage_url: https://github.com/pyca/pynacl/
+name: PyNaCl
+package_url: pkg:pypi/pynacl@1.4.0
+primary_language: Python
+type: pypi
+version: 1.4.0

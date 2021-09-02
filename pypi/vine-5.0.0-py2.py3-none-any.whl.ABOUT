@@ -1,0 +1,18 @@
+about_resource: vine-5.0.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 0ba931873ea78f72c8c9a1aada6cde4f
+checksum_sha1: 00faa908a9148deb3898c5807066eb538c8d7c25
+copyright: Copyright (c) 2015-2016 Ask Solem & contributors.
+description: promise, async, future
+download_url: https://files.pythonhosted.org/packages/8d/61/a7badb48186919a9fd7cf0ef427cab6d16e0ed474035c36fa64ddd72bfa2/vine-5.0.0-py2.py3-none-any.whl
+homepage_url: https://vine.readthedocs.io/en/latest/
+license_expression: bsd-new
+name: vine
+notice_file: vine-5.0.0-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/celery/vine/blob/master/LICENSE
+owner: Celery
+owner_url: http://celeryproject.org/
+package_url: pkg:pypi/vine@5.0.0
+primary_language: Python
+type: pypi
+version: 5.0.0

@@ -1,0 +1,13 @@
+about_resource: rubymarshal-1.0.3.tar.gz
+checksum_md5: df3c6b114637993adc5d3941c941f0d3
+checksum_sha1: 1a2c9a8cdf2892c2435cb747bed02629d73825bd
+copyright: copyright (c) Matthieu Gallet <github@19pouces.net>
+description: Read and write Ruby-marshalled data
+download_url: https://files.pythonhosted.org/packages/c9/92/b45f487d81d5d7e56a37ad85b9e903a5165a8c33ab952fd0235b5e7fc35c/rubymarshal-1.0.3.tar.gz
+homepage_url: https://github.com/d9pouces/RubyMarshal
+license_expression: wtfpl-2.0
+name: rubymarshal
+package_url: pkg:pypi/rubymarshal@1.0.3
+primary_language: Python
+type: pypi
+version: 1.0.3

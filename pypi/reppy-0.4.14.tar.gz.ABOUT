@@ -1,0 +1,13 @@
+about_resource: reppy-0.4.14.tar.gz
+checksum_md5: e3c0796e50e83138ce531bc1955dbbc9
+checksum_sha1: 011985a32930213332a44a613dddbad9526e58d9
+copyright: Copyright (c) 2011 SEOmoz
+license_expression: mit
+description: Replacement robots.txt Parser
+download_url: https://files.pythonhosted.org/packages/b0/b9/8bb8a4cd95dfc6038fb721fad95da8e9558ec936688150302cbd7874c45c/reppy-0.4.14.tar.gz
+homepage_url: http://github.com/seomoz/reppy
+name: reppy
+package_url: pkg:pypi/reppy@0.4.14
+primary_language: Python
+type: pypi
+version: 0.4.14

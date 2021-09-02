@@ -1,0 +1,13 @@
+about_resource: reppy-0.4.14-cp36-cp36m-linux_x86_64.whl
+checksum_md5: e58fe9bd9239189a2241bd01f8f0e9a6
+checksum_sha1: 8439b9f0fa36a02752701beaed3f104e8f46f48a
+copyright: Copyright (c) 2011 SEOmoz
+license_expression: mit
+description: Replacement robots.txt Parser
+download_url: https://thirdparty.aboutcode.org/pypi/reppy-0.4.14-cp36-cp36m-linux_x86_64.whl
+homepage_url: http://github.com/seomoz/reppy
+name: reppy
+package_url: pkg:pypi/reppy@0.4.14
+primary_language: Python
+type: pypi
+version: 0.4.14
