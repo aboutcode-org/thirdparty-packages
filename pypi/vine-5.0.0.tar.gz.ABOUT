@@ -1,0 +1,18 @@
+about_resource: vine-5.0.0.tar.gz
+attribute: yes
+checksum_md5: 2fc3270a999cdc9341ba173360d62367
+checksum_sha1: 23cd303dc42a81831b9867f03e7ab765e8d7cd80
+copyright: Copyright (c) 2015-2016 Ask Solem & contributors.
+description: promise, async, future
+download_url: https://files.pythonhosted.org/packages/66/b2/8954108816865edf2b1e0d24f3c2c11dfd7232f795bcf1e4164fb8ee5e15/vine-5.0.0.tar.gz
+homepage_url: https://vine.readthedocs.io/en/latest/
+license_expression: bsd-new
+name: vine
+notice_file: vine-5.0.0.tar.gz.NOTICE
+notice_url: https://github.com/celery/vine/blob/master/LICENSE
+owner: Celery
+owner_url: http://celeryproject.org/
+package_url: pkg:pypi/vine@5.0.0
+primary_language: Python
+type: pypi
+version: 5.0.0

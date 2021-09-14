@@ -1,0 +1,13 @@
+about_resource: mock-4.0.3-py3-none-any.whl
+checksum_md5: 510ed2443516623e5bf3d07d52cf87e4
+checksum_sha1: 89e027f3561efa6fb1dc9ab30ec60e507695bb76
+license_expression: bsd-simplified
+description: Rolling backport of unittest.mock for all Pythons
+download_url: https://files.pythonhosted.org/packages/5c/03/b7e605db4a57c0f6fba744b11ef3ddf4ddebcada35022927a2b5fc623fdf/mock-4.0.3-py3-none-any.whl
+copyright: Copyright Testing Cabal <testing-in-python@lists.idyll.org>
+homepage_url: http://mock.readthedocs.org/en/latest/
+name: mock
+package_url: pkg:pypi/mock@4.0.3
+primary_language: Python
+type: pypi
+version: 4.0.3

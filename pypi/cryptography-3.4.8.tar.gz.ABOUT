@@ -1,0 +1,15 @@
+about_resource: cryptography-3.4.8.tar.gz
+checksum_md5: e8b3e233556690acdc026b432a57c3fa
+checksum_sha1: e3b65cd503cd6c319dd398801d6e235a59b1580a
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/cc/98/8a258ab4787e6f835d350639792527d2eb7946ff9fc0caca9c3f4cf5dcfe/cryptography-3.4.8.tar.gz
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-3.4.8.tar.gz.NOTICE
+package_url: pkg:pypi/cryptography@3.4.8
+primary_language: Python
+type: pypi
+version: 3.4.8

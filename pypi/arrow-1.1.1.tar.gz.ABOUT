@@ -1,0 +1,14 @@
+about_resource: arrow-1.1.1.tar.gz
+checksum_md5: 524f60c2194ea284db8f8b0ad489efe9
+checksum_sha1: 02b2f9600dc6de140efa40c721f89adc9a6ab6c6
+license_expression: apache-2.0
+description: Better dates & times for Python
+download_url: https://files.pythonhosted.org/packages/94/39/b5bb573821d6784640c227ccbd72fa192f7542fa0f68589fd51757046030/arrow-1.1.1.tar.gz
+copyright: Copyright Chris Smith <crsmithdev@gmail.com>
+homepage_url: https://arrow.readthedocs.io
+keywords: arrow date time datetime timestamp timezone humanize
+name: arrow
+package_url: pkg:pypi/arrow@1.1.1
+primary_language: Python
+type: pypi
+version: 1.1.1

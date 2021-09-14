@@ -1,0 +1,14 @@
+about_resource: ftputil-5.0.1.tar.gz
+checksum_md5: bd7c1084a42e9e444abbb948142976b4
+checksum_sha1: 02f16b53bd94e2422a1c3250c613556d44dfeff5
+license_expression: bsd-new
+description: High-level FTP client library (virtual file system and more)
+download_url: https://files.pythonhosted.org/packages/23/0e/bfd5268c86770f39ecd2d64032889a6cf1e7087b420294510824e4df19e0/ftputil-5.0.1.tar.gz
+copyright: Copyright Stefan Schwarzer <sschwarzer@sschwarzer.net>
+homepage_url: https://ftputil.sschwarzer.net/
+keywords: FTP,client,library,virtual file system
+name: ftputil
+package_url: pkg:pypi/ftputil@5.0.1
+primary_language: Python
+type: pypi
+version: 5.0.1

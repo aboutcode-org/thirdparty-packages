@@ -1,0 +1,21 @@
+about_resource: Pygments-2.10.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 23ad6b4ae954b138728c09d8668f225e
+checksum_sha1: 8dd8170137ab3f4dc94d5006227635731b451dd1
+contact: georg@python.org
+copyright: Copyright by the Pygments team
+description: Pygments is a generic syntax highlighter suitable for use in code hosting, forums,
+  wikis or other applications that need to prettify source code.
+download_url: https://files.pythonhosted.org/packages/78/c8/8d9be2f72d8f465461f22b5f199c04f7ada933add4dae6e2468133c17471/Pygments-2.10.0-py3-none-any.whl
+homepage_url: http://pygments.org/
+license_expression: bsd-simplified AND (bsd-new AND apache-2.0 AND public-domain)
+name: Pygments
+notice_file: Pygments-2.10.0-py3-none-any.whl.NOTICE
+owner: Pocoo Team
+owner_url: http://www.pocoo.org/
+package_url: pkg:pypi/pygments@2.10.0
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_url: git+https://github.com/pygments/pygments.git
+version: 2.10.0

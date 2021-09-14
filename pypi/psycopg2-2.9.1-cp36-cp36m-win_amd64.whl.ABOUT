@@ -1,0 +1,19 @@
+about_resource: psycopg2-2.9.1-cp36-cp36m-win_amd64.whl
+attribute: yes
+checksum_md5: 5ccbfad20b21b34ccc151bf31086df3c
+checksum_sha1: 4fd4baf02955bab197f970ec1282d7e4956a4c89
+copyright: Copyright (c) The Psycopg Team
+description: Psycopg is the most popular PostgreSQL adapter for the Python programming language.
+  At its core it fully implements the Python DB API 2.0 specifications. Several extensions allow
+  access to many of the features offered by PostgreSQL.
+download_url: https://files.pythonhosted.org/packages/d4/ab/c7cbb9aa73e3623a27e5c7762cf4a1ca6570b9c862aeb1b36ef5b9f17c68/psycopg2-2.9.1-cp36-cp36m-win_amd64.whl
+homepage_url: http://initd.org/psycopg/
+license_expression: lgpl-3.0-plus WITH openssl-exception-lgpl-3.0-plus
+name: psycopg2
+notice_file: psycopg2-2.9.1-cp36-cp36m-win_amd64.whl.NOTICE
+package_url: pkg:pypi/psycopg2@2.9.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 2.9.1

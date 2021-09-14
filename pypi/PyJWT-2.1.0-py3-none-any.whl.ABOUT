@@ -1,0 +1,19 @@
+about_resource: PyJWT-2.1.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 326e03ddf1ad2a7c7929355033ec6c9e
+checksum_sha1: e1fb5dc6f95a85e7d1f93c6701b331201e8b5479
+contact: hello@jpadilla.com
+copyright: Copyright (c) 2015 Jose Padilla
+description: JSON Web Token implementation in Python
+download_url: https://files.pythonhosted.org/packages/3f/32/d5d3cab27fee7f6b22d7cd7507547ae45d52e26030fa77d1f83d0526c6e5/PyJWT-2.1.0-py3-none-any.whl
+homepage_url: https://github.com/jpadilla/pyjwt
+license_expression: mit
+name: PyJWT
+notice_file: PyJWT-2.1.0-py3-none-any.whl.NOTICE
+notice_url: https://github.com/jpadilla/pyjwt/blob/master/LICENSE
+owner: Jose Padilla
+owner_url: https://github.com/jpadilla
+package_url: pkg:pypi/pyjwt@2.1.0
+primary_language: Python
+type: pypi
+version: 2.1.0

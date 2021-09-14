@@ -1,0 +1,15 @@
+about_resource: pycodestyle-2.7.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: f8e08a52685b996cb777d2a195135102
+checksum_sha1: a0ba40069cdaa90fe37c465ca8fd564542e251a6
+copyright: 2006-2009 Johann C. Rocholl <johann@rocholl.net>
+description: pycodestyle (formerly pep8) is a tool to check your Python code against some of
+  the style conventions in PEP 8.
+download_url: https://files.pythonhosted.org/packages/de/cc/227251b1471f129bc35e966bb0fceb005969023926d744139642d847b7ae/pycodestyle-2.7.0-py2.py3-none-any.whl
+homepage_url: https://pycodestyle.readthedocs.io/
+license_expression: mit
+name: pycodestyle
+package_url: pkg:pypi/pycodestyle@2.7.0
+primary_language: Python
+type: pypi
+version: 2.7.0

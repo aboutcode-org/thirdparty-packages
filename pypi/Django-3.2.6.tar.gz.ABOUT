@@ -1,0 +1,16 @@
+about_resource: Django-3.2.6.tar.gz
+attribute: yes
+checksum_md5: 5956dbbbc9e93bde3fdf47aada293adc
+checksum_sha1: 2c23428222b6bb610506bc2a40ac0144af2966ec
+copyright: Copyright (c) Django Software Foundation and individual contributors.
+description: |
+  Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+  Developed by a fast-moving online-news operation, Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it. It lets you build high-performing, elegant Web applications quickly.
+download_url: https://files.pythonhosted.org/packages/68/3e/068446a8bf87199d0fec94f38569a8884a49fdf5811fe652f653218975f0/Django-3.2.6.tar.gz
+homepage_url: https://www.djangoproject.com/
+license_expression: bsd-new
+name: Django
+package_url: pkg:pypi/django@3.2.6
+primary_language: Python
+type: pypi
+version: 3.2.6

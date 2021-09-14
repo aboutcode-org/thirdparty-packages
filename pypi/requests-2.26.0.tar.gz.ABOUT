@@ -1,0 +1,23 @@
+about_resource: requests-2.26.0.tar.gz
+attribute: yes
+checksum_md5: 8c745949ad3e9ae83d9927fed213db8a
+checksum_sha1: 8c7a89d183d3e9b70bf91ba5b75eccf7111b9d8d
+contact: me@kennethreitz.com
+copyright: Copyright 2017 Kenneth Reitz
+description: Requests allow you to send HTTP/1.1 requests. You can add headers, form data, multipart
+  files, and parameters with simple Python dictionaries, and access the response data in the
+  same way. It's powered by httplib and urllib3, but it does all the hard work and crazy hacks
+  for you.
+download_url: https://files.pythonhosted.org/packages/e7/01/3569e0b535fb2e4a6c384bdbed00c55b9d78b5084e0fb7f4d0bf523d7670/requests-2.26.0.tar.gz
+homepage_url: http://docs.python-requests.org/
+license_expression: apache-2.0
+name: requests
+notice_file: requests-2.26.0.tar.gz.NOTICE
+owner: Kenneth Reitz
+owner_url: https://github.com/kennethreitz
+package_url: pkg:pypi/requests@2.26.0
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_url: git+https://github.com/kennethreitz/requests.git
+version: 2.26.0
