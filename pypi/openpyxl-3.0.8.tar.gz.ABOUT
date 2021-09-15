@@ -1,0 +1,28 @@
+about_resource: openpyxl-3.0.8.tar.gz
+checksum_md5: bdd7bb6f834598b24b26733e819c5162
+checksum_sha1: b749253afd6ba384e1749e11000541f0a6f0ec15
+classifiers:
+  - 'Development Status :: 5 - Production/Stable'
+  - 'Operating System :: MacOS :: MacOS X'
+  - 'Operating System :: Microsoft :: Windows'
+  - 'Operating System :: POSIX'
+  - 'Programming Language :: Python'
+  - 'Programming Language :: Python :: 3.6'
+  - 'Programming Language :: Python :: 3.7'
+  - 'Programming Language :: Python :: 3.8'
+  - 'Programming Language :: Python :: 3.9'
+copyright: Copyright (c) See AUTHORS <charlie.clark@clark-consulting.eu>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: A Python library to read/write Excel 2010 xlsx/xlsm files
+download_url: https://files.pythonhosted.org/packages/1f/fd/b8d831d0cc949c454b1f02d26b4cd5bafaf71e959a68f326909291fb2089/openpyxl-3.0.8.tar.gz
+holder: See AUTHORS
+holder_contact: charlie.clark@clark-consulting.eu
+homepage_url: https://openpyxl.readthedocs.io
+license_expression: mit
+name: openpyxl
+package_url: pkg:pypi/openpyxl@3.0.8
+primary_language: Python
+type: pypi
+version: 3.0.8

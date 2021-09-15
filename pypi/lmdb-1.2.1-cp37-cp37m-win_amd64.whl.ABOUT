@@ -1,0 +1,31 @@
+about_resource: lmdb-1.2.1-cp37-cp37m-win_amd64.whl
+checksum_md5: 3410ab3c08b17e1d62ba6845082dcd64
+checksum_sha1: 74a604c17704dc09dcec167bdc758f98330abec4
+classifiers:
+  - 'Programming Language :: Python'
+  - 'Programming Language :: Python :: Implementation :: CPython'
+  - 'Programming Language :: Python :: Implementation :: PyPy'
+  - 'Programming Language :: Python :: 2'
+  - 'Programming Language :: Python :: 2.7'
+  - 'Programming Language :: Python :: 3'
+  - 'Programming Language :: Python :: 3.4'
+  - 'Programming Language :: Python :: 3.5'
+  - 'Programming Language :: Python :: 3.6'
+  - 'Programming Language :: Python :: 3.7'
+  - 'Programming Language :: Python :: 3.8'
+  - 'Programming Language :: Python :: 3.9'
+  - 'Topic :: Database'
+  - 'Topic :: Database :: Database Engines/Servers'
+copyright: Copyright (c) David Wilson <None>
+declared_license:
+  - OpenLDAP BSD
+description: Universal Python binding for the LMDB 'Lightning' Database
+download_url: https://files.pythonhosted.org/packages/42/ba/7e76ad7543b77e5b9241d7898fb92accb38379dec788e473196965623524/lmdb-1.2.1-cp37-cp37m-win_amd64.whl
+holder: David Wilson
+homepage_url: http://github.com/jnwatson/py-lmdb/
+license_expression: unknown
+name: lmdb
+package_url: pkg:pypi/lmdb@1.2.1
+primary_language: Python
+type: pypi
+version: 1.2.1

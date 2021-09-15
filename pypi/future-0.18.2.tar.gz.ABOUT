@@ -7,7 +7,7 @@ copyright: |
     Copyright: (c) 2013-2016, Ed Schofield <ed@pythoncharmers.com>
     Copyright (c) Python Software Foundation and contributors (multiple backports)
     Copyright (c) Jack Diederich (2to3 fixers)
-    Copyright (c) Daniel NeuhÃ¤user (2to3 fixers)
+    Copyright (c) Daniel Neuhäuser (2to3 fixers)
     Copyright (c) 2013 Damian Avila (2to3 fixers)
     Copyright (c) 2010 Armin Ronacher (Flask and 2to3 fixers)
     Copyright (c) Armin Ronacher (python modernize https://github.com/python-modernize/python-modernize )

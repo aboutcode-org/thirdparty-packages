@@ -1,0 +1,17 @@
+about_resource: slumber-0.7.1-py3-none-any.whl
+checksum_md5: 950b403bad6f59b8f87fea7bdf44f4eb
+checksum_sha1: d08d70b95a73df0decc875ab99a6c744e68fc14b
+copyright: Copyright (c) Samuel Giles <sam.e.giles@gmail.com>
+declared_license:
+  - UNKNOWN
+description: A library that makes consuming a REST API easier and more convenient
+download_url: https://thirdparty.aboutcode.org/pypi/slumber-0.7.1-py3-none-any.whl
+holder: Samuel Giles
+holder_contact: sam.e.giles@gmail.com
+homepage_url: http://github.com/samgiles/slumber
+license_expression: unknown
+name: slumber
+package_url: pkg:pypi/slumber@0.7.1
+primary_language: Python
+type: pypi
+version: 0.7.1

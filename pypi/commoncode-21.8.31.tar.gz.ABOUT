@@ -1,9 +1,9 @@
 about_resource: commoncode-21.8.31.tar.gz
-checksum_md5: 81ebea9893ec3d010ee9861800ba04cd
-checksum_sha1: 4778f2f5e5ceed0c92480bd33442203805dd76a8
+checksum_md5: 28bdc90d49b37ba7f822196fddf26c6a
+checksum_sha1: e7b055e8477b9d7e698a57ded8872c5af0123069
 copyright: copyright (c) nexB. Inc. and others
 description: Set of common utilities, originally split from ScanCode
-download_url: https://thirdparty.aboutcode.org/pypi/commoncode-21.8.31.tar.gz
+download_url: https://files.pythonhosted.org/packages/f5/14/d35da5069ee3446d4e922e95995452b1cd23aa561736027c4d6f99120df0/commoncode-21.8.31.tar.gz
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/commoncode

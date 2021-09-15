@@ -3,7 +3,7 @@ checksum_md5: 83ccb298ac2a7558646d5b6f39f6a794
 checksum_sha1: bf176909bec71c74edb0ac29a747924ed46ed041
 copyright: copyright (c) nexB. Inc. and others
 description: Set of common utilities, originally split from ScanCode
-download_url: https://thirdparty.aboutcode.org/pypi/commoncode-21.8.31-py3-none-any.whl
+download_url: https://files.pythonhosted.org/packages/bd/ac/64715ca20f0581fe9097dd32e69ca8d49b28bb8b42aa32cc506d2e7d2f4f/commoncode-21.8.31-py3-none-any.whl
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/commoncode

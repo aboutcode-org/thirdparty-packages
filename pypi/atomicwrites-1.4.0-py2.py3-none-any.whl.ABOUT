@@ -1,0 +1,16 @@
+about_resource: atomicwrites-1.4.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: acc030856f5d16b2aac6dcc74d1b36a4
+checksum_sha1: efc20bf8565d277f0a09c611504309cf7105a7fb
+copyright: Copyright (c) Markus Unterwaditzer
+description: Atomic file writes.
+download_url: https://files.pythonhosted.org/packages/2c/a0/da5f49008ec6e9a658dbf5d7310a4debd397bce0b4db03cf8a410066bb87/atomicwrites-1.4.0-py2.py3-none-any.whl
+homepage_url: https://github.com/untitaker/python-atomicwrites
+license_expression: mit
+name: atomicwrites
+owner: Markus Unterwaditzer
+package_url: pkg:pypi/atomicwrites@1.4.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/untitaker/python-atomicwrites
+version: 1.4.0
