@@ -1,0 +1,17 @@
+about_resource: scancode-toolkit-mini-30.0.0.tar.gz
+checksum_md5: 29d7c9305fc1f6b8e24559a8e4e37281
+checksum_sha1: 547d3a123405c983c12acc2fd483b280a9b98ad4
+copyright: copyright (c) nexB inc. other others
+description: ScanCode is a tool to scan code for license, copyright, package and their documented
+  dependencies and other interesting facts. scancode-toolkit-mini is a special build that does
+  not come with pre-built binary dependencies by default. These are instead installed separately
+  or with the extra_requires scancode-toolkit-mini[full]
+download_url: https://thirdparty.aboutcode.org/pypi/scancode-toolkit-mini-30.0.0.tar.gz
+homepage_url: https://github.com/nexB/scancode-toolkit
+keywords: open source,scan,license,package,dependency,copyright,filetype,author,extract,licensing
+license_expression: Apache-2.0 AND CC-BY-4.0 AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-other-copyleft
+name: scancode-toolkit-mini
+package_url: pkg:pypi/scancode-toolkit-mini@30.0.0
+primary_language: Python
+type: pypi
+version: 30.0.0

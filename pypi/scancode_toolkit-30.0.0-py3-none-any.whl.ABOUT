@@ -1,0 +1,15 @@
+about_resource: scancode_toolkit-30.0.0-py3-none-any.whl
+checksum_md5: e7664f9400d771cc0f5af406a1db0fc3
+checksum_sha1: 607dbbae163e084e31a2ad4cf6a601c2a0baa0e6
+copyright: Copyright (c) nexB, Inc. <info@aboutcode.org>
+description: ScanCode is a tool to scan code for license, copyright, package and their documented
+  dependencies and other interesting facts.
+download_url: https://thirdparty.aboutcode.org/pypi/scancode_toolkit-30.0.0-py3-none-any.whl
+homepage_url: https://github.com/nexB/scancode-toolkit
+keywords: open source,scan,license,package,dependency,copyright,filetype,author,extract,licensing
+license_expression: apache-2.0 AND cc-by-4.0 AND other-permissive AND other-copyleft
+name: scancode-toolkit
+package_url: pkg:pypi/scancode-toolkit@30.0.0
+primary_language: Python
+type: pypi
+version: 30.0.0
