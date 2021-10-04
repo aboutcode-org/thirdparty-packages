@@ -1,11 +1,11 @@
 about_resource: mock-4.0.3.tar.gz
 checksum_md5: aa1da7f967fc9a23b8f2ef76b9793065
 checksum_sha1: 348e1bd2d19bd25819709ec1adc0b04c926c9a0c
-license_expression: bsd-simplified
+copyright: Copyright Testing Cabal <testing-in-python@lists.idyll.org>
 description: Rolling backport of unittest.mock for all Pythons
 download_url: https://files.pythonhosted.org/packages/e2/be/3ea39a8fd4ed3f9a25aae18a1bff2df7a610bca93c8ede7475e32d8b73a0/mock-4.0.3.tar.gz
-copyright: Copyright Testing Cabal <testing-in-python@lists.idyll.org>
 homepage_url: http://mock.readthedocs.org/en/latest/
+license_expression: bsd-simplified
 name: mock
 package_url: pkg:pypi/mock@4.0.3
 primary_language: Python
