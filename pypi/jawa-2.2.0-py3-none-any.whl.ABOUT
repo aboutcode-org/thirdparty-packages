@@ -1,12 +1,12 @@
 about_resource: jawa-2.2.0-py3-none-any.whl
 checksum_md5: 7a3c5c570dfb592d6c4cf2c7682b7cdb
 checksum_sha1: b8fed6330af1fa424f4ea0203e12bf3f4fb09ba1
-license_expression: mit
+copyright: Copyright Tyler Kennedy <tk@tkte.ch>
 description: Doing fun stuff with JVM ClassFiles.
 download_url: https://files.pythonhosted.org/packages/7e/74/d815a92a0497bfd4d54ba8b2e2a79df02e2db736a856fd7369a57a0b1771/jawa-2.2.0-py3-none-any.whl
-copyright: Copyright Tyler Kennedy <tk@tkte.ch>
 homepage_url: http://github.com/TkTech/Jawa
 keywords: java,disassembly,disassembler,assembly
+license_expression: mit
 name: jawa
 package_url: pkg:pypi/jawa@2.2.0
 primary_language: Python

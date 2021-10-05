@@ -1,12 +1,12 @@
 about_resource: cached-property-1.5.2.tar.gz
 checksum_md5: 3451c63f8733ea0756ca1dd2b0c04bb8
 checksum_sha1: 5fe5879dec4fa9cd2114f66bd9a92678f0a5b9a0
-license_expression: bsd-new
+copyright: Copyright Daniel Greenfeld <pydanny@gmail.com>
 description: A decorator for caching properties in classes.
 download_url: https://files.pythonhosted.org/packages/61/2c/d21c1c23c2895c091fa7a91a54b6872098fea913526932d21902088a7c41/cached-property-1.5.2.tar.gz
-copyright: Copyright Daniel Greenfeld <pydanny@gmail.com>
 homepage_url: https://github.com/pydanny/cached-property
 keywords: cached-property
+license_expression: bsd-new
 name: cached-property
 package_url: pkg:pypi/cached-property@1.5.2
 primary_language: Python

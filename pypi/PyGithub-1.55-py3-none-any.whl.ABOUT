@@ -1,11 +1,11 @@
 about_resource: PyGithub-1.55-py3-none-any.whl
 checksum_md5: 30beb17cf4f84a0204fe67aaa164fcc6
 checksum_sha1: 22df1ac8e4dcf394a801cdbbe19bb945f97c4d82
-license_expression: lgpl-3.0-plus
+copyright: Copyright Vincent Jacques <vincent@vincent-jacques.net>
 description: Use the full Github API v3
 download_url: https://files.pythonhosted.org/packages/c1/1f/9dc4ba315eeea222473cf4c15d3e665f32d52f859d9d6e73219d0a408969/PyGithub-1.55-py3-none-any.whl
-copyright: Copyright Vincent Jacques <vincent@vincent-jacques.net>
 homepage_url: https://github.com/pygithub/pygithub
+license_expression: lgpl-3.0-plus
 name: PyGithub
 package_url: pkg:pypi/pygithub@1.55
 primary_language: Python

@@ -1,0 +1,16 @@
+about_resource: reppy2-0.3.6-py3-none-any.whl
+checksum_md5: fced09a4f38aa974b995802ce1fcfd67
+checksum_sha1: 76677756e469ac6f8c6993de3b83e649d330e755
+copyright: Copyright (c) Dan Lecocq <dan@moz.com>
+description: Replacement robots.txt Parser in pure Python
+download_url: https://files.pythonhosted.org/packages/d9/81/b5d136977d6b297ff7256a96b171fd15165121888f822d9643ff30d5c5b9/reppy2-0.3.6-py3-none-any.whl
+holder: Dan Lecocq
+holder_contact: dan@moz.com
+homepage_url: http://github.com/seomoz/reppy
+keywords: utilities
+license_expression: mit
+name: reppy2
+package_url: pkg:pypi/reppy2@0.3.6
+primary_language: Python
+type: pypi
+version: 0.3.6

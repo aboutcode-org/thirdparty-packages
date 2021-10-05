@@ -1,11 +1,11 @@
 about_resource: PyNaCl-1.4.0-cp35-abi3-macosx_10_10_x86_64.whl
 checksum_md5: d0dfa7430c5e913d78bbd46d0ffd1aa6
 checksum_sha1: a9fb02f97b95775db2be1daccd9a92ef6e15021d
-license_expression: apache-2.0
+copyright: Copyright The PyNaCl developers <cryptography-dev@python.org>
 description: Python binding to the Networking and Cryptography (NaCl) library
 download_url: https://files.pythonhosted.org/packages/d4/68/a84e1cc99e4b08f857f148ba5ff6653afb954e121e8362c7a6242d8755ef/PyNaCl-1.4.0-cp35-abi3-macosx_10_10_x86_64.whl
-copyright: Copyright The PyNaCl developers <cryptography-dev@python.org>
 homepage_url: https://github.com/pyca/pynacl/
+license_expression: apache-2.0
 name: PyNaCl
 package_url: pkg:pypi/pynacl@1.4.0
 primary_language: Python

@@ -1,12 +1,12 @@
 about_resource: arrow-1.1.1-py3-none-any.whl
 checksum_md5: 601d2abbfa4d43e95d3ea5b5e6dacc13
 checksum_sha1: 5e4a974417f0f787d78efba293b91370d81b7810
-license_expression: apache-2.0
+copyright: Copyright Chris Smith <crsmithdev@gmail.com>
 description: Better dates & times for Python
 download_url: https://files.pythonhosted.org/packages/e8/59/4c21f8c501b43e2aabc82ad62e20f3730c273057c56f8731319980dec5ff/arrow-1.1.1-py3-none-any.whl
-copyright: Copyright Chris Smith <crsmithdev@gmail.com>
 homepage_url: https://arrow.readthedocs.io
 keywords: arrow date time datetime timestamp timezone humanize
+license_expression: apache-2.0
 name: arrow
 package_url: pkg:pypi/arrow@1.1.1
 primary_language: Python

@@ -1,13 +1,13 @@
 about_resource: click-plugins-1.1.1.tar.gz
 checksum_md5: 969268b5b005b2b56115c66c55013252
 checksum_sha1: 9a74efe5f23e1e1a7ce1534c5c7956b7eec322be
-license_expression: bsd-new
+copyright: Kevin Wurster <wursterk@gmail.com>, Sean Gillies <sean.gillies@gmail.com>
 description: An extension module for click to enable registering CLI commands via setuptools
   entry-points.
 download_url: https://files.pythonhosted.org/packages/5f/1d/45434f64ed749540af821fd7e42b8e4d23ac04b1eda7c26613288d6cd8a8/click-plugins-1.1.1.tar.gz
-copyright: Kevin Wurster <wursterk@gmail.com>, Sean Gillies <sean.gillies@gmail.com>
 homepage_url: https://github.com/click-contrib/click-plugins
 keywords: click plugin setuptools entry-point
+license_expression: bsd-new
 name: click-plugins
 package_url: pkg:pypi/click-plugins@1.1.1
 primary_language: Python

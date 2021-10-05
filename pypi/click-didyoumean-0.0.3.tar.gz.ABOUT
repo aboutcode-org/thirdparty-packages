@@ -1,11 +1,11 @@
 about_resource: click-didyoumean-0.0.3.tar.gz
 checksum_md5: 08ac34aa0355f58ffc43ee57f1969ffb
 checksum_sha1: 76c36ab710c5bd5f78ee7d808895d1814288277c
-license_expression: mit
+copyright: Copyright Timo Furrer <tuxtimo@gmail.com>
 description: Enable git-like did-you-mean feature in click.
 download_url: https://files.pythonhosted.org/packages/9f/79/d265d783dd022541b744d002745d9e55d84c04a41930e35d8795934f6526/click-didyoumean-0.0.3.tar.gz
-copyright: Copyright Timo Furrer <tuxtimo@gmail.com>
 homepage_url: https://github.com/timofurrer/click-didyoumean
+license_expression: mit
 name: click-didyoumean
 package_url: pkg:pypi/click-didyoumean@0.0.3
 primary_language: Python

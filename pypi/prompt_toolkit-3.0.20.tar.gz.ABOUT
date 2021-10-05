@@ -1,11 +1,11 @@
 about_resource: prompt_toolkit-3.0.20.tar.gz
 checksum_md5: ba9e63c3e7e5a4f4ce4e4770a4daba96
 checksum_sha1: 20fe2a6126ee2b992d9f77cd20e4b80626b036d7
-license_expression: bsd-new
+copyright: Copyright Jonathan Slenders
 description: Library for building powerful interactive command lines in Python
 download_url: https://files.pythonhosted.org/packages/b4/56/9ab5868f34ab2657fba7e2192f41316252ab04edbbeb2a8583759960a1a7/prompt_toolkit-3.0.20.tar.gz
-copyright: Copyright Jonathan Slenders
 homepage_url: https://github.com/prompt-toolkit/python-prompt-toolkit
+license_expression: bsd-new
 name: prompt_toolkit
 package_url: pkg:pypi/prompt-toolkit@3.0.20
 primary_language: Python
