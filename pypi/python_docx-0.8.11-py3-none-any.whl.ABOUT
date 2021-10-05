@@ -1,0 +1,14 @@
+about_resource: python_docx-0.8.11-py3-none-any.whl
+checksum_md5: 659b50d78839771d9b13c9d08b4ab096
+checksum_sha1: ac4038306c97b1835654c2db17105cd884a98421
+copyright: Copyright (c) Steve Canny, https://github.com/scanny
+description: Create and update Microsoft Word .docx files.
+download_url: https://thirdparty.aboutcode.org/pypi/python_docx-0.8.11-py3-none-any.whl
+homepage_url: https://github.com/python-openxml/python-docx
+keywords: docx office openxml word
+license_expression: mit
+name: python-docx
+package_url: pkg:pypi/python-docx@0.8.11
+primary_language: Python
+type: pypi
+version: 0.8.11
