@@ -1,0 +1,12 @@
+about_resource: packageurl-python-0.9.6.tar.gz
+attribute: yes
+checksum_md5: b12fb8c9166cb14d2eb703d7e9468fb0
+checksum_sha1: 0c612dd5aef28a66e67149bc9c201d6ecec2ded7
+copyright: Copyright (c) the purl authors
+download_url: https://files.pythonhosted.org/packages/4b/39/e7665859ad2271aabc489f19df2afff3112e93398bf33fc1d062df41721b/packageurl-python-0.9.6.tar.gz
+license_expression: mit
+name: packageurl-python
+package_url: pkg:pypi/packageurl-python@0.9.6
+primary_language: Python
+type: pypi
+version: 0.9.6

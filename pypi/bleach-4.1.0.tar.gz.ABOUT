@@ -1,0 +1,13 @@
+about_resource: bleach-4.1.0.tar.gz
+checksum_md5: 41e70ac58aa7bc5ff96c8fef24b9d659
+checksum_sha1: 6adfc1d0374305cce7c4dc92fdb9a241b81400f7
+copyright: Copyright (c) James Socol, Mozilla Corporation and Foundation and other contributors.
+description: An easy safelist-based HTML-sanitizing tool.
+download_url: https://files.pythonhosted.org/packages/6a/a3/217842324374fd3fb33db0eb4c2909ccf3ecc5a94f458088ac68581f8314/bleach-4.1.0.tar.gz
+homepage_url: https://github.com/mozilla/bleach
+license_expression: apache-2.0
+name: bleach
+package_url: pkg:pypi/bleach@4.1.0
+primary_language: Python
+type: pypi
+version: 4.1.0

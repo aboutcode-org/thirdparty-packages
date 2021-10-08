@@ -1,0 +1,15 @@
+about_resource: typing_inspect-0.7.1.tar.gz
+checksum_md5: 1444feceb8213bd94cfece3c6d4ffc5c
+checksum_sha1: 8c092168e911369ddab2f8bbec6fee86c4a2b1d5
+copyright: copyright (c) Ivan Levkivskyi
+description: Runtime inspection utilities for typing module.
+download_url: https://files.pythonhosted.org/packages/c3/da/864ce66818e308b38209d4b1ef0585921d28eb07621ba7d905a0e96bcc80/typing_inspect-0.7.1.tar.gz
+homepage_url: https://github.com/ilevkivskyi/typing_inspect
+keywords: typing function annotations type hints hinting checking checker typehints typehinting
+  typechecking inspect reflection introspection
+license_expression: mit
+name: typing_inspect
+package_url: pkg:pypi/typing-inspect@0.7.1
+primary_language: Python
+type: pypi
+version: 0.7.1

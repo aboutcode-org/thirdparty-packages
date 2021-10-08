@@ -1,0 +1,13 @@
+about_resource: keyring-23.2.1-py3-none-any.whl
+checksum_md5: 31507078eb2964300c863e7e08d883b1
+checksum_sha1: 38db26cd4c7c0c3870c53ac7af05495318cdf94e
+copyright: copyright (c) Kang Zhang and Jason R Coombs
+description: Store and access your passwords safely.
+download_url: https://files.pythonhosted.org/packages/58/b7/cc5a5321a6119e23ee85745ba204a67d646835e8882ba36eece32ee2b4e1/keyring-23.2.1-py3-none-any.whl
+homepage_url: https://github.com/jaraco/keyring
+license_expression: python AND mit
+name: keyring
+package_url: pkg:pypi/keyring@23.2.1
+primary_language: Python
+type: pypi
+version: 23.2.1
