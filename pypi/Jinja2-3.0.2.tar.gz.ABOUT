@@ -1,0 +1,19 @@
+about_resource: Jinja2-3.0.2.tar.gz
+attribute: yes
+checksum_md5: 059f89375d7ea60eb7013f341f0b89e7
+checksum_sha1: 3297473a9d57e93ff378eab173990c1b64673c01
+contact: armin.ronacher@active-4.com
+copyright: Copyright (c) 2009 by the Jinja Team
+description: Jinja2 is a full featured template engine for Python. It has full unicode support,
+  an optional integrated sandboxed execution environment, widely used and BSD licensed.
+download_url: https://files.pythonhosted.org/packages/f8/86/7c0eb6e8b05385d1ce682abc0f994abd1668e148fb52603fa86e15d4c110/Jinja2-3.0.2.tar.gz
+homepage_url: http://jinja.pocoo.org/
+license_expression: bsd-new
+name: Jinja2
+notice_file: Jinja2-3.0.2.tar.gz.NOTICE
+owner: Armin Ronacher
+owner_url: http://lucumr.pocoo.org/about/
+package_url: pkg:pypi/jinja2@3.0.2
+primary_language: Python
+type: pypi
+version: 3.0.2

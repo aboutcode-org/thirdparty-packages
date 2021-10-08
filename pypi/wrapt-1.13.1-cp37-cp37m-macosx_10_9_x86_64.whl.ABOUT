@@ -1,0 +1,13 @@
+about_resource: wrapt-1.13.1-cp37-cp37m-macosx_10_9_x86_64.whl
+checksum_md5: 22e04d025caac3a9b03d42c7af7ea350
+checksum_sha1: 636d4d5b412cdafd5274066ab39ec81913d58357
+copyright: Copyright Graham Dumpleton <Graham.Dumpleton@gmail.com>
+description: Module for decorators, wrappers and monkey patching.
+download_url: https://files.pythonhosted.org/packages/4d/d9/25150755c1d0c38c7b6a6ceebae14f3eccbe38ccd05e89af7941008b1a36/wrapt-1.13.1-cp37-cp37m-macosx_10_9_x86_64.whl
+homepage_url: https://github.com/GrahamDumpleton/wrapt
+license_expression: bsd-simplified
+name: wrapt
+package_url: pkg:pypi/wrapt@1.13.1
+primary_language: Python
+type: pypi
+version: 1.13.1

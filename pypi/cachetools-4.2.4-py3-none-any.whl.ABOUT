@@ -1,0 +1,13 @@
+about_resource: cachetools-4.2.4-py3-none-any.whl
+checksum_md5: 708c5e1124e0b4ea2102730e0f32b34b
+checksum_sha1: 9c749991fba4dce4300bfcd49fecae892cf62867
+copyright: Copyright Thomas Kemmer <tkemmer@computer.org>
+description: Extensible memoizing collections and decorators
+download_url: https://files.pythonhosted.org/packages/ea/c1/4740af52db75e6dbdd57fc7e9478439815bbac549c1c05881be27d19a17d/cachetools-4.2.4-py3-none-any.whl
+homepage_url: https://github.com/tkem/cachetools/
+license_expression: mit
+name: cachetools
+package_url: pkg:pypi/cachetools@4.2.4
+primary_language: Python
+type: pypi
+version: 4.2.4

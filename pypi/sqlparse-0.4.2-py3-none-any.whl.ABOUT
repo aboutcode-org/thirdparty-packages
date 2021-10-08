@@ -1,0 +1,19 @@
+about_resource: sqlparse-0.4.2-py3-none-any.whl
+attribute: yes
+checksum_md5: 7ba95d1ee3802ec2bb6b88d04e06fbfd
+checksum_sha1: c25784669d39aa8d9e2dfe27a1ab356d0cce9409
+contact: albrecht.andi@gmail.com
+copyright: Copyright (c) 2009, Andi Albrecht <albrecht.andi@gmail.com>
+description: sqlparse is a non-validating SQL parser module for Python.
+download_url: https://files.pythonhosted.org/packages/05/40/d836d55fb3f467243ee839ab7b814822fda522cd395fa41e282684e71ee5/sqlparse-0.4.2-py3-none-any.whl
+homepage_url: https://github.com/andialbrecht/sqlparse
+license_expression: bsd-new
+name: sqlparse
+notice_file: sqlparse-0.4.2-py3-none-any.whl.NOTICE
+notice_url: https://github.com/andialbrecht/sqlparse/blob/master/LICENSE
+owner: Andi Albrecht
+owner_url: http://andialbrecht.de/
+package_url: pkg:pypi/sqlparse@0.4.2
+primary_language: Python
+type: pypi
+version: 0.4.2

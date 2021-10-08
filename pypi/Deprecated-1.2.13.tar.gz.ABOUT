@@ -1,0 +1,14 @@
+about_resource: Deprecated-1.2.13.tar.gz
+checksum_md5: 2b7a15b559af0b9b499737d70e171b4b
+checksum_sha1: 02cb0ea2a57399dbf740affdc57690f0627186be
+copyright: Copyright Laurent LAPORTE <tantale.solutions@gmail.com>
+description: Python @deprecated decorator to deprecate old python classes, functions or methods.
+download_url: https://files.pythonhosted.org/packages/c8/d1/e412abc2a358a6b9334250629565fe12697ca1cdee4826239eddf944ddd0/Deprecated-1.2.13.tar.gz
+homepage_url: https://github.com/tantale/deprecated
+keywords: deprecate,deprecated,deprecation,warning,warn,decorator
+license_expression: mit
+name: Deprecated
+package_url: pkg:pypi/deprecated@1.2.13
+primary_language: Python
+type: pypi
+version: 1.2.13

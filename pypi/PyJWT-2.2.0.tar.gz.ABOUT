@@ -1,0 +1,19 @@
+about_resource: PyJWT-2.2.0.tar.gz
+attribute: yes
+checksum_md5: c7c5b05a1dcee1fac0dc13fea892ed86
+checksum_sha1: 2050d8d126c4c60315fe0674aac76832a48a698d
+contact: hello@jpadilla.com
+copyright: Copyright (c) 2015 Jose Padilla
+description: JSON Web Token implementation in Python
+download_url: https://files.pythonhosted.org/packages/b9/6d/e5ac4eb80724cb4201de6dcbc1e8a9f5cb65a0424b30c4c69e49bc1363d1/PyJWT-2.2.0.tar.gz
+homepage_url: https://github.com/jpadilla/pyjwt
+license_expression: mit
+name: PyJWT
+notice_file: PyJWT-2.2.0.tar.gz.NOTICE
+notice_url: https://github.com/jpadilla/pyjwt/blob/master/LICENSE
+owner: Jose Padilla
+owner_url: https://github.com/jpadilla
+package_url: pkg:pypi/pyjwt@2.2.0
+primary_language: Python
+type: pypi
+version: 2.2.0
