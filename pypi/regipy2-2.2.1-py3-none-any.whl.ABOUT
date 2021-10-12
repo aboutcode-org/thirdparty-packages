@@ -1,0 +1,16 @@
+about_resource: regipy2-2.2.1-py3-none-any.whl
+checksum_md5: eddea222a04a53ac8bcb912ee649a052
+checksum_sha1: 84b7efd7b83e059d910bf889d52f58a03eb886da
+copyright: Copyright (c) Martin G. Korman <martin@centauri.co.il>
+description: Python Registry Parser2 - This is a temporary advanced patched package, with relaxed
+  dependency constraints. It is there only until upstream is updated. See https://github.com/nexB/regipy/
+  and https://github.com/mkorman90/regipy/pull/200
+download_url: https://files.pythonhosted.org/packages/1d/65/5fe668572748376c9518cd55d871b0f4999d830e5dfd2768dc872f0fb5c8/regipy2-2.2.1-py3-none-any.whl
+homepage_url: https://github.com/mkorman90/regipy/
+keywords: Python,Python3,registry,windows registry,registry parser
+license_expression: mit
+name: regipy2
+package_url: pkg:pypi/regipy2@2.2.1
+primary_language: Python
+type: pypi
+version: 2.2.1
