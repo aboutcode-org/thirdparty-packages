@@ -1,0 +1,13 @@
+about_resource: importlib_resources-5.2.2.tar.gz
+checksum_md5: 5db738106ca7c05340495c36357986a2
+checksum_sha1: d1f2742895a68f3f8d19dd7285df1687877fb15a
+copyright: Copyright (c) Brett Cannon, Barry Warsaw
+description: Read resources from Python packages
+download_url: https://files.pythonhosted.org/packages/b1/7a/b9e2309e5c619ba3da8806e43bb17873ec6eab22a3d79347778c80563028/importlib_resources-5.2.2.tar.gz
+homepage_url: https://github.com/python/importlib_resources
+license_expression: apache-2.0
+name: importlib_resources
+package_url: pkg:pypi/importlib-resources@5.2.2
+primary_language: Python
+type: pypi
+version: 5.2.2

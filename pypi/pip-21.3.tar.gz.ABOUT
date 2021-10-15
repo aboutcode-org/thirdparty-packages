@@ -1,0 +1,17 @@
+about_resource: pip-21.3.tar.gz
+attribute: yes
+checksum_md5: fc20feba27bd36f046c2fbd59bc8f9ea
+checksum_sha1: e6c8b84c60a290818079ce7ebc71ccbf9cd7d294
+copyright: Copyright (c) The Python Software Foundation and the pip authors
+description: A tool for installing and managing Python packages.
+download_url: https://files.pythonhosted.org/packages/00/5f/d6959d6f25f202e3e68e3a53b815af42d770c829c19382d0acbf2c3e2112/pip-21.3.tar.gz
+homepage_url: https://pip.pypa.io
+license_expression: mit AND lgpl-2.1-plus AND python AND mit AND bsd-new AND (bsd-new OR apache-2.0)
+  AND apache-2.0 AND isc
+name: pip
+package_url: pkg:pypi/pip@21.3
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: '21.3'

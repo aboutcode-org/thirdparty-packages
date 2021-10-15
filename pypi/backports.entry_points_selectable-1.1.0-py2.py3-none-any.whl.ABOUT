@@ -1,0 +1,13 @@
+about_resource: backports.entry_points_selectable-1.1.0-py2.py3-none-any.whl
+checksum_md5: ef5f14bf7059a0bbb8520a706d150cbe
+checksum_sha1: 03fb2e02c736407f7e88265d89d85494a8281ab1
+copyright: Copyright (c) Jason R. Coombs <jaraco@jaraco.com>
+description: Compatibility shim providing selectable entry points for older implementations
+download_url: https://files.pythonhosted.org/packages/0c/cd/1e156227cad9f599524eb10af62a2362f872910a49402dbd2bea2dedc91c/backports.entry_points_selectable-1.1.0-py2.py3-none-any.whl
+homepage_url: https://github.com/jaraco/backports.entry_points_selectable
+license_expression: mit
+name: backports.entry-points-selectable
+package_url: pkg:pypi/backports.entry-points-selectable@1.1.0
+primary_language: Python
+type: pypi
+version: 1.1.0
