@@ -1,11 +1,11 @@
 about_resource: cachetools-4.2.2-py3-none-any.whl
 checksum_md5: 7d68465904f9c43fe5f22489a0cbef66
 checksum_sha1: c953dcd6e69587e5b182d77255ed836172fea70a
-license_expression: mit
+copyright: Copyright Thomas Kemmer <tkemmer@computer.org>
 description: Extensible memoizing collections and decorators
 download_url: https://files.pythonhosted.org/packages/bf/28/c4f5796c67ad06bb91d98d543a5e01805c1ff065e08871f78e52d2a331ad/cachetools-4.2.2-py3-none-any.whl
-copyright: Copyright Thomas Kemmer <tkemmer@computer.org>
 homepage_url: https://github.com/tkem/cachetools/
+license_expression: mit
 name: cachetools
 package_url: pkg:pypi/cachetools@4.2.2
 primary_language: Python

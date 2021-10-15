@@ -16,7 +16,7 @@ declared_license:
   - MIT
   - 'License :: OSI Approved :: MIT License'
 description: A Python library to read/write Excel 2010 xlsx/xlsm files
-download_url: https://files.pythonhosted.org/packages/77/db/eac34eeb903dff79610716b7bc25a819b2f7305bae3cc86e5a7e09956c13/openpyxl-3.0.8-py2.py3-none-any.whl
+download_url: https://thirdparty.aboutcode.org/pypi/openpyxl-3.0.8-py2.py3-none-any.whl
 holder: See AUTHORS
 holder_contact: charlie.clark@clark-consulting.eu
 homepage_url: https://openpyxl.readthedocs.io
