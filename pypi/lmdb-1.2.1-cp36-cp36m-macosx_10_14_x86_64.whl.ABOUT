@@ -1,29 +1,11 @@
 about_resource: lmdb-1.2.1-cp36-cp36m-macosx_10_14_x86_64.whl
 checksum_md5: 3ecc14a89bf5005d699260e3e675c8de
 checksum_sha1: c621197691e1c691b03209f89e31e0983cbe05f4
-classifiers:
-  - 'Programming Language :: Python'
-  - 'Programming Language :: Python :: Implementation :: CPython'
-  - 'Programming Language :: Python :: Implementation :: PyPy'
-  - 'Programming Language :: Python :: 2'
-  - 'Programming Language :: Python :: 2.7'
-  - 'Programming Language :: Python :: 3'
-  - 'Programming Language :: Python :: 3.4'
-  - 'Programming Language :: Python :: 3.5'
-  - 'Programming Language :: Python :: 3.6'
-  - 'Programming Language :: Python :: 3.7'
-  - 'Programming Language :: Python :: 3.8'
-  - 'Programming Language :: Python :: 3.9'
-  - 'Topic :: Database'
-  - 'Topic :: Database :: Database Engines/Servers'
 copyright: Copyright (c) David Wilson <None>
-declared_license:
-  - OpenLDAP BSD
 description: Universal Python binding for the LMDB 'Lightning' Database
 download_url: https://files.pythonhosted.org/packages/85/dd/ec9530f450b385fca2ff9caec2bb4ce70f385f27c8f62f7eb673032d6efa/lmdb-1.2.1-cp36-cp36m-macosx_10_14_x86_64.whl
-holder: David Wilson
 homepage_url: http://github.com/jnwatson/py-lmdb/
-license_expression: unknown
+license_expression: openldap-2.8
 name: lmdb
 package_url: pkg:pypi/lmdb@1.2.1
 primary_language: Python

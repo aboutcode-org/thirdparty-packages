@@ -1,26 +1,10 @@
 about_resource: unicodecsv-0.14.1.tar.gz
 checksum_md5: c18ffe8ded29a4f429224877b2b34252
 checksum_sha1: 2d54bfb7a36d58d910582410d7514e895aa288bf
-classifiers:
-  - 'Development Status :: 5 - Production/Stable'
-  - 'Intended Audience :: Developers'
-  - 'Natural Language :: English'
-  - 'Programming Language :: Python :: 2.6'
-  - 'Programming Language :: Python :: 2.7'
-  - 'Programming Language :: Python :: 3.3'
-  - 'Programming Language :: Python :: 3.4'
-  - 'Programming Language :: Python :: 3.5'
-  - 'Programming Language :: Python :: Implementation :: PyPy'
-  - 'Programming Language :: Python :: Implementation :: CPython'
 copyright: Copyright (c) Jeremy Dunck <jdunck@gmail.com>
-declared_license:
-  - BSD License
-  - 'License :: OSI Approved :: BSD License'
 description: Python2's stdlib csv module is nice, but it doesn't support unicode. This module
   is a drop-in replacement which *does*.
 download_url: https://files.pythonhosted.org/packages/6f/a4/691ab63b17505a26096608cc309960b5a6bdf39e4ba1a793d5f9b1a53270/unicodecsv-0.14.1.tar.gz
-holder: Jeremy Dunck
-holder_contact: jdunck@gmail.com
 homepage_url: https://github.com/jdunck/python-unicodecsv
 license_expression: bsd-new
 name: unicodecsv

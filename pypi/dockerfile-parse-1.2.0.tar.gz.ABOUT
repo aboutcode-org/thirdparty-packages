@@ -1,31 +1,11 @@
 about_resource: dockerfile-parse-1.2.0.tar.gz
 checksum_md5: 42efe5c354c830045b756e76eb4f84d5
 checksum_sha1: f1950e29f22b81782264657cb92df9d0e295e52e
-classifiers:
-  - 'Development Status :: 5 - Production/Stable'
-  - 'Environment :: Other Environment'
-  - 'Intended Audience :: Developers'
-  - 'Operating System :: OS Independent'
-  - 'Programming Language :: Python'
-  - 'Programming Language :: Python :: 2'
-  - 'Programming Language :: Python :: 2.7'
-  - 'Programming Language :: Python :: 3'
-  - 'Programming Language :: Python :: 3.4'
-  - 'Programming Language :: Python :: 3.5'
-  - 'Programming Language :: Python :: 3.6'
-  - 'Programming Language :: Python :: 3.7'
-  - 'Programming Language :: Python :: Implementation :: CPython'
-  - 'Topic :: Software Development :: Libraries :: Python Modules'
 copyright: Copyright (c) Jiri Popelka <jpopelka@redhat.com>
-declared_license:
-  - BSD
-  - 'License :: OSI Approved :: BSD License'
 description: Python library for Dockerfile manipulation
 download_url: https://files.pythonhosted.org/packages/d0/f6/8eb044e3837f6da0a85d9f73158104fecdab68bc86a83625b1e398963ed3/dockerfile-parse-1.2.0.tar.gz
-holder: Jiri Popelka
-holder_contact: jpopelka@redhat.com
 homepage_url: https://github.com/containerbuildsystem/dockerfile-parse
-license_expression: unknown AND bsd-new
+license_expression: bsd-new
 name: dockerfile-parse
 package_url: pkg:pypi/dockerfile-parse@1.2.0
 primary_language: Python

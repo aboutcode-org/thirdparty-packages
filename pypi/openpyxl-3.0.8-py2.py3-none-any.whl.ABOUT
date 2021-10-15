@@ -1,24 +1,9 @@
 about_resource: openpyxl-3.0.8-py2.py3-none-any.whl
 checksum_md5: 59848f78e25464bcad2197e3de7e378d
 checksum_sha1: 6f5bab3c1c03f1cfd9a7f15e5df53e3326b1e881
-classifiers:
-  - 'Development Status :: 5 - Production/Stable'
-  - 'Operating System :: MacOS :: MacOS X'
-  - 'Operating System :: Microsoft :: Windows'
-  - 'Operating System :: POSIX'
-  - 'Programming Language :: Python'
-  - 'Programming Language :: Python :: 3.6'
-  - 'Programming Language :: Python :: 3.7'
-  - 'Programming Language :: Python :: 3.8'
-  - 'Programming Language :: Python :: 3.9'
 copyright: Copyright (c) See AUTHORS <charlie.clark@clark-consulting.eu>
-declared_license:
-  - MIT
-  - 'License :: OSI Approved :: MIT License'
 description: A Python library to read/write Excel 2010 xlsx/xlsm files
 download_url: https://thirdparty.aboutcode.org/pypi/openpyxl-3.0.8-py2.py3-none-any.whl
-holder: See AUTHORS
-holder_contact: charlie.clark@clark-consulting.eu
 homepage_url: https://openpyxl.readthedocs.io
 license_expression: mit
 name: openpyxl
