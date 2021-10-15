@@ -9,7 +9,7 @@ description: ScanCode is a tool to scan code for license, copyright, package and
 download_url: https://files.pythonhosted.org/packages/9f/dc/25c854e99581fd44cdf9eed83a4f778f7bf03dd83027dc6fe053e7ebd45a/scancode-toolkit-mini-30.1.0.tar.gz
 homepage_url: https://github.com/nexB/scancode-toolkit
 keywords: open source,scan,license,package,dependency,copyright,filetype,author,extract,licensing
-license_expression: Apache-2.0 AND CC-BY-4.0 AND LicenseRef-scancode-other-permissive AND LicenseRef-scancode-other-copyleft
+license_expression: apache-2.0 AND cc-by-4.0 AND other-permissive AND other-copyleft
 name: scancode-toolkit-mini
 package_url: pkg:pypi/scancode-toolkit-mini@30.1.0
 primary_language: Python
