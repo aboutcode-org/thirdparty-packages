@@ -1,0 +1,14 @@
+about_resource: black-21.9b0.tar.gz
+checksum_md5: 898555875ee1993d0a31f83b2675d956
+checksum_sha1: 380f78a740cb4a4b71868a1cc64b386c040b1636
+copyright: Copyright (c) Łukasz Langa <lukasz@langa.pl>
+description: The uncompromising code formatter.
+download_url: https://files.pythonhosted.org/packages/b9/11/bde767284a6a15bf85b53ad696c3658eb3ead74e4697ecda2d07cec106ec/black-21.9b0.tar.gz
+homepage_url: https://github.com/psf/black
+keywords: automation formatter yapf autopep8 pyfmt gofmt rustfmt
+license_expression: mit
+name: black
+package_url: pkg:pypi/black@21.9b0
+primary_language: Python
+type: pypi
+version: 21.9b0
