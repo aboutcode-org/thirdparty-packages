@@ -1,0 +1,18 @@
+about_resource: PyYAML-6.0.tar.gz
+attribute: yes
+checksum_md5: 1d19c798f25e58e3e582f0f8c977dbb8
+checksum_sha1: a8c40a3ae9d4c159382a58db3153d83e5521c51e
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/36/2b/61d51a2c4f25ef062ae3f74576b01638bebad5e045f747ff12643df63844/PyYAML-6.0.tar.gz
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notice_file: PyYAML-6.0.tar.gz.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0
+primary_language: Python
+type: pypi
+version: '6.0'

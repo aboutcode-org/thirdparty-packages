@@ -1,0 +1,18 @@
+about_resource: PyYAML-6.0-cp37-cp37m-macosx_10_9_x86_64.whl
+attribute: yes
+checksum_md5: a07672f051d7577bb3e20b0a2b521d57
+checksum_sha1: 9205361a3aadf4f7952dfa60944fa6e08c982dd8
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/9d/f6/7e91fbb58c9ee528759aea5892e062cccb426720c5830ddcce92eba00ff1/PyYAML-6.0-cp37-cp37m-macosx_10_9_x86_64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notice_file: PyYAML-6.0-cp37-cp37m-macosx_10_9_x86_64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0
+primary_language: Python
+type: pypi
+version: '6.0'

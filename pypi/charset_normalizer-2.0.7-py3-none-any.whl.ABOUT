@@ -1,0 +1,15 @@
+about_resource: charset_normalizer-2.0.7-py3-none-any.whl
+checksum_md5: df1c3f8e66b900c2b637acd513120b9d
+checksum_sha1: 4872ef700ecf4a092d63ac9beabe9936814cf55c
+copyright: Ahmed TAHRI @Ousret <ahmed.tahri@cloudnursery.dev>
+description: The Real First Universal Charset Detector. Open, modern and actively maintained
+  alternative to Chardet.
+download_url: https://files.pythonhosted.org/packages/de/c8/820b1546c68efcbbe3c1b10dd925fbd84a0dda7438bc18db0ef1fa567733/charset_normalizer-2.0.7-py3-none-any.whl
+homepage_url: https://github.com/ousret/charset_normalizer
+keywords: encoding,i18n,txt,text,charset,charset-detector,normalization,unicode,chardet
+license_expression: mit
+name: charset-normalizer
+package_url: pkg:pypi/charset-normalizer@2.0.7
+primary_language: Python
+type: pypi
+version: 2.0.7

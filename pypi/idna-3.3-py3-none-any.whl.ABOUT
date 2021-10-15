@@ -1,0 +1,20 @@
+about_resource: idna-3.3-py3-none-any.whl
+attribute: yes
+checksum_md5: 461e73a409996cb35e00116e5301bac6
+checksum_sha1: 5485a373e7aae71ef1d2c02b8b09c330b75c5248
+contact: http://kim.id.au/
+copyright: Copyright (c) 2013-2017, Kim Davies
+description: 'Internationalized Domain Names for Python (IDNA 2008 and UTS #46)'
+download_url: https://files.pythonhosted.org/packages/04/a2/d918dcd22354d8958fe113e1a3630137e0fc8b44859ade3063982eacd2a4/idna-3.3-py3-none-any.whl
+homepage_url: https://github.com/kjd/idna
+license_expression: bsd-new AND python AND unicode
+name: idna
+notice_file: idna-3.3-py3-none-any.whl.NOTICE
+notice_url: https://github.com/kjd/idna/blob/v2.6/LICENSE.rst
+owner: Kim Davies
+owner_url: https://github.com/kjd
+package_url: pkg:pypi/idna@3.3
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '3.3'
