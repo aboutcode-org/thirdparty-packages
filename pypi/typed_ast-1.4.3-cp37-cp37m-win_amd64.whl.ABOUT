@@ -1,0 +1,13 @@
+about_resource: typed_ast-1.4.3-cp37-cp37m-win_amd64.whl
+checksum_md5: fca1cc9ce837272e177c9d0d44fe2da3
+checksum_sha1: c14a6e60f2c41adba94e7243b3cd5c4b7e25a3a7
+copyright: Copyright (c) David Fisher
+description: a fork of Python 2 and 3 ast modules with type comment support
+download_url: https://files.pythonhosted.org/packages/9f/25/15113b2153fab6f3ad8c3a42169f25cb8ae9f7fee9d7201647d78eca3e91/typed_ast-1.4.3-cp37-cp37m-win_amd64.whl
+homepage_url: https://github.com/python/typed_ast
+license_expression: apache-2.0
+name: typed-ast
+package_url: pkg:pypi/typed-ast@1.4.3
+primary_language: Python
+type: pypi
+version: 1.4.3
