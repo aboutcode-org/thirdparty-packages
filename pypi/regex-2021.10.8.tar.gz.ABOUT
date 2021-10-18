@@ -1,0 +1,13 @@
+about_resource: regex-2021.10.8.tar.gz
+checksum_md5: 2aa345ecaf1189edd32a599a5e005b91
+checksum_sha1: c97babbd2cebfb2b3c24b1c5f16688e7be5c0b1e
+copyright: copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+description: Alternative regular expression module, to replace re.
+download_url: https://files.pythonhosted.org/packages/e6/34/854dc93f61d639548336ed68e5ad541b2668e4ef41ee25b3dda8098f9d1d/regex-2021.10.8.tar.gz
+homepage_url: https://bitbucket.org/mrabarnett/mrab-regex
+license_expression: apache-2.0 AND python
+name: regex
+package_url: pkg:pypi/regex@2021.10.8
+primary_language: Python
+type: pypi
+version: 2021.10.8

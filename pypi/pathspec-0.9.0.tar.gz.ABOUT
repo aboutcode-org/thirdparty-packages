@@ -1,0 +1,15 @@
+about_resource: pathspec-0.9.0.tar.gz
+checksum_md5: 9b6b70fa5ffc31e6f5700522880140c0
+checksum_sha1: afe51c21951f457f82a5810016d0b6752ffc487b
+copyright: Copyright (c) Caleb P. Burns <cpburnz@gmail.com>
+description: Utility library for gitignore style pattern matching of file paths.
+download_url: https://files.pythonhosted.org/packages/f6/33/436c5cb94e9f8902e59d1d544eb298b83c84b9ec37b5b769c5a0ad6edb19/pathspec-0.9.0.tar.gz
+holder: Caleb P. Burns
+holder_contact: cpburnz@gmail.com
+homepage_url: https://github.com/cpburnz/python-path-specification
+license_expression: mpl-2.0
+name: pathspec
+package_url: pkg:pypi/pathspec@0.9.0
+primary_language: Python
+type: pypi
+version: 0.9.0
