@@ -1,0 +1,16 @@
+about_resource: restview-2.9.2.tar.gz
+checksum_md5: a7894f16ca90a1aec9deffe757d4c234
+checksum_sha1: 8cd221e0446fa8c1b471ce60cf8e6c4428f60758
+copyright: Copyright (c) Marius Gedminas <marius@gedmin.as>
+description: ReStructuredText viewer
+download_url: https://files.pythonhosted.org/packages/e6/40/b4ef5c90297b9d37248090b9fde3a9aa1ef25e87ebd17b363760fec39a78/restview-2.9.2.tar.gz
+holder: Marius Gedminas
+holder_contact: marius@gedmin.as
+homepage_url: https://mg.pov.lt/restview/
+keywords: rst restructuredtext preview
+license_expression: gpl-3.0
+name: restview
+package_url: pkg:pypi/restview@2.9.2
+primary_language: Python
+type: pypi
+version: 2.9.2
