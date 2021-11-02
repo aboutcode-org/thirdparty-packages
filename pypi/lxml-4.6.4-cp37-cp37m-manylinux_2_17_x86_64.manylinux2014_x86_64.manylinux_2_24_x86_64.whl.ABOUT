@@ -1,0 +1,19 @@
+about_resource: lxml-4.6.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl
+attribute: yes
+checksum_md5: 2df1c20512ba714e9e9bd6b5b287f9fc
+checksum_sha1: 98d76aafdef56025a36b7680d7b8ecdb370c3962
+copyright: Copyright (c) 2004 Infrae.
+description: lxml is the most feature-rich and easy-to-use library for processing XML and HTML
+  in the Python language.
+download_url: https://files.pythonhosted.org/packages/87/38/45bfcd58ac9c8b17bac17c1ad6a1bb72e8a2020e98990ee4d6e6e94f6625/lxml-4.6.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl
+homepage_url: http://lxml.de/
+license_expression: bsd-new AND (mit AND gpl-2.0-plus AND zpl-2.0 AND zlib)
+name: lxml
+notice_file: lxml-4.6.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl.NOTICE
+owner: Infrae
+package_url: pkg:pypi/lxml@4.6.4
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 4.6.4

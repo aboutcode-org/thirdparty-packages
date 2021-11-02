@@ -1,0 +1,13 @@
+about_resource: wrapt-1.13.3.tar.gz
+checksum_md5: 50efce974cc8a0d39fd274d74eb0fd1e
+checksum_sha1: 08f3e4a4ac9015c47712919c3d359239bbaab173
+copyright: Copyright Graham Dumpleton <Graham.Dumpleton@gmail.com>
+description: Module for decorators, wrappers and monkey patching.
+download_url: https://files.pythonhosted.org/packages/eb/f6/d81ccf43ac2a3c80ddb6647653ac8b53ce2d65796029369923be06b815b8/wrapt-1.13.3.tar.gz
+homepage_url: https://github.com/GrahamDumpleton/wrapt
+license_expression: bsd-simplified
+name: wrapt
+package_url: pkg:pypi/wrapt@1.13.3
+primary_language: Python
+type: pypi
+version: 1.13.3
