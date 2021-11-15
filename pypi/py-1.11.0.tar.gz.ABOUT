@@ -1,0 +1,17 @@
+about_resource: py-1.11.0.tar.gz
+attribute: yes
+checksum_md5: bde7dcc1cb452a1e10206ef2f811ba88
+checksum_sha1: bb8aa4f56e3ced1cd61906495150e7ca2dacc10b
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and others
+description: library with cross-python path, ini-parsing, io, code, log facilities
+download_url: https://files.pythonhosted.org/packages/98/ff/fec109ceb715d2a6b4c4a85a61af3b40c723a961e8828319fbcb15b868dc/py-1.11.0.tar.gz
+homepage_url: http://pylib.readthedocs.org/
+license_expression: mit
+name: py
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/py@1.11.0
+primary_language: Python
+type: pypi
+version: 1.11.0

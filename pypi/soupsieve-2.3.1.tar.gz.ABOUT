@@ -1,0 +1,15 @@
+about_resource: soupsieve-2.3.1.tar.gz
+attribute: yes
+checksum_md5: f64640a3b112d3deb1d3469037bed5e3
+checksum_sha1: 164c25b194b83750ddb6cf0085ebfbd8441955d2
+copyright: Copyright (c) Isaac Muse
+description: A modern CSS selector implementation for Beautiful Soup.
+download_url: https://files.pythonhosted.org/packages/e1/25/a3005eedafb34e1258458e8a4b94900a60a41a2b4e459e0e19631648a2a0/soupsieve-2.3.1.tar.gz
+homepage_url: https://github.com/facelessuser/soupsieve
+keywords: CSS HTML XML selector filter query soup
+license_expression: mit
+name: soupsieve
+package_url: pkg:pypi/soupsieve@2.3.1
+primary_language: Python
+type: pypi
+version: 2.3.1

@@ -1,0 +1,14 @@
+about_resource: pycparser-2.21.tar.gz
+checksum_md5: 48f7d743bf018f7bb2ffc5fb976d1492
+checksum_sha1: 359c718c6ece361047f61846b9fa4ea0239576dc
+copyright: copyright (c) Eli Bendersky
+description: C parser in Python
+download_url: https://files.pythonhosted.org/packages/5e/0b/95d387f5f4433cb0f53ff7ad859bd2c6051051cebbb564f139a999ab46de/pycparser-2.21.tar.gz
+holder_contact: eliben@gmail.com
+homepage_url: https://github.com/eliben/pycparser
+license_expression: bsd-new
+name: pycparser
+package_url: pkg:pypi/pycparser@2.21
+primary_language: Python
+type: pypi
+version: '2.21'

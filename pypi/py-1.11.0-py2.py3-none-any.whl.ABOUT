@@ -1,0 +1,17 @@
+about_resource: py-1.11.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 52d444d43edb21938fad6010a2134cc3
+checksum_sha1: 44002baec8d2184d218bd2fa6049967cd9b4dbb5
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and others
+description: library with cross-python path, ini-parsing, io, code, log facilities
+download_url: https://files.pythonhosted.org/packages/f6/f0/10642828a8dfb741e5f3fbaac830550a518a775c7fff6f04a007259b0548/py-1.11.0-py2.py3-none-any.whl
+homepage_url: http://pylib.readthedocs.org/
+license_expression: mit
+name: py
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/py@1.11.0
+primary_language: Python
+type: pypi
+version: 1.11.0
