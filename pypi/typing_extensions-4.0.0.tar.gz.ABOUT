@@ -1,0 +1,13 @@
+about_resource: typing_extensions-4.0.0.tar.gz
+checksum_md5: 80c0839d184acb59e00b72ccfbbdafa7
+checksum_sha1: cc23326bc8276270fcb6a999927271d06939a2b4
+copyright: copyright (c) Guido van Rossum, Jukka Lehtosalo, Lukasz Langa, Michael Lee
+decription: Backported and Experimental Type Hints for Python 3.5+
+download_url: https://files.pythonhosted.org/packages/1a/23/748b0c9a5578110b31580c8d2643319adcb3ec91f601b50a955051b51f1d/typing_extensions-4.0.0.tar.gz
+homepage_url: https://github.com/python/typing/blob/master/typing_extensions/README.rst
+license_expression: python
+name: typing_extensions
+package_url: pkg:pypi/typing-extensions@4.0.0
+primary_language: Python
+type: pypi
+version: 4.0.0
