@@ -1,0 +1,19 @@
+about_resource: bitarray-2.3.5-cp38-cp38-macosx_10_14_x86_64.whl
+attribute: yes
+checksum_md5: 70dcd35d340a846c268a8b406b97d51b
+checksum_sha1: 8edb371583c839cdd549928198dc00a52d7244fb
+contact: ilanschnell@gmail.com
+copyright: Copyright (c) Ilan Schnell and others
+description: efficient arrays of booleans for Python
+download_url: https://thirdparty.aboutcode.org/pypi/bitarray-2.3.5-cp38-cp38-macosx_10_14_x86_64.whl
+homepage_url: https://github.com/ilanschnell/bitarray
+license_expression: python
+name: bitarray
+notice_file: bitarray-2.3.5-cp38-cp38-macosx_10_14_x86_64.whl.NOTICE
+owner: Ilan Schnell
+owner_url: https://github.com/ilanschnell
+package_url: pkg:pypi/bitarray@2.3.5
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.3.5

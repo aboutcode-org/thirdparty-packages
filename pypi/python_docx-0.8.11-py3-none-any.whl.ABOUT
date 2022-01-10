@@ -5,7 +5,6 @@ copyright: Copyright (c) Steve Canny, https://github.com/scanny
 description: Create and update Microsoft Word .docx files.
 download_url: https://thirdparty.aboutcode.org/pypi/python_docx-0.8.11-py3-none-any.whl
 homepage_url: https://github.com/python-openxml/python-docx
-keywords: docx office openxml word
 license_expression: mit
 name: python-docx
 package_url: pkg:pypi/python-docx@0.8.11

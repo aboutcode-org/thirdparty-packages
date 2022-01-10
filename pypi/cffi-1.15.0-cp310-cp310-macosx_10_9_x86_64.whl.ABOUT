@@ -1,0 +1,13 @@
+about_resource: cffi-1.15.0-cp310-cp310-macosx_10_9_x86_64.whl
+checksum_md5: 9064afa41b7ef4a5736cff4786b4c3a1
+checksum_sha1: 8a922e7e04b176ff0e9dab3f76a4a66664222d7a
+copyright: copyright (c) Armin Rigo, Maciej Fijalkowski
+description: Foreign Function Interface for Python calling C code.
+download_url: https://files.pythonhosted.org/packages/f0/00/3003a6f8c20bc349cc7c307432dcbd3711135a1ce12b763e7b09726674f0/cffi-1.15.0-cp310-cp310-macosx_10_9_x86_64.whl
+homepage_url: http://cffi.readthedocs.org
+license_expression: mit
+name: cffi
+package_url: pkg:pypi/cffi@1.15.0
+primary_language: Python
+type: pypi
+version: 1.15.0

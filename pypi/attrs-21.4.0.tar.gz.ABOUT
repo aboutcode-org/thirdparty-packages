@@ -1,0 +1,12 @@
+about_resource: attrs-21.4.0.tar.gz
+attribute: yes
+checksum_md5: 5a9b5e9ceebc380a13fb93235b11bbda
+checksum_sha1: 693de5a8890c6f7bad4edd6ade6971ab3eaf416b
+copyright: Copyright (c) Hynek Schlawack
+download_url: https://files.pythonhosted.org/packages/d7/77/ebb15fc26d0f815839ecd897b919ed6d85c050feeb83e100e020df9153d2/attrs-21.4.0.tar.gz
+license_expression: mit
+name: attrs
+package_url: pkg:pypi/attrs@21.4.0
+primary_language: Python
+type: pypi
+version: 21.4.0

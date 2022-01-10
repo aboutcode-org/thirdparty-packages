@@ -1,0 +1,19 @@
+about_resource: lxml-4.7.1-cp38-cp38-win_amd64.whl
+attribute: yes
+checksum_md5: dd8f2da709d85fdc041517adcd4e81cf
+checksum_sha1: 5e97ced727ff7cc462bb10002e219d9f23e24d00
+copyright: Copyright (c) 2004 Infrae.
+description: lxml is the most feature-rich and easy-to-use library for processing XML and HTML
+  in the Python language.
+download_url: https://files.pythonhosted.org/packages/ce/7c/06dd0464584955e3604652b6e243e282d25a17cc38d6c9a0aff298ceff30/lxml-4.7.1-cp38-cp38-win_amd64.whl
+homepage_url: http://lxml.de/
+license_expression: bsd-new AND (mit AND gpl-2.0-plus AND zpl-2.0 AND zlib)
+name: lxml
+notice_file: lxml-4.7.1-cp38-cp38-win_amd64.whl.NOTICE
+owner: Infrae
+package_url: pkg:pypi/lxml@4.7.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 4.7.1

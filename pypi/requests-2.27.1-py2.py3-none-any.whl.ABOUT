@@ -1,0 +1,23 @@
+about_resource: requests-2.27.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 435db0f122c83decd27524f690e89650
+checksum_sha1: 9d05ff0d7df26cc02e181e6fe183450ed9f1ad1e
+contact: me@kennethreitz.com
+copyright: Copyright 2017 Kenneth Reitz
+description: Requests allow you to send HTTP/1.1 requests. You can add headers, form data, multipart
+  files, and parameters with simple Python dictionaries, and access the response data in the
+  same way. It's powered by httplib and urllib3, but it does all the hard work and crazy hacks
+  for you.
+download_url: https://files.pythonhosted.org/packages/2d/61/08076519c80041bc0ffa1a8af0cbd3bf3e2b62af10435d269a9d0f40564d/requests-2.27.1-py2.py3-none-any.whl
+homepage_url: http://docs.python-requests.org/
+license_expression: apache-2.0
+name: requests
+notice_file: requests-2.27.1-py2.py3-none-any.whl.NOTICE
+owner: Kenneth Reitz
+owner_url: https://github.com/kennethreitz
+package_url: pkg:pypi/requests@2.27.1
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_url: git+https://github.com/kennethreitz/requests.git
+version: 2.27.1
