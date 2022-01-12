@@ -1,0 +1,18 @@
+about_resource: sphinxcontrib-jsmath-1.0.1.tar.gz
+checksum_md5: e45179f0a3608b6766862e0f34c23b62
+checksum_sha1: 70348505f159dca801522d6df68230e3c5e749c7
+copyright: Copyright (c) Georg Brandl <georg@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: A sphinx extension which renders display math in HTML via JavaScript
+download_url: https://files.pythonhosted.org/packages/b2/e8/9ed3830aeed71f17c026a07a5097edcf44b692850ef215b161b8ad875729/sphinxcontrib-jsmath-1.0.1.tar.gz
+holder: Georg Brandl
+holder_contact: georg@python.org
+homepage_url: http://sphinx-doc.org/
+license_expression: unknown AND bsd-new
+name: sphinxcontrib-jsmath
+package_url: pkg:pypi/sphinxcontrib-jsmath@1.0.1
+primary_language: Python
+type: pypi
+version: 1.0.1

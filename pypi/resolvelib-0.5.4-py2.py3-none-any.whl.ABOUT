@@ -1,0 +1,19 @@
+about_resource: resolvelib-0.5.4-py2.py3-none-any.whl
+checksum_md5: 1f641f753f9e6b50748f3b13c3cdd9be
+checksum_sha1: 62c04002a5fe730304668777c391008a70960b3c
+copyright: Copyright (c) Tzu-ping Chung <uranusjr@gmail.com>
+declared_license:
+  - ISC License
+  - 'License :: OSI Approved :: ISC License (ISCL)'
+description: Resolve abstract dependencies into concrete ones
+download_url: https://files.pythonhosted.org/packages/eb/11/bda2b7dee2c84d1f1923ae273023bb94d3e5ab3d1a46b4bd8cf5eb81a241/resolvelib-0.5.4-py2.py3-none-any.whl
+holder: Tzu-ping Chung
+holder_contact: uranusjr@gmail.com
+homepage_url: https://github.com/sarugaku/resolvelib
+keywords: dependency,resolution
+license_expression: isc
+name: resolvelib
+package_url: pkg:pypi/resolvelib@0.5.4
+primary_language: Python
+type: pypi
+version: 0.5.4

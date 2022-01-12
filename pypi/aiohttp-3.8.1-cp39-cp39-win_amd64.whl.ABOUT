@@ -1,0 +1,16 @@
+about_resource: aiohttp-3.8.1-cp39-cp39-win_amd64.whl
+checksum_md5: 924f3c0a0f17b3b26ea5371661291e7f
+checksum_sha1: 436cfa99ed4a652005fa1a0a0c1888b8e0b023b3
+copyright: Copyright (c) None <None>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: Async http client/server framework (asyncio)
+download_url: https://files.pythonhosted.org/packages/4b/02/8bcd66c2a44714b3c3d076ff3bf49b3a247338a47f31adb00567841e15a0/aiohttp-3.8.1-cp39-cp39-win_amd64.whl
+homepage_url: https://github.com/aio-libs/aiohttp
+license_expression: apache-2.0
+name: aiohttp
+package_url: pkg:pypi/aiohttp@3.8.1
+primary_language: Python
+type: pypi
+version: 3.8.1

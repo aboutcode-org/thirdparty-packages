@@ -1,0 +1,18 @@
+about_resource: aiosignal-1.2.0.tar.gz
+checksum_md5: 011700c3acc576a3a38deade6a4860cb
+checksum_sha1: 2cf7d2e9b9407a5fc8a85d59425d3c4576e1b5f6
+copyright: Copyright (c) Nikolay Kim <fafhrd91@gmail.com>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: 'aiosignal: a list of registered asynchronous callbacks'
+download_url: https://files.pythonhosted.org/packages/27/6b/a89fbcfae70cf53f066ec22591938296889d3cc58fec1e1c393b10e8d71d/aiosignal-1.2.0.tar.gz
+holder: Nikolay Kim
+holder_contact: fafhrd91@gmail.com
+homepage_url: https://github.com/aio-libs/aiosignal
+license_expression: apache-2.0
+name: aiosignal
+package_url: pkg:pypi/aiosignal@1.2.0
+primary_language: Python
+type: pypi
+version: 1.2.0

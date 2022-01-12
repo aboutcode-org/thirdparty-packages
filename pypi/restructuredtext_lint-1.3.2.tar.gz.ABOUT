@@ -1,0 +1,19 @@
+about_resource: restructuredtext_lint-1.3.2.tar.gz
+checksum_md5: f329e3fb722f4d58b72af9e96f088df4
+checksum_sha1: d7bde15f1ff2b231d9db99eb7fedde4df287a8d0
+copyright: Copyright (c) Todd Wolfson <todd@twolfson.com>
+declared_license:
+  - UNLICENSE
+  - 'License :: Public Domain'
+description: reStructuredText linter
+download_url: https://files.pythonhosted.org/packages/45/69/5e43d0e8c2ca903aaa2def7f755b97a3aedc5793630abbd004f2afc3b295/restructuredtext_lint-1.3.2.tar.gz
+holder: Todd Wolfson
+holder_contact: todd@twolfson.com
+homepage_url: https://github.com/twolfson/restructuredtext-lint
+keywords: restructuredtext,restructured text,rest,rst,lint
+license_expression: unlicense AND public-domain
+name: restructuredtext_lint
+package_url: pkg:pypi/restructuredtext-lint@1.3.2
+primary_language: Python
+type: pypi
+version: 1.3.2

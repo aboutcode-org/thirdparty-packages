@@ -1,0 +1,18 @@
+about_resource: enum34-1.1.10-py3-none-any.whl
+checksum_md5: c2bab643d4e8fd032973b312037a9164
+checksum_sha1: 2beb36f9c0556772a79f8935dc9f30da39689040
+copyright: Copyright (c) Ethan Furman <ethan@stoneleaf.us>
+declared_license:
+  - BSD License
+  - 'License :: OSI Approved :: BSD License'
+description: Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4
+download_url: https://files.pythonhosted.org/packages/63/f6/ccb1c83687756aeabbf3ca0f213508fcfb03883ff200d201b3a4c60cedcc/enum34-1.1.10-py3-none-any.whl
+holder: Ethan Furman
+holder_contact: ethan@stoneleaf.us
+homepage_url: https://bitbucket.org/stoneleaf/enum34
+license_expression: bsd-new
+name: enum34
+package_url: pkg:pypi/enum34@1.1.10
+primary_language: Python
+type: pypi
+version: 1.1.10

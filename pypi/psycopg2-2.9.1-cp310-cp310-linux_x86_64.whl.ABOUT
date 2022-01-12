@@ -1,0 +1,18 @@
+about_resource: psycopg2-2.9.1-cp310-cp310-linux_x86_64.whl
+attribute: yes
+checksum_md5: 093994828fa482a40769f83ca9290655
+checksum_sha1: bbfecb1bc5be6f3b9b00a8f4a4c5da376272f834
+copyright: Copyright (c) The Psycopg Team
+description: Psycopg is the most popular PostgreSQL adapter for the Python programming language.
+  At its core it fully implements the Python DB API 2.0 specifications. Several extensions allow
+  access to many of the features offered by PostgreSQL.
+homepage_url: http://initd.org/psycopg/
+license_expression: lgpl-3.0-plus WITH openssl-exception-lgpl-3.0-plus
+name: psycopg2
+notice_file: psycopg2-2.9.1-cp310-cp310-linux_x86_64.whl.NOTICE
+package_url: pkg:pypi/psycopg2@2.9.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 2.9.1

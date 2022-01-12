@@ -1,0 +1,19 @@
+about_resource: idna_ssl-1.1.0-py3-none-any.whl
+checksum_md5: d0931337e43f8691e020d1bf9613dcc7
+checksum_sha1: c91cb71ef28c62bb3af701d07c9503ea77d57bf2
+copyright: Copyright (c) Victor Kovtun <hellysmile@gmail.com>
+declared_license:
+  - UNKNOWN
+  - 'License :: OSI Approved :: MIT License'
+description: Patch ssl.match_hostname for Unicode(idna) domains support
+download_url: https://thirdparty.aboutcode.org/pypi/idna_ssl-1.1.0-py3-none-any.whl
+holder: Victor Kovtun
+holder_contact: hellysmile@gmail.com
+homepage_url: https://github.com/aio-libs/idna-ssl
+keywords: ssl,Unicode,idna,match_hostname
+license_expression: unknown AND mit
+name: idna-ssl
+package_url: pkg:pypi/idna-ssl@1.1.0
+primary_language: Python
+type: pypi
+version: 1.1.0

@@ -1,0 +1,13 @@
+about_resource: regex-2021.11.10-cp38-cp38-macosx_10_9_x86_64.whl
+checksum_md5: 59222a095b20c949423f912376048bf5
+checksum_sha1: 01433eeb56c28bd6ec548e2eaf0570ae149c2f6d
+copyright: copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+description: Alternative regular expression module, to replace re.
+download_url: https://files.pythonhosted.org/packages/b6/53/fea3a3ffaa05b7787bfd359ddeb0f42e5da925da34c0bef158c566248e37/regex-2021.11.10-cp38-cp38-macosx_10_9_x86_64.whl
+homepage_url: https://bitbucket.org/mrabarnett/mrab-regex
+license_expression: apache-2.0 AND python
+name: regex
+package_url: pkg:pypi/regex@2021.11.10
+primary_language: Python
+type: pypi
+version: 2021.11.10

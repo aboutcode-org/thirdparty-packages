@@ -1,0 +1,18 @@
+about_resource: pytest-django-4.5.2.tar.gz
+checksum_md5: 5d7e84c0ebf467ba40ea0508ba7b6894
+checksum_sha1: 0a0fccace63cdf6a745bcaf3d785c3599f17ffbe
+copyright: Copyright (c) Andreas Pelme <andreas@pelme.se>
+declared_license:
+  - BSD-3-Clause
+  - 'License :: OSI Approved :: BSD License'
+description: A Django plugin for pytest.
+download_url: https://files.pythonhosted.org/packages/9b/42/6d6563165b82289d4a30ea477f85c04386303e51cf4e4e4651d4f9910830/pytest-django-4.5.2.tar.gz
+holder: Andreas Pelme
+holder_contact: andreas@pelme.se
+homepage_url: https://pytest-django.readthedocs.io/
+license_expression: bsd-new
+name: pytest-django
+package_url: pkg:pypi/pytest-django@4.5.2
+primary_language: Python
+type: pypi
+version: 4.5.2

@@ -1,0 +1,17 @@
+about_resource: pycryptodome-3.12.0.zip
+attribute: yes
+checksum_md5: 249e6a00bdc54c84cbd6c55cb8d78dd6
+checksum_sha1: 70dc0337f40bbb736b62f00a89bf2b08f33852a0
+copyright: Copyright (c) pycryptodome contributors
+description: A self-contained cryptographic library for Python
+download_url: https://files.pythonhosted.org/packages/dd/3b/38d83c2725fec5b837fc05d5c6e0178a420ff839a6ad5872f10c89244899/pycryptodome-3.12.0.zip
+homepage_url: https://github.com/Legrandin/pycryptodome
+license_expression: bsd-simplified AND public-domain AND other-permissive
+name: pycryptodome
+notice_file: pycryptodome-3.12.0.zip.NOTICE
+owner: Helder Eijs
+owner_url: https://github.com/Legrandin
+package_url: pkg:pypi/pycryptodome@3.12.0
+primary_language: Python
+type: pypi
+version: 3.12.0

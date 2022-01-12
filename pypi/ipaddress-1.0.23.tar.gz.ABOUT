@@ -1,0 +1,18 @@
+about_resource: ipaddress-1.0.23.tar.gz
+checksum_md5: aaee67a8026782af1831148beb0d9060
+checksum_sha1: 43a6bcd73268ca8e3ba4a22b48f6fe821b1a6521
+copyright: Copyright (c) Philipp Hagemeister <phihag@phihag.de>
+declared_license:
+  - Python Software Foundation License
+  - 'License :: OSI Approved :: Python Software Foundation License'
+description: IPv4/IPv6 manipulation library
+download_url: https://files.pythonhosted.org/packages/b9/9a/3e9da40ea28b8210dd6504d3fe9fe7e013b62bf45902b458d1cdc3c34ed9/ipaddress-1.0.23.tar.gz
+holder: Philipp Hagemeister
+holder_contact: phihag@phihag.de
+homepage_url: https://github.com/phihag/ipaddress
+license_expression: python
+name: ipaddress
+package_url: pkg:pypi/ipaddress@1.0.23
+primary_language: Python
+type: pypi
+version: 1.0.23

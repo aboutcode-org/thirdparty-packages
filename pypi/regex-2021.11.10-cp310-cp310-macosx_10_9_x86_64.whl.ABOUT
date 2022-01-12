@@ -1,0 +1,13 @@
+about_resource: regex-2021.11.10-cp310-cp310-macosx_10_9_x86_64.whl
+checksum_md5: 43c60d62e4fa64a1b1ea8ca0becdd94f
+checksum_sha1: fa2cbd001e00c36340abd232a7fd89dbc04e8a93
+copyright: copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+description: Alternative regular expression module, to replace re.
+download_url: https://files.pythonhosted.org/packages/16/a3/db549b6f747cc8161a17c91c3aeb886344c7b69eeea0346f17367f0af2cf/regex-2021.11.10-cp310-cp310-macosx_10_9_x86_64.whl
+homepage_url: https://bitbucket.org/mrabarnett/mrab-regex
+license_expression: apache-2.0 AND python
+name: regex
+package_url: pkg:pypi/regex@2021.11.10
+primary_language: Python
+type: pypi
+version: 2021.11.10

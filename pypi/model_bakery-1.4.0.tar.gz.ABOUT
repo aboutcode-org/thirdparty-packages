@@ -1,0 +1,19 @@
+about_resource: model_bakery-1.4.0.tar.gz
+checksum_md5: f95f77bdfd67ee144db569585980bb29
+checksum_sha1: 4c50db42d2fc3183366b7c23a710de8db8353c72
+copyright: Copyright (c) berinfontes <bernardoxhc@gmail.com>
+declared_license:
+  - Apache 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Smart object creation facility for Django.
+download_url: https://files.pythonhosted.org/packages/8a/c0/b4ecadaf457a49b3b984c55c0faf3f79b8956ee1be36a33acc5fdc612101/model_bakery-1.4.0.tar.gz
+holder: berinfontes
+holder_contact: bernardoxhc@gmail.com
+homepage_url: https://github.com/model-bakers/model_bakery
+keywords: django testing factory python
+license_expression: apache-2.0
+name: model_bakery
+package_url: pkg:pypi/model-bakery@1.4.0
+primary_language: Python
+type: pypi
+version: 1.4.0

@@ -1,0 +1,17 @@
+about_resource: alabaster-0.7.12.tar.gz
+checksum_md5: 3591827fde96d1dd23970fb05410ed04
+checksum_sha1: 36c11bd5d8e99e2009b643b7f6e91bf2a0fd573b
+copyright: Copyright (c) Jeff Forcier <jeff@bitprophet.org>
+declared_license:
+  - 'License :: OSI Approved :: BSD License'
+description: A configurable sidebar-enabled Sphinx theme
+download_url: https://files.pythonhosted.org/packages/cc/b4/ed8dcb0d67d5cfb7f83c4d5463a7614cb1d078ad7ae890c9143edebbf072/alabaster-0.7.12.tar.gz
+holder: Jeff Forcier
+holder_contact: jeff@bitprophet.org
+homepage_url: https://alabaster.readthedocs.io
+license_expression: bsd-new
+name: alabaster
+package_url: pkg:pypi/alabaster@0.7.12
+primary_language: Python
+type: pypi
+version: 0.7.12

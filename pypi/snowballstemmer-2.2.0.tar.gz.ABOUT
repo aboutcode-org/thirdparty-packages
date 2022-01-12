@@ -1,0 +1,19 @@
+about_resource: snowballstemmer-2.2.0.tar.gz
+checksum_md5: 4332ddc7bbee0f344a03915b2ad59a54
+checksum_sha1: aaf1b0e3b58d25e2e297ea3dbef59d8534ef8d92
+copyright: Copyright (c) Snowball Developers <snowball-discuss@lists.tartarus.org>
+declared_license:
+  - BSD-3-Clause
+  - 'License :: OSI Approved :: BSD License'
+description: This package provides 29 stemmers for 28 languages generated from Snowball algorithms.
+download_url: https://files.pythonhosted.org/packages/44/7b/af302bebf22c749c56c9c3e8ae13190b5b5db37a33d9068652e8f73b7089/snowballstemmer-2.2.0.tar.gz
+holder: Snowball Developers
+holder_contact: snowball-discuss@lists.tartarus.org
+homepage_url: https://github.com/snowballstem/snowball
+keywords: stemmer
+license_expression: bsd-new
+name: snowballstemmer
+package_url: pkg:pypi/snowballstemmer@2.2.0
+primary_language: Python
+type: pypi
+version: 2.2.0

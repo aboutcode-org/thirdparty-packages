@@ -1,0 +1,18 @@
+about_resource: drf-spectacular-0.21.1.tar.gz
+checksum_md5: 3b53e7c68a93ea0f6731cd7469118fe1
+checksum_sha1: f57dc75b9a214c1e01da6e107dac3d3fb6a256b0
+copyright: Copyright (c) T. Franzel <tfranzel@gmail.com>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: Sane and flexible OpenAPI 3 schema generation for Django REST framework
+download_url: https://files.pythonhosted.org/packages/69/52/f440ff6dd1990d6353fc3c98bb73403f52569196b068597351dccbe20040/drf-spectacular-0.21.1.tar.gz
+holder: T. Franzel
+holder_contact: tfranzel@gmail.com
+homepage_url: https://github.com/tfranzel/drf-spectacular
+license_expression: unknown AND bsd-new
+name: drf-spectacular
+package_url: pkg:pypi/drf-spectacular@0.21.1
+primary_language: Python
+type: pypi
+version: 0.21.1

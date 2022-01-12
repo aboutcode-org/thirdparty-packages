@@ -1,0 +1,18 @@
+about_resource: frozenlist-1.2.0-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+checksum_md5: 5bfa9b40ae0e6558be62292d50dacc83
+checksum_sha1: e9af83d698c5c3c831e5ac1848d7c50cfbbb7a15
+copyright: Copyright (c) Nikolay Kim <fafhrd91@gmail.com>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: A list-like structure which implements collections.abc.MutableSequence
+download_url: https://files.pythonhosted.org/packages/51/3f/f67395ff0090b9f2835838a1f61c3e840baac70fd65bae762095dead48b2/frozenlist-1.2.0-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+holder: Nikolay Kim
+holder_contact: fafhrd91@gmail.com
+homepage_url: https://github.com/aio-libs/frozenlist
+license_expression: apache-2.0
+name: frozenlist
+package_url: pkg:pypi/frozenlist@1.2.0
+primary_language: Python
+type: pypi
+version: 1.2.0

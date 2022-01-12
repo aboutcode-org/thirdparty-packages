@@ -1,0 +1,18 @@
+about_resource: yarl-1.7.2-cp38-cp38-macosx_10_9_universal2.whl
+checksum_md5: 80109052aa3c72e96218e9be3c7e4b27
+checksum_sha1: d4411fe90a36e7f475baf979e51c99bb87e4a3eb
+copyright: Copyright (c) Andrew Svetlov <andrew.svetlov@gmail.com>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: Yet another URL library
+download_url: https://files.pythonhosted.org/packages/e0/24/9abac7eeab2344756148d5909aba8179d84ed7f95683ca86f0fc6a79811a/yarl-1.7.2-cp38-cp38-macosx_10_9_universal2.whl
+holder: Andrew Svetlov
+holder_contact: andrew.svetlov@gmail.com
+homepage_url: https://github.com/aio-libs/yarl/
+license_expression: apache-2.0
+name: yarl
+package_url: pkg:pypi/yarl@1.7.2
+primary_language: Python
+type: pypi
+version: 1.7.2

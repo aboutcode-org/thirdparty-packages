@@ -1,0 +1,19 @@
+about_resource: httmock-1.4.0-py3-none-any.whl
+checksum_md5: 6d8626f92868cd85f1bd4b7f2d84ac33
+checksum_sha1: 08fc48c7a33156decb62862afa718ff99df06b89
+copyright: Copyright (c) Patryk Zawadzki <patrys@room-303.com>
+declared_license:
+  - Apache-2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: A mocking library for requests.
+download_url: https://files.pythonhosted.org/packages/ce/99/f950e23335affb58ae116aaf32565258a732b2b570aa961764df2ac0540d/httmock-1.4.0-py3-none-any.whl
+holder: Patryk Zawadzki
+holder_contact: patrys@room-303.com
+homepage_url: https://github.com/patrys/httmock
+keywords: requests,testing,mock
+license_expression: apache-2.0
+name: httmock
+package_url: pkg:pypi/httmock@1.4.0
+primary_language: Python
+type: pypi
+version: 1.4.0

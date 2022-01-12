@@ -1,0 +1,17 @@
+about_resource: xmlrpc2-0.3.1-py3-none-any.whl
+checksum_md5: 1bf585062137a773019dae63134eec95
+checksum_sha1: 35d40d1a845b47ce39ead9507afe4507a00d5291
+copyright: Copyright (c) Donald Stufft <donald.stufft@gmail.com>
+declared_license:
+  - Copyright (c) Donald Stufft
+description: UNKNOWN
+download_url: https://thirdparty.aboutcode.org/pypi/xmlrpc2-0.3.1-py3-none-any.whl
+holder: Donald Stufft
+holder_contact: donald.stufft@gmail.com
+homepage_url: https://github.com/dstufft/xmlrpc2
+license_expression: unknown
+name: xmlrpc2
+package_url: pkg:pypi/xmlrpc2@0.3.1
+primary_language: Python
+type: pypi
+version: 0.3.1

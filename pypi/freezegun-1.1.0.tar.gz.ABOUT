@@ -1,0 +1,18 @@
+about_resource: freezegun-1.1.0.tar.gz
+checksum_md5: 57072519a77caa141121adc069275072
+checksum_sha1: 18529e0d19f6789c76f13a9eddc25e0eb04d053b
+copyright: Copyright (c) Steve Pulec <spulec@gmail.com>
+declared_license:
+  - Apache 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Let your Python tests travel through time
+download_url: https://files.pythonhosted.org/packages/1f/3a/92d1dbf22d7227548a15900bbeff64ed8f43e9b1aeba3a5850ff4e439508/freezegun-1.1.0.tar.gz
+holder: Steve Pulec
+holder_contact: spulec@gmail.com
+homepage_url: https://github.com/spulec/freezegun
+license_expression: apache-2.0
+name: freezegun
+package_url: pkg:pypi/freezegun@1.1.0
+primary_language: Python
+type: pypi
+version: 1.1.0

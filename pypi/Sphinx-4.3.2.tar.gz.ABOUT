@@ -1,0 +1,18 @@
+about_resource: Sphinx-4.3.2.tar.gz
+checksum_md5: fed523361a7099d1e3b61fa887005b16
+checksum_sha1: 2a2ce18d503a5908972cd9098c95a204eeea7a10
+copyright: Copyright (c) Georg Brandl <georg@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: Python documentation generator
+download_url: https://files.pythonhosted.org/packages/5f/70/83589844bd82a5de3a748757fb39b2440435716e6a295827b13967dfa97f/Sphinx-4.3.2.tar.gz
+holder: Georg Brandl
+holder_contact: georg@python.org
+homepage_url: https://www.sphinx-doc.org/
+license_expression: unknown AND bsd-new
+name: Sphinx
+package_url: pkg:pypi/sphinx@4.3.2
+primary_language: Python
+type: pypi
+version: 4.3.2

@@ -1,0 +1,13 @@
+about_resource: tomli-1.2.3.tar.gz
+checksum_md5: 807cc80e6a2697375f431b757994b7c5
+checksum_sha1: e461afc42e3cab67d31062eceb12fbfbf039e231
+copyright: copyright (c) Taneli Hukkinen <hukkin@users.noreply.github.com>
+description: A lil' TOML parser
+download_url: https://files.pythonhosted.org/packages/fb/2e/d0a8276b0cf9b9e34fd0660c330acc59656f53bb2209adc75af863a3582d/tomli-1.2.3.tar.gz
+keywords: toml
+license_expression: mit
+name: tomli
+package_url: pkg:pypi/tomli@1.2.3
+primary_language: Python
+type: pypi
+version: 1.2.3

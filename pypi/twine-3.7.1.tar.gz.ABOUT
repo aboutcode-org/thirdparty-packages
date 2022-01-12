@@ -1,0 +1,13 @@
+about_resource: twine-3.7.1.tar.gz
+checksum_md5: a6801157e8b55030d2506dcd519f0bf0
+checksum_sha1: 9b3b3a7c7565f97401581a355129039f2b56b787
+copyright: copyright (c) Donald Stufft and individual contributors
+description: Collection of utilities for publishing packages on PyPI
+download_url: https://files.pythonhosted.org/packages/9d/12/0e4c8df764d87c15b8256444d0b8b433c183ce3a986ffae3086df3f876ef/twine-3.7.1.tar.gz
+homepage_url: https://twine.readthedocs.io/
+license_expression: apache-2.0
+name: twine
+package_url: pkg:pypi/twine@3.7.1
+primary_language: Python
+type: pypi
+version: 3.7.1

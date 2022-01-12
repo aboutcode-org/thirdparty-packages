@@ -1,0 +1,18 @@
+about_resource: pyOpenSSL-21.0.0-py2.py3-none-any.whl
+checksum_md5: 2b529e474fe82538765d1ac8b6b6c90d
+checksum_sha1: 6cc63d74dd4357e48929871e01700d48921ac81f
+copyright: Copyright (c) The pyOpenSSL developers <cryptography-dev@python.org>
+declared_license:
+  - Apache License, Version 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Python wrapper module around the OpenSSL library
+download_url: https://files.pythonhosted.org/packages/85/3a/fe3c98435856a1ed798977981f3da82d2685cf9df97e4d9546340d2b83db/pyOpenSSL-21.0.0-py2.py3-none-any.whl
+holder: The pyOpenSSL developers
+holder_contact: cryptography-dev@python.org
+homepage_url: https://pyopenssl.org/
+license_expression: apache-2.0
+name: pyOpenSSL
+package_url: pkg:pypi/pyopenssl@21.0.0
+primary_language: Python
+type: pypi
+version: 21.0.0

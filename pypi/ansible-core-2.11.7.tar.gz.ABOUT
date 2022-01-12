@@ -1,0 +1,18 @@
+about_resource: ansible-core-2.11.7.tar.gz
+checksum_md5: 9d50b1305ec220752b35e3d79a0a8deb
+checksum_sha1: fe8f647adf93cc970011b34b6f8a9511448bceb0
+copyright: Copyright (c) Ansible, Inc. <info@ansible.com>
+declared_license:
+  - GPLv3+
+  - 'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)'
+description: Radically simple IT automation
+download_url: https://files.pythonhosted.org/packages/9e/03/f7eeac50fef28f29d0a07f0a87e0c49101956fee751fd4bf25614d7dcdbf/ansible-core-2.11.7.tar.gz
+holder: Ansible, Inc.
+holder_contact: info@ansible.com
+homepage_url: https://ansible.com/
+license_expression: gpl-3.0-plus
+name: ansible-core
+package_url: pkg:pypi/ansible-core@2.11.7
+primary_language: Python
+type: pypi
+version: 2.11.7

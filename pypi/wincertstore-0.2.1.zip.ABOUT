@@ -1,0 +1,19 @@
+about_resource: wincertstore-0.2.1.zip
+checksum_md5: d8353ce258a15f2b234736e53b1757dc
+checksum_sha1: d2b6965d0ee531d6155625483d2a6d7998011eea
+copyright: Copyright (c) Christian Heimes <christian@python.org>
+declared_license:
+  - PSFL
+  - 'License :: OSI Approved :: Python Software Foundation License'
+description: Python module to extract CA and CRL certs from Windows' cert store (ctypes based).
+download_url: https://files.pythonhosted.org/packages/90/71/7b01b7e37a73200bf52a81a2a9ea71b2d0492a5137258dd6034975c808e1/wincertstore-0.2.1.zip
+holder: Christian Heimes
+holder_contact: christian@python.org
+homepage_url: https://github.com/tiran/wincertstore
+keywords: windows cert ssl ca crl
+license_expression: python
+name: wincertstore
+package_url: pkg:pypi/wincertstore@0.2.1
+primary_language: Python
+type: pypi
+version: 0.2.1

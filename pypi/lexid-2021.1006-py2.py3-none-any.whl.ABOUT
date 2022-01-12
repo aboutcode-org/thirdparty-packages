@@ -1,0 +1,19 @@
+about_resource: lexid-2021.1006-py2.py3-none-any.whl
+checksum_md5: d66956a88288bdd6c7b694f968ebe587
+checksum_sha1: 11702516cf582c00ce1d78b85c6fdba8c6efbea9
+copyright: Copyright (c) Manuel Barkhau <mbarkhau@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Variable width build numbers with lexical ordering.
+download_url: https://files.pythonhosted.org/packages/cf/e3/35764404a4b7e2021be1f88f42264c2e92e0c4720273559a62461ce64a47/lexid-2021.1006-py2.py3-none-any.whl
+holder: Manuel Barkhau
+holder_contact: mbarkhau@gmail.com
+homepage_url: https://github.com/mbarkhau/lexid
+keywords: lexical build number
+license_expression: mit
+name: lexid
+package_url: pkg:pypi/lexid@2021.1006
+primary_language: Python
+type: pypi
+version: '2021.1006'

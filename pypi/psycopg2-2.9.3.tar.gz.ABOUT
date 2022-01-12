@@ -1,0 +1,19 @@
+about_resource: psycopg2-2.9.3.tar.gz
+attribute: yes
+checksum_md5: 1415674b95557329867ce68bd841a48b
+checksum_sha1: 87802252c3ad9a89b1c5b828ff7fd4055cf98e0f
+copyright: Copyright (c) The Psycopg Team
+description: Psycopg is the most popular PostgreSQL adapter for the Python programming language.
+  At its core it fully implements the Python DB API 2.0 specifications. Several extensions allow
+  access to many of the features offered by PostgreSQL.
+download_url: https://files.pythonhosted.org/packages/d1/1e/b450599a27b1809bccbd4e369f397cb18dc56b875778d961f9ae180b54b7/psycopg2-2.9.3.tar.gz
+homepage_url: http://initd.org/psycopg/
+license_expression: lgpl-3.0-plus WITH openssl-exception-lgpl-3.0-plus
+name: psycopg2
+notice_file: psycopg2-2.9.3.tar.gz.NOTICE
+package_url: pkg:pypi/psycopg2@2.9.3
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 2.9.3

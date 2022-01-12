@@ -1,0 +1,18 @@
+about_resource: pprintpp-0.4.0.tar.gz
+checksum_md5: b5b6a310c80986e38eaab9b9a978b966
+checksum_sha1: 8e7ca9e09757fe2fd25dfce19c69f1c9acb17d3f
+copyright: Copyright (c) David Wolever <david@wolever.net>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: A drop-in replacement for pprint that's actually pretty
+download_url: https://files.pythonhosted.org/packages/06/1a/7737e7a0774da3c3824d654993cf57adc915cb04660212f03406334d8c0b/pprintpp-0.4.0.tar.gz
+holder: David Wolever
+holder_contact: david@wolever.net
+homepage_url: https://github.com/wolever/pprintpp
+license_expression: unknown AND bsd-new
+name: pprintpp
+package_url: pkg:pypi/pprintpp@0.4.0
+primary_language: Python
+type: pypi
+version: 0.4.0

@@ -1,0 +1,13 @@
+about_resource: packaging-21.3-py3-none-any.whl
+attribute: yes
+checksum_md5: 670a7057642064a747bd8274b24eb3f9
+checksum_sha1: bc1215388f22b27f973bc1bc3d74a96373404ac9
+copyright: Copyright (c) Donald Stufft and individual contributors
+download_url: https://files.pythonhosted.org/packages/05/8e/8de486cbd03baba4deef4142bd643a3e7bbe954a784dc1bb17142572d127/packaging-21.3-py3-none-any.whl
+license_expression: bsd-new OR apache-2.0
+name: packaging
+package_url: pkg:pypi/packaging@21.3
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '21.3'

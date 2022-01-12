@@ -1,0 +1,20 @@
+about_resource: pytest-forked-1.4.0.tar.gz
+attribute: yes
+checksum_md5: fc2d4bb78f3a5e7c082173527d5009d3
+checksum_sha1: a73bbca228c58ef85b19662523efc46910f7b0b5
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and contributors
+description: |
+  run tests in isolated forked subprocesses
+  extracted --boxed from pytest-xdist to ensure backward compat
+download_url: https://files.pythonhosted.org/packages/f1/bc/0121a2e386b261b69f4f5aa48e5304c947451dce70d68628cb28d5cd0d28/pytest-forked-1.4.0.tar.gz
+homepage_url: https://github.com/pytest-dev/pytest-forked
+license_expression: mit
+name: pytest-forked
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest-forked@1.4.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/pytest-dev/pytest-forked
+version: 1.4.0

@@ -1,0 +1,18 @@
+about_resource: sphinxcontrib_qthelp-1.0.3-py2.py3-none-any.whl
+checksum_md5: c6d3633bba02c6746ac4ebbb656ee51b
+checksum_sha1: 328d8183d0d578bab53bcc9a827070ae005ee568
+copyright: Copyright (c) Georg Brandl <georg@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: sphinxcontrib-qthelp is a sphinx extension which outputs QtHelp document.
+download_url: https://files.pythonhosted.org/packages/2b/14/05f9206cf4e9cfca1afb5fd224c7cd434dcc3a433d6d9e4e0264d29c6cdb/sphinxcontrib_qthelp-1.0.3-py2.py3-none-any.whl
+holder: Georg Brandl
+holder_contact: georg@python.org
+homepage_url: http://sphinx-doc.org/
+license_expression: unknown AND bsd-new
+name: sphinxcontrib-qthelp
+package_url: pkg:pypi/sphinxcontrib-qthelp@1.0.3
+primary_language: Python
+type: pypi
+version: 1.0.3

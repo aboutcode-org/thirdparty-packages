@@ -1,0 +1,18 @@
+about_resource: url-0.4.2-cp36-cp36m-linux_x86_64.whl
+checksum_md5: 50c7ae4af60753572d0d46b170d8c29c
+checksum_sha1: c05f3a82ab74d382d36123263053186e0f8d331e
+copyright: Copyright (c) Dan Lecocq <dan@moz.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: URL Parsing
+download_url: https://thirdparty.aboutcode.org/pypi/url-0.4.2-cp36-cp36m-linux_x86_64.whl
+holder: Dan Lecocq
+holder_contact: dan@moz.com
+homepage_url: http://github.com/seomoz/url-py
+license_expression: mit
+name: url
+package_url: pkg:pypi/url@0.4.2
+primary_language: Python
+type: pypi
+version: 0.4.2

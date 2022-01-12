@@ -1,0 +1,18 @@
+about_resource: sphinxcontrib-htmlhelp-2.0.0.tar.gz
+checksum_md5: 70765b55395a3c20233631802902c840
+checksum_sha1: fcd0a815cd0e7941669aff2d652679f72caadb1b
+copyright: Copyright (c) Georg Brandl <georg@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: sphinxcontrib-htmlhelp is a sphinx extension which renders HTML help files
+download_url: https://files.pythonhosted.org/packages/eb/85/93464ac9bd43d248e7c74573d58a791d48c475230bcf000df2b2700b9027/sphinxcontrib-htmlhelp-2.0.0.tar.gz
+holder: Georg Brandl
+holder_contact: georg@python.org
+homepage_url: http://sphinx-doc.org/
+license_expression: bsd-new
+name: sphinxcontrib-htmlhelp
+package_url: pkg:pypi/sphinxcontrib-htmlhelp@2.0.0
+primary_language: Python
+type: pypi
+version: 2.0.0

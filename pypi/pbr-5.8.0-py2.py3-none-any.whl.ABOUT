@@ -1,0 +1,18 @@
+about_resource: pbr-5.8.0-py2.py3-none-any.whl
+checksum_md5: 7a0eec4f3ff500e47e3d9c9ea9f098b2
+checksum_sha1: 11361e38b3f40bf6c1b1b1162d0ba372cf61d512
+copyright: Copyright (c) OpenStack <openstack-discuss@lists.openstack.org>
+declared_license:
+  - UNKNOWN
+  - 'License :: OSI Approved :: Apache Software License'
+description: Python Build Reasonableness
+download_url: https://files.pythonhosted.org/packages/73/c3/d45171501210b0305f4c93fafe50950f0c2228e87034ceb51744bd03ff08/pbr-5.8.0-py2.py3-none-any.whl
+holder: OpenStack
+holder_contact: openstack-discuss@lists.openstack.org
+homepage_url: https://docs.openstack.org/pbr/latest/
+license_expression: unknown AND apache-2.0
+name: pbr
+package_url: pkg:pypi/pbr@5.8.0
+primary_language: Python
+type: pypi
+version: 5.8.0

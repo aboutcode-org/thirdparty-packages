@@ -1,0 +1,19 @@
+about_resource: rq-1.10.1.tar.gz
+checksum_md5: 024ba4c70c5438dc178ce4e4016b468c
+checksum_sha1: cf2f76357920dc5fda450053b9bde75e828e7dfa
+copyright: Copyright (c) Vincent Driessen <vincent@3rdcloud.com>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: RQ is a simple, lightweight, library for creating background jobs, and processing
+  them.
+download_url: https://files.pythonhosted.org/packages/23/9a/bc0ccf607b5a5038afc1a217ae5c92c1fe28572ec9188199884ff45fc3b9/rq-1.10.1.tar.gz
+holder: Vincent Driessen
+holder_contact: vincent@3rdcloud.com
+homepage_url: https://github.com/nvie/rq/
+license_expression: unknown AND bsd-new
+name: rq
+package_url: pkg:pypi/rq@1.10.1
+primary_language: Python
+type: pypi
+version: 1.10.1

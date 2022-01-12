@@ -1,0 +1,18 @@
+about_resource: sphinx_rtd_theme-1.0.0-py2.py3-none-any.whl
+checksum_md5: 98a94c3e7ff439b17bbf3ed5882fc99e
+checksum_sha1: d97e54c5ba2ac8fb6a5cb502f6856abacc857cf1
+copyright: Copyright (c) Dave Snider, Read the Docs, Inc. & contributors <dev@readthedocs.org>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Read the Docs theme for Sphinx
+download_url: https://files.pythonhosted.org/packages/e0/d2/3818e4730e314719e27f639c44164419e40eed826d63753dc480262036e8/sphinx_rtd_theme-1.0.0-py2.py3-none-any.whl
+holder: Dave Snider, Read the Docs, Inc. & contributors
+holder_contact: dev@readthedocs.org
+homepage_url: https://github.com/readthedocs/sphinx_rtd_theme
+license_expression: mit
+name: sphinx-rtd-theme
+package_url: pkg:pypi/sphinx-rtd-theme@1.0.0
+primary_language: Python
+type: pypi
+version: 1.0.0

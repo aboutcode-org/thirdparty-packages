@@ -1,0 +1,18 @@
+about_resource: sphinxcontrib_applehelp-1.0.2-py2.py3-none-any.whl
+checksum_md5: aac12ce30a5d53b6f96799062c0bc249
+checksum_sha1: 8445b42d038791c07977c082c6733dca2101b60a
+copyright: Copyright (c) Georg Brandl <georg@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: sphinxcontrib-applehelp is a sphinx extension which outputs Apple help books
+download_url: https://files.pythonhosted.org/packages/dc/47/86022665a9433d89a66f5911b558ddff69861766807ba685de2e324bd6ed/sphinxcontrib_applehelp-1.0.2-py2.py3-none-any.whl
+holder: Georg Brandl
+holder_contact: georg@python.org
+homepage_url: http://sphinx-doc.org/
+license_expression: unknown AND bsd-new
+name: sphinxcontrib-applehelp
+package_url: pkg:pypi/sphinxcontrib-applehelp@1.0.2
+primary_language: Python
+type: pypi
+version: 1.0.2

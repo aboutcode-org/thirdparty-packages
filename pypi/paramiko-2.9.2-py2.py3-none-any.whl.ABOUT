@@ -1,0 +1,18 @@
+about_resource: paramiko-2.9.2-py2.py3-none-any.whl
+checksum_md5: c19028be4ddd17de4640176a224d70fd
+checksum_sha1: ebfd79d5e4122bab72d92f343feeb7fcf73582a2
+copyright: Copyright (c) Jeff Forcier <jeff@bitprophet.org>
+declared_license:
+  - LGPL
+  - 'License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)'
+description: SSH2 protocol library
+download_url: https://files.pythonhosted.org/packages/60/3e/84c52fb09db84548c5d366bac8863125c6db099b87495e04c8af5527e6f1/paramiko-2.9.2-py2.py3-none-any.whl
+holder: Jeff Forcier
+holder_contact: jeff@bitprophet.org
+homepage_url: https://paramiko.org
+license_expression: lgpl-2.0-plus
+name: paramiko
+package_url: pkg:pypi/paramiko@2.9.2
+primary_language: Python
+type: pypi
+version: 2.9.2

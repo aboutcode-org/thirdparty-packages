@@ -1,0 +1,18 @@
+about_resource: pytest_cov-3.0.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 72873aff86d7142e2423baec3676456e
+checksum_sha1: 59be7336de28da618d62ac8d8d3b23ba8ff383ed
+contact: pytest-dev@python.org
+copyright: Copyright (c) Meme Dough and contributors
+description: Coverage plugin for pytest.
+download_url: https://files.pythonhosted.org/packages/20/49/b3e0edec68d81846f519c602ac38af9db86e1e71275528b3e814ae236063/pytest_cov-3.0.0-py3-none-any.whl
+homepage_url: https://github.com/pytest-dev/pytest-cov
+license_expression: mit AND bsd-new
+name: pytest-cov
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest-cov@3.0.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/pytest-dev/pytest-cov
+version: 3.0.0

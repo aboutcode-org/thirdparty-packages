@@ -1,0 +1,19 @@
+about_resource: bumpver-2021.1114.tar.gz
+checksum_md5: 97c9095b73ae4d27631156091761539e
+checksum_sha1: d0c356fab00a9cdfceda15ef25735210fe6b5e23
+copyright: Copyright (c) Manuel Barkhau <mbarkhau@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Bump version numbers in project files.
+download_url: https://files.pythonhosted.org/packages/f4/96/5d8c7237c6a24eca2407fa1f108708a4800c363bf3e09ba6870635b55cdd/bumpver-2021.1114.tar.gz
+holder: Manuel Barkhau
+holder_contact: mbarkhau@gmail.com
+homepage_url: https://github.com/mbarkhau/bumpver
+keywords: version bumpver calver semver versioning bumpversion pep440
+license_expression: mit
+name: bumpver
+package_url: pkg:pypi/bumpver@2021.1114
+primary_language: Python
+type: pypi
+version: '2021.1114'

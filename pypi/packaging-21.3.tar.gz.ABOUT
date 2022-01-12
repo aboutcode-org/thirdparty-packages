@@ -1,0 +1,13 @@
+about_resource: packaging-21.3.tar.gz
+attribute: yes
+checksum_md5: e713c1939f294fd729af4a7be40dd141
+checksum_sha1: b8caff3bec760723db6af4092c68075e22bdb769
+copyright: Copyright (c) Donald Stufft and individual contributors
+download_url: https://files.pythonhosted.org/packages/df/9e/d1a7217f69310c1db8fdf8ab396229f55a699ce34a203691794c5d1cad0c/packaging-21.3.tar.gz
+license_expression: bsd-new OR apache-2.0
+name: packaging
+package_url: pkg:pypi/packaging@21.3
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '21.3'

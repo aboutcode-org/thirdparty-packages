@@ -1,0 +1,19 @@
+about_resource: ipython-8.0.0.tar.gz
+checksum_md5: ae6aa8b1edc88af04afa752d610a5415
+checksum_sha1: d08489e475e7d16a357150e3bee60ff46b2ce3f4
+copyright: Copyright (c) The IPython Development Team <ipython-dev@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: 'IPython: Productive Interactive Computing'
+download_url: https://files.pythonhosted.org/packages/82/fb/07873184613eea2443ee6aad602e50239e906bfdc7411f1775012cb4d14a/ipython-8.0.0.tar.gz
+holder: The IPython Development Team
+holder_contact: ipython-dev@python.org
+homepage_url: https://ipython.org
+keywords: Interactive,Interpreter,Shell,Embedding
+license_expression: unknown AND bsd-new
+name: ipython
+package_url: pkg:pypi/ipython@8.0.0
+primary_language: Python
+type: pypi
+version: 8.0.0

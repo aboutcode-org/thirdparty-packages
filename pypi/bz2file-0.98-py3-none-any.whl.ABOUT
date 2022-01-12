@@ -1,0 +1,18 @@
+about_resource: bz2file-0.98-py3-none-any.whl
+checksum_md5: 46088a889a116586b50e2a7347112901
+checksum_sha1: d61c703e7d21ea13cd432fcf86eab01d22ee9049
+copyright: Copyright (c) Nadeem Vawda <nadeem.vawda@gmail.com>
+declared_license:
+  - Apache License, Version 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Read and write bzip2-compressed files.
+download_url: https://thirdparty.aboutcode.org/pypi/bz2file-0.98-py3-none-any.whl
+holder: Nadeem Vawda
+holder_contact: nadeem.vawda@gmail.com
+homepage_url: https://github.com/nvawda/bz2file
+license_expression: apache-2.0
+name: bz2file
+package_url: pkg:pypi/bz2file@0.98
+primary_language: Python
+type: pypi
+version: '0.98'

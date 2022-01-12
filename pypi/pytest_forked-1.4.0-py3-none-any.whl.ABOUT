@@ -1,0 +1,20 @@
+about_resource: pytest_forked-1.4.0-py3-none-any.whl
+attribute: yes
+checksum_md5: bf0249039fb39cb7d6af60f09957e61d
+checksum_sha1: 5d9469f39a329f7f23409fb649389034a8553810
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and contributors
+description: |
+  run tests in isolated forked subprocesses
+  extracted --boxed from pytest-xdist to ensure backward compat
+download_url: https://files.pythonhosted.org/packages/0c/36/c56ef2aea73912190cdbcc39aaa860db8c07c1a5ce8566994ec9425453db/pytest_forked-1.4.0-py3-none-any.whl
+homepage_url: https://github.com/pytest-dev/pytest-forked
+license_expression: mit
+name: pytest-forked
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest-forked@1.4.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/pytest-dev/pytest-forked
+version: 1.4.0

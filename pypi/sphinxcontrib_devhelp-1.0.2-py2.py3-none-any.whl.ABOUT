@@ -1,0 +1,18 @@
+about_resource: sphinxcontrib_devhelp-1.0.2-py2.py3-none-any.whl
+checksum_md5: bf8b7e07f26e8f17266650738b4b978b
+checksum_sha1: 6c8f3553adb32d565132b8424c3ea0506fc59eea
+copyright: Copyright (c) Georg Brandl <georg@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp document.
+download_url: https://files.pythonhosted.org/packages/c5/09/5de5ed43a521387f18bdf5f5af31d099605c992fd25372b2b9b825ce48ee/sphinxcontrib_devhelp-1.0.2-py2.py3-none-any.whl
+holder: Georg Brandl
+holder_contact: georg@python.org
+homepage_url: http://sphinx-doc.org/
+license_expression: unknown AND bsd-new
+name: sphinxcontrib-devhelp
+package_url: pkg:pypi/sphinxcontrib-devhelp@1.0.2
+primary_language: Python
+type: pypi
+version: 1.0.2

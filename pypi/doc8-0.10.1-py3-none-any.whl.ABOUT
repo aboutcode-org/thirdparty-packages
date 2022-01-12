@@ -1,0 +1,19 @@
+about_resource: doc8-0.10.1-py3-none-any.whl
+checksum_md5: 1336fecc65fcc27ccc096f50d140e2eb
+checksum_sha1: ce7beb038eddbd970bf708e481b56577082284cb
+copyright: Copyright (c) OpenStack <openstack-discuss@lists.openstack.org>
+declared_license:
+  - Apache 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Style checker for Sphinx (or other) RST documentation
+download_url: https://files.pythonhosted.org/packages/b1/93/c3cc4912ec21e88a85aa0a1a506f9a8a1d83a249b326fdeaea78e696d271/doc8-0.10.1-py3-none-any.whl
+holder: OpenStack
+holder_contact: openstack-discuss@lists.openstack.org
+homepage_url: https://github.com/pycqa/doc8
+keywords: doc8,rst,linter
+license_expression: apache-2.0
+name: doc8
+package_url: pkg:pypi/doc8@0.10.1
+primary_language: Python
+type: pypi
+version: 0.10.1

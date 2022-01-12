@@ -1,0 +1,18 @@
+about_resource: enum34-1.1.10.tar.gz
+checksum_md5: b5ac0bb5ea9e830029599e410d09d3b5
+checksum_sha1: ee0e879d9542a3328b7e1ddb6c538c924c9eefd7
+copyright: Copyright (c) Ethan Furman <ethan@stoneleaf.us>
+declared_license:
+  - BSD License
+  - 'License :: OSI Approved :: BSD License'
+description: Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4
+download_url: https://files.pythonhosted.org/packages/11/c4/2da1f4952ba476677a42f25cd32ab8aaf0e1c0d0e00b89822b835c7e654c/enum34-1.1.10.tar.gz
+holder: Ethan Furman
+holder_contact: ethan@stoneleaf.us
+homepage_url: https://bitbucket.org/stoneleaf/enum34
+license_expression: bsd-new
+name: enum34
+package_url: pkg:pypi/enum34@1.1.10
+primary_language: Python
+type: pypi
+version: 1.1.10

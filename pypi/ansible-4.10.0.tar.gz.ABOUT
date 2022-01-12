@@ -1,0 +1,18 @@
+about_resource: ansible-4.10.0.tar.gz
+checksum_md5: bb83dc337bea1a03a17249245c991925
+checksum_sha1: 47eb32ec3dda075694a0590afaf4866647b14bc8
+copyright: Copyright (c) Ansible, Inc. <info@ansible.com>
+declared_license:
+  - GPLv3+
+  - 'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)'
+description: Radically simple IT automation
+download_url: https://files.pythonhosted.org/packages/fd/f8/071905c6a67592d0852a9f340f6ab9226861eeeb97fdf4068642b22edcf3/ansible-4.10.0.tar.gz
+holder: Ansible, Inc.
+holder_contact: info@ansible.com
+homepage_url: https://ansible.com/
+license_expression: gpl-3.0-plus
+name: ansible
+package_url: pkg:pypi/ansible@4.10.0
+primary_language: Python
+type: pypi
+version: 4.10.0

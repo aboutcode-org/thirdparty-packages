@@ -1,0 +1,18 @@
+about_resource: url-0.4.2.tar.gz
+checksum_md5: 74c09a76a22e46b9f634ae5fb5fc715e
+checksum_sha1: 104778b68e2413acb1784a7a1bb0095446376db7
+copyright: Copyright (c) Dan Lecocq <dan@moz.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: URL Parsing
+download_url: https://files.pythonhosted.org/packages/58/1d/492737ab1ed4ed33ce5bc00a54e92b6ad26aa793cceed097a7af389c22b3/url-0.4.2.tar.gz
+holder: Dan Lecocq
+holder_contact: dan@moz.com
+homepage_url: http://github.com/seomoz/url-py
+license_expression: mit
+name: url
+package_url: pkg:pypi/url@0.4.2
+primary_language: Python
+type: pypi
+version: 0.4.2

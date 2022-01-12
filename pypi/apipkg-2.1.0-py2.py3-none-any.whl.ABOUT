@@ -1,0 +1,19 @@
+about_resource: apipkg-2.1.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: dfa6e3ecfc8d427e45192fb0aa55f804
+checksum_sha1: f9a8a9bb83f720c68996ef84a6755d667a29ff64
+contact: pytest-dev@python.org
+copyright: Copyright (c)  Holger Krekel
+description: With apipkg you can control the exported namespace of a python package and greatly
+  reduce the number of imports for your users.
+download_url: https://files.pythonhosted.org/packages/cd/52/06d530ad5fa1329a8ce64179800e1e49688db48dead063a0e23fdce8c76f/apipkg-2.1.0-py2.py3-none-any.whl
+homepage_url: https://github.com/pytest-dev/apipkg
+license_expression: mit
+name: apipkg
+notice_file: apipkg-2.1.0-py2.py3-none-any.whl.NOTICE
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/apipkg@2.1.0
+primary_language: Python
+type: pypi
+version: 2.1.0

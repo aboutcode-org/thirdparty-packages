@@ -1,0 +1,18 @@
+about_resource: deb-pkg-tools-8.4.tar.gz
+checksum_md5: 5d0db97200cf96379cd75ef009a18d8d
+checksum_sha1: 99d9a672e9a95fe7ed49871b93d3ae042df09584
+copyright: Copyright (c) Peter Odding <peter@peterodding.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Debian packaging tools
+download_url: https://files.pythonhosted.org/packages/07/47/e276a9c29f8718a331114ed96b23dedf5a5c720aed11e8e1b3a55ba71870/deb-pkg-tools-8.4.tar.gz
+holder: Peter Odding
+holder_contact: peter@peterodding.com
+homepage_url: https://deb-pkg-tools.readthedocs.io
+license_expression: mit
+name: deb-pkg-tools
+package_url: pkg:pypi/deb-pkg-tools@8.4
+primary_language: Python
+type: pypi
+version: '8.4'

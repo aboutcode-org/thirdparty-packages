@@ -1,0 +1,16 @@
+about_resource: isodate-0.6.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: c8a5fcd645030db98daa82b8e56fda89
+checksum_sha1: 7fe8c56b7e52d34b8c4f4965c7ac99ae8f402e54
+copyright: Copyright (c) Gerhard Weis
+description: ISO 8601 date/time parser
+download_url: https://files.pythonhosted.org/packages/b6/85/7882d311924cbcfc70b1890780763e36ff0b140c7e51c110fc59a532f087/isodate-0.6.1-py2.py3-none-any.whl
+homepage_url: https://github.com/gweis/isodate
+license_expression: bsd-new
+name: isodate
+owner: Gerhard Weis
+owner_url: https://github.com/gweis
+package_url: pkg:pypi/isodate@0.6.1
+primary_language: Python
+type: pypi
+version: 0.6.1

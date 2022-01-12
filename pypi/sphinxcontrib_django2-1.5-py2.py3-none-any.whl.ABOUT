@@ -1,0 +1,18 @@
+about_resource: sphinxcontrib_django2-1.5-py2.py3-none-any.whl
+checksum_md5: 49deccf001f585832f4c67caa3b7072b
+checksum_sha1: b68933bdd86a5d1fae1dc63934f18b5fc578097d
+copyright: Copyright (c) Timo Ludwig <ti.ludwig@web.de>
+declared_license:
+  - Apache 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Improve the Sphinx autodoc for Django classes.
+download_url: https://files.pythonhosted.org/packages/e0/2a/dbe93c334aa5fc36ca6709854d391d0cf4458a0cd10aff01969143a86d7e/sphinxcontrib_django2-1.5-py2.py3-none-any.whl
+holder: Timo Ludwig
+holder_contact: ti.ludwig@web.de
+homepage_url: https://github.com/timoludwig/sphinxcontrib-django2
+license_expression: apache-2.0
+name: sphinxcontrib-django2
+package_url: pkg:pypi/sphinxcontrib-django2@1.5
+primary_language: Python
+type: pypi
+version: '1.5'

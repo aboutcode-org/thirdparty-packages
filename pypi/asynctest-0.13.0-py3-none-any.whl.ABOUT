@@ -1,0 +1,19 @@
+about_resource: asynctest-0.13.0-py3-none-any.whl
+checksum_md5: 82ac26a6b42400fb636817e130f70b6d
+checksum_sha1: e2a4557c54f6cc02008a930bde15037dca4f00f1
+copyright: Copyright (c) Martin Richard <martius@martiusweb.net>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: Enhance the standard unittest package with features for testing asyncio libraries
+download_url: https://files.pythonhosted.org/packages/e8/b6/8d17e169d577ca7678b11cd0d3ceebb0a6089a7f4a2de4b945fe4b1c86db/asynctest-0.13.0-py3-none-any.whl
+holder: Martin Richard
+holder_contact: martius@martiusweb.net
+homepage_url: https://github.com/Martiusweb/asynctest/
+keywords: unittest,test,testing,asyncio,tulip,selectors,async,mock
+license_expression: apache-2.0
+name: asynctest
+package_url: pkg:pypi/asynctest@0.13.0
+primary_language: Python
+type: pypi
+version: 0.13.0

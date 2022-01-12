@@ -1,0 +1,18 @@
+about_resource: ndg_httpsclient-0.5.1.tar.gz
+checksum_md5: b0fc8ea38f87d2c1ab1ed79a95c078f9
+checksum_sha1: aa0b3c2d8ada61fa3f4e82ed307056b14cc63cb9
+copyright: Copyright (c) Richard Wilkinson and Philip Kershaw <Philip.Kershaw@stfc.ac.uk>
+declared_license:
+  - BSD - See ndg/httpsclient/LICENCE file for details
+  - 'License :: OSI Approved :: BSD License'
+description: Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL
+download_url: https://files.pythonhosted.org/packages/b9/f8/8f49278581cb848fb710a362bfc3028262a82044167684fb64ad068dbf92/ndg_httpsclient-0.5.1.tar.gz
+holder: Richard Wilkinson and Philip Kershaw
+holder_contact: Philip.Kershaw@stfc.ac.uk
+homepage_url: https://github.com/cedadev/ndg_httpsclient/
+license_expression: (unknown-license-reference AND unknown) AND bsd-new
+name: ndg_httpsclient
+package_url: pkg:pypi/ndg-httpsclient@0.5.1
+primary_language: Python
+type: pypi
+version: 0.5.1

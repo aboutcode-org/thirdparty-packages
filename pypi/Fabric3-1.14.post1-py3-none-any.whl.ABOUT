@@ -1,0 +1,19 @@
+about_resource: Fabric3-1.14.post1-py3-none-any.whl
+checksum_md5: 76069bed745f6ee3db859e9f64e8d8fb
+checksum_sha1: c14aee0681f3331f7e4d6a8520ba7f82919d5e0c
+copyright: Copyright (c) Mathias Ertl <mati@er.tl>
+declared_license:
+  - UNKNOWN
+  - 'License :: OSI Approved :: BSD License'
+description: Fabric is a simple, Pythonic tool for remote execution and deployment (py2.7/py3.4+
+  compatible fork).
+download_url: https://files.pythonhosted.org/packages/85/14/0b4f34e1f9a351bbe0f1ddea8b12f8103e77e9b5dc7b935c25c2260fc2e5/Fabric3-1.14.post1-py3-none-any.whl
+holder: Mathias Ertl
+holder_contact: mati@er.tl
+homepage_url: https://github.com/mathiasertl/fabric/
+license_expression: unknown AND bsd-new
+name: Fabric3
+package_url: pkg:pypi/fabric3@1.14.post1
+primary_language: Python
+type: pypi
+version: 1.14.post1

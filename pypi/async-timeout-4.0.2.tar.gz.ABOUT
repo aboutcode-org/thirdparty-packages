@@ -1,0 +1,18 @@
+about_resource: async-timeout-4.0.2.tar.gz
+checksum_md5: 10571272b2e0fab839ec23f8293bf482
+checksum_sha1: 48803343784dd55937c5bb03133565267460f21f
+copyright: Copyright (c) Andrew Svetlov <andrew.svetlov@gmail.com> <andrew.svetlov@gmail.com>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: Timeout context manager for asyncio programs
+download_url: https://files.pythonhosted.org/packages/54/6e/9678f7b2993537452710ffb1750c62d2c26df438aa621ad5fa9d1507a43a/async-timeout-4.0.2.tar.gz
+holder: Andrew Svetlov <andrew.svetlov@gmail.com>
+holder_contact: andrew.svetlov@gmail.com
+homepage_url: https://github.com/aio-libs/async-timeout
+license_expression: apache-2.0
+name: async-timeout
+package_url: pkg:pypi/async-timeout@4.0.2
+primary_language: Python
+type: pypi
+version: 4.0.2

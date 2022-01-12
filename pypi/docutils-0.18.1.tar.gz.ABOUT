@@ -1,0 +1,15 @@
+about_resource: docutils-0.18.1.tar.gz
+checksum_md5: ca5827e2432fd58f4c8d74a6591135de
+checksum_sha1: 3aefc835786b48fbeb125cd1b99e560aabc64eb2
+copyright: copyight (c) David Goodger and others
+description: Docutils -- Python Documentation Utilities
+download_url: https://files.pythonhosted.org/packages/57/b1/b880503681ea1b64df05106fc7e3c4e3801736cf63deffc6fa7fc5404cf5/docutils-0.18.1.tar.gz
+homepage_url: http://docutils.sourceforge.net/
+license_expression: public-domain AND other-permissive AND python AND bsd-simplified AND gpl-3.0-plus
+name: docutils
+notice_file: docutils-0.18.1.tar.gz.NOTICE
+owner: David Goodger
+package_url: pkg:pypi/docutils@0.18.1
+primary_language: Python
+type: pypi
+version: 0.18.1

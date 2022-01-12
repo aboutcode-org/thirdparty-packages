@@ -5,6 +5,7 @@ checksum_sha1: b2ab794421508852df491253681683e794f94461
 contact: ilanschnell@gmail.com
 copyright: Copyright (c) Ilan Schnell and others
 description: efficient arrays of booleans for Python
+download_url: https://thirdparty.aboutcode.org/pypi/bitarray-2.3.4-cp38-cp38-linux_x86_64.whl
 homepage_url: https://github.com/ilanschnell/bitarray
 license_expression: python
 name: bitarray

@@ -1,0 +1,17 @@
+about_resource: python_debian-0.1.42-py3-none-any.whl
+checksum_md5: 472fdc818d4e6e968707f22c43f92daf
+checksum_sha1: a2b2e95e9514d15a7e3a6c5c1a4db5547c8942f1
+copyright: Copyright (c) None <None>
+declared_license:
+  - GPL-2+
+  - 'License :: DFSG approved'
+  - 'License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)'
+description: Debian package related modules
+download_url: https://files.pythonhosted.org/packages/c4/22/26bc493c5f7e9bf1eedfe7d67c8fcb1d7ec39f2c6366c6649fbde97a73eb/python_debian-0.1.42-py3-none-any.whl
+homepage_url: https://salsa.debian.org/python-debian-team/python-debian
+license_expression: gpl-2.0-plus AND free-unknown
+name: python-debian
+package_url: pkg:pypi/python-debian@0.1.42
+primary_language: Python
+type: pypi
+version: 0.1.42

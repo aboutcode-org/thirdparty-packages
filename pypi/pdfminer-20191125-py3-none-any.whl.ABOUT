@@ -1,0 +1,19 @@
+about_resource: pdfminer-20191125-py3-none-any.whl
+checksum_md5: 90dfeda80b10dbdbb138cedccb7c4a89
+checksum_sha1: cf13e9afae63ead49d901dd6d383ee6bb6388568
+copyright: Copyright (c) Yusuke Shinyama <yusuke@shinyama.jp>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: PDF parser and analyzer
+download_url: https://thirdparty.aboutcode.org/pypi/pdfminer-20191125-py3-none-any.whl
+holder: Yusuke Shinyama
+holder_contact: yusuke@shinyama.jp
+homepage_url: http://github.com/euske/pdfminer
+keywords: pdf parser,pdf converter,layout analysis,text mining
+license_expression: mit
+name: pdfminer
+package_url: pkg:pypi/pdfminer@20191125
+primary_language: Python
+type: pypi
+version: 20191125

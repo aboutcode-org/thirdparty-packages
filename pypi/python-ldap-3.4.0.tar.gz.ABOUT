@@ -1,0 +1,13 @@
+about_resource: python-ldap-3.4.0.tar.gz
+attribute: yes
+checksum_md5: 85a69349c69a55248d468fb33ceab44e
+checksum_sha1: da4a0ef7497d6d944a9f77ea08d5be5c2311bd0a
+copyright: Copyright (c) Python Software Foundation
+download_url: https://files.pythonhosted.org/packages/41/e2/6b12190c171b78d1cd8c9d0d3380d18b85959aecb2b1267f7bdd5b66cd8f/python-ldap-3.4.0.tar.gz
+license_expression: python
+name: python-ldap
+package_url: pkg:pypi/python-ldap@3.4.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 3.4.0

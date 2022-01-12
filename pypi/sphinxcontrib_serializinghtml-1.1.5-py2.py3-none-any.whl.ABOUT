@@ -1,0 +1,19 @@
+about_resource: sphinxcontrib_serializinghtml-1.1.5-py2.py3-none-any.whl
+checksum_md5: baee178db23412f86b6aa0ce44a61eee
+checksum_sha1: d1ea047e9cf50031ee5831fd3c5cab02ff6d5382
+copyright: Copyright (c) Georg Brandl <georg@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: sphinxcontrib-serializinghtml is a sphinx extension which outputs "serialized"
+  HTML files (json and pickle).
+download_url: https://files.pythonhosted.org/packages/c6/77/5464ec50dd0f1c1037e3c93249b040c8fc8078fdda97530eeb02424b6eea/sphinxcontrib_serializinghtml-1.1.5-py2.py3-none-any.whl
+holder: Georg Brandl
+holder_contact: georg@python.org
+homepage_url: http://sphinx-doc.org/
+license_expression: unknown AND bsd-new
+name: sphinxcontrib-serializinghtml
+package_url: pkg:pypi/sphinxcontrib-serializinghtml@1.1.5
+primary_language: Python
+type: pypi
+version: 1.1.5

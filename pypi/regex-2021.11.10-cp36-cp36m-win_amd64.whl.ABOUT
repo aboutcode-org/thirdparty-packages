@@ -1,0 +1,13 @@
+about_resource: regex-2021.11.10-cp36-cp36m-win_amd64.whl
+checksum_md5: cf8bc62be4505d3e66641e639aa70446
+checksum_sha1: 37892fb0c585bc79a4ac2fc8b9a634611d1b3da3
+copyright: copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+description: Alternative regular expression module, to replace re.
+download_url: https://files.pythonhosted.org/packages/be/b3/14cbfe2d6abbbfaea6dab111bc3db9c01da81671b95ab34c032cdb1e8646/regex-2021.11.10-cp36-cp36m-win_amd64.whl
+homepage_url: https://bitbucket.org/mrabarnett/mrab-regex
+license_expression: apache-2.0 AND python
+name: regex
+package_url: pkg:pypi/regex@2021.11.10
+primary_language: Python
+type: pypi
+version: 2021.11.10

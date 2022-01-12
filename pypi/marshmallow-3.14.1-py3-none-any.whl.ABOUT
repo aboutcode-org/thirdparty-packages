@@ -1,0 +1,15 @@
+about_resource: marshmallow-3.14.1-py3-none-any.whl
+checksum_md5: 9c057d541e3564889989db573b3815c5
+checksum_sha1: b23c7d6221349586865bdcfd6de938b54ba95123
+copyright: copyright (c) Steven Loria and contributors
+description: A lightweight library for converting complex datatypes to and from native Python
+  datatypes.
+download_url: https://files.pythonhosted.org/packages/ec/f3/62015688fdb1e02779702c36e500a123e019a4f99a70fd849de2c7572748/marshmallow-3.14.1-py3-none-any.whl
+homepage_url: https://github.com/marshmallow-code/marshmallow
+keywords: serialization,rest,json,api,marshal,marshalling,deserialization,validation,schema
+license_expression: mit
+name: marshmallow
+package_url: pkg:pypi/marshmallow@3.14.1
+primary_language: Python
+type: pypi
+version: 3.14.1

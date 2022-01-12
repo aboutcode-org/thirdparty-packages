@@ -1,0 +1,18 @@
+about_resource: django_rq-2.5.1-py2.py3-none-any.whl
+checksum_md5: 42d89a25ab4063d8d65958c3e765968d
+checksum_sha1: 46f26f53fe677da3874a433c9a01e0f66464d4fc
+copyright: Copyright (c) Selwin Ong <selwin.ong@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: An app that provides django integration for RQ (Redis Queue)
+download_url: https://files.pythonhosted.org/packages/4e/d3/c88bfa005a49c0d6ba55251e88cb87d17fa4871c0232a3ae927e00819c78/django_rq-2.5.1-py2.py3-none-any.whl
+holder: Selwin Ong
+holder_contact: selwin.ong@gmail.com
+homepage_url: https://github.com/rq/django-rq
+license_expression: mit
+name: django-rq
+package_url: pkg:pypi/django-rq@2.5.1
+primary_language: Python
+type: pypi
+version: 2.5.1
