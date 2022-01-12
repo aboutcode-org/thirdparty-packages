@@ -1,0 +1,16 @@
+about_resource: setuptools-59.6.0-py3-none-any.whl
+attribute: yes
+checksum_md5: b2eb7f0ad04734bcdea8845b4f3ece66
+checksum_sha1: 339a89b9c46d3cf19ab2a5cd45ebfb91565da302
+copyright: Copyright (c) Python Packaging Authority
+description: Easily download, build, install, upgrade, and uninstall Python packages
+download_url: https://files.pythonhosted.org/packages/b0/3a/88b210db68e56854d0bcf4b38e165e03be377e13907746f825790f3df5bf/setuptools-59.6.0-py3-none-any.whl
+homepage_url: https://github.com/pypa/setuptools
+keywords: CPAN PyPI distutils eggs package management
+license_expression: mit AND python AND (bsd-simplified OR apache-2.0)
+name: setuptools
+package_url: pkg:pypi/setuptools@59.6.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 59.6.0

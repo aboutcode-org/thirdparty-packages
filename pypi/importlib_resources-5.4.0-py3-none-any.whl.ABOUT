@@ -1,0 +1,13 @@
+about_resource: importlib_resources-5.4.0-py3-none-any.whl
+checksum_md5: b80e996c894cc9ed24e862b2ad06c08c
+checksum_sha1: e7ccc999bc3f1a812a4c70f8e15ee57aef4f2e6c
+copyright: Copyright (c) Brett Cannon, Barry Warsaw
+description: Read resources from Python packages
+download_url: https://files.pythonhosted.org/packages/24/1b/33e489669a94da3ef4562938cd306e8fa915e13939d7b8277cb5569cb405/importlib_resources-5.4.0-py3-none-any.whl
+homepage_url: https://github.com/python/importlib_resources
+license_expression: apache-2.0
+name: importlib-resources
+package_url: pkg:pypi/importlib-resources@5.4.0
+primary_language: Python
+type: pypi
+version: 5.4.0

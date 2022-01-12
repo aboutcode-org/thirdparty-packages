@@ -1,0 +1,13 @@
+about_resource: filelock-3.4.1.tar.gz
+checksum_md5: e82eb0ba704ca9ca4266429c6fae4033
+checksum_sha1: 7117f73d04ec9c87d1db6d87c1dc109831bd1194
+copyright: Copyright (c) Benedikt Schmitt <benedikt@benediktschmitt.de>
+description: A platform independent file lock.
+download_url: https://files.pythonhosted.org/packages/d9/38/9df45cc0be41e596be759d952711d0e540f149019d18f747ec2ade7c8807/filelock-3.4.1.tar.gz
+homepage_url: https://github.com/benediktschmitt/py-filelock
+license_expression: unlicense
+name: filelock
+package_url: pkg:pypi/filelock@3.4.1
+primary_language: Python
+type: pypi
+version: 3.4.1

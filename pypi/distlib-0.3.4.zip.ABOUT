@@ -1,0 +1,13 @@
+about_resource: distlib-0.3.4.zip
+checksum_md5: c886b7d99b4085c5d960e7435dcbd397
+checksum_sha1: e7927ebc964676c17d466ed6a345222c34167a85
+copyright: Copyright (C) The Python Software Foundation.
+description: Distribution utilities
+download_url: https://files.pythonhosted.org/packages/85/01/88529c93e41607f1a78c1e4b346b24c74ee43d2f41cfe33ecd2e20e0c7e3/distlib-0.3.4.zip
+homepage_url: https://bitbucket.org/pypa/distlib
+license_expression: python
+name: distlib
+package_url: pkg:pypi/distlib@0.3.4
+primary_language: Python
+type: pypi
+version: 0.3.4
