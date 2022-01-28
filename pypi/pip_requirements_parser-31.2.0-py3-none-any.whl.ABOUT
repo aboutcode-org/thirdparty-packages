@@ -1,0 +1,17 @@
+about_resource: pip_requirements_parser-31.2.0-py3-none-any.whl
+checksum_md5: 1bfb708322e90b0be35a848e63b67dd1
+checksum_sha1: ed4d74b4558ea92348b6ad8131bc4dd5d93c0890
+copyright: Copyright (c) The pip authors, nexB. Inc. and others <info@aboutcode.org>
+description: pip requirements parser - a mostly correct pip requirements parsing library because
+  it uses pip's own code.
+download_url: https://thirdparty.aboutcode.org/pypi/pip_requirements_parser-31.2.0-py3-none-any.whl
+holder: The pip authors, nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/pip-requirements-parser
+keywords: utilities pip requirements parser dependencies pypi
+license_expression: mit
+name: pip-requirements-parser
+package_url: pkg:pypi/pip-requirements-parser@31.2.0
+primary_language: Python
+type: pypi
+version: 31.2.0
