@@ -1,0 +1,18 @@
+about_resource: pkginfo2-30.0.0.tar.gz
+checksum_md5: 8fd5bd0d69938534c9796195164b5928
+checksum_sha1: f9dd16b2fc13592018bf8b098f78b83b7ba5dd08
+copyright: Copyright (c) Maintained by nexB, Inc. Authored by Tres Seaver, Agendaless Consulting
+  <tseaver@agendaless.com>
+description: Query metadatdata from sdists / bdists / installed packages. Safer fork of pkginfo
+  to avoid doing arbitrary imports and eval()
+download_url: https://files.pythonhosted.org/packages/90/8d/09cc1c99a30ac14050fc4e04e549e024be83ff72a7f63e75023501baf977/pkginfo2-30.0.0.tar.gz
+holder: Maintained by nexB, Inc. Authored by Tres Seaver, Agendaless Consulting
+holder_contact: tseaver@agendaless.com
+homepage_url: https://github.com/nexB/pkginfo2
+keywords: distribution sdist installed metadata
+license_expression: mit
+name: pkginfo2
+package_url: pkg:pypi/pkginfo2@30.0.0
+primary_language: Python
+type: pypi
+version: 30.0.0
