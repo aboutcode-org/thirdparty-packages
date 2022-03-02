@@ -4,7 +4,7 @@ checksum_sha1: 35e49171f4db2a89ea4cc3e75e1951b06596caa9
 copyright: Copyright (c) The pip authors, nexB. Inc. and others <info@aboutcode.org>
 description: pip requirements parser - a mostly correct pip requirements parsing library because
   it uses pip's own code.
-download_url: https://thirdparty.aboutcode.org/pypi/pip-requirements-parser-31.2.0.tar.gz
+download_url: https://files.pythonhosted.org/packages/fc/aa/4fbc8040db7afae616eda6329ddc8ef73afc8bcb611bf9126937970bca83/pip-requirements-parser-31.2.0.tar.gz
 holder: The pip authors, nexB. Inc. and others
 holder_contact: info@aboutcode.org
 homepage_url: https://github.com/nexB/pip-requirements-parser

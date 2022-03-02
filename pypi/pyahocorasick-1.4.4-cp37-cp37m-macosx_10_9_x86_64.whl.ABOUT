@@ -1,0 +1,24 @@
+about_resource: pyahocorasick-1.4.4-cp37-cp37m-macosx_10_9_x86_64.whl
+attribute: yes
+checksum_md5: cf24af1520fcdebe2b6a7477e4b26ebf
+checksum_sha1: 6f5fa01f599d2d8fa92caa2613e77de2ed9c8557
+copyright: Copyright (c) Wojciech Muła
+description: pyahocorasick is a fast and memory efficient library for exact or approximate multi-pattern
+  string search.  With the ahocorasick.Automaton class, you can find multiple key strings occurrences
+  at once in some input text.  You can use it as a plain dict-like Trie or convert a Trie to
+  an automaton for efficient Aho-Corasick search.  Implemented in C and tested on Python 2.7
+  and 3.4+.  Works on Linux, Mac and Windows. BSD-3-clause license.
+download_url: https://files.pythonhosted.org/packages/48/b2/4c4c94c666f154d850c83fff9b20d039f22c3bc571708f0dace0275c0051/pyahocorasick-1.4.4-cp37-cp37m-macosx_10_9_x86_64.whl
+holder: Wojciech Muła
+holder_contact: wojciech_mula@poczta.onet.pl
+homepage_url: https://github.com/WojciechMula/pyahocorasick
+keywords: aho-corasick,trie,automaton,dictionary
+license_expression: bsd-new AND public-domain
+name: pyahocorasick
+owner: Wojciech Muła
+owner_url: https://github.com/WojciechMula
+package_url: pkg:pypi/pyahocorasick@1.4.4
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/WojciechMula/pyahocorasick
+version: 1.4.4

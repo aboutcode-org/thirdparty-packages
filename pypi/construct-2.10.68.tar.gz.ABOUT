@@ -1,0 +1,14 @@
+about_resource: construct-2.10.68.tar.gz
+checksum_md5: e426d3dd1566066e4ef1a03fe474dec0
+checksum_sha1: d2139afdfdbebc6e0ceba324437988413ad164c0
+copyright: Copyright (c) Arkadiusz Bulski, Tomer Filiba, Corbin Simpson
+description: A powerful declarative symmetric parser/builder for binary data
+download_url: https://files.pythonhosted.org/packages/e0/b7/a4a032e94bcfdff481f2e6fecd472794d9da09f474a2185ed33b2c7cad64/construct-2.10.68.tar.gz
+homepage_url: http://construct.readthedocs.org
+keywords: construct,kaitai,declarative,data structure,struct,binary,symmetric,parser,builder,parsing,building,pack,unpack,packer,unpacker
+license_expression: mit
+name: construct
+package_url: pkg:pypi/construct@2.10.68
+primary_language: Python
+type: pypi
+version: 2.10.68

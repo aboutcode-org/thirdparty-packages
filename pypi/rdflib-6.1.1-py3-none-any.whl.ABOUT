@@ -1,0 +1,19 @@
+about_resource: rdflib-6.1.1-py3-none-any.whl
+attribute: yes
+checksum_md5: 1b468d4c608c8db97c7da0436ab27401
+checksum_sha1: 20a02d8b4a67037cff5cb0353b30c82828a9d0eb
+copyright: Copyright (c) 2002-2015, RDFLib Team
+description: RDFLib is a Python library for working with RDF, a simple yet powerful language
+  for representing information.
+download_url: https://files.pythonhosted.org/packages/95/7f/7729b74154047bde5a6ac39a0c4d689b98808521417571bf5e92e2d3c2c2/rdflib-6.1.1-py3-none-any.whl
+homepage_url: https://github.com/RDFLib/rdflib
+license_expression: bsd-new AND w3c AND w3c-software-19980720 AND lgpl-2.1-plus AND (gpl-2.0
+  OR bsd-new OR w3c OR mit)
+name: rdflib
+notice_file: rdflib-6.1.1-py3-none-any.whl.NOTICE
+package_url: pkg:pypi/rdflib@6.1.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 6.1.1

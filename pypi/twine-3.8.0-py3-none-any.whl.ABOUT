@@ -1,0 +1,13 @@
+about_resource: twine-3.8.0-py3-none-any.whl
+checksum_md5: 56a7992f5d1a5901484ca4f5c896625b
+checksum_sha1: 56f5b2e8dbb970569fb8b94a9aefe8aaa4fc7514
+copyright: copyright (c) Donald Stufft and individual contributors
+description: Collection of utilities for publishing packages on PyPI
+download_url: https://files.pythonhosted.org/packages/5e/74/ea7dfb86223695fd8efa256a24d1520729dde79a4e628ee6879f0f136d40/twine-3.8.0-py3-none-any.whl
+homepage_url: https://twine.readthedocs.io/
+license_expression: apache-2.0
+name: twine
+package_url: pkg:pypi/twine@3.8.0
+primary_language: Python
+type: pypi
+version: 3.8.0

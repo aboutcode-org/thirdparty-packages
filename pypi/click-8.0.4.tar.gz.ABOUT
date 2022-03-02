@@ -1,0 +1,19 @@
+about_resource: click-8.0.4.tar.gz
+attribute: yes
+checksum_md5: c89efc98d1b36d52ba26a39c803df0cc
+checksum_sha1: 813b37cf66b4de640c0136d38f101e05411970e7
+contact: armin.ronacher@active-4.com
+copyright: Copyright (c) 2014 by Armin Ronacher.
+description: A simple wrapper around optparse for powerful command line utilities.
+download_url: https://files.pythonhosted.org/packages/dd/cf/706c1ad49ab26abed0b77a2f867984c1341ed7387b8030a6aa914e2942a0/click-8.0.4.tar.gz
+homepage_url: http://click.pocoo.org/
+license_expression: bsd-new AND python
+name: click
+notice_file: click-8.0.4.tar.gz.NOTICE
+owner: Armin Ronacher
+owner_url: http://lucumr.pocoo.org/about/
+package_url: pkg:pypi/click@8.0.4
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 8.0.4

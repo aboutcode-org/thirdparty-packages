@@ -1,0 +1,13 @@
+about_resource: romp-2021.11-py2.py3-none-any.whl
+checksum_md5: b788bb8fa11aa5c2cb92db17bcd6f703
+checksum_sha1: 715d3746e827c4524ed2eb55ea577cd0cb50b6dc
+copyright: Copyright (c) Kyle Altendorf
+description: Run on multiple platforms
+download_url: https://files.pythonhosted.org/packages/77/12/52ae0bc3445af80a5ba2ef97d45a275eed4cb764e85afbe719e5660be827/romp-2021.11-py2.py3-none-any.whl
+homepage_url: https://github.com/altendky/romp
+license_expression: mit
+name: romp
+package_url: pkg:pypi/romp@2021.11
+primary_language: Python
+type: pypi
+version: '2021.11'

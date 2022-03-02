@@ -1,0 +1,17 @@
+about_resource: pytest-7.0.1.tar.gz
+attribute: yes
+checksum_md5: 995d64fe44bbe717d03bd703d5c48ec6
+checksum_sha1: eaab4eddc57f87a713b8e490a9682d2e6dcb5bda
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and others
+description: 'pytest: simple powerful testing with Python'
+download_url: https://files.pythonhosted.org/packages/3e/2c/a67ad48759051c7abf82ce182a4e6d766de371b183182d2dde03089e8dfb/pytest-7.0.1.tar.gz
+homepage_url: http://pytest.org
+license_expression: mit
+name: pytest
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest@7.0.1
+primary_language: Python
+type: pypi
+version: 7.0.1

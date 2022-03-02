@@ -1,0 +1,19 @@
+about_resource: click-8.0.4-py3-none-any.whl
+attribute: yes
+checksum_md5: 2741fac1595e26f79294e1b5efadf477
+checksum_sha1: 35e86f55b2317189162c582eae4d0883d4575f24
+contact: armin.ronacher@active-4.com
+copyright: Copyright (c) 2014 by Armin Ronacher.
+description: A simple wrapper around optparse for powerful command line utilities.
+download_url: https://files.pythonhosted.org/packages/4a/a8/0b2ced25639fb20cc1c9784de90a8c25f9504a7f18cd8b5397bd61696d7d/click-8.0.4-py3-none-any.whl
+homepage_url: http://click.pocoo.org/
+license_expression: bsd-new AND python
+name: click
+notice_file: click-8.0.4-py3-none-any.whl.NOTICE
+owner: Armin Ronacher
+owner_url: http://lucumr.pocoo.org/about/
+package_url: pkg:pypi/click@8.0.4
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 8.0.4

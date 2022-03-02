@@ -1,0 +1,13 @@
+about_resource: aboutcode_toolkit-7.0.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 0174237bb1c8db1001343db7b53bc985
+checksum_sha1: 9e33da69aa78f77a7ae6896676768aa4a319237c
+copyright: Copyright (c) nexB Inc and others
+download_url: https://files.pythonhosted.org/packages/ba/86/25265d6d62a2e2ff55fdf2e5893a7e1e5786510b99c658eb53bdf60bac22/aboutcode_toolkit-7.0.0-py3-none-any.whl
+license_expression: apache-2.0
+name: aboutcode-toolkit
+package_url: pkg:pypi/aboutcode-toolkit@7.0.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 7.0.0

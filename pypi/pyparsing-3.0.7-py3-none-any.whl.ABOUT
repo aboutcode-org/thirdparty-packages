@@ -1,0 +1,18 @@
+about_resource: pyparsing-3.0.7-py3-none-any.whl
+attribute: yes
+checksum_md5: a133aa1a85795d8d7ba79e7601c419f6
+checksum_sha1: db06cc095a8d05b4bf3adabf7ba9c55dec1081f2
+copyright: Copyright (c) Paul T. McGuire
+description: The pyparsing module is an alternative approach to creating and executing simple
+  grammars, vs. the traditional lex/yacc approach, or the use of regular expressions. The pyparsing
+  module provides a library of classes that client code uses to construct the grammar directly
+  in Python code.
+download_url: https://files.pythonhosted.org/packages/80/c1/23fd82ad3121656b585351aba6c19761926bb0db2ebed9e4ff09a43a3fcc/pyparsing-3.0.7-py3-none-any.whl
+homepage_url: http://pyparsing.wikispaces.com/
+license_expression: mit
+name: pyparsing
+owner: Paul McGuire
+package_url: pkg:pypi/pyparsing@3.0.7
+primary_language: Python
+type: pypi
+version: 3.0.7

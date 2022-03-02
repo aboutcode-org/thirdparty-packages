@@ -1,0 +1,17 @@
+about_resource: pip-22.0.3.tar.gz
+attribute: yes
+checksum_md5: b97ca988eaa6d101f5aa5f43d5e86916
+checksum_sha1: 5f185f0fcf495443e0c18eca289bbb87d092905f
+copyright: Copyright (c) The Python Software Foundation and the pip authors
+description: A tool for installing and managing Python packages.
+download_url: https://files.pythonhosted.org/packages/88/d9/761f0b1e0551a3559afe4d34bd9bf68fc8de3292363b3775dda39b62ce84/pip-22.0.3.tar.gz
+homepage_url: https://pip.pypa.io
+license_expression: mit AND lgpl-2.1-plus AND python AND mit AND bsd-new AND (bsd-new OR apache-2.0)
+  AND apache-2.0 AND isc
+name: pip
+package_url: pkg:pypi/pip@22.0.3
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 22.0.3
