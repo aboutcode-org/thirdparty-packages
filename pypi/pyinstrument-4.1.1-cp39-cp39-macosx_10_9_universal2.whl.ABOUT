@@ -1,0 +1,19 @@
+about_resource: pyinstrument-4.1.1-cp39-cp39-macosx_10_9_universal2.whl
+checksum_md5: 637021352b8603f18dac251012fb5e62
+checksum_sha1: 78e0b2f0b3ad4ad8754785f19ffe8096c19bda26
+copyright: Copyright (c) Joe Rickerby <joerick@mac.com>
+declared_license:
+  - UNKNOWN
+  - 'License :: OSI Approved :: BSD License'
+description: Call stack profiler for Python. Shows you why your code is slow!
+download_url: https://files.pythonhosted.org/packages/ba/64/b9fa64abd595abaf0bd6eaa69400a2319f8d59eee99f7206e1187290350a/pyinstrument-4.1.1-cp39-cp39-macosx_10_9_universal2.whl
+holder: Joe Rickerby
+holder_contact: joerick@mac.com
+homepage_url: https://github.com/joerick/pyinstrument
+keywords: profiling,profile,profiler,cpu,time,sampling
+license_expression: unknown AND bsd-new
+name: pyinstrument
+package_url: pkg:pypi/pyinstrument@4.1.1
+primary_language: Python
+type: pypi
+version: 4.1.1

@@ -1,0 +1,13 @@
+about_resource: Logbook-1.5.3-cp36-cp36m-win_amd64.whl
+checksum_md5: 940eb697ddf62f5c70de6d24c8e83fb4
+checksum_sha1: b2619745f6ce012a0441745b28fea9e456071380
+copyright: Copyright (c) Armin Ronacher, Georg Brandl
+description: A logging replacement for Python
+download_url: https://files.pythonhosted.org/packages/88/5b/98b4c479955225362f922650b0cafe41bae774cbfbad6f93213cd947cd0f/Logbook-1.5.3-cp36-cp36m-win_amd64.whl
+homepage_url: http://logbook.pocoo.org/
+license_expression: bsd-new
+name: Logbook
+package_url: pkg:pypi/logbook@1.5.3
+primary_language: Python
+type: pypi
+version: 1.5.3

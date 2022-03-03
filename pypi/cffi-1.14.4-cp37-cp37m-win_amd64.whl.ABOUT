@@ -1,0 +1,13 @@
+about_resource: cffi-1.14.4-cp37-cp37m-win_amd64.whl
+checksum_md5: f33c0378daa89f142fd47c5c1d0db247
+checksum_sha1: 122a91fe8eb6cf8cee6ca4c08f6d8d776097926d
+copyright: copyright (c) Armin Rigo, Maciej Fijalkowski
+description: Foreign Function Interface for Python calling C code.
+download_url: https://files.pythonhosted.org/packages/65/7b/cf83e7da59967d7f8599ac27338d570af4d770791b1ea744677b27aafcb4/cffi-1.14.4-cp37-cp37m-win_amd64.whl
+homepage_url: http://cffi.readthedocs.org
+license_expression: mit
+name: cffi
+package_url: pkg:pypi/cffi@1.14.4
+primary_language: Python
+type: pypi
+version: 1.14.4
