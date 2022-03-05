@@ -1,0 +1,15 @@
+about_resource: cryptography-3.3.1-cp36-abi3-win_amd64.whl
+checksum_md5: 0edede6db58aba9bf7de44c0337f24dc
+checksum_sha1: 2bffcfef823992ac762a15271d975ecb186e033c
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/91/b0/a3376ede22b0b16b4250ef7539e9c11a5f1b7db2e1cd332fb5760e8ecedc/cryptography-3.3.1-cp36-abi3-win_amd64.whl
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-3.3.1-cp36-abi3-win_amd64.whl.NOTICE
+package_url: pkg:pypi/cryptography@3.3.1
+primary_language: Python
+type: pypi
+version: 3.3.1

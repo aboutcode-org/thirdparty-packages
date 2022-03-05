@@ -1,0 +1,14 @@
+about_resource: coverage-5.3.1-cp37-cp37m-macosx_10_9_x86_64.whl
+checksum_md5: 3afe50a09ff9fb2d513ce2e2076c8b9d
+checksum_sha1: 442b13e41f1ba9e90f32a5d1b67080c4851bdf51
+copyright: Copyright (c) Ned Batchelder and others
+description: Code coverage measurement for Python
+download_url: https://files.pythonhosted.org/packages/29/7c/890e84955a056af4296aa774624fdafbad5cb4b6eeabeeca9cd9f0b3494d/coverage-5.3.1-cp37-cp37m-macosx_10_9_x86_64.whl
+homepage_url: https://coverage.readthedocs.io
+license_expression: apache-2.0
+name: coverage
+owner: Ned Batchelder and others
+package_url: pkg:pypi/coverage@5.3.1
+primary_language: Python
+type: pypi
+version: 5.3.1

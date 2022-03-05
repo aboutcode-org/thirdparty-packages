@@ -1,0 +1,21 @@
+about_resource: intbitset-3.0.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl
+attribute: yes
+checksum_md5: 62d4969a6adb1f6d4ae734a98f9f5fca
+checksum_sha1: 29f129ff4ac5c0be396c8afd2b2857daf8f2e80c
+contact: http://public.web.cern.ch/public/en/Contact-en.html
+copyright: Copyright (C) CERN and others
+description: Python C-based extension implementing fast integer bit sets
+download_url: https://files.pythonhosted.org/packages/5a/34/c816383ae1d9999de5a6663a16239bb25e1e930ad4bafa61ab51c0904a3a/intbitset-3.0.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl
+homepage_url: https://github.com/inveniosoftware/intbitset
+license_expression: lgpl-3.0-plus
+name: intbitset
+notice_file: intbitset-3.0.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl.NOTICE
+owner: CERN
+owner_url: http://public.web.cern.ch/public/
+package_url: pkg:pypi/intbitset@3.0.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/inveniosoftware/intbitset
+version: 3.0.1

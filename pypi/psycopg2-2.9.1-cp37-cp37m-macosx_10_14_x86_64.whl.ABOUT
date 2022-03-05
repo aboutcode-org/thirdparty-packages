@@ -6,6 +6,7 @@ copyright: Copyright (c) The Psycopg Team
 description: Psycopg is the most popular PostgreSQL adapter for the Python programming language.
   At its core it fully implements the Python DB API 2.0 specifications. Several extensions allow
   access to many of the features offered by PostgreSQL.
+download_url: https://thirdparty.aboutcode.org/pypi/psycopg2-2.9.1-cp37-cp37m-macosx_10_14_x86_64.whl
 homepage_url: http://initd.org/psycopg/
 license_expression: lgpl-3.0-plus WITH openssl-exception-lgpl-3.0-plus
 name: psycopg2
