@@ -1,0 +1,7 @@
+about_resource: commoncode-30.1.0-py3-none-any.whl
+name: commoncode
+version: 30.1.0
+download_url: https://files.pythonhosted.org/packages/8f/68/90580c89f16a4b06290be366f6d876dc669787f73bfdd4de049717d9fd92/commoncode-30.1.0-py3-none-any.whl
+checksum_md5: 291e10ad227a4d6c61220d0e3c988545
+checksum_sha1: 7f8f8f47582945306ff8bea0edfa91cb21a67be6
+package_url: pkg:pypi/commoncode@30.1.0
