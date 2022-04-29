@@ -1,0 +1,17 @@
+about_resource: pip-22.0.4-py3-none-any.whl
+attribute: yes
+checksum_md5: 271aee4d4372295af4847a19d64c3595
+checksum_sha1: b999c07b10b599b63cd6e427793937484ab9da6e
+copyright: Copyright (c) The Python Software Foundation and the pip authors
+description: A tool for installing and managing Python packages.
+download_url: https://files.pythonhosted.org/packages/4d/16/0a14ca596f30316efd412a60bdfac02a7259bf8673d4d917dc60b9a21812/pip-22.0.4-py3-none-any.whl
+homepage_url: https://pip.pypa.io
+license_expression: mit AND lgpl-2.1-plus AND python AND mit AND bsd-new AND (bsd-new OR apache-2.0)
+  AND apache-2.0 AND isc
+name: pip
+package_url: pkg:pypi/pip@22.0.4
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 22.0.4

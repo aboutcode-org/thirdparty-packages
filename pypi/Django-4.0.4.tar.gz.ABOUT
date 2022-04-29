@@ -1,0 +1,16 @@
+about_resource: Django-4.0.4.tar.gz
+attribute: yes
+checksum_md5: 153fcb5dd7360b7ad219d65cb53e2d57
+checksum_sha1: 81855aaf0a5157dde385a9a9420b5cb0eea3a910
+copyright: Copyright (c) Django Software Foundation and individual contributors.
+description: |
+  Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+  Developed by a fast-moving online-news operation, Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it. It lets you build high-performing, elegant Web applications quickly.
+download_url: https://files.pythonhosted.org/packages/d2/95/93d1f75da95624bf89e373d079fa72debf77f9b10acc31998cc52a5ff3f9/Django-4.0.4.tar.gz
+homepage_url: https://www.djangoproject.com/
+license_expression: bsd-new
+name: Django
+package_url: pkg:pypi/django@4.0.4
+primary_language: Python
+type: pypi
+version: 4.0.4

@@ -1,0 +1,17 @@
+about_resource: natsort-8.1.0.tar.gz
+attribute: yes
+checksum_md5: 4a942b99fda7e768f30177eb14d165e5
+checksum_sha1: e68d21d40c3e06ec90a789978a207c3f9346af85
+copyright: Copyright (c) 2012-2014 Seth M. Morton
+description: Simple yet flexible natural sorting in Python.
+download_url: https://files.pythonhosted.org/packages/f7/37/207acdf07c2229a799b7a042c0977ad2372f4adb3446fba8f7703e2840e1/natsort-8.1.0.tar.gz
+homepage_url: https://github.com/SethMMorton/natsort
+license_expression: mit
+name: natsort
+notice_file: natsort-8.1.0.tar.gz.NOTICE
+notice_url: https://github.com/SethMMorton/natsort/blob/master/LICENSE
+owner: Seth Morton
+package_url: pkg:pypi/natsort@8.1.0
+primary_language: Python
+type: pypi
+version: 8.1.0
