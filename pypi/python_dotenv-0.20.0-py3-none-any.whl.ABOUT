@@ -1,0 +1,19 @@
+about_resource: python_dotenv-0.20.0-py3-none-any.whl
+checksum_md5: 49cbbcf2660a1cdebcdebc302ffc4707
+checksum_sha1: 983057ecaef3b40d38b28f3b660daf2e77e98ea2
+copyright: Copyright (c) Saurabh Kumar <me+github@saurabh-kumar.com>
+declared_license:
+  - BSD-3-Clause
+  - 'License :: OSI Approved :: BSD License'
+description: Read key-value pairs from a .env file and set them as environment variables
+download_url: https://files.pythonhosted.org/packages/30/5f/2e5c564bd86349fe6b82ca840f46acf6f4bb76d79ba9057fce3d3e008864/python_dotenv-0.20.0-py3-none-any.whl
+holder: Saurabh Kumar
+holder_contact: me+github@saurabh-kumar.com
+homepage_url: https://github.com/theskumar/python-dotenv
+keywords: environment variables,deployments,settings,env,dotenv,configurations,python
+license_expression: bsd-new
+name: python-dotenv
+package_url: pkg:pypi/python-dotenv@0.20.0
+primary_language: Python
+type: pypi
+version: 0.20.0

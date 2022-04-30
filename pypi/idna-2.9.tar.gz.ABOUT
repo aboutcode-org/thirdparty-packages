@@ -1,0 +1,20 @@
+about_resource: idna-2.9.tar.gz
+attribute: yes
+checksum_md5: 870b8b80267f00f0faf1b7ba4bdbf14e
+checksum_sha1: 53a9ab92168cd5a893e7cc582217fda422690cae
+contact: http://kim.id.au/
+copyright: Copyright (c) 2013-2017, Kim Davies
+description: 'Internationalized Domain Names for Python (IDNA 2008 and UTS #46)'
+download_url: https://files.pythonhosted.org/packages/cb/19/57503b5de719ee45e83472f339f617b0c01ad75cba44aba1e4c97c2b0abd/idna-2.9.tar.gz
+homepage_url: https://github.com/kjd/idna
+license_expression: bsd-new AND python AND unicode
+name: idna
+notice_file: idna-2.9.tar.gz.NOTICE
+notice_url: https://github.com/kjd/idna/blob/v2.6/LICENSE.rst
+owner: Kim Davies
+owner_url: https://github.com/kjd
+package_url: pkg:pypi/idna@2.9
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '2.9'

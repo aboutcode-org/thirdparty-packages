@@ -1,0 +1,17 @@
+about_resource: docker-compose-1.29.2.tar.gz
+checksum_md5: 95accbca655abf086a61b94d6c3d94ca
+checksum_sha1: efdc2185f035e2fd60b2c46c42f0f9669dc2368a
+copyright: Copyright (c) Docker, Inc. <None>
+declared_license:
+  - Apache License 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Multi-container orchestration for Docker
+download_url: https://files.pythonhosted.org/packages/1f/6a/f4703077123ad0c90026985cb9780c0703922c2a5451ab93fb63511d915a/docker-compose-1.29.2.tar.gz
+holder: Docker, Inc.
+homepage_url: https://www.docker.com/
+license_expression: apache-2.0
+name: docker-compose
+package_url: pkg:pypi/docker-compose@1.29.2
+primary_language: Python
+type: pypi
+version: 1.29.2

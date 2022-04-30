@@ -1,0 +1,18 @@
+about_resource: ptyprocess-0.7.0-py2.py3-none-any.whl
+checksum_md5: 99ec04989f767cb72ac82ce671b561b0
+checksum_sha1: 0827aaa6fdc3dc4256e06fa1c3991fb4ed20a693
+copyright: Copyright (c) Thomas Kluyver <thomas@kluyver.me.uk>
+declared_license:
+  - UNKNOWN
+  - 'License :: OSI Approved :: ISC License (ISCL)'
+description: Run a subprocess in a pseudo terminal
+download_url: https://files.pythonhosted.org/packages/22/a6/858897256d0deac81a172289110f31629fc4cee19b6f01283303e18c8db3/ptyprocess-0.7.0-py2.py3-none-any.whl
+holder: Thomas Kluyver
+holder_contact: thomas@kluyver.me.uk
+homepage_url: https://github.com/pexpect/ptyprocess
+license_expression: unknown AND isc
+name: ptyprocess
+package_url: pkg:pypi/ptyprocess@0.7.0
+primary_language: Python
+type: pypi
+version: 0.7.0

@@ -1,0 +1,17 @@
+about_resource: pytest-5.3.5.tar.gz
+attribute: yes
+checksum_md5: d5ef453f723be46d93e0795f3be86c88
+checksum_sha1: ca9aa51026dff9e8368eb18d729a3e227fa679cd
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and others
+description: 'pytest: simple powerful testing with Python'
+download_url: https://files.pythonhosted.org/packages/f0/5f/41376614e41f7cdee02d22d1aec1ea028301b4c6c4523a5f7ef8e960fe0b/pytest-5.3.5.tar.gz
+homepage_url: http://pytest.org
+license_expression: mit
+name: pytest
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest@5.3.5
+primary_language: Python
+type: pypi
+version: 5.3.5

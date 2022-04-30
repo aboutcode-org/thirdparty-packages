@@ -1,0 +1,15 @@
+about_resource: cryptography-37.0.1-cp36-abi3-macosx_10_10_universal2.whl
+checksum_md5: 0664d03b4b28413b96a9d558354b994c
+checksum_sha1: 46cea723cc525a69f17c533ed244e3c7e5eedd1a
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/fe/64/7244091a98a5c6e2737d50904f611b7a0edd194017e841bc0a89d16f6cc3/cryptography-37.0.1-cp36-abi3-macosx_10_10_universal2.whl
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-37.0.1-cp36-abi3-macosx_10_10_universal2.whl.NOTICE
+package_url: pkg:pypi/cryptography@37.0.1
+primary_language: Python
+type: pypi
+version: 37.0.1

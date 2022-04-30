@@ -1,0 +1,13 @@
+about_resource: wrapt-1.14.0-cp39-cp39-win_amd64.whl
+checksum_md5: c3ebb81aef0a2672cf78664fa0df636c
+checksum_sha1: ece453d5afdf50c939f2d25b987ad05f449aed3f
+copyright: Copyright Graham Dumpleton <Graham.Dumpleton@gmail.com>
+description: Module for decorators, wrappers and monkey patching.
+download_url: https://files.pythonhosted.org/packages/55/39/fa243f1ec6f66cc1d2dd53d94b088836a084ad114c1b680315fb230eb30f/wrapt-1.14.0-cp39-cp39-win_amd64.whl
+homepage_url: https://github.com/GrahamDumpleton/wrapt
+license_expression: bsd-simplified
+name: wrapt
+package_url: pkg:pypi/wrapt@1.14.0
+primary_language: Python
+type: pypi
+version: 1.14.0

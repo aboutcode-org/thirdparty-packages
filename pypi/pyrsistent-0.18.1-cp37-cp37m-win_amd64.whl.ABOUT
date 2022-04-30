@@ -1,0 +1,18 @@
+about_resource: pyrsistent-0.18.1-cp37-cp37m-win_amd64.whl
+checksum_md5: e6f8ce43e1f3b9ff0ecee79910f2ec76
+checksum_sha1: e51974b917bce128d5d38c015bcbd9887a78565c
+copyright: Copyright (c) Tobias Gustafsson <tobias.l.gustafsson@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Persistent/Functional/Immutable data structures
+download_url: https://files.pythonhosted.org/packages/3f/4f/721b1101d32569e255d6b11709196dbdd9e122a2aaea676d59d7b5f21971/pyrsistent-0.18.1-cp37-cp37m-win_amd64.whl
+holder: Tobias Gustafsson
+holder_contact: tobias.l.gustafsson@gmail.com
+homepage_url: http://github.com/tobgu/pyrsistent/
+license_expression: mit
+name: pyrsistent
+package_url: pkg:pypi/pyrsistent@0.18.1
+primary_language: Python
+type: pypi
+version: 0.18.1

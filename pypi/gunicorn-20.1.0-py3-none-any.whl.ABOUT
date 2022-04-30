@@ -1,0 +1,20 @@
+about_resource: gunicorn-20.1.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 778b4f2367f4175f6962ced8e06a9652
+checksum_sha1: bfa9c2e10a0524caf8f1ad8170d4433e26a29049
+contact: bchesneau@gmail.com
+copyright: |
+  2009-2018 (c) BenoÃ®t Chesneau <benoitc@e-engura.org>
+  2009-2015 (c) Paul J. Davis <paul.joseph.davis@gmail.com>
+description: Gunicorn  'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy
+  applications.
+download_url: https://files.pythonhosted.org/packages/e4/dd/5b190393e6066286773a67dfcc2f9492058e9b57c4867a95f1ba5caf0a83/gunicorn-20.1.0-py3-none-any.whl
+homepage_url: https://gunicorn.org/
+license_expression: mit
+name: gunicorn
+owner: Benoit Chesneau
+owner_url: https://github.com/benoitc
+package_url: pkg:pypi/gunicorn@20.1.0
+primary_language: Python
+type: pypi
+version: 20.1.0

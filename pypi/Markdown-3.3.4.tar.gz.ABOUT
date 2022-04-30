@@ -1,0 +1,17 @@
+about_resource: Markdown-3.3.4.tar.gz
+attribute: yes
+checksum_md5: b6833c6326e9164ee0c662218a75e7f0
+checksum_sha1: e6a49d903afcaeb861ee53ffe8751640ca97b2c8
+copyright: Copyright 2010-2012 Python Markdown Project
+description: This is a Python implementation of John Gruber's Markdown.
+download_url: https://files.pythonhosted.org/packages/49/02/37bd82ae255bb4dfef97a4b32d95906187b7a7a74970761fca1360c4ba22/Markdown-3.3.4.tar.gz
+homepage_url: http://pythonhosted.org/Markdown/
+license_expression: bsd-new
+name: Markdown
+notice_file: Markdown-3.3.4.tar.gz.NOTICE
+notice_url: https://github.com/waylan/Python-Markdown/blob/master/LICENSE.md
+owner: Python Markdown Project
+package_url: pkg:pypi/markdown@3.3.4
+primary_language: Python
+type: pypi
+version: 3.3.4

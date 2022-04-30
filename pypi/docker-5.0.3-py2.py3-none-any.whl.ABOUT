@@ -1,0 +1,16 @@
+about_resource: docker-5.0.3-py2.py3-none-any.whl
+checksum_md5: 09d415649b96158c55eeced07b86bc84
+checksum_sha1: ca29211f42148e4c14091ff7221acc730cdf3ca2
+copyright: Copyright (c) None <None>
+declared_license:
+  - Apache License 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: A Python library for the Docker Engine API.
+download_url: https://files.pythonhosted.org/packages/54/f3/7af47ead249fbb798d64a0438bad5c26f17ef6ac5cd324d802038eb10d90/docker-5.0.3-py2.py3-none-any.whl
+homepage_url: https://github.com/docker/docker-py
+license_expression: apache-2.0
+name: docker
+package_url: pkg:pypi/docker@5.0.3
+primary_language: Python
+type: pypi
+version: 5.0.3

@@ -1,0 +1,19 @@
+about_resource: bitarray-2.4.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+attribute: yes
+checksum_md5: 46f938d4d1fcec3614f7914acc04ec13
+checksum_sha1: 24998e9c90c511a9d1409553006b91ccfb087806
+contact: ilanschnell@gmail.com
+copyright: Copyright (c) Ilan Schnell and others
+description: efficient arrays of booleans for Python
+download_url: https://files.pythonhosted.org/packages/15/98/9a8056fa39a6e7cc7716dab7fda8124c4b37a6aa8baad6df953328d0cd11/bitarray-2.4.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+homepage_url: https://github.com/ilanschnell/bitarray
+license_expression: python
+name: bitarray
+notice_file: bitarray-2.4.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.NOTICE
+owner: Ilan Schnell
+owner_url: https://github.com/ilanschnell
+package_url: pkg:pypi/bitarray@2.4.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.4.1

@@ -1,0 +1,18 @@
+about_resource: backcall-0.2.0-py2.py3-none-any.whl
+checksum_md5: 4671e998e1853d64a365680de7ecc7a2
+checksum_sha1: 181a1a920553220a7ea539264b8af10d6cb86261
+copyright: Copyright (c) Thomas Kluyver <thomas@kluyver.me.uk>
+declared_license:
+  - UNKNOWN
+  - 'License :: OSI Approved :: BSD License'
+description: Specifications for callback functions passed in to an API
+download_url: https://files.pythonhosted.org/packages/4c/1c/ff6546b6c12603d8dd1070aa3c3d273ad4c07f5771689a7b69a550e8c951/backcall-0.2.0-py2.py3-none-any.whl
+holder: Thomas Kluyver
+holder_contact: thomas@kluyver.me.uk
+homepage_url: https://github.com/takluyver/backcall
+license_expression: unknown AND bsd-new
+name: backcall
+package_url: pkg:pypi/backcall@0.2.0
+primary_language: Python
+type: pypi
+version: 0.2.0

@@ -9,7 +9,7 @@ download_url: https://files.pythonhosted.org/packages/10/ad/00b090d23a222943eb0e
 holder: Jeff Forcier
 holder_contact: jeff@bitprophet.org
 homepage_url: https://alabaster.readthedocs.io
-license_expression: unknown AND bsd-new
+license_expression: bsd-new
 name: alabaster
 package_url: pkg:pypi/alabaster@0.7.12
 primary_language: Python

@@ -1,0 +1,18 @@
+about_resource: wcwidth-0.1.8.tar.gz
+attribute: yes
+checksum_md5: dc6677d099e6f49c0f6fbc310de261e9
+checksum_sha1: 1d4d06efe1380b20ba5ab3ff3048bb57685b0a2a
+contact: contact@jeffquast.com
+copyright: Copyright (c) 2014 Jeff Quast <contact@jeffquast.com>
+download_url: https://files.pythonhosted.org/packages/5e/33/92333eb80be0c96385dee338f30b53e24a8b415d5785e225d789b3f90feb/wcwidth-0.1.8.tar.gz
+homepage_url: https://github.com/jquast/wcwidth/
+license_expression: mit AND other-permissive
+name: wcwidth
+notice_file: wcwidth-0.1.8.tar.gz.NOTICE
+owner: Jeff Quast
+owner_url: http://jeffquast.com
+package_url: pkg:pypi/wcwidth@0.1.8
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/jquast/wcwidth/
+version: 0.1.8

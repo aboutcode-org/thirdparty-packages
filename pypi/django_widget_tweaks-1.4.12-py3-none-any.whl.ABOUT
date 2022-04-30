@@ -1,0 +1,18 @@
+about_resource: django_widget_tweaks-1.4.12-py3-none-any.whl
+checksum_md5: 21585af7a1e24d6a6eec28cc818c2473
+checksum_sha1: 79ba6836cdd07f78022f8f5e4b432202c4ec5686
+copyright: Copyright (c) Mikhail Korobov <kmike84@gmail.com>
+declared_license:
+  - MIT license
+  - 'License :: OSI Approved :: MIT License'
+description: Tweak the form field rendering in templates, not in python-level form definitions.
+download_url: https://files.pythonhosted.org/packages/5f/bb/855748bfc347e6df94cae36a6da0043620e148b3965c33a79e5ad4af7036/django_widget_tweaks-1.4.12-py3-none-any.whl
+holder: Mikhail Korobov
+holder_contact: kmike84@gmail.com
+homepage_url: https://github.com/jazzband/django-widget-tweaks
+license_expression: mit
+name: django-widget-tweaks
+package_url: pkg:pypi/django-widget-tweaks@1.4.12
+primary_language: Python
+type: pypi
+version: 1.4.12

@@ -1,0 +1,15 @@
+about_resource: backcall-0.2.0.tar.gz
+checksum_md5: 1f4c9a370c78743406296f48e56e8821
+checksum_sha1: 5bc62d540af1534f23560c0c32aac1e129518cd5
+copyright: Copyright (c) Thomas Kluyver <thomas@kluyver.me.uk>
+description: Specifications for callback functions passed in to an API
+download_url: https://files.pythonhosted.org/packages/a2/40/764a663805d84deee23043e1426a9175567db89c8b3287b5c2ad9f71aa93/backcall-0.2.0.tar.gz
+holder: Thomas Kluyver
+holder_contact: thomas@kluyver.me.uk
+homepage_url: https://github.com/takluyver/backcall
+license_expression: bsd-new
+name: backcall
+package_url: pkg:pypi/backcall@0.2.0
+primary_language: Python
+type: pypi
+version: 0.2.0

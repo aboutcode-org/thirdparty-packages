@@ -1,0 +1,14 @@
+about_resource: redis-4.2.2-py3-none-any.whl
+attribute: yes
+checksum_md5: 515d3ce8abbcee1c09df5c81e32fb56c
+checksum_sha1: 244af4642afbf6c1bfd268dbf42b2e28c97be9ac
+copyright: Copyright (c) 2012 Andy McCurdy
+description: The Python interface to the Redis key-value store.
+download_url: https://files.pythonhosted.org/packages/d3/2d/1aefc345181d53d618b48f7c2bdc491a6ec4f2be1923c37e04536ef2f9c4/redis-4.2.2-py3-none-any.whl
+homepage_url: https://pypi.python.org/pypi/redis
+license_expression: mit
+name: redis
+package_url: pkg:pypi/redis@4.2.2
+primary_language: Python
+type: pypi
+version: 4.2.2

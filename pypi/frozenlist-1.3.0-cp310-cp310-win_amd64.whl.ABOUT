@@ -1,0 +1,18 @@
+about_resource: frozenlist-1.3.0-cp310-cp310-win_amd64.whl
+checksum_md5: f93b54fbe4c94a03cd4f8261b3b47fc0
+checksum_sha1: 921fd71b6b77011c3578150ce7ecf1188514ded1
+copyright: Copyright (c) Nikolay Kim <fafhrd91@gmail.com>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: A list-like structure which implements collections.abc.MutableSequence
+download_url: https://files.pythonhosted.org/packages/a0/fa/7e6e4cbd0911966ca52846deee74b6ef9b138c45765bdb0f7242f14688e4/frozenlist-1.3.0-cp310-cp310-win_amd64.whl
+holder: Nikolay Kim
+holder_contact: fafhrd91@gmail.com
+homepage_url: https://github.com/aio-libs/frozenlist
+license_expression: apache-2.0
+name: frozenlist
+package_url: pkg:pypi/frozenlist@1.3.0
+primary_language: Python
+type: pypi
+version: 1.3.0

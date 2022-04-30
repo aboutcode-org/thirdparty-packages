@@ -1,0 +1,19 @@
+about_resource: parso-0.8.3.tar.gz
+checksum_md5: 7ee251113f31f8d851c4a5d9e98977cb
+checksum_sha1: 1a34ea6e597a6498ef5c154195f9ffe8dda3d254
+copyright: Copyright (c) David Halter <davidhalter88@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: A Python Parser
+download_url: https://files.pythonhosted.org/packages/a2/0e/41f0cca4b85a6ea74d66d2226a7cda8e41206a624f5b330b958ef48e2e52/parso-0.8.3.tar.gz
+holder: David Halter
+holder_contact: davidhalter88@gmail.com
+homepage_url: https://github.com/davidhalter/parso
+keywords: python parser parsing
+license_expression: mit
+name: parso
+package_url: pkg:pypi/parso@0.8.3
+primary_language: Python
+type: pypi
+version: 0.8.3

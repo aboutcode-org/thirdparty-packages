@@ -1,0 +1,19 @@
+about_resource: jedi-0.18.1-py2.py3-none-any.whl
+checksum_md5: 5aac57d746c651d9e71d4d00deb2890e
+checksum_sha1: a84deb23e90bc46081621f54c66439106ea8b3bb
+copyright: Copyright (c) David Halter <davidhalter88@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: An autocompletion tool for Python that can be used for text editors.
+download_url: https://files.pythonhosted.org/packages/b3/0e/836f12ec50075161e365131f13f5758451645af75c2becf61c6351ecec39/jedi-0.18.1-py2.py3-none-any.whl
+holder: David Halter
+holder_contact: davidhalter88@gmail.com
+homepage_url: https://github.com/davidhalter/jedi
+keywords: python completion refactoring vim
+license_expression: mit
+name: jedi
+package_url: pkg:pypi/jedi@0.18.1
+primary_language: Python
+type: pypi
+version: 0.18.1

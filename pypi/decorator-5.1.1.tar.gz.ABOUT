@@ -1,0 +1,19 @@
+about_resource: decorator-5.1.1.tar.gz
+checksum_md5: a6b34700dcac8a4bb04efd55e99626c1
+checksum_sha1: 929f42916ac8a4aa973599d558768b8f1728db46
+copyright: Copyright (c) Michele Simionato <michele.simionato@gmail.com>
+declared_license:
+  - new BSD License
+  - 'License :: OSI Approved :: BSD License'
+description: Decorators for Humans
+download_url: https://files.pythonhosted.org/packages/66/0c/8d907af351aa16b42caae42f9d6aa37b900c67308052d10fdce809f8d952/decorator-5.1.1.tar.gz
+holder: Michele Simionato
+holder_contact: michele.simionato@gmail.com
+homepage_url: https://github.com/micheles/decorator
+keywords: decorators generic utility
+license_expression: bsd-new
+name: decorator
+package_url: pkg:pypi/decorator@5.1.1
+primary_language: Python
+type: pypi
+version: 5.1.1

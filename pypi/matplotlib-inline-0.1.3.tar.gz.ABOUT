@@ -1,0 +1,18 @@
+about_resource: matplotlib-inline-0.1.3.tar.gz
+checksum_md5: b448b5374a5d17cc2e891fdc325fc369
+checksum_sha1: 23bf6d9354091c6a83dd924f37832fd4d151ccdd
+copyright: Copyright (c) IPython Development Team <ipython-dev@scipy.org>
+declared_license:
+  - BSD 3-Clause
+description: Inline Matplotlib backend for Jupyter
+download_url: https://files.pythonhosted.org/packages/0f/98/838f4c57f7b2679eec038ad0abefd1acaeec35e635d4d7af215acd7d1bd2/matplotlib-inline-0.1.3.tar.gz
+holder: IPython Development Team
+holder_contact: ipython-dev@scipy.org
+homepage_url: https://github.com/ipython/matplotlib-inline
+keywords: python,ipython,matplotlib,jupyter
+license_expression: bsd-new
+name: matplotlib-inline
+package_url: pkg:pypi/matplotlib-inline@0.1.3
+primary_language: Python
+type: pypi
+version: 0.1.3

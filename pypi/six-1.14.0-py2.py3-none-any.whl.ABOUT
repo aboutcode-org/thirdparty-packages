@@ -1,0 +1,20 @@
+about_resource: six-1.14.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: eb7d3da1d4e6554cf48ff3e69cf49b0d
+checksum_sha1: 10d27a1c0ef0e1ef65ca92220bfff25d2d228d08
+contact: benjamin@python.org
+copyright: Copyright (c) 2010-2011 Benjamin Peterson
+description: Six is a Python 2 and 3 compatibility library. It provides utility functions for
+  smoothing over the differences between the Python versions with the goal of writing Python
+  code that is compatible on both Python versions.
+download_url: https://files.pythonhosted.org/packages/65/eb/1f97cb97bfc2390a276969c6fae16075da282f5058082d4cb10c6c5c1dba/six-1.14.0-py2.py3-none-any.whl
+homepage_url: http://bitbucket.org/gutworth/six
+license_expression: mit
+name: six
+notice_url: https://github.com/benjaminp/six/blob/master/LICENSE
+owner: Benjamin Peterson
+owner_url: http://www.benjamin-peterson.org/
+package_url: pkg:pypi/six@1.14.0
+primary_language: Python
+type: pypi
+version: 1.14.0

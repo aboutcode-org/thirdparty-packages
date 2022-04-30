@@ -1,0 +1,18 @@
+about_resource: pyinstrument_cext-0.2.4-cp36-cp36m-win_amd64.whl
+checksum_md5: 8373befbbc26d508762958085ef3447f
+checksum_sha1: 7a2bc2a892b5b95a854389e033fb6b21e09c3f7d
+copyright: Copyright (c) Joe Rickerby <joerick@mac.com>
+declared_license:
+  - UNKNOWN
+description: A CPython extension supporting pyinstrument
+download_url: https://files.pythonhosted.org/packages/3f/58/48a8bb978999bd7483eff6ce99b835f65d5c24c9930927a6dbb6b86794ef/pyinstrument_cext-0.2.4-cp36-cp36m-win_amd64.whl
+holder: Joe Rickerby
+holder_contact: joerick@mac.com
+homepage_url: https://github.com/joerick/pyinstrument_cext
+keywords: profiling,profile,profiler,statistical,setstatprofile
+license_expression: unknown
+name: pyinstrument-cext
+package_url: pkg:pypi/pyinstrument-cext@0.2.4
+primary_language: Python
+type: pypi
+version: 0.2.4

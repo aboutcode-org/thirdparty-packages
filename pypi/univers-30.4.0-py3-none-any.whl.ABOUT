@@ -1,0 +1,19 @@
+about_resource: univers-30.4.0-py3-none-any.whl
+checksum_md5: 47c29d1f4bbd8b991e193fcec700875e
+checksum_sha1: c9da10dfd32ce4d55416abb2629095c7ea409dda
+copyright: Copyright (c) Shivam Sandbhor, nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0 AND BSD-3-Clause AND MIT
+description: A mostly universal library to parse and compare software package versions and version
+  ranges. A companion to Package URLs.
+download_url: https://files.pythonhosted.org/packages/93/f4/ab04f5a9ff26c2dfc75159ab69c0fafa35d5bb33be6b8bfb0979748d68f4/univers-30.4.0-py3-none-any.whl
+holder: Shivam Sandbhor, nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/univers
+keywords: semver,utilities,version,release,version range,package URL,purl,arch,pacman,pypi,rpm,gentoo,ebuild,maven,debian,rubygems
+license_expression: apache-2.0 AND bsd-new AND mit
+name: univers
+package_url: pkg:pypi/univers@30.4.0
+primary_language: Python
+type: pypi
+version: 30.4.0

@@ -1,0 +1,18 @@
+about_resource: Babel-2.10.1.tar.gz
+checksum_md5: a846a22016ee41db5d864ec399acc8f8
+checksum_sha1: 89820a010c5fcd7e0ac77008a9c46ce2304b59a3
+copyright: Copyright (c) Armin Ronacher <armin.ronacher@active-4.com>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: Internationalization utilities
+download_url: https://files.pythonhosted.org/packages/23/a6/a616817c8e4fb1a69f7e8aae9fc7fce1a147e1a492f45b6fa0b7d6823178/Babel-2.10.1.tar.gz
+holder: Armin Ronacher
+holder_contact: armin.ronacher@active-4.com
+homepage_url: http://babel.pocoo.org/
+license_expression: unknown AND bsd-new
+name: Babel
+package_url: pkg:pypi/babel@2.10.1
+primary_language: Python
+type: pypi
+version: 2.10.1

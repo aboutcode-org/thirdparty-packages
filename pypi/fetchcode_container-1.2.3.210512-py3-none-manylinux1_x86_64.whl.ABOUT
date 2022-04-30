@@ -1,6 +1,6 @@
 about_resource: fetchcode_container-1.2.3.210512-py3-none-manylinux1_x86_64.whl
-checksum_md5: c6dc883eabc048ee5d3f2eb90926f4e4
-checksum_sha1: 7b8ce6421fb0924ea092c05d1db631b34d1080bf
+checksum_md5: 1c80cd0b630e17efe42e63410e24dcaa
+checksum_sha1: 75ef143e53b87bba7228e9c292ac0987779e6669
 copyright: Copyright (c) nexB Inc. and others
 description: A ScanCode path provider plugin to provide a prebuilt native skopeobinary built
   from sources that are bundled in the repo and sdist.

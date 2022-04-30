@@ -1,0 +1,19 @@
+about_resource: dockerpty-0.4.1.tar.gz
+checksum_md5: 028bacb34536f3ee6a2ccd668c27e8e4
+checksum_sha1: a4c9fa9b582ff3a723e7eec7eeddb3afcb7eb78a
+copyright: Copyright (c) Chris Corbyn <chris@w3style.co.uk>
+declared_license:
+  - Apache 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Python library to use the pseudo-tty of a docker container
+download_url: https://files.pythonhosted.org/packages/8d/ee/e9ecce4c32204a6738e0a5d5883d3413794d7498fe8b06f44becc028d3ba/dockerpty-0.4.1.tar.gz
+holder: Chris Corbyn
+holder_contact: chris@w3style.co.uk
+homepage_url: https://github.com/d11wtq/dockerpty
+keywords: docker,tty,pty,terminal
+license_expression: apache-2.0
+name: dockerpty
+package_url: pkg:pypi/dockerpty@0.4.1
+primary_language: Python
+type: pypi
+version: 0.4.1

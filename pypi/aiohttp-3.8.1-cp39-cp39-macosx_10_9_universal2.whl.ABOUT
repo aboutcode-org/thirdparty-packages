@@ -1,0 +1,16 @@
+about_resource: aiohttp-3.8.1-cp39-cp39-macosx_10_9_universal2.whl
+checksum_md5: c7028497a657dab09bd1cc2a97a80286
+checksum_sha1: 1cb614fa0098dcd9f0598e2c7b848a4c1e02ead1
+copyright: Copyright (c) None <None>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: Async http client/server framework (asyncio)
+download_url: https://files.pythonhosted.org/packages/a8/0e/068cb215e8709703c497fcd07e8a81e68b3eb8b83083f96e93ef964d4685/aiohttp-3.8.1-cp39-cp39-macosx_10_9_universal2.whl
+homepage_url: https://github.com/aio-libs/aiohttp
+license_expression: apache-2.0
+name: aiohttp
+package_url: pkg:pypi/aiohttp@3.8.1
+primary_language: Python
+type: pypi
+version: 3.8.1

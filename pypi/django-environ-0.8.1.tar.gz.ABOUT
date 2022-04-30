@@ -1,0 +1,15 @@
+about_resource: django-environ-0.8.1.tar.gz
+attribute: yes
+checksum_md5: 2f3bc1a6b01f566e266e456640ade038
+checksum_sha1: eee0b080c3286ff97efb548ddd3e2fd80dbb8134
+copyright: Copyright (c) 2013-2017, Daniele Faraglia
+description: Django-environ allows you to utilize 12factor inspired environment variables to
+  configure your Django application.
+download_url: https://files.pythonhosted.org/packages/fd/f0/8e5ec6989323e927e459785127baa055deb1ca895aadca32afb684720e14/django-environ-0.8.1.tar.gz
+homepage_url: https://github.com/joke2k/django-environ/
+license_expression: mit
+name: django-environ
+package_url: pkg:pypi/django-environ@0.8.1
+primary_language: Python
+type: pypi
+version: 0.8.1

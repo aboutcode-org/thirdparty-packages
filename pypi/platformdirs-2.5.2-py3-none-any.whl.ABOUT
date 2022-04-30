@@ -1,0 +1,15 @@
+about_resource: platformdirs-2.5.2-py3-none-any.whl
+checksum_md5: ec4a15c8949db31f9e1518e250ef59c8
+checksum_sha1: 11f8f1a5b5666691b44d87072198b068a1c11362
+copyright: Copyright (c) ActiveState Software Inc and others
+description: A small Python module for determining appropriate platform-specific dirs, e.g.
+  a "user data dir".
+download_url: https://files.pythonhosted.org/packages/ed/22/967181c94c3a4063fe64e15331b4cb366bdd7dfbf46fcb8ad89650026fec/platformdirs-2.5.2-py3-none-any.whl
+homepage_url: https://github.com/platformdirs/platformdirs
+keywords: application directory log cache user
+license_expression: mit
+name: platformdirs
+package_url: pkg:pypi/platformdirs@2.5.2
+primary_language: Python
+type: pypi
+version: 2.5.2

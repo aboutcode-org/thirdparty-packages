@@ -1,0 +1,19 @@
+about_resource: pickleshare-0.7.5-py2.py3-none-any.whl
+checksum_md5: 7c68934703b75ccfbaad00d1210f7011
+checksum_sha1: 9c980c6c07156a0b8823c0f5f162290cd87e5a81
+copyright: Copyright (c) Ville Vainio <vivainio@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Tiny 'shelve'-like database with concurrency support
+download_url: https://files.pythonhosted.org/packages/9a/41/220f49aaea88bc6fa6cba8d05ecf24676326156c23b991e80b3f2fc24c77/pickleshare-0.7.5-py2.py3-none-any.whl
+holder: Ville Vainio
+holder_contact: vivainio@gmail.com
+homepage_url: https://github.com/pickleshare/pickleshare
+keywords: database persistence pickle ipc shelve
+license_expression: mit
+name: pickleshare
+package_url: pkg:pypi/pickleshare@0.7.5
+primary_language: Python
+type: pypi
+version: 0.7.5

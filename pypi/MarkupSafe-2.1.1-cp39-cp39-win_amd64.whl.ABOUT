@@ -1,0 +1,18 @@
+about_resource: MarkupSafe-2.1.1-cp39-cp39-win_amd64.whl
+attribute: yes
+checksum_md5: 720ca6a3fdf37eccb755720ffcf3864a
+checksum_sha1: 4a7561fb58b663e37b9b3cf96ea36e7ae634958d
+contact: armin.ronacher@active-4.com
+copyright: Copyright (c) Armin Ronacher
+description: Implements an XML/HTML/XHTML Markup safe string for Python
+download_url: https://files.pythonhosted.org/packages/71/dc/41cbfe0d9aefdf14226dbf4eccfd0079a0e297809a17c5b902c9a7a3cc9a/MarkupSafe-2.1.1-cp39-cp39-win_amd64.whl
+homepage_url: https://pypi.python.org/pypi/MarkupSafe/
+license_expression: bsd-new
+name: MarkupSafe
+notice_file: MarkupSafe-2.1.1-cp39-cp39-win_amd64.whl.NOTICE
+owner: Armin Ronacher
+owner_url: http://lucumr.pocoo.org/about/
+package_url: pkg:pypi/markupsafe@2.1.1
+primary_language: Python
+type: pypi
+version: 2.1.1

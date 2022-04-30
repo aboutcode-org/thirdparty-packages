@@ -1,0 +1,18 @@
+about_resource: executing-0.8.3-py2.py3-none-any.whl
+checksum_md5: c837af93760b7dd8b7ab90db5626240b
+checksum_sha1: a3036e2d669ed2241e2ee93c35975ff08ca8320e
+copyright: Copyright (c) Alex Hall <alex.mojaki@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Get the currently executing AST node of a frame, and other information
+download_url: https://files.pythonhosted.org/packages/61/d8/ad89910dc1da01a24135cb3dce702c72a8172f7b8f896ac0c4c34bcaf323/executing-0.8.3-py2.py3-none-any.whl
+holder: Alex Hall
+holder_contact: alex.mojaki@gmail.com
+homepage_url: https://github.com/alexmojaki/executing
+license_expression: mit
+name: executing
+package_url: pkg:pypi/executing@0.8.3
+primary_language: Python
+type: pypi
+version: 0.8.3

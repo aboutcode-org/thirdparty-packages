@@ -1,0 +1,17 @@
+about_resource: XlsxWriter-3.0.3.tar.gz
+attribute: yes
+checksum_md5: b08fcc4753c14aa64b9d99219475d91e
+checksum_sha1: e81b11aaa416eae47f42942fc13e19a98b3ce115
+copyright: Copyright 2013-2016, John McNamara.
+description: XlsxWriter is a Python module for creating Excel XLSX files.
+download_url: https://files.pythonhosted.org/packages/53/04/91ff43803c3e88c32aa272fdbda5859fc3c3b50b0de3a1e439cc57455330/XlsxWriter-3.0.3.tar.gz
+homepage_url: https://xlsxwriter.readthedocs.io/
+license_expression: bsd-simplified
+name: XlsxWriter
+notice_file: XlsxWriter-3.0.3.tar.gz.NOTICE
+notice_url: http://xlsxwriter.readthedocs.io/license.html?highlight=license
+owner: Pavel Akimov
+package_url: pkg:pypi/xlsxwriter@3.0.3
+primary_language: Python
+type: pypi
+version: 3.0.3

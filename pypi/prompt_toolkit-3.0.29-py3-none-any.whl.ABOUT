@@ -1,0 +1,13 @@
+about_resource: prompt_toolkit-3.0.29-py3-none-any.whl
+checksum_md5: b5592c9c04a098f013c79a323d479744
+checksum_sha1: eac13ad2ce7733e41211c11e7627a2d234b35bb5
+copyright: Copyright Jonathan Slenders
+description: Library for building powerful interactive command lines in Python
+download_url: https://files.pythonhosted.org/packages/3f/2d/dcb44d69f388ca2ee1a4a4d3c204ab66b36975c0d5166781eaeeff76b882/prompt_toolkit-3.0.29-py3-none-any.whl
+homepage_url: https://github.com/prompt-toolkit/python-prompt-toolkit
+license_expression: bsd-new
+name: prompt-toolkit
+package_url: pkg:pypi/prompt-toolkit@3.0.29
+primary_language: Python
+type: pypi
+version: 3.0.29

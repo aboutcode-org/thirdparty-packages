@@ -1,0 +1,18 @@
+about_resource: multidict-6.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+checksum_md5: c14f026f45ba0aafc42fc0d48975e8c0
+checksum_sha1: 6000c42f527a5d788a650f0b65686644dc3b7d06
+copyright: Copyright (c) Andrew Svetlov <andrew.svetlov@gmail.com>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: multidict implementation
+download_url: https://files.pythonhosted.org/packages/8f/39/a7e04961b4c00d68aba337e3fdef9fd4f666dcd98f41725067a1de5d3399/multidict-6.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+holder: Andrew Svetlov
+holder_contact: andrew.svetlov@gmail.com
+homepage_url: https://github.com/aio-libs/multidict
+license_expression: apache-2.0
+name: multidict
+package_url: pkg:pypi/multidict@6.0.2
+primary_language: Python
+type: pypi
+version: 6.0.2

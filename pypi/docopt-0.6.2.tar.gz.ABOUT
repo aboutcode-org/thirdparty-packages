@@ -1,0 +1,19 @@
+about_resource: docopt-0.6.2.tar.gz
+checksum_md5: 4bc74561b37fad5d3e7d037f82a4c3b1
+checksum_sha1: 224a3ec08b56445a1bd1583aad06b00692671e04
+copyright: Copyright (c) Vladimir Keleshev <vladimir@keleshev.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Pythonic argument parser, that will make you smile
+download_url: https://files.pythonhosted.org/packages/a2/55/8f8cab2afd404cf578136ef2cc5dfb50baa1761b68c9da1fb1e4eed343c9/docopt-0.6.2.tar.gz
+holder: Vladimir Keleshev
+holder_contact: vladimir@keleshev.com
+homepage_url: http://docopt.org
+keywords: option arguments parsing optparse argparse getopt
+license_expression: mit
+name: docopt
+package_url: pkg:pypi/docopt@0.6.2
+primary_language: Python
+type: pypi
+version: 0.6.2

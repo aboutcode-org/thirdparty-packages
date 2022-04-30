@@ -1,0 +1,18 @@
+about_resource: defusedxml-0.7.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: f0f8408ec7056772fe2872cc31b55640
+checksum_sha1: e23475023105199c3e59753407e921869e04720d
+copyright: Copyright (c) 2013-2017 by Christian Heimes <christian@python.org>
+description: defusedxml -- defusing XML bombs and other exploits
+download_url: https://files.pythonhosted.org/packages/07/6c/aa3f2f849e01cb6a001cd8554a88d4c77c5c1a31c95bdf1cf9301e6d9ef4/defusedxml-0.7.1-py2.py3-none-any.whl
+homepage_url: https://github.com/tiran/defusedxml
+license_expression: python
+name: defusedxml
+notice_file: defusedxml-0.7.1-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/tiran/defusedxml/blob/master/README.md
+owner: Christian Heimes
+package_url: pkg:pypi/defusedxml@0.7.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 0.7.1

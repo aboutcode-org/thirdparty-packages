@@ -1,0 +1,20 @@
+about_resource: certifi-2019.11.28-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: fba2d61b9a2290906e6a77d7e57dfac5
+checksum_sha1: c6c837eb27417c15cdfca948b700e4cbfa922cc7
+copyright: Copyright (c) Mozilla Contributors, packaged by Kenneth Reitz and others
+description: Certifi is a carefully curated collection of Root Certificates for validating the
+  trustworthiness of SSL certificates while verifying the identity of TLS hosts. It has been
+  extracted from the Requests project.
+download_url: https://files.pythonhosted.org/packages/b9/63/df50cac98ea0d5b006c55a399c3bf1db9da7b5a24de7890bc9cfd5dd9e99/certifi-2019.11.28-py2.py3-none-any.whl
+homepage_url: https://certifi.io/en/latest/
+license_expression: mpl-2.0
+name: certifi
+notice_file: certifi-2019.11.28-py2.py3-none-any.whl.NOTICE
+owner: Kenneth Reitz
+package_url: pkg:pypi/certifi@2019.11.28
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 2019.11.28

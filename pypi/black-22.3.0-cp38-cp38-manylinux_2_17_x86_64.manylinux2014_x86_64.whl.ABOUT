@@ -1,0 +1,14 @@
+about_resource: black-22.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+checksum_md5: fe9900561caa335ad8df5f08bd1396cf
+checksum_sha1: 9ea803b16820c7ab8ecca7d2ce755a4adcc31b45
+copyright: Copyright (c) Łukasz Langa <lukasz@langa.pl>
+description: The uncompromising code formatter.
+download_url: https://files.pythonhosted.org/packages/33/bb/8f662d8807eb66ceac021bdf777185c65b843bf1b75af8412e16af4df2ac/black-22.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+homepage_url: https://github.com/psf/black
+keywords: automation formatter yapf autopep8 pyfmt gofmt rustfmt
+license_expression: mit
+name: black
+package_url: pkg:pypi/black@22.3.0
+primary_language: Python
+type: pypi
+version: 22.3.0

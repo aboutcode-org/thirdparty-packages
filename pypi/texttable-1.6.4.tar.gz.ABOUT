@@ -1,0 +1,18 @@
+about_resource: texttable-1.6.4.tar.gz
+checksum_md5: 15faadc07ba44d337cc1675ea6092a02
+checksum_sha1: f818f1ea121513b54a417ffa6fe8bb26821913d7
+copyright: Copyright (c) Gerome Fournier <jef@foutaise.org>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: module for creating simple ASCII tables
+download_url: https://files.pythonhosted.org/packages/d5/78/dbc2a5eab57a01fedaf975f2c16f04e76f09336dbeadb9994258aa0a2b1a/texttable-1.6.4.tar.gz
+holder: Gerome Fournier
+holder_contact: jef@foutaise.org
+homepage_url: https://github.com/foutaise/texttable/
+license_expression: mit
+name: texttable
+package_url: pkg:pypi/texttable@1.6.4
+primary_language: Python
+type: pypi
+version: 1.6.4

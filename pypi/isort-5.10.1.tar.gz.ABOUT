@@ -1,0 +1,12 @@
+about_resource: isort-5.10.1.tar.gz
+attribute: yes
+checksum_md5: 717294d0a9017b27bd46b1c946b39bd0
+checksum_sha1: 1ac2aeda9c869a2acf7b76cab0f90d4ee7acb6ea
+copyright: Copyright (c) Timothy Edmund Crosley
+download_url: https://files.pythonhosted.org/packages/ab/e9/964cb0b2eedd80c92f5172f1f8ae0443781a9d461c1372a3ce5762489593/isort-5.10.1.tar.gz
+license_expression: mit
+name: isort
+package_url: pkg:pypi/isort@5.10.1
+primary_language: Python
+type: pypi
+version: 5.10.1

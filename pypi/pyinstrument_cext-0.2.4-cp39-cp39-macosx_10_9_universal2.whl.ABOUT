@@ -1,0 +1,18 @@
+about_resource: pyinstrument_cext-0.2.4-cp39-cp39-macosx_10_9_universal2.whl
+checksum_md5: 631da845644d0947ec4119d636dc61ad
+checksum_sha1: e30fe21af411c4cda2c05274ab1c4232498959b8
+copyright: Copyright (c) Joe Rickerby <joerick@mac.com>
+declared_license:
+  - UNKNOWN
+description: A CPython extension supporting pyinstrument
+download_url: https://files.pythonhosted.org/packages/f1/11/261ecad2ee80086e3c508abf9216f71459f75b750fb041196241cb197dff/pyinstrument_cext-0.2.4-cp39-cp39-macosx_10_9_universal2.whl
+holder: Joe Rickerby
+holder_contact: joerick@mac.com
+homepage_url: https://github.com/joerick/pyinstrument_cext
+keywords: profiling,profile,profiler,statistical,setstatprofile
+license_expression: unknown
+name: pyinstrument-cext
+package_url: pkg:pypi/pyinstrument-cext@0.2.4
+primary_language: Python
+type: pypi
+version: 0.2.4

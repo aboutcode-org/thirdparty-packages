@@ -1,0 +1,17 @@
+about_resource: docker_compose-1.29.2-py2.py3-none-any.whl
+checksum_md5: 25bd3a0cf152cd5024f33b45fb745950
+checksum_sha1: efa1aa7bf114bd30ac8ce39202ca2fef5a3f7bcb
+copyright: Copyright (c) Docker, Inc. <None>
+declared_license:
+  - Apache License 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Multi-container orchestration for Docker
+download_url: https://files.pythonhosted.org/packages/f3/3e/ca05e486d44e38eb495ca60b8ca526b192071717387346ed1031ecf78966/docker_compose-1.29.2-py2.py3-none-any.whl
+holder: Docker, Inc.
+homepage_url: https://www.docker.com/
+license_expression: apache-2.0
+name: docker-compose
+package_url: pkg:pypi/docker-compose@1.29.2
+primary_language: Python
+type: pypi
+version: 1.29.2

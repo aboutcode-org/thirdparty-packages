@@ -1,0 +1,14 @@
+about_resource: redis-4.2.2.tar.gz
+attribute: yes
+checksum_md5: 47994acf3a2d5c544d9017fd887eae69
+checksum_sha1: e8838d0135e260dd508bdeba67975d97965daff4
+copyright: Copyright (c) 2012 Andy McCurdy
+description: The Python interface to the Redis key-value store.
+download_url: https://files.pythonhosted.org/packages/31/4c/7ee8f6319c26370f636bce7b4ad2ab9d76ed102243c91d853e7e144621d9/redis-4.2.2.tar.gz
+homepage_url: https://pypi.python.org/pypi/redis
+license_expression: mit
+name: redis
+package_url: pkg:pypi/redis@4.2.2
+primary_language: Python
+type: pypi
+version: 4.2.2

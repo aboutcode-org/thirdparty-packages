@@ -1,0 +1,15 @@
+about_resource: ptyprocess-0.7.0.tar.gz
+checksum_md5: 9da200c397cb1752209a6b718b6cfc68
+checksum_sha1: 2d8830d1025c8e33149c7723c2f283122f9488c1
+copyright: Copyright (c) Thomas Kluyver <thomas@kluyver.me.uk>
+description: Run a subprocess in a pseudo terminal
+download_url: https://files.pythonhosted.org/packages/20/e5/16ff212c1e452235a90aeb09066144d0c5a6a8c0834397e03f5224495c4e/ptyprocess-0.7.0.tar.gz
+holder: Thomas Kluyver
+holder_contact: thomas@kluyver.me.uk
+homepage_url: https://github.com/pexpect/ptyprocess
+license_expression: isc
+name: ptyprocess
+package_url: pkg:pypi/ptyprocess@0.7.0
+primary_language: Python
+type: pypi
+version: 0.7.0

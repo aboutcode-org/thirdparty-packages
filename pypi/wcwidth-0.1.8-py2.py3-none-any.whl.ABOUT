@@ -1,0 +1,18 @@
+about_resource: wcwidth-0.1.8-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: ec7e2f8e42c85066edf6caae0f8a927b
+checksum_sha1: 72f09ee546434b265862cd905311542b2e323a71
+contact: contact@jeffquast.com
+copyright: Copyright (c) 2014 Jeff Quast <contact@jeffquast.com>
+download_url: https://files.pythonhosted.org/packages/58/b4/4850a0ccc6f567cc0ebe7060d20ffd4258b8210efadc259da62dc6ed9c65/wcwidth-0.1.8-py2.py3-none-any.whl
+homepage_url: https://github.com/jquast/wcwidth/
+license_expression: mit AND other-permissive
+name: wcwidth
+notice_file: wcwidth-0.1.8-py2.py3-none-any.whl.NOTICE
+owner: Jeff Quast
+owner_url: http://jeffquast.com
+package_url: pkg:pypi/wcwidth@0.1.8
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/jquast/wcwidth/
+version: 0.1.8

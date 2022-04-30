@@ -1,0 +1,18 @@
+about_resource: pyrsistent-0.18.1-cp38-cp38-macosx_10_9_universal2.whl
+checksum_md5: 538ff194f668151ad9c1af530849ea11
+checksum_sha1: 0c24d1eeaf5ced57d12a3ed92714b5548bf90c0c
+copyright: Copyright (c) Tobias Gustafsson <tobias.l.gustafsson@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Persistent/Functional/Immutable data structures
+download_url: https://files.pythonhosted.org/packages/a2/27/c91571c89bac1bba7a0e54a7aa4550908052bba8cfa89704c1d4f4025f3e/pyrsistent-0.18.1-cp38-cp38-macosx_10_9_universal2.whl
+holder: Tobias Gustafsson
+holder_contact: tobias.l.gustafsson@gmail.com
+homepage_url: http://github.com/tobgu/pyrsistent/
+license_expression: mit
+name: pyrsistent
+package_url: pkg:pypi/pyrsistent@0.18.1
+primary_language: Python
+type: pypi
+version: 0.18.1

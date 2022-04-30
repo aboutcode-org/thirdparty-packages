@@ -1,0 +1,16 @@
+about_resource: django-crispy-forms-1.14.0.tar.gz
+attribute: yes
+checksum_md5: f6c8e60790157a62c3bc944e544bc50d
+checksum_sha1: 34c949bfcf910b4083a7b603c30e923fd7ed1d57
+copyright: Copyright (c) 2009-2011 Miguel Araujo and contributors.
+description: The best way to have DRY Django forms. The app provides a tag and filter that lets
+  you quickly render forms in a div format while providing an enormous amount of capability
+  to configure and control the rendered HTML
+download_url: https://files.pythonhosted.org/packages/60/96/56854b9f0b437454cef5dd5e9977017a81c23e235eceb6f7ea9c7848d06d/django-crispy-forms-1.14.0.tar.gz
+homepage_url: https://github.com/maraujop/django-crispy-forms
+license_expression: mit
+name: django-crispy-forms
+package_url: pkg:pypi/django-crispy-forms@1.14.0
+primary_language: Python
+type: pypi
+version: 1.14.0

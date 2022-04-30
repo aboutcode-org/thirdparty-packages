@@ -1,0 +1,12 @@
+about_resource: asgiref-3.5.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 4264e5154e26179e78d51228d94dbf45
+checksum_sha1: 517be472280102cf506b954c9bf573369f562308
+copyright: Copyright (c) Django Software Foundation and individual contributors
+download_url: https://files.pythonhosted.org/packages/0b/9f/5f3b91391578312827561b669a0397d58535b4e82966c8f1667525c7d563/asgiref-3.5.0-py3-none-any.whl
+license_expression: bsd-new
+name: asgiref
+package_url: pkg:pypi/asgiref@3.5.0
+primary_language: Python
+type: pypi
+version: 3.5.0

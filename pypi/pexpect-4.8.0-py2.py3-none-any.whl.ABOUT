@@ -1,0 +1,19 @@
+about_resource: pexpect-4.8.0-py2.py3-none-any.whl
+checksum_md5: 7bf9120209a613a6792c6f0619bd8428
+checksum_sha1: 0c3fc83ca045abeec9ce82bb7ee3e77f0390bca4
+copyright: Copyright (c) Noah Spurrier; Thomas Kluyver; Jeff Quast <noah@noah.org, thomas@kluyver.me.uk,
+  contact@jeffquast.com>
+declared_license:
+  - ISC license
+  - 'License :: OSI Approved :: ISC License (ISCL)'
+description: Pexpect allows easy control of interactive console applications.
+download_url: https://files.pythonhosted.org/packages/39/7b/88dbb785881c28a102619d46423cb853b46dbccc70d3ac362d99773a78ce/pexpect-4.8.0-py2.py3-none-any.whl
+holder: Noah Spurrier; Thomas Kluyver; Jeff Quast
+holder_contact: noah@noah.org, thomas@kluyver.me.uk, contact@jeffquast.com
+homepage_url: https://pexpect.readthedocs.io/
+license_expression: isc
+name: pexpect
+package_url: pkg:pypi/pexpect@4.8.0
+primary_language: Python
+type: pypi
+version: 4.8.0

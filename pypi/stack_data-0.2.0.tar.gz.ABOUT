@@ -1,0 +1,18 @@
+about_resource: stack_data-0.2.0.tar.gz
+checksum_md5: aa4abb89e9a504aa55b57e039c997552
+checksum_sha1: 641fbdc2646ed24005e185a85069fe1fff9b9ce1
+copyright: Copyright (c) Alex Hall <alex.mojaki@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Extract data from python stack frames and tracebacks for informative displays
+download_url: https://files.pythonhosted.org/packages/3c/71/3e7cdd62d35c863dc45248d827cb65858af6b58271da5ff930bc60ba2e87/stack_data-0.2.0.tar.gz
+holder: Alex Hall
+holder_contact: alex.mojaki@gmail.com
+homepage_url: http://github.com/alexmojaki/stack_data
+license_expression: mit
+name: stack_data
+package_url: pkg:pypi/stack-data@0.2.0
+primary_language: Python
+type: pypi
+version: 0.2.0

@@ -1,0 +1,19 @@
+about_resource: websocket_client-0.59.0-py2.py3-none-any.whl
+checksum_md5: 40c34a03548205d724f5dbcea7d40cfc
+checksum_sha1: cda5290ea2da15ba372094457719cf937bd90ebf
+copyright: Copyright (c) liris <liris.pp@gmail.com>
+declared_license:
+  - LGPL version 2.1
+  - 'License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)'
+description: WebSocket client for Python with low level API options
+download_url: https://files.pythonhosted.org/packages/f7/0c/d52a2a63512a613817846d430d16a8fbe5ea56dd889e89c68facf6b91cb6/websocket_client-0.59.0-py2.py3-none-any.whl
+holder: liris
+holder_contact: liris.pp@gmail.com
+homepage_url: https://github.com/websocket-client/websocket-client.git
+keywords: websockets client
+license_expression: lgpl-2.1 AND lgpl-2.0-plus
+name: websocket-client
+package_url: pkg:pypi/websocket-client@0.59.0
+primary_language: Python
+type: pypi
+version: 0.59.0

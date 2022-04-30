@@ -1,0 +1,15 @@
+about_resource: GitPython-3.1.27-py3-none-any.whl
+checksum_md5: 2d0d33674ff422e4a4c3f59cb82795a7
+checksum_sha1: 0c957d7d0233ea42e5bc5f175d82263927622731
+copyright: Copyright (C) Michael Trier and contributors
+description: Python Git Library
+download_url: https://files.pythonhosted.org/packages/83/32/ce68915670da6fd6b1e3fb4b3554b4462512f6441dddd194fc0f4f6ec653/GitPython-3.1.27-py3-none-any.whl
+holder: Sebastian Thiel, Michael Trier
+holder_contact: byronimo@gmail.com, mtrier@gmail.com
+homepage_url: https://github.com/gitpython-developers/GitPython
+license_expression: bsd-new
+name: GitPython
+package_url: pkg:pypi/gitpython@3.1.27
+primary_language: Python
+type: pypi
+version: 3.1.27

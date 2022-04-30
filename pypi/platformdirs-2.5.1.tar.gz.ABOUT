@@ -1,0 +1,15 @@
+about_resource: platformdirs-2.5.1.tar.gz
+checksum_md5: 83d3ce3feb4af1ccfaca24375574f44d
+checksum_sha1: 16e9a89587b4471041c6d1a2444d200a92292c73
+copyright: Copyright (c) ActiveState Software Inc and others
+description: A small Python module for determining appropriate platform-specific dirs, e.g.
+  a "user data dir".
+download_url: https://files.pythonhosted.org/packages/33/66/61da40aa546141b0d70b37fe6bb4ef1200b4b4cb98849f131b58faa9a5d2/platformdirs-2.5.1.tar.gz
+homepage_url: https://github.com/platformdirs/platformdirs
+keywords: application directory log cache user
+license_expression: mit
+name: platformdirs
+package_url: pkg:pypi/platformdirs@2.5.1
+primary_language: Python
+type: pypi
+version: 2.5.1

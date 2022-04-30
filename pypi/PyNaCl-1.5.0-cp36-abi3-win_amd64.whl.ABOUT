@@ -1,0 +1,13 @@
+about_resource: PyNaCl-1.5.0-cp36-abi3-win_amd64.whl
+checksum_md5: c8b8dd769782cf55424df4d408fc77e1
+checksum_sha1: b7343b31a4acaa02f25c7edff54f9872e77e0f73
+copyright: Copyright The PyNaCl developers <cryptography-dev@python.org>
+description: Python binding to the Networking and Cryptography (NaCl) library
+download_url: https://files.pythonhosted.org/packages/5e/22/d3db169895faaf3e2eda892f005f433a62db2decbcfbc2f61e6517adfa87/PyNaCl-1.5.0-cp36-abi3-win_amd64.whl
+homepage_url: https://github.com/pyca/pynacl/
+license_expression: apache-2.0
+name: PyNaCl
+package_url: pkg:pypi/pynacl@1.5.0
+primary_language: Python
+type: pypi
+version: 1.5.0

@@ -1,0 +1,18 @@
+about_resource: asttokens-2.0.5.tar.gz
+checksum_md5: 0a2a057b9c9a220bffdb3e7512062f17
+checksum_sha1: 8a9c1fc8752fedb52189441f9f874f5e1afd5866
+copyright: Copyright (c) Dmitry Sagalovskiy, Grist Labs <dmitry@getgrist.com>
+declared_license:
+  - Apache 2.0
+description: Annotate AST trees with source code positions
+download_url: https://files.pythonhosted.org/packages/aa/51/59965dead3960a97358f289c7c11ebc1f6c5d28710fab5d421000fe60353/asttokens-2.0.5.tar.gz
+holder: Dmitry Sagalovskiy, Grist Labs
+holder_contact: dmitry@getgrist.com
+homepage_url: https://github.com/gristlabs/asttokens
+keywords: code,ast,parse,tokenize,refactor
+license_expression: apache-2.0
+name: asttokens
+package_url: pkg:pypi/asttokens@2.0.5
+primary_language: Python
+type: pypi
+version: 2.0.5

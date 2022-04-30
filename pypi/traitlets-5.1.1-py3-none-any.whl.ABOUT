@@ -1,0 +1,19 @@
+about_resource: traitlets-5.1.1-py3-none-any.whl
+checksum_md5: 257c2158ed18ed953d536a0a61406e2d
+checksum_sha1: e2c5b8d101a1f6c3e82cc207e033589707ac2c05
+copyright: Copyright (c) IPython Development Team <ipython-dev@python.org>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: Traitlets Python configuration system
+download_url: https://files.pythonhosted.org/packages/37/46/be8a3c030bd3673f4800fa7f46eda972dfa2990089a51ec5dd0a26ed33e9/traitlets-5.1.1-py3-none-any.whl
+holder: IPython Development Team
+holder_contact: ipython-dev@python.org
+homepage_url: https://github.com/ipython/traitlets
+keywords: Interactive,Interpreter,Shell,Web
+license_expression: unknown AND bsd-new
+name: traitlets
+package_url: pkg:pypi/traitlets@5.1.1
+primary_language: Python
+type: pypi
+version: 5.1.1

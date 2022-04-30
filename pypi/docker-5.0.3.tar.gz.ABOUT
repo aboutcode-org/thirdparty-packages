@@ -1,0 +1,16 @@
+about_resource: docker-5.0.3.tar.gz
+checksum_md5: 33314b2c98a1a4e3b57e7068811007c6
+checksum_sha1: abb21cee2858f5169dfdb1a41afb6e15d4d990c1
+copyright: Copyright (c) None <None>
+declared_license:
+  - Apache License 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: A Python library for the Docker Engine API.
+download_url: https://files.pythonhosted.org/packages/ab/d2/45ea0ee13c6cffac96c32ac36db0299932447a736660537ec31ec3a6d877/docker-5.0.3.tar.gz
+homepage_url: https://github.com/docker/docker-py
+license_expression: apache-2.0
+name: docker
+package_url: pkg:pypi/docker@5.0.3
+primary_language: Python
+type: pypi
+version: 5.0.3

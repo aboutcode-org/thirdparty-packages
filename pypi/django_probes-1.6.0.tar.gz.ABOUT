@@ -1,0 +1,19 @@
+about_resource: django_probes-1.6.0.tar.gz
+checksum_md5: b729a58fe262081ec9b11dcfa2d9d8fb
+checksum_sha1: 45f7b3cdb55b42b69199c6809eb1ef1407c37ec6
+copyright: Copyright (c) Peter Bittner <django@bittner.it>
+declared_license:
+  - BSD-3-Clause
+  - 'License :: OSI Approved :: BSD License'
+description: Make Django wait until database is ready. Probes for Docker and Kubernetes.
+download_url: https://files.pythonhosted.org/packages/bd/51/9b85a2e006c5796ce42c7672f75614321a0dcb1cb2f3a0a77f3042860eb2/django_probes-1.6.0.tar.gz
+holder: Peter Bittner
+holder_contact: django@bittner.it
+homepage_url: https://github.com/painless-software/django-probes
+keywords: django,database,probes,docker,kubernetes
+license_expression: bsd-new
+name: django_probes
+package_url: pkg:pypi/django-probes@1.6.0
+primary_language: Python
+type: pypi
+version: 1.6.0

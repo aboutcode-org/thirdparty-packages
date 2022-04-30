@@ -1,0 +1,18 @@
+about_resource: distro-1.7.0-py3-none-any.whl
+checksum_md5: 73469c383d9a8f6e31369e15cfe217ea
+checksum_sha1: b1b914c8400a5a69f72b87297602ef79692a664d
+copyright: Copyright (c) Nir Cohen <nir36g@gmail.com>
+declared_license:
+  - Apache License, Version 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Distro - an OS platform information API
+download_url: https://files.pythonhosted.org/packages/e1/54/d08d1ad53788515392bec14d2d6e8c410bffdc127780a9a4aa8e6854d502/distro-1.7.0-py3-none-any.whl
+holder: Nir Cohen
+holder_contact: nir36g@gmail.com
+homepage_url: https://github.com/python-distro/distro
+license_expression: apache-2.0
+name: distro
+package_url: pkg:pypi/distro@1.7.0
+primary_language: Python
+type: pypi
+version: 1.7.0

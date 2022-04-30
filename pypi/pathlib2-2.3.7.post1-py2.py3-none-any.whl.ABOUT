@@ -1,0 +1,13 @@
+about_resource: pathlib2-2.3.7.post1-py2.py3-none-any.whl
+checksum_md5: d38180feae103da9b2cf41e5d0869ee9
+checksum_sha1: 101d6edba9f969b5f2f32a31cd3a4328183f2f3f
+copyright: copyright (c) Matthias C. M. Troffaes <matthias.troffaes@gmail.com>
+description: Object-oriented filesystem paths
+download_url: https://files.pythonhosted.org/packages/09/eb/4af4bcd5b8731366b676192675221c5324394a580dfae469d498313b5c4a/pathlib2-2.3.7.post1-py2.py3-none-any.whl
+homepage_url: https://github.com/mcmtroffaes/pathlib2
+license_expression: mit
+name: pathlib2
+package_url: pkg:pypi/pathlib2@2.3.7.post1
+primary_language: Python
+type: pypi
+version: 2.3.7.post1

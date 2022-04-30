@@ -1,0 +1,17 @@
+about_resource: Markdown-3.3.4-py3-none-any.whl
+attribute: yes
+checksum_md5: 99de91534b8df789312a16ebcb18813e
+checksum_sha1: 3245735dd90f57f84feba5d10cde51c282441691
+copyright: Copyright 2010-2012 Python Markdown Project
+description: This is a Python implementation of John Gruber's Markdown.
+download_url: https://files.pythonhosted.org/packages/6e/33/1ae0f71395e618d6140fbbc9587cc3156591f748226075e0f7d6f9176522/Markdown-3.3.4-py3-none-any.whl
+homepage_url: http://pythonhosted.org/Markdown/
+license_expression: bsd-new
+name: Markdown
+notice_file: Markdown-3.3.4-py3-none-any.whl.NOTICE
+notice_url: https://github.com/waylan/Python-Markdown/blob/master/LICENSE.md
+owner: Python Markdown Project
+package_url: pkg:pypi/markdown@3.3.4
+primary_language: Python
+type: pypi
+version: 3.3.4

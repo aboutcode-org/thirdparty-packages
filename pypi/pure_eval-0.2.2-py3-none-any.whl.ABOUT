@@ -1,0 +1,18 @@
+about_resource: pure_eval-0.2.2-py3-none-any.whl
+checksum_md5: 9763cb67380548da5b3e5b7916f16f39
+checksum_sha1: dbd5eaa9eb5a4910cff5ccd42b570f866f581da4
+copyright: Copyright (c) Alex Hall <alex.mojaki@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Safely evaluate AST nodes without side effects
+download_url: https://files.pythonhosted.org/packages/2b/27/77f9d5684e6bce929f5cfe18d6cfbe5133013c06cb2fbf5933670e60761d/pure_eval-0.2.2-py3-none-any.whl
+holder: Alex Hall
+holder_contact: alex.mojaki@gmail.com
+homepage_url: http://github.com/alexmojaki/pure_eval
+license_expression: mit
+name: pure-eval
+package_url: pkg:pypi/pure-eval@0.2.2
+primary_language: Python
+type: pypi
+version: 0.2.2

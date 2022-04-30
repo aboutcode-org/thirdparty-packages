@@ -1,0 +1,19 @@
+about_resource: bumpver-2022.1116-py2.py3-none-any.whl
+checksum_md5: 7109ce6e176386c06b29d7a25eb4308b
+checksum_sha1: 409647c1cb83b0d4910858e2394053d7a18f4ceb
+copyright: Copyright (c) Manuel Barkhau <mbarkhau@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Bump version numbers in project files.
+download_url: https://files.pythonhosted.org/packages/1b/91/86f16ae9cdcf8224c3fea2fb00b6bf3e3d229e53f9b02f216a56718dd7c0/bumpver-2022.1116-py2.py3-none-any.whl
+holder: Manuel Barkhau
+holder_contact: mbarkhau@gmail.com
+homepage_url: https://github.com/mbarkhau/bumpver
+keywords: version bumpver calver semver versioning bumpversion pep440
+license_expression: mit
+name: bumpver
+package_url: pkg:pypi/bumpver@2022.1116
+primary_language: Python
+type: pypi
+version: '2022.1116'

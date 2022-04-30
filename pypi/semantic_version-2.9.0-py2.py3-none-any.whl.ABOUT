@@ -1,0 +1,14 @@
+about_resource: semantic_version-2.9.0-py2.py3-none-any.whl
+checksum_md5: 987741cee0c76380f102e50a8ce242d1
+checksum_sha1: ddcc5d9d5fc4e8c52df91bba2a4e8c57e84b8cc3
+copyright: Copyright (c) The python-semanticversion project
+description: A library implementing the 'SemVer' scheme.
+download_url: https://files.pythonhosted.org/packages/64/ac/df31047966c4d0293e7bd16276ebc9f6654de36ad8e19061a09369380c0a/semantic_version-2.9.0-py2.py3-none-any.whl
+homepage_url: https://github.com/rbarrois/python-semanticversion
+keywords: semantic version,versioning,version
+license_expression: bsd-simplified
+name: semantic-version
+package_url: pkg:pypi/semantic-version@2.9.0
+primary_language: Python
+type: pypi
+version: 2.9.0

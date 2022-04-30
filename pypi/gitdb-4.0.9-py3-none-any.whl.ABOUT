@@ -1,0 +1,15 @@
+about_resource: gitdb-4.0.9-py3-none-any.whl
+checksum_md5: 7b57fa330f1d2b6fec49da42f91b4fc9
+checksum_sha1: 2e7e0d72ef20646a60d88e37d351b672ca98ab5e
+copyright: Copyright (C) Sebastian Thiel and contributors
+description: Git Object Database
+download_url: https://files.pythonhosted.org/packages/a3/7c/5d747655049bfbf75b5fcec57c8115896cb78d6fafa84f6d3ef4c0f13a98/gitdb-4.0.9-py3-none-any.whl
+holder: Sebastian Thiel
+holder_contact: byronimo@gmail.com
+homepage_url: https://github.com/gitpython-developers/gitdb
+license_expression: bsd-new
+name: gitdb
+package_url: pkg:pypi/gitdb@4.0.9
+primary_language: Python
+type: pypi
+version: 4.0.9

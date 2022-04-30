@@ -1,0 +1,18 @@
+about_resource: djangorestframework-3.13.1.tar.gz
+attribute: yes
+checksum_md5: afe9d38e4ff60164b1933c7fec1e77a9
+checksum_sha1: 61dfe1ed3cbb63005bf97082c2d237496148c10b
+copyright: Copyright (c) 2011-2016, Tom Christie
+description: Web APIs for Django.
+download_url: https://files.pythonhosted.org/packages/7e/40/efa7f7b2448194b1065572f34d3e6cadb478c67af62f6893957376d8a9be/djangorestframework-3.13.1.tar.gz
+homepage_url: http://www.django-rest-framework.org/
+license_expression: bsd-simplified
+name: djangorestframework
+notice_file: djangorestframework-3.13.1.tar.gz.NOTICE
+notice_url: https://github.com/encode/django-rest-framework/blob/master/LICENSE.md
+owner: Tom Christie
+owner_url: https://github.com/tomchristie
+package_url: pkg:pypi/djangorestframework@3.13.1
+primary_language: Python
+type: pypi
+version: 3.13.1
