@@ -1,0 +1,18 @@
+about_resource: restructuredtext_lint-1.4.0-py3-none-any.whl
+checksum_md5: 4f4534e0a83f8509a6bc64d4b2e8a19d
+checksum_sha1: b2befc0a8a19a039444213f1f19f247a195dfd8c
+copyright: Copyright (c) Todd Wolfson <todd@twolfson.com>
+declared_license:
+  - UNLICENSE
+  - 'License :: Public Domain'
+description: reStructuredText linter
+holder: Todd Wolfson
+holder_contact: todd@twolfson.com
+homepage_url: https://github.com/twolfson/restructuredtext-lint
+keywords: restructuredtext,restructured text,rest,rst,lint
+license_expression: unlicense AND public-domain
+name: restructuredtext-lint
+package_url: pkg:pypi/restructuredtext-lint@1.4.0
+primary_language: Python
+type: pypi
+version: 1.4.0
