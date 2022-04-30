@@ -1,0 +1,16 @@
+about_resource: Django-4.0.4-py3-none-any.whl
+attribute: yes
+checksum_md5: 7f80b2bc7114e4fe7006e3574b1f30e5
+checksum_sha1: c67fa9749da7c7497b663c70d34eba07bcaa2663
+copyright: Copyright (c) Django Software Foundation and individual contributors.
+description: |
+  Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+  Developed by a fast-moving online-news operation, Django was designed to handle two challenges: the intensive deadlines of a newsroom and the stringent requirements of the experienced Web developers who wrote it. It lets you build high-performing, elegant Web applications quickly.
+download_url: https://files.pythonhosted.org/packages/66/90/bce00eb942fbc47b0774ac78910ee4e6f719572aad56dc238823e5d0ee54/Django-4.0.4-py3-none-any.whl
+homepage_url: https://www.djangoproject.com/
+license_expression: bsd-new
+name: Django
+package_url: pkg:pypi/django@4.0.4
+primary_language: Python
+type: pypi
+version: 4.0.4
