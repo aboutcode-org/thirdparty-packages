@@ -1,0 +1,21 @@
+about_resource: selenium-4.1.5-py3-none-any.whl
+attribute: yes
+checksum_md5: a2878c4245e3742ab692f5b6955f8530
+checksum_sha1: 6f05a9779e0c907d6c8ff0606af907a6542574e2
+contact: http://docs.seleniumhq.org/support/
+copyright: Copyright 2008-2017 (c) Selenium Project contributors
+description: Selenium automates browsers. Primarily, it is for automating web applications for
+  testing purposes, but is certainly not limited to just that.
+download_url: https://files.pythonhosted.org/packages/76/92/f7582b8f28e3e716ccc496ed1ae105851c9611d1f8ba3b692e6ce3b88978/selenium-4.1.5-py3-none-any.whl
+homepage_url: http://docs.seleniumhq.org/
+license_expression: apache-2.0
+name: selenium
+notice_file: selenium-4.1.5-py3-none-any.whl.NOTICE
+notice_url: https://github.com/SeleniumHQ/selenium/blob/master/README.md
+owner: Selenium HQ
+owner_url: http://docs.seleniumhq.org/
+package_url: pkg:pypi/selenium@4.1.5
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 4.1.5

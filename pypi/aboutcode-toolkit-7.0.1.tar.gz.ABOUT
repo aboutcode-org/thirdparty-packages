@@ -1,0 +1,13 @@
+about_resource: aboutcode-toolkit-7.0.1.tar.gz
+attribute: yes
+checksum_md5: bc18102785306723576b0fc76bf34e7d
+checksum_sha1: 92d98b4cfae51f2017632b5ed2c53f65d847a6ed
+copyright: Copyright (c) nexB Inc and others
+download_url: https://files.pythonhosted.org/packages/8c/97/4906fda5d83d07cc46a082979baaee8343075893da801b0339db2cd26492/aboutcode-toolkit-7.0.1.tar.gz
+license_expression: apache-2.0
+name: aboutcode-toolkit
+package_url: pkg:pypi/aboutcode-toolkit@7.0.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 7.0.1

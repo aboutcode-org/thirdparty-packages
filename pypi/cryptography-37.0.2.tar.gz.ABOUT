@@ -1,0 +1,15 @@
+about_resource: cryptography-37.0.2.tar.gz
+checksum_md5: 7477bd10af69e78aed4c83accd401416
+checksum_sha1: cd63ec2ed0e7598617377126980a20e43498fced
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/51/05/bb2b681f6a77276fc423d04187c39dafdb65b799c8d87b62ca82659f9ead/cryptography-37.0.2.tar.gz
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-37.0.2.tar.gz.NOTICE
+package_url: pkg:pypi/cryptography@37.0.2
+primary_language: Python
+type: pypi
+version: 37.0.2

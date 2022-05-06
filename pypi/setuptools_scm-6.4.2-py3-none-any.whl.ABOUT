@@ -1,0 +1,15 @@
+about_resource: setuptools_scm-6.4.2-py3-none-any.whl
+checksum_md5: a403db06fd9620799554af56c40c3f6d
+checksum_sha1: 70c1f81a5f7c721c5d5159b67e8394870e312c30
+copyright: copyright (c) Ronny Pfannschmidt
+description: the blessed package to manage your versions by scm tags
+download_url: https://files.pythonhosted.org/packages/e3/e5/c28b544051340e63e0d507eb893c9513d3a300e5e9183e2990518acbfe36/setuptools_scm-6.4.2-py3-none-any.whl
+holder: Ronny Pfannschmidt
+holder_contact: opensource@ronnypfannschmidt.de
+homepage_url: https://github.com/pypa/setuptools_scm/
+license_expression: mit
+name: setuptools-scm
+package_url: pkg:pypi/setuptools-scm@6.4.2
+primary_language: Python
+type: pypi
+version: 6.4.2

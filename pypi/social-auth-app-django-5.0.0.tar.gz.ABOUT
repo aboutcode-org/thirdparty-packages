@@ -1,0 +1,22 @@
+about_resource: social-auth-app-django-5.0.0.tar.gz
+attribute: yes
+checksum_md5: 3bd92965a960d938e7c69ed0c29cbe41
+checksum_sha1: c0cc74b16342cc2921e0c8f79fad1623eb977e4e
+contact: matiasaguirre@gmail.com
+copyright: Copyright (c) 2012-2015, Matias Aguirre
+description: Python Social Auth is an easy to setup social authentication/registration mechanism
+  with support for several frameworks and auth providers. This is the Django component of the
+  python-social-auth ecosystem, it implements the needed functionality to integrate social-auth-core
+  in a Django based project.
+download_url: https://files.pythonhosted.org/packages/27/3f/3bf9e031e43874def4f8bf3576c8b27e314aef493425741c35786fb9f07f/social-auth-app-django-5.0.0.tar.gz
+homepage_url: https://github.com/python-social-auth/social-app-django
+license_expression: bsd-new
+name: social-auth-app-django
+notice_file: social-auth-app-django-5.0.0.tar.gz.NOTICE
+notice_url: https://github.com/python-social-auth/social-app-django/blob/master/LICENSE
+owner: Matias Aguirre
+owner_url: https://github.com/omab
+package_url: pkg:pypi/social-auth-app-django@5.0.0
+primary_language: Python
+type: pypi
+version: 5.0.0

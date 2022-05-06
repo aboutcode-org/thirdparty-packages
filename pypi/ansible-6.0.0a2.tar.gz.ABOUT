@@ -1,0 +1,18 @@
+about_resource: ansible-6.0.0a2.tar.gz
+checksum_md5: e25b78459acb51f154f3ad9dcae9ae9a
+checksum_sha1: 5bd4986f6362361499c65c2a439d4b4e4d0d5cf3
+copyright: Copyright (c) Ansible, Inc. <info@ansible.com>
+declared_license:
+  - GPLv3+
+  - 'License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)'
+description: Radically simple IT automation
+download_url: https://files.pythonhosted.org/packages/66/bb/2d3cef5cb5038d387981957f7280bd9b4e1214415c50a686000f9fa259a5/ansible-6.0.0a2.tar.gz
+holder: Ansible, Inc.
+holder_contact: info@ansible.com
+homepage_url: https://ansible.com/
+license_expression: gpl-3.0-plus
+name: ansible
+package_url: pkg:pypi/ansible@6.0.0a2
+primary_language: Python
+type: pypi
+version: 6.0.0a2

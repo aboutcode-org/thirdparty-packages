@@ -1,0 +1,13 @@
+about_resource: readme_renderer-35.0-py3-none-any.whl
+checksum_md5: 1ad3a03eae0e609dda009cedfbe4fcb6
+checksum_sha1: 14c98304c9e45b38014fe50035d8a3b827002500
+copyright: copyright (c) The Python Packaging Authority
+description: readme_renderer is a library for rendering "readme" descriptions for Warehouse
+download_url: https://files.pythonhosted.org/packages/b0/c3/63b1bb5f406a7b223c254a5b34079f205b4f4b365143620fbc1415c98367/readme_renderer-35.0-py3-none-any.whl
+homepage_url: https://github.com/pypa/readme_renderer
+license_expression: apache-2.0
+name: readme-renderer
+package_url: pkg:pypi/readme-renderer@35.0
+primary_language: Python
+type: pypi
+version: '35.0'

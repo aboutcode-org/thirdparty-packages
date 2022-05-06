@@ -1,0 +1,17 @@
+about_resource: pytest-7.1.2-py3-none-any.whl
+attribute: yes
+checksum_md5: 6f5a9e12007a2529cb00d3b5a8af33a1
+checksum_sha1: c5b8af1703a2dca97d662b4c46ee849bb45bd715
+contact: pytest-dev@python.org
+copyright: Copyright (c) Holger Krekel and others
+description: 'pytest: simple powerful testing with Python'
+download_url: https://files.pythonhosted.org/packages/fb/d0/bae533985f2338c5d02184b4a7083b819f6b3fc101da792e0d96e6e5299d/pytest-7.1.2-py3-none-any.whl
+homepage_url: http://pytest.org
+license_expression: mit
+name: pytest
+owner: pytest-dev
+owner_url: https://github.com/pytest-dev
+package_url: pkg:pypi/pytest@7.1.2
+primary_language: Python
+type: pypi
+version: 7.1.2

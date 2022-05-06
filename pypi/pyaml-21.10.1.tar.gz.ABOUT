@@ -1,0 +1,15 @@
+about_resource: pyaml-21.10.1.tar.gz
+checksum_md5: a915f577f6fc62344fa4775b22db9052
+checksum_sha1: 8e65370e68b407dd1a07fc93a64e2be6ac57fd5a
+copyright: Copyright (C) 2012 Mike Kazantsev <mk.fraggod@gmail.com>
+description: PyYAML-based module to produce pretty and readable YAML-serialized data
+download_url: https://files.pythonhosted.org/packages/b6/f0/dbb524509ce28f5cfd4e1d9e3ef955f51186cfd1b8297f6e158778c4a8ef/pyaml-21.10.1.tar.gz
+homepage_url: https://github.com/mk-fg/pretty-yaml
+license_expression: wtfpl-2.0
+name: pyaml
+notice_file: pyaml-21.10.1.tar.gz.NOTICE
+owner: Mike Kazantsev
+package_url: pkg:pypi/pyaml@21.10.1
+primary_language: Python
+type: pypi
+version: 21.10.1

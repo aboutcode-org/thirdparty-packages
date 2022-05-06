@@ -1,0 +1,13 @@
+about_resource: typed_ast-1.5.3-cp36-cp36m-macosx_10_9_x86_64.whl
+checksum_md5: 077a059eeba97d38549b78848ada2592
+checksum_sha1: 46e57f663aa43485abbb3cdb33f6be915d5bd924
+copyright: Copyright (c) David Fisher
+description: a fork of Python 2 and 3 ast modules with type comment support
+download_url: https://files.pythonhosted.org/packages/02/23/f98ce95b2d6b8aa9ce0082aa062403364f53ce7e13ca51a35d06e93f3d9e/typed_ast-1.5.3-cp36-cp36m-macosx_10_9_x86_64.whl
+homepage_url: https://github.com/python/typed_ast
+license_expression: apache-2.0
+name: typed-ast
+package_url: pkg:pypi/typed-ast@1.5.3
+primary_language: Python
+type: pypi
+version: 1.5.3

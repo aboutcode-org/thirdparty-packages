@@ -1,0 +1,12 @@
+about_resource: django-otp-1.1.3.tar.gz
+attribute: yes
+checksum_md5: 5867b574be787518d9dba164bdcf43d8
+checksum_sha1: 60dfa9023d79616d7c80f3825c66539aed002e43
+copyright: Copyright (c) Peter Sagerson
+download_url: https://files.pythonhosted.org/packages/b7/16/774bcfca894416f9f34867b75e60f7282830db140b109916061f77a9c611/django-otp-1.1.3.tar.gz
+license_expression: bsd-simplified
+name: django-otp
+package_url: pkg:pypi/django-otp@1.1.3
+primary_language: Python
+type: pypi
+version: 1.1.3

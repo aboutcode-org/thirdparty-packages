@@ -1,0 +1,16 @@
+about_resource: docker-compose-1.1.0-rc2.tar.gz
+checksum_md5: e1652ac3ac1adcd5b25ac8d77888778b
+checksum_sha1: e65c77abdf07467faccdc9e544915187954acb6d
+copyright: Copyright (c) Docker, Inc. <UNKNOWN>
+declared_license:
+  - Apache License 2.0
+description: Multi-container orchestration for Docker
+holder: Docker, Inc.
+holder_contact: UNKNOWN
+homepage_url: https://www.docker.com/
+license_expression: apache-2.0
+name: docker-compose-1.1.0
+package_url: pkg:pypi/docker-compose-1.1.0@rc2
+primary_language: Python
+type: pypi
+version: rc2

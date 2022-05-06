@@ -1,0 +1,13 @@
+about_resource: regex-2022.4.24-cp38-cp38-win_amd64.whl
+checksum_md5: 4e67f6724c350b4328221481d2702863
+checksum_sha1: 387bd13335726245b62732f387ecae4ada36a530
+copyright: copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+description: Alternative regular expression module, to replace re.
+download_url: https://files.pythonhosted.org/packages/23/69/2e70261ee0784da619d164346c9e78b480b9709440182272920cbdf8aa20/regex-2022.4.24-cp38-cp38-win_amd64.whl
+homepage_url: https://bitbucket.org/mrabarnett/mrab-regex
+license_expression: apache-2.0 AND python
+name: regex
+package_url: pkg:pypi/regex@2022.4.24
+primary_language: Python
+type: pypi
+version: 2022.4.24

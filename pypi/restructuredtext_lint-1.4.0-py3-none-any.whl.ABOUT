@@ -6,6 +6,7 @@ declared_license:
   - UNLICENSE
   - 'License :: Public Domain'
 description: reStructuredText linter
+download_url: https://thirdparty.aboutcode.org/pypi/restructuredtext_lint-1.4.0-py3-none-any.whl
 holder: Todd Wolfson
 holder_contact: todd@twolfson.com
 homepage_url: https://github.com/twolfson/restructuredtext-lint

@@ -1,0 +1,17 @@
+about_resource: regex-2013-12-31.tar.gz
+checksum_md5: 1d8311d0df721174bec826cf7d6596d8
+checksum_sha1: 9b2b7d981f9269b7457cd8a82f86de42ae7e579e
+copyright: Copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+declared_license:
+  - Python Software Foundation License
+  - 'License :: OSI Approved :: Python Software Foundation License'
+description: Alternative regular expression module, to replace re.
+holder: Matthew Barnett
+holder_contact: regex@mrabarnett.plus.com
+homepage_url: https://code.google.com/p/mrab-regex-hg/
+license_expression: python
+name: regex-2013-12
+package_url: pkg:pypi/regex-2013-12@31
+primary_language: Python
+type: pypi
+version: 31

@@ -1,0 +1,16 @@
+about_resource: python-debian-0.1.21-nmu2.tar.gz
+checksum_md5: 09c0b6ce10bf473c54fff9e6c62fe1d6
+checksum_sha1: cc7f17a50ac2c08fa46759ab657711e0f0388be5
+copyright: Copyright (c) Debian python-debian Maintainers <pkg-python-debian-maint@lists.alioth.debian.org>
+declared_license:
+  - UNKNOWN
+description: Debian package related modules
+holder: Debian python-debian Maintainers
+holder_contact: pkg-python-debian-maint@lists.alioth.debian.org
+homepage_url: http://packages.debian.org/sid/python-debian
+license_expression: unknown
+name: python-debian-0.1.21
+package_url: pkg:pypi/python-debian-0.1.21@nmu2
+primary_language: Python
+type: pypi
+version: nmu2

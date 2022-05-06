@@ -1,0 +1,18 @@
+about_resource: django-debug-toolbar-3.4.0.tar.gz
+attribute: yes
+checksum_md5: cb92e719e680d8a4da52743deb15fa08
+checksum_sha1: 6762b03a5abe96021f126231bb32fa078280ddb8
+copyright: Copyright (c) Rob Hudson and individual contributors.
+description: A configurable set of panels that display various debug information about the current
+  request/response.
+download_url: https://files.pythonhosted.org/packages/71/02/c0f4327583f15cb0ffb9b4a87faf21fb54cbd29ec16dbb84050a211c5db9/django-debug-toolbar-3.4.0.tar.gz
+homepage_url: https://github.com/jazzband/django-debug-toolbar
+license_expression: bsd-new
+name: django-debug-toolbar
+notice_file: django-debug-toolbar-3.4.0.tar.gz.NOTICE
+owner: Django Debug Toolbar authors
+owner_url: https://github.com/django-debug-toolbar
+package_url: pkg:pypi/django-debug-toolbar@3.4.0
+primary_language: Python
+type: pypi
+version: 3.4.0

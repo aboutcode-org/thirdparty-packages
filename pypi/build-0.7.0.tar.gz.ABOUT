@@ -1,0 +1,15 @@
+about_resource: build-0.7.0.tar.gz
+checksum_md5: ec3dbe55359ee735b45766b30dfad877
+checksum_sha1: 2386c3409d75e96afe0dfd7d772ef7b6fc125fad
+copyright: Copyright (c) Filipe Laíns <lains@riseup.net>
+description: A simple, correct PEP517 package builder
+download_url: https://files.pythonhosted.org/packages/f0/62/c73b775216bb1f34962beaf005f38460c6161177fef6e068a7a0c30a1597/build-0.7.0.tar.gz
+holder: Filipe Laíns
+holder_contact: lains@riseup.net
+homepage_url: https://github.com/pypa/build
+license_expression: mit
+name: build
+package_url: pkg:pypi/build@0.7.0
+primary_language: Python
+type: pypi
+version: 0.7.0

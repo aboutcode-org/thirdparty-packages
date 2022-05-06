@@ -1,0 +1,17 @@
+about_resource: pip-22.1b1-py3-none-any.whl
+attribute: yes
+checksum_md5: 4ca52f69bcbe51c5b8b90261d3fba5bb
+checksum_sha1: c643b56e95f0029e9b74774c40046bb146d896ed
+copyright: Copyright (c) The Python Software Foundation and the pip authors
+description: A tool for installing and managing Python packages.
+download_url: https://files.pythonhosted.org/packages/79/3a/d341ae105c8b49eac912bee40739d496ae80f9441efa7df6c68f4997bbc8/pip-22.1b1-py3-none-any.whl
+homepage_url: https://pip.pypa.io
+license_expression: mit AND lgpl-2.1-plus AND python AND mit AND bsd-new AND (bsd-new OR apache-2.0)
+  AND apache-2.0 AND isc
+name: pip
+package_url: pkg:pypi/pip@22.1b1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 22.1b1

@@ -1,0 +1,17 @@
+about_resource: GitPython-0.3.1-beta2.tar.gz
+checksum_md5: 2ea70952acd8df0eaf0630b2c489f315
+checksum_sha1: cd4d4811b268c3bd40ec972043c96a6631c23b1d
+copyright: Copyright (c) Sebastian Thiel, Michael Trier <byronimo@gmail.com, mtrier@gmail.com>
+declared_license:
+  - BSD License
+  - 'License :: OSI Approved :: BSD License'
+description: Python Git Library
+holder: Sebastian Thiel, Michael Trier
+holder_contact: byronimo@gmail.com, mtrier@gmail.com
+homepage_url: http://gitorious.org/projects/git-python/
+license_expression: bsd-new
+name: GitPython-0.3.1
+package_url: pkg:pypi/gitpython-0.3.1@beta2
+primary_language: Python
+type: pypi
+version: beta2

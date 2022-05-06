@@ -1,0 +1,16 @@
+about_resource: aiohttp-4.0.0a1-cp36-cp36m-manylinux1_x86_64.whl
+checksum_md5: 00f51dbef707105f9c604e50ed5ae33b
+checksum_sha1: a100122c60a56446651e6a013cc9e36ce1ba6192
+copyright: Copyright (c) None <None>
+declared_license:
+  - Apache 2
+  - 'License :: OSI Approved :: Apache Software License'
+description: Async http client/server framework (asyncio)
+download_url: https://files.pythonhosted.org/packages/cb/58/adf4457076102c02060eed24d46abc549b3a37b5268000d6d018fe6baaf2/aiohttp-4.0.0a1-cp36-cp36m-manylinux1_x86_64.whl
+homepage_url: https://github.com/aio-libs/aiohttp
+license_expression: apache-2.0
+name: aiohttp
+package_url: pkg:pypi/aiohttp@4.0.0a1
+primary_language: Python
+type: pypi
+version: 4.0.0a1

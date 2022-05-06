@@ -1,0 +1,18 @@
+about_resource: django-grappelli-3.0.3.tar.gz
+attribute: yes
+checksum_md5: b88d72c684e17c8081b8f47044721543
+checksum_sha1: deaba539a098cfdeb08d2bbf3c781c6e19b79b1f
+copyright: Copyright (c) Patrick Kranzlmueller, Axel Swoboda
+description: A jazzy skin for the Django Admin-Interface
+download_url: https://files.pythonhosted.org/packages/41/41/1ec4175b53e5123275f0ac9f828a7b4af836920e9036e4f10510209f478d/django-grappelli-3.0.3.tar.gz
+homepage_url: http://grappelliproject.com/
+license_expression: bsd-new AND mit
+name: django-grappelli
+notice_file: django-grappelli-3.0.3.tar.gz.NOTICE
+notice_url: https://github.com/sehmaschine/django-grappelli/blob/master/LICENSE
+owner: django-grappelli Project
+package_url: pkg:pypi/django-grappelli@3.0.3
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/sehmaschine/django-grappelli
+version: 3.0.3

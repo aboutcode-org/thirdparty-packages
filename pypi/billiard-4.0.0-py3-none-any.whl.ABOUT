@@ -1,0 +1,18 @@
+about_resource: billiard-4.0.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 5aec191f12318464861212bb36e7e6b5
+checksum_sha1: 5d2d539c4df0b847c77d44d634f34107fc0e2020
+copyright: Copyright (c) 2006-2008, R Oudkerk and Contributors
+description: Multiprocessing Pool Extensions
+download_url: https://files.pythonhosted.org/packages/b6/ad/0d50fd2403fbd5a3203a465d916a853c887e31f2748fca86ba5bd801b0ef/billiard-4.0.0-py3-none-any.whl
+homepage_url: http://github.com/celery/billiard
+license_expression: bsd-new
+name: billiard
+notice_file: billiard-4.0.0-py3-none-any.whl.NOTICE
+notice_url: https://github.com/celery/billiard/blob/master/LICENSE.txt
+owner: Celery
+owner_url: http://celeryproject.org/
+package_url: pkg:pypi/billiard@4.0.0
+primary_language: Python
+type: pypi
+version: 4.0.0

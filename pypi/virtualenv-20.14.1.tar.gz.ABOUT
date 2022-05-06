@@ -1,0 +1,14 @@
+about_resource: virtualenv-20.14.1.tar.gz
+checksum_md5: 1f7ddaff06a58ee4508bed1f03a5ce1c
+checksum_sha1: 3c00a243652c2bdbf700828b2bca7733941e1453
+copyright: copyright (c) Bernat Gabor and others
+description: Virtual Python Environment builder
+download_url: https://files.pythonhosted.org/packages/5f/6c/d44c403a54ceb4ec5179d1a963c69887d30dc5b300529ce67c05b4f16212/virtualenv-20.14.1.tar.gz
+homepage_url: https://virtualenv.pypa.io/
+keywords: virtual,environments,isolated
+license_expression: mit
+name: virtualenv
+package_url: pkg:pypi/virtualenv@20.14.1
+primary_language: Python
+type: pypi
+version: 20.14.1

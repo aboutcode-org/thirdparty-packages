@@ -1,0 +1,13 @@
+about_resource: filelock-3.6.0-py3-none-any.whl
+checksum_md5: 12ac1a6c5008ee6077d64eda43c369b0
+checksum_sha1: d21c7c318969f661af9de1c67b203d2727c000c5
+copyright: Copyright (c) Benedikt Schmitt <benedikt@benediktschmitt.de>
+description: A platform independent file lock.
+download_url: https://files.pythonhosted.org/packages/cd/f1/ba7dee3de0e9d3b8634d6fbaa5d0d407a7da64620305d147298b683e5c36/filelock-3.6.0-py3-none-any.whl
+homepage_url: https://github.com/benediktschmitt/py-filelock
+license_expression: unlicense
+name: filelock
+package_url: pkg:pypi/filelock@3.6.0
+primary_language: Python
+type: pypi
+version: 3.6.0

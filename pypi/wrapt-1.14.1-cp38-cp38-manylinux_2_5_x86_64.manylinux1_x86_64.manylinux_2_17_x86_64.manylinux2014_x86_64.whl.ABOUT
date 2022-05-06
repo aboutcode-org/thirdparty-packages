@@ -1,0 +1,13 @@
+about_resource: wrapt-1.14.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+checksum_md5: cd2c89c9ecdac418ef36d2417d24d9af
+checksum_sha1: fa4393e513e2d67267637b8036f19930d93953a2
+copyright: Copyright Graham Dumpleton <Graham.Dumpleton@gmail.com>
+description: Module for decorators, wrappers and monkey patching.
+download_url: https://files.pythonhosted.org/packages/36/ee/944dc7e5462662270e8a379755bcc543fc8f09029866288060dc163ed5b4/wrapt-1.14.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+homepage_url: https://github.com/GrahamDumpleton/wrapt
+license_expression: bsd-simplified
+name: wrapt
+package_url: pkg:pypi/wrapt@1.14.1
+primary_language: Python
+type: pypi
+version: 1.14.1

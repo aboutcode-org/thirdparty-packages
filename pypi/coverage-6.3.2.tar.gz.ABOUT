@@ -1,0 +1,14 @@
+about_resource: coverage-6.3.2.tar.gz
+checksum_md5: c306f8112ca0192ee31ce09e806f90d0
+checksum_sha1: 85a721cd50eb5080aba31a07c11bbf4f5a3070a0
+copyright: Copyright (c) Ned Batchelder and others
+description: Code coverage measurement for Python
+download_url: https://files.pythonhosted.org/packages/74/fb/f481628033d42f6f6021af8a9a13d913707221e139567f39b09b337421b9/coverage-6.3.2.tar.gz
+homepage_url: https://coverage.readthedocs.io
+license_expression: apache-2.0
+name: coverage
+owner: Ned Batchelder and others
+package_url: pkg:pypi/coverage@6.3.2
+primary_language: Python
+type: pypi
+version: 6.3.2

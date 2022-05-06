@@ -1,0 +1,19 @@
+about_resource: univers-30.5.1.tar.gz
+checksum_md5: 0ad0e91b0183f733a974410372ea61bd
+checksum_sha1: '1994b46bd1a73b8b181efc4352a15c5bfc5e7688'
+copyright: Copyright (c) Shivam Sandbhor, nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0 AND BSD-3-Clause AND MIT
+description: A mostly universal library to parse and compare software package versions and version
+  ranges. A companion to Package URLs.
+download_url: https://files.pythonhosted.org/packages/f7/8d/4199fcc9389e0fa4b7da4808ea537441fc8b03eede7807ba0c1244683af8/univers-30.5.1.tar.gz
+holder: Shivam Sandbhor, nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/univers
+keywords: semver,utilities,version,release,version range,package URL,purl,arch,pacman,pypi,rpm,gentoo,ebuild,maven,debian,rubygems
+license_expression: apache-2.0 AND bsd-new AND mit
+name: univers
+package_url: pkg:pypi/univers@30.5.1
+primary_language: Python
+type: pypi
+version: 30.5.1

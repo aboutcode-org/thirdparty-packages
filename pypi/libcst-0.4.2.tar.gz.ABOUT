@@ -1,0 +1,14 @@
+about_resource: libcst-0.4.2.tar.gz
+checksum_md5: 8dee0482b16affa55cbf393fcf9a9986
+checksum_sha1: fab0eb4870dfae3565eae875b111b327356af36d
+copyright: copyright (c) Instagram
+description: A concrete syntax tree with AST-like properties for Python 3.5, 3.6, 3.7 and 3.8
+  programs.
+download_url: https://files.pythonhosted.org/packages/30/8e/720040c28c2ccb557094d8ddf7947fd61810a60c312be562feb2727b6558/libcst-0.4.2.tar.gz
+homepage_url: https://github.com/Instagram/LibCST
+license_expression: mit
+name: libcst
+package_url: pkg:pypi/libcst@0.4.2
+primary_language: Python
+type: pypi
+version: 0.4.2

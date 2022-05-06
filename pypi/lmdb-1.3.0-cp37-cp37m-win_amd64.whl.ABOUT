@@ -1,0 +1,13 @@
+about_resource: lmdb-1.3.0-cp37-cp37m-win_amd64.whl
+checksum_md5: 034e381a44c61b337244bec2e77d8152
+checksum_sha1: 453692678334982834686cb3242cdd55129d319a
+copyright: Copyright (c) David Wilson <None>
+description: Universal Python binding for the LMDB 'Lightning' Database
+download_url: https://files.pythonhosted.org/packages/50/e7/fb9f704d7db6fe10315ce22d173e2307565b62ee81df34079ca7f23d8b60/lmdb-1.3.0-cp37-cp37m-win_amd64.whl
+homepage_url: http://github.com/jnwatson/py-lmdb/
+license_expression: openldap-2.8
+name: lmdb
+package_url: pkg:pypi/lmdb@1.3.0
+primary_language: Python
+type: pypi
+version: 1.3.0

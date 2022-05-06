@@ -1,0 +1,17 @@
+about_resource: configparser-5.2.0.tar.gz
+attribute: yes
+checksum_md5: b91f5fe1d5aa8e4d3793597eaff0ea29
+checksum_sha1: a91ae0c36520141e568481c8d2fdf1939f261ee0
+copyright: Copyright (c) Jason R. Coombs
+description: Updated configparser from Python 3.7 for Python 2.6+.
+download_url: https://files.pythonhosted.org/packages/02/a8/5fae273a45a3e4e34ea560c99a4843fe2d9fc6fb691de064dc9c72c46e57/configparser-5.2.0.tar.gz
+homepage_url: https://github.com/jaraco/configparser/
+keywords: configparser ini parsing conf cfg configuration file
+license_expression: mit
+name: configparser
+owner: Jason R. Coombs
+package_url: pkg:pypi/configparser@5.2.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/jaraco/configparser/
+version: 5.2.0

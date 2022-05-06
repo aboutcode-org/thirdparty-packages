@@ -1,0 +1,18 @@
+about_resource: pyOpenSSL-22.0.0-py2.py3-none-any.whl
+checksum_md5: caea9a1556131d5109595c9293c85796
+checksum_sha1: 46d1e3287cf98655ccbb0bbf2e76a81e5d5093df
+copyright: Copyright (c) The pyOpenSSL developers <cryptography-dev@python.org>
+declared_license:
+  - Apache License, Version 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Python wrapper module around the OpenSSL library
+download_url: https://files.pythonhosted.org/packages/d5/9f/9c0e3288b85f907a008f9d31318b0e4de31b2f67724a8745e633741f609c/pyOpenSSL-22.0.0-py2.py3-none-any.whl
+holder: The pyOpenSSL developers
+holder_contact: cryptography-dev@python.org
+homepage_url: https://pyopenssl.org/
+license_expression: apache-2.0
+name: pyOpenSSL
+package_url: pkg:pypi/pyopenssl@22.0.0
+primary_language: Python
+type: pypi
+version: 22.0.0

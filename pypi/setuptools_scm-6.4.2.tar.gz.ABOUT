@@ -1,0 +1,15 @@
+about_resource: setuptools_scm-6.4.2.tar.gz
+checksum_md5: b4e02bf8e62ed49142ea7b42a68671d7
+checksum_sha1: 0f34eba670121f9c41939ca8d805687de359f71c
+copyright: copyright (c) Ronny Pfannschmidt
+description: the blessed package to manage your versions by scm tags
+download_url: https://files.pythonhosted.org/packages/4a/18/477d3d9eb2f88230ff2a41de9d8ffa3554b706352787d289f57f76bfba0b/setuptools_scm-6.4.2.tar.gz
+holder: Ronny Pfannschmidt
+holder_contact: opensource@ronnypfannschmidt.de
+homepage_url: https://github.com/pypa/setuptools_scm/
+license_expression: mit
+name: setuptools_scm
+package_url: pkg:pypi/setuptools-scm@6.4.2
+primary_language: Python
+type: pypi
+version: 6.4.2

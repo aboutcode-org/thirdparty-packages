@@ -1,0 +1,17 @@
+about_resource: django-model-utils-4.2.0.tar.gz
+attribute: yes
+checksum_md5: 4f9346aa1f5c61134be3e41d1dbc42a3
+checksum_sha1: 5806350ad3b3515e8d76da18efb04019c1aa89b4
+copyright: Copyright (c) 2009-2015, Carl Meyer and contributors
+description: Django model mixins and utilities.
+download_url: https://files.pythonhosted.org/packages/ad/ed/332f05ef701a8b116bb215185cc895cd1e9d1c7d1763ea7b7eab33d8b849/django-model-utils-4.2.0.tar.gz
+homepage_url: https://github.com/jazzband/django-model-utils
+license_expression: bsd-new
+name: django-model-utils
+notice_file: django-model-utils-4.2.0.tar.gz.NOTICE
+notice_url: https://github.com/jazzband/django-model-utils/blob/3.1.2/LICENSE.txt
+owner: Carl Meyer
+package_url: pkg:pypi/django-model-utils@4.2.0
+primary_language: Python
+type: pypi
+version: 4.2.0

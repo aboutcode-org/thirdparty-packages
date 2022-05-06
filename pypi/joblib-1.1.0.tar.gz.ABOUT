@@ -1,0 +1,13 @@
+about_resource: joblib-1.1.0.tar.gz
+checksum_md5: d8fb897e6cbb1359738ed7b1739be389
+checksum_sha1: 8a946befbd0400d9335ce0060f94e5ca2f1f33c3
+copyright: Copyright (c) The joblib developers.
+description: Lightweight pipelining with Python functions
+download_url: https://files.pythonhosted.org/packages/92/b9/9e3616e7e00c8165fb25175c53444533bdde05f3e974d45d9fcbbe451ee6/joblib-1.1.0.tar.gz
+homepage_url: https://joblib.readthedocs.io
+license_expression: bsd-new
+name: joblib
+package_url: pkg:pypi/joblib@1.1.0
+primary_language: Python
+type: pypi
+version: 1.1.0

@@ -1,0 +1,13 @@
+about_resource: regex-2022.4.24-cp39-cp39-win_amd64.whl
+checksum_md5: a66f4dec01399e5ebea42720d63eb398
+checksum_sha1: 9f6564f855f4a3d49574fd147ccc6781f856d012
+copyright: copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+description: Alternative regular expression module, to replace re.
+download_url: https://files.pythonhosted.org/packages/c5/a2/745f50dd436c08b4e59e868ea738e460935cf44f817edc60dad000a098ec/regex-2022.4.24-cp39-cp39-win_amd64.whl
+homepage_url: https://bitbucket.org/mrabarnett/mrab-regex
+license_expression: apache-2.0 AND python
+name: regex
+package_url: pkg:pypi/regex@2022.4.24
+primary_language: Python
+type: pypi
+version: 2022.4.24

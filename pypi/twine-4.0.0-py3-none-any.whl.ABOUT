@@ -1,0 +1,13 @@
+about_resource: twine-4.0.0-py3-none-any.whl
+checksum_md5: 57182c5972de167112882afac4a0f98f
+checksum_sha1: 98fc07102faf33af7212975a0d7d377b021f2218
+copyright: copyright (c) Donald Stufft and individual contributors
+description: Collection of utilities for publishing packages on PyPI
+download_url: https://files.pythonhosted.org/packages/43/73/ee90189836c095a664c03c13ef7a5d87e35c9cd5945346eba6394e288986/twine-4.0.0-py3-none-any.whl
+homepage_url: https://twine.readthedocs.io/
+license_expression: apache-2.0
+name: twine
+package_url: pkg:pypi/twine@4.0.0
+primary_language: Python
+type: pypi
+version: 4.0.0

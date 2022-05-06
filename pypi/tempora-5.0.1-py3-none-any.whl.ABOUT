@@ -1,0 +1,12 @@
+about_resource: tempora-5.0.1-py3-none-any.whl
+attribute: yes
+checksum_md5: 1b22a8dde4abb164d8356da393c03118
+checksum_sha1: e3720fd13ede29cbb7b2c696020bb1e3de823523
+copyright: Copyright Jason R. Coombs
+download_url: https://files.pythonhosted.org/packages/64/bb/cd6540c881d4ce0992050dd34d1c92463c22bb9787c89a37fffb22efa91e/tempora-5.0.1-py3-none-any.whl
+license_expression: mit
+name: tempora
+package_url: pkg:pypi/tempora@5.0.1
+primary_language: Python
+type: pypi
+version: 5.0.1

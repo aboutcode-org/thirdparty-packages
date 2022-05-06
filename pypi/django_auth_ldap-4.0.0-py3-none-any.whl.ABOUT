@@ -1,0 +1,12 @@
+about_resource: django_auth_ldap-4.0.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 5f51df930e03efc54b3832ef7c800b97
+checksum_sha1: 2635eb13ac633730597c305b02c95366b47984bb
+copyright: Copyright (c) Peter Sagerson
+download_url: https://files.pythonhosted.org/packages/b2/68/3577c0482eaa43ee1721fc7f77052baeaced94b94580f56857febaecd9ab/django_auth_ldap-4.0.0-py3-none-any.whl
+license_expression: bsd-simplified
+name: django-auth-ldap
+package_url: pkg:pypi/django-auth-ldap@4.0.0
+primary_language: Python
+type: pypi
+version: 4.0.0

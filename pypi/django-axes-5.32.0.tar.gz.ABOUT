@@ -1,0 +1,12 @@
+about_resource: django-axes-5.32.0.tar.gz
+attribute: yes
+checksum_md5: 9a068c4b086e6a6b1f29ac52c2d2a80b
+checksum_sha1: 8e277d835540aac1a77ff7ceef575491b3c1bf5a
+copyright: Copyright (c) Jazzband <security@jazzband.co>
+download_url: https://files.pythonhosted.org/packages/c1/66/7d50c0098eddcb5546967d7dd3e5e63f3386496795767c116e9381e6fff4/django-axes-5.32.0.tar.gz
+license_expression: mit
+name: django-axes
+package_url: pkg:pypi/django-axes@5.32.0
+primary_language: Python
+type: pypi
+version: 5.32.0

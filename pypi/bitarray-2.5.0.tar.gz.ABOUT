@@ -1,0 +1,19 @@
+about_resource: bitarray-2.5.0.tar.gz
+attribute: yes
+checksum_md5: 9f80f324cf478c5e0150c93923ce9af4
+checksum_sha1: 7620c1c8ba359227fbb81eb4eb5ef76d4d8b9f3b
+contact: ilanschnell@gmail.com
+copyright: Copyright (c) Ilan Schnell and others
+description: efficient arrays of booleans for Python
+download_url: https://files.pythonhosted.org/packages/66/3b/14b8c815be18397371fcafe1d981c4e8b470f6bf6052e284ddd9475f0d12/bitarray-2.5.0.tar.gz
+homepage_url: https://github.com/ilanschnell/bitarray
+license_expression: python
+name: bitarray
+notice_file: bitarray-2.5.0.tar.gz.NOTICE
+owner: Ilan Schnell
+owner_url: https://github.com/ilanschnell
+package_url: pkg:pypi/bitarray@2.5.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.5.0

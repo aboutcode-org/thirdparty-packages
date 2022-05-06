@@ -1,0 +1,11 @@
+about_resource: django_appconf-1.0.5-py3-none-any.whl
+checksum_md5: 083823d8fa230a7afd18f93b3ecb5498
+checksum_sha1: b996b9fc2bde89977403a7f582405b7ee7a1fb8f
+copyright: Copyright (c) Jannis Leidel and individual contributors.
+download_url: https://files.pythonhosted.org/packages/48/95/78c279b7861efd8b0282e9373d40ec7247664bf1246a6cdc9e59d281ceb0/django_appconf-1.0.5-py3-none-any.whl
+license_expression: bsd-new
+name: django-appconf
+package_url: pkg:pypi/django-appconf@1.0.5
+primary_language: Python
+type: pypi
+version: 1.0.5

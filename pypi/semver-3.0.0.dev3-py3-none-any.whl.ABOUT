@@ -1,0 +1,18 @@
+about_resource: semver-3.0.0.dev3-py3-none-any.whl
+checksum_md5: b658fd7a1aecbc641defcd2569d7a528
+checksum_sha1: 33cb8fe3bda8ea2fcb7c5bf914a5b5c3db421027
+copyright: Copyright (c) Kostiantyn Rybnikov <k-bx@k-bx.com>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: Python helper for Semantic Versioning (http://semver.org/)
+download_url: https://files.pythonhosted.org/packages/2a/4c/2ddd4ce43c977fceb6ede9b53552dd5e0a04b5c4abe9821b266f49842f46/semver-3.0.0.dev3-py3-none-any.whl
+holder: Kostiantyn Rybnikov
+holder_contact: k-bx@k-bx.com
+homepage_url: https://github.com/python-semver/python-semver
+license_expression: unknown AND bsd-new
+name: semver
+package_url: pkg:pypi/semver@3.0.0.dev3
+primary_language: Python
+type: pypi
+version: 3.0.0.dev3

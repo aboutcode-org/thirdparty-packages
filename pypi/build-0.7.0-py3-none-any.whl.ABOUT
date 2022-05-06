@@ -1,0 +1,15 @@
+about_resource: build-0.7.0-py3-none-any.whl
+checksum_md5: 9d61d00b5a8cf06a0f849faa474795b9
+checksum_sha1: 774c2c552e17dcc1edbfe81e2fc19fec46ce6b60
+copyright: Copyright (c) Filipe Laíns <lains@riseup.net>
+description: A simple, correct PEP517 package builder
+download_url: https://files.pythonhosted.org/packages/46/28/70768d6585162eb29df181aed4c1adb3081307ad46a892c390dab549dc13/build-0.7.0-py3-none-any.whl
+holder: Filipe Laíns
+holder_contact: lains@riseup.net
+homepage_url: https://github.com/pypa/build
+license_expression: mit
+name: build
+package_url: pkg:pypi/build@0.7.0
+primary_language: Python
+type: pypi
+version: 0.7.0

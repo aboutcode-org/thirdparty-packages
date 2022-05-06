@@ -1,0 +1,20 @@
+about_resource: invoke-1.7.0.tar.gz
+attribute: yes
+checksum_md5: ce65208e44be77accf359ad42e11e818
+checksum_sha1: 045ccbf85b9a8c6237c4bbac181490afc09eaa9b
+contact: jeff@bitprophet.org
+copyright: Copyright (c) 2017 Jeff Forcier
+description: Invoke is a Python (2.6+ and 3.3+) task execution tool & library, drawing inspiration
+  from various sources to arrive at a powerful & clean feature set.
+download_url: https://files.pythonhosted.org/packages/55/a2/763dc56e746ca013061b26c95868cb7f832c2a87dc27ed749641a734957f/invoke-1.7.0.tar.gz
+homepage_url: http://docs.pyinvoke.org/
+license_expression: bsd-simplified
+name: invoke
+notice_file: invoke-1.7.0.tar.gz.NOTICE
+notice_url: https://github.com/pyinvoke/invoke/blob/master/LICENSE
+owner: Jeffrey Forcier
+owner_url: https://github.com/bitprophet
+package_url: pkg:pypi/invoke@1.7.0
+primary_language: Python
+type: pypi
+version: 1.7.0

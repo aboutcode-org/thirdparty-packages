@@ -1,0 +1,17 @@
+about_resource: django_model_utils-4.2.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 54ba5c6ebc4941a72b7b80c465bb8210
+checksum_sha1: 443e4cfd7689a91173b43655f69efb723f4f22c0
+copyright: Copyright (c) 2009-2015, Carl Meyer and contributors
+description: Django model mixins and utilities.
+download_url: https://files.pythonhosted.org/packages/e6/3f/7a271acb127ef4743d0bc9df3554b9837afc4bf7995770652ce793fe0331/django_model_utils-4.2.0-py3-none-any.whl
+homepage_url: https://github.com/jazzband/django-model-utils
+license_expression: bsd-new
+name: django-model-utils
+notice_file: django_model_utils-4.2.0-py3-none-any.whl.NOTICE
+notice_url: https://github.com/jazzband/django-model-utils/blob/3.1.2/LICENSE.txt
+owner: Carl Meyer
+package_url: pkg:pypi/django-model-utils@4.2.0
+primary_language: Python
+type: pypi
+version: 4.2.0

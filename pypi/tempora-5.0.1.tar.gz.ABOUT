@@ -1,0 +1,12 @@
+about_resource: tempora-5.0.1.tar.gz
+attribute: yes
+checksum_md5: 262af38f81b97487d12d910bbd6e6420
+checksum_sha1: d56790697505cf886c1ba803b364136f1eecc78b
+copyright: Copyright Jason R. Coombs
+download_url: https://files.pythonhosted.org/packages/57/bf/f22c888ae5aec050ab013d1eadf90e0793741ea64dd205ae35f3281bc77f/tempora-5.0.1.tar.gz
+license_expression: mit
+name: tempora
+package_url: pkg:pypi/tempora@5.0.1
+primary_language: Python
+type: pypi
+version: 5.0.1

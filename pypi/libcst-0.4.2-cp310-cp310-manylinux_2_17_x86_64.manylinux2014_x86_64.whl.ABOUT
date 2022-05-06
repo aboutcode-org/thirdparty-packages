@@ -1,0 +1,14 @@
+about_resource: libcst-0.4.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+checksum_md5: 05acfc174eafd8d4af6c60d1247c728b
+checksum_sha1: d74a587b0901c262463bcec10f781ced3e139980
+copyright: copyright (c) Instagram
+description: A concrete syntax tree with AST-like properties for Python 3.5, 3.6, 3.7 and 3.8
+  programs.
+download_url: https://files.pythonhosted.org/packages/1b/7e/d4b8f5e8790ccec9a8491857e0e3ab19b81cfb9e71e9020ea92499a97076/libcst-0.4.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+homepage_url: https://github.com/Instagram/LibCST
+license_expression: mit
+name: libcst
+package_url: pkg:pypi/libcst@0.4.2
+primary_language: Python
+type: pypi
+version: 0.4.2

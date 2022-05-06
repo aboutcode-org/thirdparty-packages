@@ -1,0 +1,13 @@
+about_resource: lmdb-1.3.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+checksum_md5: 8b11595e989b294abb73cb9bd58fde6e
+checksum_sha1: 5196e376430353653c99165456e86aea4020a9a3
+copyright: Copyright (c) David Wilson <None>
+description: Universal Python binding for the LMDB 'Lightning' Database
+download_url: https://files.pythonhosted.org/packages/d0/5b/8147d8ab13bfa57c5175803fd8796479da27298b828c95aa1d05e4b60c20/lmdb-1.3.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+homepage_url: http://github.com/jnwatson/py-lmdb/
+license_expression: openldap-2.8
+name: lmdb
+package_url: pkg:pypi/lmdb@1.3.0
+primary_language: Python
+type: pypi
+version: 1.3.0

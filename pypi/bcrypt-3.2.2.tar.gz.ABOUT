@@ -1,0 +1,18 @@
+about_resource: bcrypt-3.2.2.tar.gz
+checksum_md5: 3978ac76158b6241d1c2ca140dac1b56
+checksum_sha1: 22405079ac8718adf078e06575c66dbabc8d5068
+copyright: Copyright (c) The Python Cryptographic Authority developers <cryptography-dev@python.org>
+declared_license:
+  - Apache License, Version 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Modern password hashing for your software and your servers
+download_url: https://files.pythonhosted.org/packages/e8/36/edc85ab295ceff724506252b774155eff8a238f13730c8b13badd33ef866/bcrypt-3.2.2.tar.gz
+holder: The Python Cryptographic Authority developers
+holder_contact: cryptography-dev@python.org
+homepage_url: https://github.com/pyca/bcrypt/
+license_expression: apache-2.0
+name: bcrypt
+package_url: pkg:pypi/bcrypt@3.2.2
+primary_language: Python
+type: pypi
+version: 3.2.2

@@ -1,0 +1,11 @@
+about_resource: django-appconf-1.0.5.tar.gz
+checksum_md5: 1e7e6588f8f3a9c0eee2faefe277dccb
+checksum_sha1: 363cec32791c52f96d78d10703d0d051cee8bf1e
+copyright: Copyright (c) Jannis Leidel and individual contributors.
+download_url: https://files.pythonhosted.org/packages/d6/dc/ab95f120aa249f215b1a7925a9062393c039481e1df77b4455e021ae6f67/django-appconf-1.0.5.tar.gz
+license_expression: bsd-new
+name: django-appconf
+package_url: pkg:pypi/django-appconf@1.0.5
+primary_language: Python
+type: pypi
+version: 1.0.5

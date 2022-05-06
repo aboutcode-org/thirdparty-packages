@@ -1,0 +1,19 @@
+about_resource: django_notifications_hq-1.7.0-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 9efc4acd9747f1e9a68f885c7bdb18fd
+checksum_sha1: 29f495feabced98e10fb678db85e83d34974ab8a
+contact: yang@yangyubo.com
+copyright: copyright (c) by django-notifications team
+description: GitHub notifications alike app for Django
+download_url: https://files.pythonhosted.org/packages/08/26/207075a81cd8b58191aeadf0a336d11a6c47cc0454e66ab1661d92835e96/django_notifications_hq-1.7.0-py2.py3-none-any.whl
+homepage_url: https://pypi.org/project/django-notifications-hq/
+license_expression: bsd-new
+name: django-notifications-hq
+notice_file: django_notifications_hq-1.7.0-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/django-notifications/django-notifications/blob/1.5.0/LICENSE.txt
+owner: Yang Yubo
+owner_url: https://github.com/yangyubo
+package_url: pkg:pypi/django-notifications-hq@1.7.0
+primary_language: Python
+type: pypi
+version: 1.7.0

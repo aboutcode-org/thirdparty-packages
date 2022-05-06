@@ -1,0 +1,18 @@
+about_resource: oauthlib-3.2.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 394d33047806a011d6dc11ced665485d
+checksum_sha1: 67037002fc6432c5eade26dae5206e28717513ae
+copyright: Copyright (c) 2011 Idan Gazit and contributors
+description: A generic, spec-compliant, thorough implementation of the OAuth request-signing
+  logic
+download_url: https://files.pythonhosted.org/packages/1d/46/5ee2475e1b46a26ca0fa10d3c1d479577fde6ee289f8c6aa6d7ec33e31fd/oauthlib-3.2.0-py3-none-any.whl
+homepage_url: https://github.com/idan/oauthlib
+license_expression: bsd-new
+name: oauthlib
+notice_file: oauthlib-3.2.0-py3-none-any.whl.NOTICE
+notice_url: https://raw.github.com/idan/oauthlib/master/LICENSE
+owner: Idan Gazit
+package_url: pkg:pypi/oauthlib@3.2.0
+primary_language: Python
+type: pypi
+version: 3.2.0

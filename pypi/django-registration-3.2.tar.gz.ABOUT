@@ -1,0 +1,18 @@
+about_resource: django-registration-3.2.tar.gz
+attribute: yes
+checksum_md5: 3575335d2c9e2d30763e8d2d835dde2d
+checksum_sha1: b4dc5b71b825cbd2531e4b9b1bfeea2f0eabf8fb
+copyright: Copyright (c) 2007-2016, James Bennett
+description: An extensible user-registration app for Django
+download_url: https://files.pythonhosted.org/packages/bb/2e/ba73c503763bbb01d200fd181304c7292573adab0ab24d31e1320d60ff00/django-registration-3.2.tar.gz
+homepage_url: https://github.com/ubernostrum/django-registration
+license_expression: bsd-new
+name: django-registration
+notice_file: django-registration-3.2.tar.gz.NOTICE
+notice_url: https://github.com/ubernostrum/django-registration/blob/master/LICENSE
+owner: James Bennett
+owner_url: https://github.com/ubernostrum
+package_url: pkg:pypi/django-registration@3.2
+primary_language: Python
+type: pypi
+version: '3.2'

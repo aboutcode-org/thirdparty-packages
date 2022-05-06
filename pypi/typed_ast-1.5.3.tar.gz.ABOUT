@@ -1,0 +1,13 @@
+about_resource: typed_ast-1.5.3.tar.gz
+checksum_md5: 840193792ab21e6952632a32a0e6974b
+checksum_sha1: e59192f5dd001d591cc3213ced64281a7062dea0
+copyright: Copyright (c) David Fisher
+description: a fork of Python 2 and 3 ast modules with type comment support
+download_url: https://files.pythonhosted.org/packages/cf/b4/c47a1dc4767a9c98f238b6ad7eb873747eaf640f965d5a4b3e5814bc0b72/typed_ast-1.5.3.tar.gz
+homepage_url: https://github.com/python/typed_ast
+license_expression: apache-2.0
+name: typed_ast
+package_url: pkg:pypi/typed-ast@1.5.3
+primary_language: Python
+type: pypi
+version: 1.5.3

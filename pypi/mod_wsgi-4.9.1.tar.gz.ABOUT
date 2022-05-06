@@ -1,0 +1,21 @@
+about_resource: mod_wsgi-4.9.1.tar.gz
+attribute: yes
+checksum_md5: fa7fbb57968a6a48075a89601ce19cb3
+checksum_sha1: 56e28ad244a0143c112e7b65be5c49c3556ca7f4
+contact: https://github.com/GrahamDumpleton
+copyright: Copyright 2007-2017, Graham Dumpleton.
+description: The mod_wsgi package implements a simple to use Apache module which can host any
+  Python web application which supports the Python WSGI specification.
+download_url: https://files.pythonhosted.org/packages/40/71/475be82aaec82b23a5ec25c82e6abc4d12b14f718ef40e9f071b4dd71707/mod_wsgi-4.9.1.tar.gz
+homepage_url: http://www.modwsgi.org/
+license_expression: apache-2.0
+name: mod_wsgi
+notice_file: mod_wsgi-4.9.1.tar.gz.NOTICE
+notice_url: https://github.com/GrahamDumpleton/mod_wsgi/blob/develop/LICENSE
+owner: Graham Dumpleton
+owner_url: http://blog.dscpl.com.au/
+package_url: pkg:pypi/mod-wsgi@4.9.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 4.9.1

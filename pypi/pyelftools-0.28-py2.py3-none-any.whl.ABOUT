@@ -1,0 +1,14 @@
+about_resource: pyelftools-0.28-py2.py3-none-any.whl
+checksum_md5: e8a14c4a78f5982d1c9af8a1130396a9
+checksum_sha1: cd462e48031fea0ed6065b738e99fba25ccb1ca5
+copyright: Eli Bendersky and others
+description: Library for analyzing ELF files and DWARF debugging information
+download_url: https://files.pythonhosted.org/packages/40/22/6706cc385a099bc5bcb0ea179c2c11863b62c79d37bd47fe464c16f9798d/pyelftools-0.28-py2.py3-none-any.whl
+homepage_url: https://github.com/eliben/pyelftools
+license_expression: unlicense AND public-domain AND mit
+name: pyelftools
+notice_file: pyelftools-0.28-py2.py3-none-any.whl.NOTICE
+package_url: pkg:pypi/pyelftools@0.28
+primary_language: Python
+type: pypi
+version: '0.28'

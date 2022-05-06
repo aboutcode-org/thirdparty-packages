@@ -1,0 +1,23 @@
+about_resource: celery-5.2.6.tar.gz
+attribute: yes
+checksum_md5: 22f7704806c7cf9eab757da363706b27
+checksum_sha1: 5939c4fe74659f0fbf29ffe755bfba6ea57c1cd3
+copyright: Copyright (c) 2015-2016 Ask Solem & contributors
+description: |
+  Celery: Distributed Task Queue
+
+  Celery is an asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well.
+
+  The execution units, called tasks, are executed concurrently on a single or more worker servers using multiprocessing, Eventlet, or gevent. Tasks can execute asynchronously (in the background) or synchronously (wait until ready).
+download_url: https://files.pythonhosted.org/packages/0f/cf/a021305ec5ae32a872d6cf25a5d6b0bf9bffa444470c88ae13253e41d41c/celery-5.2.6.tar.gz
+homepage_url: http://celeryproject.org/
+license_expression: bsd-new
+name: celery
+notice_file: celery-5.2.6.tar.gz.NOTICE
+notice_url: https://github.com/celery/celery/blob/master/LICENSE
+owner: Celery
+owner_url: http://celeryproject.org/
+package_url: pkg:pypi/celery@5.2.6
+primary_language: Python
+type: pypi
+version: 5.2.6

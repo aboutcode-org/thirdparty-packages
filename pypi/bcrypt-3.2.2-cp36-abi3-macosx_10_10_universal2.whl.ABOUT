@@ -1,0 +1,18 @@
+about_resource: bcrypt-3.2.2-cp36-abi3-macosx_10_10_universal2.whl
+checksum_md5: 17ac7d184b0d8fb6c25cd6a6d0a1ff2e
+checksum_sha1: cf7b8fccf8bb26fb6b017d7471cf3964cf80d70f
+copyright: Copyright (c) The Python Cryptographic Authority developers <cryptography-dev@python.org>
+declared_license:
+  - Apache License, Version 2.0
+  - 'License :: OSI Approved :: Apache Software License'
+description: Modern password hashing for your software and your servers
+download_url: https://files.pythonhosted.org/packages/a0/c2/05354b1d4351d2e686a32296cc9dd1e63f9909a580636df0f7b06d774600/bcrypt-3.2.2-cp36-abi3-macosx_10_10_universal2.whl
+holder: The Python Cryptographic Authority developers
+holder_contact: cryptography-dev@python.org
+homepage_url: https://github.com/pyca/bcrypt/
+license_expression: apache-2.0
+name: bcrypt
+package_url: pkg:pypi/bcrypt@3.2.2
+primary_language: Python
+type: pypi
+version: 3.2.2

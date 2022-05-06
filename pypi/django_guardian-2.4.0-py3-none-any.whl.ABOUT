@@ -1,0 +1,14 @@
+about_resource: django_guardian-2.4.0-py3-none-any.whl
+attribute: yes
+checksum_md5: dfe84f444671fd8769099fb6e7746a6a
+checksum_sha1: ea0c714588f900d1011bb2f0aa1fe0b5e6b40710
+copyright: Copyright (c) Lukasz Balcerzak <lukaszbalcerzak@gmail.com>
+description: Per object permissions for Django
+download_url: https://files.pythonhosted.org/packages/a2/25/869df12e544b51f583254aadbba6c1a95e11d2d08edeb9e58dd715112db5/django_guardian-2.4.0-py3-none-any.whl
+homepage_url: https://github.com/django-guardian/django-guardian
+license_expression: bsd-new AND mit AND bsd-simplified
+name: django-guardian
+package_url: pkg:pypi/django-guardian@2.4.0
+primary_language: Python
+type: pypi
+version: 2.4.0

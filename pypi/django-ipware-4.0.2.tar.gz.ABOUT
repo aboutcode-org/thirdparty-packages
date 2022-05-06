@@ -1,0 +1,12 @@
+about_resource: django-ipware-4.0.2.tar.gz
+attribute: yes
+checksum_md5: 48240909d94530c6de81cea4e5970200
+checksum_sha1: c36355ec76ac4a8aa89ff573194eb34b33c1b15b
+copyright: Copyright (c) Val Neekman Neekware Inc. http://neekware.com
+download_url: https://files.pythonhosted.org/packages/42/2e/a42b9a9554de99e17fc93f108c49d6627633989b4c95cfa8bee7db1294ee/django-ipware-4.0.2.tar.gz
+license_expression: mit
+name: django-ipware
+package_url: pkg:pypi/django-ipware@4.0.2
+primary_language: Python
+type: pypi
+version: 4.0.2

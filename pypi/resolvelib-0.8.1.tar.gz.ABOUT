@@ -1,0 +1,19 @@
+about_resource: resolvelib-0.8.1.tar.gz
+checksum_md5: fbd5fbcac181644333390ea6a71c4edc
+checksum_sha1: 55aabc58bd74df07c9239c55452557946559749f
+copyright: Copyright (c) Tzu-ping Chung <uranusjr@gmail.com>
+declared_license:
+  - ISC License
+  - 'License :: OSI Approved :: ISC License (ISCL)'
+description: Resolve abstract dependencies into concrete ones
+download_url: https://files.pythonhosted.org/packages/ac/20/9541749d77aebf66dd92e2b803f38a50e3a5c76e7876f45eb2b37e758d82/resolvelib-0.8.1.tar.gz
+holder: Tzu-ping Chung
+holder_contact: uranusjr@gmail.com
+homepage_url: https://github.com/sarugaku/resolvelib
+keywords: dependency,resolution
+license_expression: isc
+name: resolvelib
+package_url: pkg:pypi/resolvelib@0.8.1
+primary_language: Python
+type: pypi
+version: 0.8.1

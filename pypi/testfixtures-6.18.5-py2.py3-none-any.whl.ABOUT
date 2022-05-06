@@ -1,0 +1,18 @@
+about_resource: testfixtures-6.18.5-py2.py3-none-any.whl
+checksum_md5: 073b148c220a82e9716244e2a94d5599
+checksum_sha1: d6a1724b3bf663d24b353032fb4da7311f5d0364
+copyright: Copyright (c) Chris Withers <chris@simplistix.co.uk>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: A collection of helpers and mock objects for unit tests and doc tests.
+download_url: https://files.pythonhosted.org/packages/51/4a/0a7ecce32e82affce0ce7381955fa379779007033cd72e9bf3e50a0d31e8/testfixtures-6.18.5-py2.py3-none-any.whl
+holder: Chris Withers
+holder_contact: chris@simplistix.co.uk
+homepage_url: https://github.com/Simplistix/testfixtures
+license_expression: mit
+name: testfixtures
+package_url: pkg:pypi/testfixtures@6.18.5
+primary_language: Python
+type: pypi
+version: 6.18.5

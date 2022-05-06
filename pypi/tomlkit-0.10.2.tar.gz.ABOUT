@@ -1,0 +1,13 @@
+about_resource: tomlkit-0.10.2.tar.gz
+checksum_md5: 308140bc03dbf2d4e4092837163bf888
+checksum_sha1: e0c6eebfd2325efed8eb9f3887668b10a65f616a
+copyright: copyright (c) Sébastien Eustace <sebastien@eustace.io>
+description: Style preserving TOML library
+download_url: https://files.pythonhosted.org/packages/8b/95/c8826c61bd59c0d991fb1ca3d187d7fa803af13c1704be932e1071e041da/tomlkit-0.10.2.tar.gz
+homepage_url: https://github.com/sdispater/tomlkit
+license_expression: mit
+name: tomlkit
+package_url: pkg:pypi/tomlkit@0.10.2
+primary_language: Python
+type: pypi
+version: 0.10.2

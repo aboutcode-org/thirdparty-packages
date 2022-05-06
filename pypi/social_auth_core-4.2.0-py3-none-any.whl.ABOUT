@@ -1,0 +1,23 @@
+about_resource: social_auth_core-4.2.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 5fcd122be1c24568e1c1fdbb3a18626e
+checksum_sha1: 54cb0460eacd044a2267b1b2fd45dca277d6b328
+contact: matiasaguirre@gmail.com
+copyright: Copyright (c) 2012-2015, Matias Aguirre
+description: Python Social Auth is an easy to setup social authentication/registration mechanism
+  with support for several frameworks and auth providers. This is the core component of the
+  python-social-auth ecosystem, it implements the common interface to define new authentication
+  backends to third parties services, implement integrations with web frameworks and storage
+  solutions.
+download_url: https://files.pythonhosted.org/packages/37/8a/3b2aa731b3a79a926c47fe0071e6f2da8052813e6309d9852bc36df57e95/social_auth_core-4.2.0-py3-none-any.whl
+homepage_url: https://github.com/python-social-auth/social-core
+license_expression: bsd-new
+name: social-auth-core
+notice_file: social_auth_core-4.2.0-py3-none-any.whl.NOTICE
+notice_url: https://github.com/python-social-auth/social-core/blob/master/LICENSE
+owner: Matias Aguirre
+owner_url: https://github.com/omab
+package_url: pkg:pypi/social-auth-core@4.2.0
+primary_language: Python
+type: pypi
+version: 4.2.0

@@ -1,0 +1,18 @@
+about_resource: jsonschema-4.5.1.tar.gz
+checksum_md5: c3f7a29c187bf1d038c66a5d5763eab1
+checksum_sha1: 5f90a208235152dc4f0b8ae51ca2860c0771ff51
+copyright: Copyright (c) Julian Berman <Julian@GrayVines.com>
+declared_license:
+  - UNKNOWN
+  - 'License :: OSI Approved :: MIT License'
+description: An implementation of JSON Schema validation for Python
+download_url: https://files.pythonhosted.org/packages/9e/62/93a54db0e44c4de57868a7d638d7a8abce113c8bc43a20b10b1109b2a517/jsonschema-4.5.1.tar.gz
+holder: Julian Berman
+holder_contact: Julian@GrayVines.com
+homepage_url: https://github.com/Julian/jsonschema
+license_expression: unknown AND mit
+name: jsonschema
+package_url: pkg:pypi/jsonschema@4.5.1
+primary_language: Python
+type: pypi
+version: 4.5.1

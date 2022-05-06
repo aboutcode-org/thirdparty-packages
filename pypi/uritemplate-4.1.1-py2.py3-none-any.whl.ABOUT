@@ -1,0 +1,19 @@
+about_resource: uritemplate-4.1.1-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: a68f2279025a2610613efb2287eaf463
+checksum_sha1: d22020a5e0f0ae271165d69889c64214516f3af2
+copyright: Copyright (c) uritemplate contributors
+description: URI template parsing for Humans http://uritemplate.rtfd.org/
+download_url: https://files.pythonhosted.org/packages/81/c0/7461b49cd25aeece13766f02ee576d1db528f1c37ce69aee300e075b485b/uritemplate-4.1.1-py2.py3-none-any.whl
+homepage_url: https://uritemplate.readthedocs.io/
+license_expression: apache-2.0 OR bsd-new
+name: uritemplate
+notice_file: uritemplate-4.1.1-py2.py3-none-any.whl.NOTICE
+notice_url: https://github.com/python-hyper/uritemplate/blob/master/LICENSE
+owner: python-hyper
+owner_url: https://github.com/python-hyper
+package_url: pkg:pypi/uritemplate@4.1.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 4.1.1

@@ -1,0 +1,22 @@
+about_resource: nltk-3.7.zip
+attribute: yes
+checksum_md5: fbb8e6fce2d614b65bacfeb9880bcb44
+checksum_sha1: 68ea20b7ed065b972cbcb028b744946ebf4c06f7
+copyright: Copyright (c) NLTK contributors
+description: NLTK is a leading platform for building Python programs to work with human language
+  data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as
+  WordNet, along with a suite of text processing libraries for classification, tokenization,
+  stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries,
+  and an active discussion forum.
+download_url: https://files.pythonhosted.org/packages/b4/e0/840a250e5f85c480389c44d4058c7888b0c9f5f5333b353c77782a8a8e23/nltk-3.7.zip
+homepage_url: http://www.nltk.org/
+license_expression: apache-2.0
+name: nltk
+notice_file: nltk-3.7.zip.NOTICE
+notice_url: https://github.com/nltk/nltk/wiki/FAQ
+owner: nltk Project
+package_url: pkg:pypi/nltk@3.7
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '3.7'

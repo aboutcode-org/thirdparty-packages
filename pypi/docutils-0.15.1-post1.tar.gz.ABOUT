@@ -1,0 +1,21 @@
+about_resource: docutils-0.15.1-post1.tar.gz
+checksum_md5: 004956f65d604a569408271cd284dbee
+checksum_sha1: 1f23118f8518f8612349bc1b4c1834f47c0a428c
+copyright: Copyright (c) docutils-develop list <docutils-develop@lists.sourceforge.net>
+declared_license:
+  - public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)
+  - 'License :: Public Domain'
+  - 'License :: OSI Approved :: Python Software Foundation License'
+  - 'License :: OSI Approved :: BSD License'
+  - 'License :: OSI Approved :: GNU General Public License (GPL)'
+description: Docutils -- Python Documentation Utilities
+holder: docutils-develop list
+holder_contact: docutils-develop@lists.sourceforge.net
+homepage_url: http://docutils.sourceforge.net/
+license_expression: (public-domain AND python AND bsd-simplified AND gpl-3.0) AND public-domain
+  AND python AND bsd-new AND gpl-1.0-plus
+name: docutils-0.15.1
+package_url: pkg:pypi/docutils-0.15.1@post1
+primary_language: Python
+type: pypi
+version: post1
