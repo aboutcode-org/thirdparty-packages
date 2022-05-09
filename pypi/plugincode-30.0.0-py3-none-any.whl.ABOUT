@@ -1,0 +1,16 @@
+about_resource: plugincode-30.0.0-py3-none-any.whl
+checksum_md5: 944a7bd73c00dbfc757b6e96527ef028
+checksum_sha1: 9ef12663cbde44625ea8d2ff8640259db9765c04
+copyright: Copyright (c) nexB. Inc. and others
+description: plugincode is a library that provides plugin functionality for ScanCode toolkit.
+download_url: https://files.pythonhosted.org/packages/2e/7f/b14a8f1a41579fdb127fd39215839795bfbedd6cd3ca905f7ed614be3ca5/plugincode-30.0.0-py3-none-any.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/plugincode
+keywords: plugincode,scancode,scancode-toolkit
+license_expression: apache-2.0
+name: plugincode
+package_url: pkg:pypi/plugincode@30.0.0
+primary_language: Python
+type: pypi
+version: 30.0.0

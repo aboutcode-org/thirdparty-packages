@@ -1,0 +1,14 @@
+about_resource: container_inspector-31.0.0-py3-none-any.whl
+checksum_md5: d746d5de584d2fc2a5076f880bb68ed0
+checksum_sha1: e21d64a23488515e954cb782ad6dac14af16a93a
+copyright: copyright (c) nexB. Inc. and others
+description: Docker, containers, rootfs and virtual machinesrelated utilities.
+download_url: https://files.pythonhosted.org/packages/b8/90/5aaad937c721b89906298d4d384654de030854ea9956cce5bf94e835fc0e/container_inspector-31.0.0-py3-none-any.whl
+homepage_url: https://github.com/nexB/container-inspector
+keywords: utilities
+license_expression: apache-2.0
+name: container-inspector
+package_url: pkg:pypi/container-inspector@31.0.0
+primary_language: Python
+type: pypi
+version: 31.0.0
