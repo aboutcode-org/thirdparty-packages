@@ -1,0 +1,13 @@
+about_resource: regipy-2.3.1-py3-none-any.whl
+checksum_md5: bad91c9496826e5addc87d7ddae3e6a7
+checksum_sha1: 743d451b7cd1ab8faf32836a56e2fe7c6ec981fd
+copyright: Copyright (c) Martin G. Korman
+description: Python Registry Parser
+homepage_url: https://github.com/mkorman90/regipy/
+keywords: Python,Python3,registry,windows registry,registry parser
+license_expression: mit
+name: regipy
+package_url: pkg:pypi/regipy@2.3.1
+primary_language: Python
+type: pypi
+version: 2.3.1
