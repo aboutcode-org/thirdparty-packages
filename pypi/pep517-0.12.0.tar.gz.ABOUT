@@ -1,0 +1,18 @@
+about_resource: pep517-0.12.0.tar.gz
+checksum_md5: 7ed0adb5f737c316e071d48d66329a5d
+checksum_sha1: 1848668c715049e9bebbd55274908aef5a8e07c1
+copyright: Copyright (c) Thomas Kluyver <thomas@kluyver.me.uk>
+declared_license:
+  -
+  - 'License :: OSI Approved :: MIT License'
+description: Wrappers to build Python packages using PEP 517 hooks
+download_url: https://files.pythonhosted.org/packages/0a/65/6e656d49c679136edfba25f25791f45ffe1ea4ae2ec1c59fe9c35e061cd1/pep517-0.12.0.tar.gz
+holder: Thomas Kluyver
+holder_contact: thomas@kluyver.me.uk
+homepage_url: https://github.com/pypa/pep517
+license_expression: mit
+name: pep517
+package_url: pkg:pypi/pep517@0.12.0
+primary_language: Python
+type: pypi
+version: 0.12.0

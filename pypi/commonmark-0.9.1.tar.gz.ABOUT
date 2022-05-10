@@ -1,0 +1,20 @@
+about_resource: commonmark-0.9.1.tar.gz
+checksum_md5: cd1dc70c4714d9ed4117a40490c25e00
+checksum_sha1: ace69766c6d498f87cbee50d055bdf43e5b2cf5b
+copyright: Copyright (c) Bibek Kafle <bkafle662@gmail.com>, Roland Shoemaker <rolandshoemaker@gmail.com>
+  <rolandshoemaker@gmail.com>
+declared_license:
+  - BSD-3-Clause
+  - 'License :: OSI Approved :: BSD License'
+description: Python parser for the CommonMark Markdown spec
+download_url: https://files.pythonhosted.org/packages/60/48/a60f593447e8f0894ebb7f6e6c1f25dafc5e89c5879fdc9360ae93ff83f0/commonmark-0.9.1.tar.gz
+holder: Bibek Kafle <bkafle662@gmail.com>, Roland Shoemaker <rolandshoemaker@gmail.com>
+holder_contact: rolandshoemaker@gmail.com
+homepage_url: https://github.com/rtfd/commonmark.py
+keywords: markup,markdown,commonmark
+license_expression: bsd-new
+name: commonmark
+package_url: pkg:pypi/commonmark@0.9.1
+primary_language: Python
+type: pypi
+version: 0.9.1

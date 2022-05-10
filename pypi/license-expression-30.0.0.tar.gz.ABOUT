@@ -1,0 +1,21 @@
+about_resource: license-expression-30.0.0.tar.gz
+attribute: yes
+checksum_md5: 253c39f105199625d9ac35f0a50976e2
+checksum_sha1: b75e7bb59c82aa8e8d5bbad24cba758283a8b664
+contact: http://www.nexb.com/contactus.html
+copyright: Copyright (c) 2017 nexB Inc. and others.
+description: Utility library to parse, normalize and compare License expressions for Python
+  using a boolean logic engine. For expressions using SPDX or any other license id scheme.
+download_url: https://files.pythonhosted.org/packages/80/ad/9b3614c4630f3a1c0d5d7e5f6cfa8e90850186864e1181e86a65150d983f/license-expression-30.0.0.tar.gz
+homepage_url: https://github.com/nexB/license-expression
+license_expression: apache-2.0
+license_file: apache-2.0.LICENSE
+name: license-expression
+notice_file: license-expression-30.0.0.tar.gz.NOTICE
+notice_url: https://github.com/nexB/license-expression/blob/master/NOTICE
+owner: nexB
+owner_url: http://www.nexb.com/
+package_url: pkg:pypi/license-expression@30.0.0
+primary_language: Python
+type: pypi
+version: 30.0.0
