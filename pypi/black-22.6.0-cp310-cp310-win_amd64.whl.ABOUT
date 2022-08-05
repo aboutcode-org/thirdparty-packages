@@ -1,0 +1,14 @@
+about_resource: black-22.6.0-cp310-cp310-win_amd64.whl
+checksum_md5: cc31b3081ee9d1f12ef0400ea55808ee
+checksum_sha1: c5f977bd98db96c55ec97ab66bc7eedc43e98529
+copyright: Copyright (c) Å�ukasz Langa <lukasz@langa.pl>
+description: The uncompromising code formatter.
+download_url: https://files.pythonhosted.org/packages/86/9c/2a8a13993bc63a50bda7436ecba902231fd9a88dd1cd233e6e3f534e071c/black-22.6.0-cp310-cp310-win_amd64.whl
+homepage_url: https://github.com/psf/black
+keywords: automation formatter yapf autopep8 pyfmt gofmt rustfmt
+license_expression: mit
+name: black
+package_url: pkg:pypi/black@22.6.0
+primary_language: Python
+type: pypi
+version: 22.6.0

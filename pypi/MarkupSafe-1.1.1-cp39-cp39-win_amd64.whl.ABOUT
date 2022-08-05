@@ -1,7 +1,7 @@
 about_resource: MarkupSafe-1.1.1-cp39-cp39-win_amd64.whl
 attribute: yes
-checksum_md5: 8408f8cf2abc009cd500d252323a156f
-checksum_sha1: 59d70a68e5def855583019a48ac573732037322f
+checksum_md5: bd858ff978ecd9437229a655ebfb33af
+checksum_sha1: 34aa49f85a5052d8f1e10a08f5b8d39b22b567d6
 contact: armin.ronacher@active-4.com
 copyright: Copyright (c) Armin Ronacher
 description: Implements an XML/HTML/XHTML Markup safe string for Python

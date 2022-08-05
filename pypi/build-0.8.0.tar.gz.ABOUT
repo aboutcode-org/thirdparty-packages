@@ -1,0 +1,15 @@
+about_resource: build-0.8.0.tar.gz
+checksum_md5: 307632355e32c3769c99da66f92fe020
+checksum_sha1: 4aa228ae432d97b045f8208a07ecaca94f419b32
+copyright: Copyright (c) Filipe Laíns <lains@riseup.net>
+description: A simple, correct PEP517 package builder
+download_url: https://files.pythonhosted.org/packages/52/fa/931038182be739955cf83179d9b9a6ce9832bc5f9a917a006f765cb53a1f/build-0.8.0.tar.gz
+holder: Filipe Laíns
+holder_contact: lains@riseup.net
+homepage_url: https://github.com/pypa/build
+license_expression: mit
+name: build
+package_url: pkg:pypi/build@0.8.0
+primary_language: Python
+type: pypi
+version: 0.8.0

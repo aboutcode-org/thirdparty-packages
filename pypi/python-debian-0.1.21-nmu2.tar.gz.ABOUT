@@ -5,6 +5,7 @@ copyright: Copyright (c) Debian python-debian Maintainers <pkg-python-debian-mai
 declared_license:
   - UNKNOWN
 description: Debian package related modules
+download_url: https://thirdparty.aboutcode.org/pypi/python-debian-0.1.21-nmu2.tar.gz
 holder: Debian python-debian Maintainers
 holder_contact: pkg-python-debian-maint@lists.alioth.debian.org
 homepage_url: http://packages.debian.org/sid/python-debian

@@ -1,0 +1,18 @@
+about_resource: PyYAML-3.13-cp37-cp37m-win_amd64.whl
+attribute: yes
+checksum_md5: 02ab28701247a80e059daa6efe11e67d
+checksum_sha1: 2223882aff07f55b904bb84d337fafc394a37be8
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/bf/96/d02ef8e1f3073e07ffdc240444e5041f403f29c0775f9f1653f18221082f/PyYAML-3.13-cp37-cp37m-win_amd64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notice_file: PyYAML-3.13-cp37-cp37m-win_amd64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@3.13
+primary_language: Python
+type: pypi
+version: '3.13'

@@ -1,0 +1,13 @@
+about_resource: openpyxl-3.0.10.tar.gz
+checksum_md5: ebcc3a30768a45163d5143f1f7bf0224
+checksum_sha1: 48876866916043a3c09073537a9125ef9c241e7c
+copyright: Copyright (c) See AUTHORS <charlie.clark@clark-consulting.eu>
+description: A Python library to read/write Excel 2010 xlsx/xlsm files
+download_url: https://files.pythonhosted.org/packages/2c/b8/ff77a718173fd73e49f883b4fda88f11af1fc51edb9252af3785b0cad987/openpyxl-3.0.10.tar.gz
+homepage_url: https://openpyxl.readthedocs.io
+license_expression: mit
+name: openpyxl
+package_url: pkg:pypi/openpyxl@3.0.10
+primary_language: Python
+type: pypi
+version: 3.0.10

@@ -1,6 +1,6 @@
 about_resource: extractcode_7z-16.5-py2.py3-none-win_amd64.whl
-checksum_md5: af1d09b8e07f15b335bf22ea035996eb
-checksum_sha1: b1ebe016b2a6d5a743fd63fa2b42177f54662b11
+checksum_md5: 459de84753426ce5729f2e4369d9b9c3
+checksum_sha1: 598fc6ab1a1e70803c913a614ea7f91352a2e5ce
 copyright: Copyright (C) Igor Pavlov.
 description: A ScanCode path provider plugin to provide a prebuilt native sevenzip binary.
 download_url: https://files.pythonhosted.org/packages/51/3f/78a1227cadc855d163e8f4b61942bb400890a062ffe2417a6db97e9a0941/extractcode_7z-16.5-py2.py3-none-win_amd64.whl

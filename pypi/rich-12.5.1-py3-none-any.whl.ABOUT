@@ -1,0 +1,19 @@
+about_resource: rich-12.5.1-py3-none-any.whl
+checksum_md5: 368de1a5a20a436a9ca94a505de32acb
+checksum_sha1: 3323db86ce2e9e68875f053b06f6d90dbba3c016
+copyright: Copyright (c) Will McGugan <willmcgugan@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Render rich text, tables, progress bars, syntax highlighting, markdown and more
+  to the terminal
+download_url: https://files.pythonhosted.org/packages/f6/39/4cb526e0d505464376e3c47a812df6e6638363ebe66e6a63618831fe47ad/rich-12.5.1-py3-none-any.whl
+holder: Will McGugan
+holder_contact: willmcgugan@gmail.com
+homepage_url: https://github.com/willmcgugan/rich
+license_expression: mit
+name: rich
+package_url: pkg:pypi/rich@12.5.1
+primary_language: Python
+type: pypi
+version: 12.5.1

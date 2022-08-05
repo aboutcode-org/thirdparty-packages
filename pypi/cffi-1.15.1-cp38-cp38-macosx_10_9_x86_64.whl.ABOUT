@@ -1,0 +1,13 @@
+about_resource: cffi-1.15.1-cp38-cp38-macosx_10_9_x86_64.whl
+checksum_md5: efc5f798eee1b3d07d1fcc28139be4d2
+checksum_sha1: 8fdde0132a63e4414981d4f338f0db00a6ba44f6
+copyright: copyright (c) Armin Rigo, Maciej Fijalkowski
+description: Foreign Function Interface for Python calling C code.
+download_url: https://files.pythonhosted.org/packages/87/4b/64e8bd9d15d6b22b6cb11997094fbe61edf453ea0a97c8675cb7d1c3f06f/cffi-1.15.1-cp38-cp38-macosx_10_9_x86_64.whl
+homepage_url: http://cffi.readthedocs.org
+license_expression: mit
+name: cffi
+package_url: pkg:pypi/cffi@1.15.1
+primary_language: Python
+type: pypi
+version: 1.15.1

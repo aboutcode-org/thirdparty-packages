@@ -1,6 +1,6 @@
 about_resource: commoncode-21.8.31-py3-none-any.whl
-checksum_md5: 83ccb298ac2a7558646d5b6f39f6a794
-checksum_sha1: bf176909bec71c74edb0ac29a747924ed46ed041
+checksum_md5: 2c3c6375a3ac28f1b01f7d08f84a1678
+checksum_sha1: 8349ee8ec59ec104c13e234f324cbc7819ca0701
 copyright: copyright (c) nexB. Inc. and others
 description: Set of common utilities, originally split from ScanCode
 download_url: https://files.pythonhosted.org/packages/bd/ac/64715ca20f0581fe9097dd32e69ca8d49b28bb8b42aa32cc506d2e7d2f4f/commoncode-21.8.31-py3-none-any.whl

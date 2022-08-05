@@ -3,6 +3,7 @@ checksum_md5: 395b96bdd0206404024f34b7b4858107
 checksum_sha1: 591df2be9950e02011c1619418650920fdc0a480
 copyright: Copyright (c) Martin G. Korman
 description: Python Registry Parser
+download_url: https://thirdparty.aboutcode.org/pypi/regipy-2.3.2-py3-none-any.whl
 homepage_url: https://github.com/mkorman90/regipy/
 keywords: Python,Python3,registry,windows registry,registry parser
 license_expression: mit

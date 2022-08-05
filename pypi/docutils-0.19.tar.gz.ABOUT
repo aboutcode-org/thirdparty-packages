@@ -1,0 +1,15 @@
+about_resource: docutils-0.19.tar.gz
+checksum_md5: 0afa992a6e93db892107c3f087d0d9df
+checksum_sha1: c38c6ccd1547b4d651e39b64dd6be676be5f14d5
+copyright: copyight (c) David Goodger and others
+description: Docutils -- Python Documentation Utilities
+download_url: https://files.pythonhosted.org/packages/6b/5c/330ea8d383eb2ce973df34d1239b3b21e91cd8c865d21ff82902d952f91f/docutils-0.19.tar.gz
+homepage_url: http://docutils.sourceforge.net/
+license_expression: public-domain AND other-permissive AND python AND bsd-simplified AND gpl-3.0-plus
+name: docutils
+notice_file: docutils-0.19.tar.gz.NOTICE
+owner: David Goodger
+package_url: pkg:pypi/docutils@0.19
+primary_language: Python
+type: pypi
+version: '0.19'

@@ -1,0 +1,17 @@
+about_resource: libfwsi-python-20220123.tar.gz
+checksum_md5: dc1df4840c9e4d743aad33fec2899ffc
+checksum_sha1: 91a046da3414e622a756ecc2c404b73975706436
+copyright: Copyright (c) Joachim Metz <joachim.metz@gmail.com>
+declared_license:
+  - GNU Lesser General Public License v3 or later (LGPLv3+)
+description: Python bindings module for libfwsi
+download_url: https://files.pythonhosted.org/packages/63/c8/47a7197167a11da6a68704f08053057922c1f73a91441824207099310b90/libfwsi-python-20220123.tar.gz
+holder: Joachim Metz
+holder_contact: joachim.metz@gmail.com
+homepage_url: https://github.com/libyal/libfwsi/
+license_expression: (lgpl-3.0 AND lgpl-3.0-plus) AND unknown
+name: libfwsi-python
+package_url: pkg:pypi/libfwsi-python@20220123
+primary_language: Python
+type: pypi
+version: 20220123

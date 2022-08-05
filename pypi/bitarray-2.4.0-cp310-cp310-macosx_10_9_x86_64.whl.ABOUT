@@ -1,0 +1,19 @@
+about_resource: bitarray-2.4.0-cp310-cp310-macosx_10_9_x86_64.whl
+attribute: yes
+checksum_md5: 93c77dad33df1f0d53335e47a282fbee
+checksum_sha1: fa9d825ce43ee3a0409ca41bf81037faf956d9c9
+contact: ilanschnell@gmail.com
+copyright: Copyright (c) Ilan Schnell and others
+description: efficient arrays of booleans for Python
+download_url: https://files.pythonhosted.org/packages/df/55/ed088e244fe2de5ea998afe300450d8e62a30dd98f9e4d05897cc16f2484/bitarray-2.4.0-cp310-cp310-macosx_10_9_x86_64.whl
+homepage_url: https://github.com/ilanschnell/bitarray
+license_expression: python
+name: bitarray
+notice_file: bitarray-2.4.0-cp310-cp310-macosx_10_9_x86_64.whl.NOTICE
+owner: Ilan Schnell
+owner_url: https://github.com/ilanschnell
+package_url: pkg:pypi/bitarray@2.4.0
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.4.0

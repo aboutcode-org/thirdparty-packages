@@ -1,0 +1,19 @@
+about_resource: lxml-4.9.1-cp39-cp39-macosx_10_15_x86_64.whl
+attribute: yes
+checksum_md5: 4634c50e1768e14eb6e57e847d3fa816
+checksum_sha1: 72eb81c22508ef04871f13ade3dd389ce2865748
+copyright: Copyright (c) 2004 Infrae.
+description: lxml is the most feature-rich and easy-to-use library for processing XML and HTML
+  in the Python language.
+download_url: https://files.pythonhosted.org/packages/2c/95/d9a56b1e860a8a82e31c8bfc25e482998f399e0aa141bce7be5f129bd3de/lxml-4.9.1-cp39-cp39-macosx_10_15_x86_64.whl
+homepage_url: http://lxml.de/
+license_expression: bsd-new AND (mit AND gpl-2.0-plus AND zpl-2.0 AND zlib)
+name: lxml
+notice_file: lxml-4.9.1-cp39-cp39-macosx_10_15_x86_64.whl.NOTICE
+owner: Infrae
+package_url: pkg:pypi/lxml@4.9.1
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 4.9.1

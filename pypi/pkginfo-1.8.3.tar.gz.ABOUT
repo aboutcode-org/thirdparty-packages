@@ -1,0 +1,18 @@
+about_resource: pkginfo-1.8.3.tar.gz
+checksum_md5: e67d8f6e37ca37b5512384655bbce760
+checksum_sha1: b8e10098899337982d22ee0281308e31c80cbcae
+copyright: Copyright (c) Agendaless Consulting, Inc.
+description: Query metadatdata from sdists / bdists / installed packages.
+download_url: https://files.pythonhosted.org/packages/00/91/fe0806e3ebded8c4e52f93ab4d963eef34bb33595c7aa7b5591d32ab5b92/pkginfo-1.8.3.tar.gz
+holder: Tres Seaver, Agendaless Consulting
+holder_contact: tseaver@agendaless.com
+homepage_url: https://code.launchpad.net/~tseaver/pkginfo/trunk
+keywords: distribution sdist installed metadata
+license_expression: mit
+name: pkginfo
+owner: Tres Seaver
+owner_url: https://pypi.org/user/tseaver/
+package_url: pkg:pypi/pkginfo@1.8.3
+primary_language: Python
+type: pypi
+version: 1.8.3

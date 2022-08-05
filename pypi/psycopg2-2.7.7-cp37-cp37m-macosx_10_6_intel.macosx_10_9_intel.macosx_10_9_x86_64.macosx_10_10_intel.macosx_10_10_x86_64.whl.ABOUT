@@ -1,0 +1,19 @@
+about_resource: psycopg2-2.7.7-cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl
+attribute: yes
+checksum_md5: 6aa788a2360d258e95707ad449c0d8da
+checksum_sha1: 2d31271940f7298be7a0008b96e2428da2362005
+copyright: Copyright (c) The Psycopg Team
+description: Psycopg is the most popular PostgreSQL adapter for the Python programming language.
+  At its core it fully implements the Python DB API 2.0 specifications. Several extensions allow
+  access to many of the features offered by PostgreSQL.
+download_url: https://files.pythonhosted.org/packages/af/b3/de7bf74e7692a5abd1de80d2a3a898bd4a2098630c3bf0c938318f149e5b/psycopg2-2.7.7-cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl
+homepage_url: http://initd.org/psycopg/
+license_expression: lgpl-3.0-plus WITH openssl-exception-lgpl-3.0-plus
+name: psycopg2
+notice_file: psycopg2-2.7.7-cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl.NOTICE
+package_url: pkg:pypi/psycopg2@2.7.7
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 2.7.7

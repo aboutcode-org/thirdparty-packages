@@ -1,0 +1,17 @@
+about_resource: libfwsi_python-20220123-cp310-cp310-win_amd64.whl
+checksum_md5: a26d2d68ba521d9b27e645bdc24f8c43
+checksum_sha1: a4c9ed7ef09799c5d691baf578237f617cf7a1fe
+copyright: Copyright (c) Joachim Metz <joachim.metz@gmail.com>
+declared_license:
+  - GNU Lesser General Public License v3 or later (LGPLv3+)
+description: Python bindings module for libfwsi
+download_url: https://files.pythonhosted.org/packages/49/69/69720486961bbe8e9eb9c3cb5bdd031439999cc102a5e62a98ff108e9e98/libfwsi_python-20220123-cp310-cp310-win_amd64.whl
+holder: Joachim Metz
+holder_contact: joachim.metz@gmail.com
+homepage_url: https://github.com/libyal/libfwsi/
+license_expression: (lgpl-3.0 AND lgpl-3.0-plus) AND unknown
+name: libfwsi-python
+package_url: pkg:pypi/libfwsi-python@20220123
+primary_language: Python
+type: pypi
+version: 20220123

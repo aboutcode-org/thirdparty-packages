@@ -1,0 +1,17 @@
+about_resource: xmltodict-0.13.0.tar.gz
+attribute: yes
+checksum_md5: 1ece0a5bbd494bac414058405606475e
+checksum_sha1: e362a931ebdefcb3ccfb9dd4231283e156bb5611
+contact: martinblech@gmail.com
+copyright: Copyright (C) 2012 Martin Blech and individual contributors.
+description: ython module that makes working with XML feel like you are working with JSON
+download_url: https://files.pythonhosted.org/packages/39/0d/40df5be1e684bbaecdb9d1e0e40d5d482465de6b00cbb92b84ee5d243c7f/xmltodict-0.13.0.tar.gz
+homepage_url: https://github.com/martinblech/xmltodict/
+license_expression: mit
+name: xmltodict
+owner: Martin Blech
+owner_url: https://github.com/martinblech
+package_url: pkg:pypi/xmltodict@0.13.0
+primary_language: Python
+type: pypi
+version: 0.13.0

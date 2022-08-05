@@ -1,0 +1,15 @@
+about_resource: pefile-2022.5.30-py3-none-any.whl
+attribute: yes
+checksum_md5: b356477d8029d096100377e58caf99c3
+checksum_sha1: a957bb3508fddffa7f70b0c7a35ff9ddd920bd10
+copyright: Copyright (c) Ero Carrera <ero.carrera@gmail.com>
+description: Python PE parsing module
+homepage_url: https://github.com/erocarrera/pefile
+keywords: pe,exe,dll,pefile,pecoff
+license_expression: mit
+name: pefile
+owner: Ero Carrera
+package_url: pkg:pypi/pefile@2022.5.30
+primary_language: Python
+type: pypi
+version: 2022.5.30
