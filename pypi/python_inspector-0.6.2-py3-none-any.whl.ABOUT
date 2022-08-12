@@ -1,0 +1,19 @@
+about_resource: python_inspector-0.6.2-py3-none-any.whl
+checksum_md5: ca84fa0c0ba283cff2312f519d702f47
+checksum_sha1: 5f4e4c4856b627ecd03a48d16d7c5f7035136ea0
+copyright: Copyright (c) nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0
+description: python-inspector is is a collection of utilities to collect PyPI package metadata
+  and resolve packages dependencies.
+download_url: https://files.pythonhosted.org/packages/cb/28/f1175a29ddd8af8021dc1963adc66bb6182d9c6d39a1d0f12cef024935dd/python_inspector-0.6.2-py3-none-any.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/python-inspector
+keywords: open source,scan,package,dependency,pypi,python,SBOM,sca,dependencies,dependency resolution,resolver,resolvelib,pip,requirements
+license_expression: apache-2.0
+name: python-inspector
+package_url: pkg:pypi/python-inspector@0.6.2
+primary_language: Python
+type: pypi
+version: 0.6.2

@@ -1,0 +1,19 @@
+about_resource: tinynetrc-1.3.1.tar.gz
+checksum_md5: b21d4536898ac3a106c5dfc156823d05
+checksum_sha1: 1bb7f5f956001fd34ef5dc6a9cde1b8088c6fe77
+copyright: Copyright (c) Steven Loria <sloria1@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Read and write .netrc files.
+download_url: https://files.pythonhosted.org/packages/87/8f/6df2414a8f38b08836726986437f7612983f25c6dc3c55c66f4850a3d795/tinynetrc-1.3.1.tar.gz
+holder: Steven Loria
+holder_contact: sloria1@gmail.com
+homepage_url: https://github.com/sloria/tinynetrc
+keywords: netrc posix
+license_expression: mit
+name: tinynetrc
+package_url: pkg:pypi/tinynetrc@1.3.1
+primary_language: Python
+type: pypi
+version: 1.3.1
