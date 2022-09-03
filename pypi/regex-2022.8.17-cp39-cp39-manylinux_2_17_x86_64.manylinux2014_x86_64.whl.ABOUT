@@ -1,0 +1,13 @@
+about_resource: regex-2022.8.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+checksum_md5: 2ab45d7ab165a4eb07ab793d161039bb
+checksum_sha1: 1aceb450b929a8fd1e6d5e2d259f59f3f1beebc3
+copyright: copyright (c) Matthew Barnett <regex@mrabarnett.plus.com>
+description: Alternative regular expression module, to replace re.
+download_url: https://files.pythonhosted.org/packages/94/2d/4a374eae11185e75ed8d21cc413b1770262900356d1405be4d50af9876d5/regex-2022.8.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+homepage_url: https://bitbucket.org/mrabarnett/mrab-regex
+license_expression: apache-2.0 AND python
+name: regex
+package_url: pkg:pypi/regex@2022.8.17
+primary_language: Python
+type: pypi
+version: 2022.8.17
