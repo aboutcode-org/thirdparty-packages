@@ -1,0 +1,12 @@
+about_resource: packageurl-python-0.10.3.tar.gz
+attribute: yes
+checksum_md5: 680735f3317191a3c1dd9ce611906e45
+checksum_sha1: fcde002e3d5ad18a2299f0e56ea3eb8f8a7e137a
+copyright: Copyright (c) the purl authors
+download_url: https://files.pythonhosted.org/packages/43/30/63317920f2ece59fb2c68d0d455c3c4b142d545c8b16d4df37ba13bafbf0/packageurl-python-0.10.3.tar.gz
+license_expression: mit
+name: packageurl-python
+package_url: pkg:pypi/packageurl-python@0.10.3
+primary_language: Python
+type: pypi
+version: 0.10.3
