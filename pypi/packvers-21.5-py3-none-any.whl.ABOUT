@@ -1,0 +1,15 @@
+about_resource: packvers-21.5-py3-none-any.whl
+checksum_md5: 42973987bb8ee39003b6ce16f576db00
+checksum_sha1: e020ddc595f0fb3a1adad4f1afce60d184f5523a
+copyright: Copyright (c) Donald Stufft and individual contributors <donald@stufft.io>
+description: Core utilities for Python packages. Fork to support LegacyVersion
+download_url: https://files.pythonhosted.org/packages/00/0c/a57d44f7f970ea31dfcda7ffbe8509d087c2386a28b791867a8868fc66da/packvers-21.5-py3-none-any.whl
+holder: Donald Stufft and individual contributors
+holder_contact: donald@stufft.io
+homepage_url: https://github.com/nexB/packvers
+license_expression: bsd-simplified OR apache-2.0
+name: packvers
+package_url: pkg:pypi/packvers@21.5
+primary_language: Python
+type: pypi
+version: '21.5'
