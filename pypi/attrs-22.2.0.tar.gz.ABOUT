@@ -1,0 +1,12 @@
+about_resource: attrs-22.2.0.tar.gz
+name: attrs
+version: 22.2.0
+download_url: https://files.pythonhosted.org/packages/21/31/3f468da74c7de4fcf9b25591e682856389b3400b4b62f201e65f15ea3e07/attrs-22.2.0.tar.gz
+homepage_url: https://www.attrs.org/
+package_url: pkg:pypi/attrs@22.2.0
+license_expression: mit
+attribute: yes
+checksum_md5: eff16b3bbd0d9b72e118cca83a19d380
+checksum_sha1: ebd67b767296a8985d46d421f3df822f4b68f133
+copyright: Copyright (c) Hynek Schlawack
+primary_language: Python
