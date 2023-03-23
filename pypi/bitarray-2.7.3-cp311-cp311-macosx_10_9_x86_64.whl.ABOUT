@@ -1,0 +1,19 @@
+about_resource: bitarray-2.7.3-cp311-cp311-macosx_10_9_x86_64.whl
+attribute: yes
+checksum_md5: e457a86214f401b70b2736c386ea80f3
+checksum_sha1: 24b92780f1accf1a3c64622114cf57f985be4c7f
+contact: ilanschnell@gmail.com
+copyright: Copyright (c) Ilan Schnell and others
+description: efficient arrays of booleans for Python
+download_url: https://files.pythonhosted.org/packages/c5/d2/26614f707e138db6d9d6737ef7ee74aad88a2bb3f39b22c192ccf6d0afc8/bitarray-2.7.3-cp311-cp311-macosx_10_9_x86_64.whl
+homepage_url: https://github.com/ilanschnell/bitarray
+license_expression: python
+name: bitarray
+notice_file: bitarray-2.7.3-cp311-cp311-macosx_10_9_x86_64.whl.NOTICE
+owner: Ilan Schnell
+owner_url: https://github.com/ilanschnell
+package_url: pkg:pypi/bitarray@2.7.3
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 2.7.3
