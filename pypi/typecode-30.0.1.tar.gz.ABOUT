@@ -1,0 +1,16 @@
+about_resource: typecode-30.0.1.tar.gz
+checksum_md5: befb0c6baabc34b5d42ae7e61dacc562
+checksum_sha1: 58b18483b0d2ce0057f0c5c369498838f0009a41
+copyright: copyright (c) nexB. Inc. and others
+description: Comprehensive filetype and mimetype detection using libmagic and Pygments.
+download_url: https://files.pythonhosted.org/packages/82/05/b0c0c8248dc90d9f700ba9608e7be7860e6789515ca509a52abb7590a942/typecode-30.0.1.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/typecode
+keywords: scancode,scancode-toolkit,typecode
+license_expression: apache-2.0
+name: typecode
+package_url: pkg:pypi/typecode@30.0.1
+primary_language: Python
+type: pypi
+version: 30.0.1
