@@ -1,0 +1,15 @@
+about_resource: cryptography-42.0.5-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+checksum_md5: 85d28f7262d505370315bb3a050f0d71
+checksum_sha1: d6ecdba81489e7358b05f602b7caa85a9156103f
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/d4/fa/057f9d7a5364c86ccb6a4bd4e5c58920dcb66532be0cc21da3f9c7617ec3/cryptography-42.0.5-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-42.0.5-cp39-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.NOTICE
+package_url: pkg:pypi/cryptography@42.0.5
+primary_language: Python
+type: pypi
+version: 42.0.5

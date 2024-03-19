@@ -1,0 +1,13 @@
+about_resource: attrs-23.2.0-py3-none-any.whl
+attribute: yes
+checksum_md5: f1cdfc0569b235844915df6a68dd6606
+checksum_sha1: 563b272af703f8960b76f6637d009fa5fc5864d3
+copyright: Copyright (c) Hynek Schlawack
+download_url: https://files.pythonhosted.org/packages/e0/44/827b2a91a5816512fcaf3cc4ebc465ccd5d598c45cefa6703fcf4a79018f/attrs-23.2.0-py3-none-any.whl
+homepage_url: https://www.attrs.org/
+license_expression: mit
+name: attrs
+package_url: pkg:pypi/attrs@23.2.0
+primary_language: Python
+type: pypi
+version: 23.2.0
