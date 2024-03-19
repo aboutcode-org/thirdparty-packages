@@ -1,0 +1,13 @@
+about_resource: attrs-23.2.0.tar.gz
+attribute: yes
+checksum_md5: 60588a146fb413a997c7519d77198a5e
+checksum_sha1: ce23bde05c853a6aa4654351532c12013d1365ce
+copyright: Copyright (c) Hynek Schlawack
+download_url: https://files.pythonhosted.org/packages/e3/fc/f800d51204003fa8ae392c4e8278f256206e7a919b708eef054f5f4b650d/attrs-23.2.0.tar.gz
+homepage_url: https://www.attrs.org/
+license_expression: mit
+name: attrs
+package_url: pkg:pypi/attrs@23.2.0
+primary_language: Python
+type: pypi
+version: 23.2.0

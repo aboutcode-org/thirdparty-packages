@@ -1,0 +1,12 @@
+about_resource: packageurl-python-0.15.0.tar.gz
+attribute: yes
+checksum_md5: c603d45dcc4e50cb40a8303d8cb3efc7
+checksum_sha1: 1402cd8350ca2dc51850832187b0c1a7dc2b44f6
+copyright: Copyright (c) the purl authors
+download_url: https://files.pythonhosted.org/packages/93/d7/6ab8c91b1ef802d6b5905abe16289e1d84d426976ef0c475aa05f1499501/packageurl-python-0.15.0.tar.gz
+license_expression: mit
+name: packageurl-python
+package_url: pkg:pypi/packageurl-python@0.15.0
+primary_language: Python
+type: pypi
+version: 0.15.0

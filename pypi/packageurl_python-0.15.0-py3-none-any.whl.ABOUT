@@ -1,0 +1,12 @@
+about_resource: packageurl_python-0.15.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 02d2585ac18eb1f8948ea3ef9873cf91
+checksum_sha1: 4f0fa6bae5df4dd5401f8108af71558faf92de81
+copyright: Copyright (c) the purl authors
+download_url: https://files.pythonhosted.org/packages/d4/05/1ed759f341c543167bd0b8d8812a46c2e40379ca4f8acbb497e5f20534e4/packageurl_python-0.15.0-py3-none-any.whl
+license_expression: mit
+name: packageurl-python
+package_url: pkg:pypi/packageurl-python@0.15.0
+primary_language: Python
+type: pypi
+version: 0.15.0
