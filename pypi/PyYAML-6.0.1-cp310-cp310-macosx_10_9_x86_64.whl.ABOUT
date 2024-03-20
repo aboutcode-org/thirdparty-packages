@@ -1,0 +1,18 @@
+about_resource: PyYAML-6.0.1-cp310-cp310-macosx_10_9_x86_64.whl
+attribute: yes
+checksum_md5: cbde084f43a494faae45a3074194792d
+checksum_sha1: 30ca41e58f6bd944d6f1925583defa295c5c3829
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/96/06/4beb652c0fe16834032e54f0956443d4cc797fe645527acee59e7deaa0a2/PyYAML-6.0.1-cp310-cp310-macosx_10_9_x86_64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notice_file: PyYAML-6.0.1-cp310-cp310-macosx_10_9_x86_64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0.1
+primary_language: Python
+type: pypi
+version: 6.0.1

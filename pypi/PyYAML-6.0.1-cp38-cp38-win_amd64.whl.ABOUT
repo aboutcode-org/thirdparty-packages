@@ -1,0 +1,18 @@
+about_resource: PyYAML-6.0.1-cp38-cp38-win_amd64.whl
+attribute: yes
+checksum_md5: 94aecfce3eb1cf94cd9f5d913ee4b60c
+checksum_sha1: 3b3b6a80e4882838ac6a5a00337ac6a29bbd844b
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/29/0f/9782fa5b10152abf033aec56a601177ead85ee03b57781f2d9fced09eefc/PyYAML-6.0.1-cp38-cp38-win_amd64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notice_file: PyYAML-6.0.1-cp38-cp38-win_amd64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0.1
+primary_language: Python
+type: pypi
+version: 6.0.1
