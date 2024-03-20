@@ -1,0 +1,13 @@
+about_resource: cffi-1.16.0-cp39-cp39-win_amd64.whl
+checksum_md5: b48e1cff3ff796ad6420dc0b441471bc
+checksum_sha1: 6e04fda1a3eb619eb3faf4c6463adb837c85ef52
+copyright: copyright (c) Armin Rigo, Maciej Fijalkowski
+description: Foreign Function Interface for Python calling C code.
+download_url: https://files.pythonhosted.org/packages/73/dd/15c6f32166f0c8f97d8aadee9ac8f096557899f4f21448d2feb74cf4f210/cffi-1.16.0-cp39-cp39-win_amd64.whl
+homepage_url: http://cffi.readthedocs.org
+license_expression: mit
+name: cffi
+package_url: pkg:pypi/cffi@1.16.0
+primary_language: Python
+type: pypi
+version: 1.16.0
