@@ -1,0 +1,21 @@
+about_resource: pymaven-patch-0.3.2.tar.gz
+attribute: yes
+checksum_md5: 95bff7bf04a69aafaefae7e91c942f94
+checksum_sha1: cab4c25a2d2892777ee62feda0a8d374cf53468d
+contact: github@sas.com
+copyright: Copyright (c) SAS Institute Inc.
+description: pymaven is a library for working with maven repositories via python. pymaven is
+  not intended as a complete replacement of the maven build system, but instead as a way for
+  python programs to fetch artifacts and artifact dependencies from maven2 repositories.
+download_url: https://files.pythonhosted.org/packages/f2/5a/5de519f07057838d4768ed7f04ceea0629b373e06aa96bddfa7bb8d78654/pymaven-patch-0.3.2.tar.gz
+homepage_url: https://github.com/sassoftware/pymaven
+license_expression: apache-2.0
+name: pymaven-patch
+notice_file: pymaven-patch-0.3.2.tar.gz.NOTICE
+owner: SAS Software
+owner_url: https://github.com/sassoftware
+package_url: pkg:pypi/pymaven-patch@0.3.2
+primary_language: Python
+track_changes: yes
+type: pypi
+version: 0.3.2
