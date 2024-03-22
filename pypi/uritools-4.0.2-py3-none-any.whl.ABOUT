@@ -1,0 +1,18 @@
+about_resource: uritools-4.0.2-py3-none-any.whl
+checksum_md5: 709b8ac5e5fdfdd20367a56200eae800
+checksum_sha1: 8ec139c63393a464c3a059c4850f40738a7b2fe2
+copyright: Copyright (c) Thomas Kemmer <tkemmer@computer.org>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: URI parsing, classification and composition
+download_url: https://files.pythonhosted.org/packages/6b/ff/b16f225ceeb47f5d8899371ce446a8d6c1fe509a8882998b869f2a794c25/uritools-4.0.2-py3-none-any.whl
+holder: Thomas Kemmer
+holder_contact: tkemmer@computer.org
+homepage_url: https://github.com/tkem/uritools/
+license_expression: mit
+name: uritools
+package_url: pkg:pypi/uritools@4.0.2
+primary_language: Python
+type: pypi
+version: 4.0.2
