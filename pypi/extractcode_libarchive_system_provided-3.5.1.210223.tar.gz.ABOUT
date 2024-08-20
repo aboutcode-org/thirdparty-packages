@@ -7,7 +7,7 @@ description: A ScanCode path provider plugin to provide a system package provide
 download_url: https://files.pythonhosted.org/packages/08/c0/5628dd6fe7c5d134a2c292d3ac8b15347f6a8ee369d9792a19e95c41a45b/extractcode_libarchive_system_provided-3.5.1.210223.tar.gz
 holder: nexB
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,extractcode,libarchive
 license_expression: bsd-simplified
 name: extractcode_libarchive_system_provided

@@ -7,7 +7,7 @@ description: A ScanCode path provider plugin to provide a prebuilt native libmag
 download_url: https://files.pythonhosted.org/packages/00/04/f906f530aa5be331c87087b9be8f0c3dd8261ecd7616783f4a9e48b0908d/textcode_pdf2text-4.3.210217-py3-none-macosx_10_14_x86_64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,textcode,scancode,pdf,pdf2text,xpdf
 license_expression: apache-2.0 AND (gpl-2.0 OR gpl-3.0)
 name: textcode-pdf2text

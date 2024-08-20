@@ -8,7 +8,7 @@ description: Set of common utilities, originally split from ScanCode
 download_url: https://files.pythonhosted.org/packages/fa/6b/ba4c14f67e3062660ef386765a93a40984b746e9df58d4ee991ce550fd1e/commoncode-30.1.1.tar.gz
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/commoncode
+homepage_url: https://github.com/aboutcode-org/commoncode
 keywords: utilities,scancode-toolkit
 license_expression: apache-2.0
 name: commoncode

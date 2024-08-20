@@ -6,7 +6,7 @@ description: Set of common utilities, originally split from ScanCode
 download_url: https://files.pythonhosted.org/packages/ac/d1/c7382d8984770124c2bb08e0387c23cc9999a13daa263365c4a2892bfba6/commoncode-21.6.10-py3-none-any.whl
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/commoncode
+homepage_url: https://github.com/aboutcode-org/commoncode
 license_expression: apache-2.0
 name: commoncode
 package_url: pkg:pypi/commoncode@21.6.10

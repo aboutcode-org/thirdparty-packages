@@ -6,7 +6,7 @@ description: plugincode is a library that provides plugin functionality for Scan
 download_url: https://files.pythonhosted.org/packages/b9/22/a1bcb3f164d0864a435027ddf8a851d9c1c696befc48c24d92679ae0c1d5/plugincode-30.0.0.tar.gz
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/plugincode
+homepage_url: https://github.com/aboutcode-org/plugincode
 keywords: plugincode,scancode,scancode-toolkit
 license_expression: apache-2.0
 name: plugincode

@@ -5,7 +5,7 @@ copyright: copyright (c) nexB. Inc. and others. Copyright (C) NLTK Project
 description: Craft simple regex-based small language lexers and parsers. Build parsers from
   grammars and accept Pygments lexers as an input. Derived from NLTK.
 download_url: https://files.pythonhosted.org/packages/72/0c/824fa8022574e236c57f241e495e874869cbfb7db510039d80e68dc0de62/pygmars-0.7.0-py3-none-any.whl
-homepage_url: https://github.com/nexB/pygmars
+homepage_url: https://github.com/aboutcode-org/pygmars
 keywords: utilities
 license_expression: apache-2.0
 name: pygmars

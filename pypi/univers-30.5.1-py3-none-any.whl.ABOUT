@@ -9,7 +9,7 @@ description: A mostly universal library to parse and compare software package ve
 download_url: https://files.pythonhosted.org/packages/86/1c/394d7a851dd0be0a01c7a340fa8c296f673484fe301b8fde5da2705a0946/univers-30.5.1-py3-none-any.whl
 holder: Shivam Sandbhor, nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/univers
+homepage_url: https://github.com/aboutcode-org/univers
 keywords: semver,utilities,version,release,version range,package URL,purl,arch,pacman,pypi,rpm,gentoo,ebuild,maven,debian,rubygems
 license_expression: apache-2.0 AND bsd-new AND mit
 name: univers

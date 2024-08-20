@@ -7,7 +7,7 @@ copyright: Copyright (c) nexB Inc. and others
 description: This micro library is a PyYaml wrapper with sane behaviour to read and write readable
   YAML safely, typically when used with configuration files.
 download_url: https://files.pythonhosted.org/packages/4d/65/fb5db4c630337670b307931748c28320e7cc5ebcea30cf6785a1c9aed8aa/saneyaml-0.4-py2.py3-none-any.whl
-homepage_url: https://github.com/nexB/saneyaml
+homepage_url: https://github.com/aboutcode-org/saneyaml
 license_expression: apache-2.0
 name: saneyaml
 notice_file: saneyaml-0.4-py2.py3-none-any.whl.NOTICE

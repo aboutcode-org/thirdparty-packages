@@ -9,7 +9,7 @@ description: python-inspector is is a collection of utilities to collect PyPI pa
 download_url: https://files.pythonhosted.org/packages/11/53/1e603a8619936925ee0a0538c28397428cb5dd4a592f54d2535edcf593b5/python-inspector-0.6.2.tar.gz
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/python-inspector
+homepage_url: https://github.com/aboutcode-org/python-inspector
 keywords: open source,scan,package,dependency,pypi,python,SBOM,sca,dependencies,dependency resolution,resolver,resolvelib,pip,requirements
 license_expression: apache-2.0
 name: python-inspector

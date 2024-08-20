@@ -6,7 +6,7 @@ description: A set of utilities and functions for extracting archives.
 download_url: https://files.pythonhosted.org/packages/1a/20/0451639992d2f9dfc05fa4e595a83d264d4f895c68ce6fb982c2ec46a943/extractcode-21.6.2.tar.gz
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/extractcode
+homepage_url: https://github.com/aboutcode-org/extractcode
 license_expression: apache-2.0
 name: extractcode
 package_url: pkg:pypi/extractcode@21.6.2

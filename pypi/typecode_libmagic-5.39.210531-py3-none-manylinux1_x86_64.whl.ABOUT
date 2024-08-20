@@ -8,7 +8,7 @@ description: A ScanCode path provider plugin to provide a prebuilt native libmag
 download_url: https://files.pythonhosted.org/packages/89/bc/135d2c5a345f1c52431dbc92c181003ba61bcd35e304d36387e33070a9c5/typecode_libmagic-5.39.210531-py3-none-manylinux1_x86_64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,typecode,libmagic
 license_expression: bsd-simplified-darwin AND bsd-simplified AND public-domain AND bsd-new AND
   isc AND (bsd-new OR gpl-1.0-plus) AND bsd-original

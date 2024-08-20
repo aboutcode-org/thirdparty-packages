@@ -7,7 +7,7 @@ description: A ScanCode path provider plugin to provide a system package provide
 download_url: https://files.pythonhosted.org/packages/4e/c2/ff512027d04f9c079545c20247881c2309317f1659562de13f1fd8887c5f/typecode_libmagic_system_provided-5.39.210223-py3-none-manylinux1_x86_64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,typecode,libmagic
 license_expression: apache-2.0
 name: typecode-libmagic-system-provided

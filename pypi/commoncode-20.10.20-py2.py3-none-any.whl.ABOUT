@@ -6,7 +6,7 @@ description: commoncode
 download_url: https://files.pythonhosted.org/packages/14/b4/dae13f133d46d96d3233fc1450d9f7d04e033ab4bb0df1c7bbd885e30902/commoncode-20.10.20-py2.py3-none-any.whl
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/commoncode
+homepage_url: https://github.com/aboutcode-org/commoncode
 license_expression: apache-2.0
 name: commoncode
 package_url: pkg:pypi/commoncode@20.10.20

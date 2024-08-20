@@ -7,7 +7,7 @@ description: pip requirements parser - a mostly correct pip requirements parsing
 download_url: https://files.pythonhosted.org/packages/22/e9/d23e56debb088161129870b5c5cd7fe6bd27e59cc54b9f0f6815ece52df1/pip-requirements-parser-31.0.1.tar.gz
 holder: The pip authors, nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/pip-requirements-parser
+homepage_url: https://github.com/aboutcode-org/pip-requirements-parser
 keywords: utilities pip requirements parser dependencies pypi
 license_expression: mit
 name: pip-requirements-parser

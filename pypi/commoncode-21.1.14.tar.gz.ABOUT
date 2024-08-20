@@ -6,7 +6,7 @@ description: commoncode
 download_url: https://files.pythonhosted.org/packages/f9/be/045384349b5b072b481e12b2e3d41305f5e32b5f61aba8ab73e753f85fd3/commoncode-21.1.14.tar.gz
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/commoncode
+homepage_url: https://github.com/aboutcode-org/commoncode
 license_expression: apache-2.0
 name: commoncode
 package_url: pkg:pypi/commoncode@21.1.14

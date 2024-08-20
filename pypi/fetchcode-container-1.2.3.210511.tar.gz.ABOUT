@@ -5,7 +5,7 @@ copyright: Copyright (c) nexB Inc. and others
 description: A ScanCode path provider plugin to provide a prebuilt native skopeobinary built
   from sources that are bundled in the repo and sdist.
 download_url: https://files.pythonhosted.org/packages/86/4d/382e63fdee28d58f92673827814a3d3811ab3ff701cca48ae80fa500bb88/fetchcode-container-1.2.3.210511.tar.gz
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,docker,scancode,container,fetchcode,skopeo
 license_expression: apache-2.0 AND other-permissive
 name: fetchcode-container

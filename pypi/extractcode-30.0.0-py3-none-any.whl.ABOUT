@@ -6,7 +6,7 @@ description: A set of utilities and functions for extracting archives.
 download_url: https://files.pythonhosted.org/packages/9e/a2/43d010b4819f4ce07668e839ac9bb3da78968acc3fd14c784c55f60374de/extractcode-30.0.0-py3-none-any.whl
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/extractcode
+homepage_url: https://github.com/aboutcode-org/extractcode
 license_expression: apache-2.0
 name: extractcode
 package_url: pkg:pypi/extractcode@30.0.0

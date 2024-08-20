@@ -4,7 +4,7 @@ checksum_sha1: 4c0d602b4061a20e200ccd7797896881f6358b3c
 copyright: Copyright (c) Red Hat, Inc.
 description: A ScanCode path provider plugin to provide prebuilt binaries from msitools
 download_url: https://files.pythonhosted.org/packages/6f/c9/bb5ba90a3eee6706b0ac8b983d081bf03cc6d8545cead72005b38d3cd8db/packagedcode_msitools-0.101.210706-py3-none-manylinux1_x86_64.whl
-homepage_url: https://github.com/nexB/scancode-plugins/tree/main/builtins/packagedcode_msitools-linux
+homepage_url: https://github.com/aboutcode-org/scancode-plugins/tree/main/builtins/packagedcode_msitools-linux
 keywords: open source,msitools,scancode,packagedcode
 license_expression: apache-2.0 AND lgpl-2.1-plus AND gpl-2.0-plus AND mit
 name: packagedcode-msitools

@@ -6,7 +6,7 @@ description: A ScanCode path provider plugin to provide a prebuilt native sevenz
 download_url: https://files.pythonhosted.org/packages/3a/cd/035b5e5d90ff31da66f66ad059c476168ba88effebc75495d35ce13be8b3/extractcode_7z-16.5.210122-py3-none-manylinux2014_x86_64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,extractcode,libarchive
 license_expression: lgpl-2.1 and unrar and brian-gladman-3-clause
 name: extractcode-7z

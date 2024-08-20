@@ -5,7 +5,7 @@ copyright: Copyright (c) nexB, Inc. <info@aboutcode.org>
 description: ScanCode is a tool to scan code for license, copyright, package and their documented
   dependencies and other interesting facts.
 download_url: https://files.pythonhosted.org/packages/90/bd/0555600b2c5bf0b342eae3977f80e6ea25290512224059117a7bc9c61dd0/scancode-toolkit-31.0.0b3.tar.gz
-homepage_url: https://github.com/nexB/scancode-toolkit
+homepage_url: https://github.com/aboutcode-org/scancode-toolkit
 keywords: open source,scan,license,package,dependency,copyright,filetype,author,extract,licensing
 license_expression: apache-2.0 AND cc-by-4.0 AND other-permissive AND other-copyleft
 name: scancode-toolkit

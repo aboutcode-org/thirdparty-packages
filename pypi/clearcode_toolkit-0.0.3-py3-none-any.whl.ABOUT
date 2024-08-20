@@ -6,7 +6,7 @@ description: ClearCode is a tool to sync ClearlyDefined data.
 download_url: https://thirdparty.aboutcode.org/pypi/clearcode_toolkit-0.0.3-py3-none-any.whl
 holder: nexB Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/clearcode-toolkit
+homepage_url: https://github.com/aboutcode-org/clearcode-toolkit
 keywords: open source,scan,license,package,clearlydefined,scancode
 license_expression: apache-2.0
 name: clearcode-toolkit

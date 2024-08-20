@@ -4,7 +4,7 @@ checksum_sha1: 78a87f23ab707ea8d987552326db081a5f46cbaf
 copyright: Copyright (C) Igor Pavlov.
 description: A ScanCode path provider plugin to provide a prebuilt native sevenzip binary.
 download_url: https://files.pythonhosted.org/packages/ae/c1/e444a24bc2e69e9c6057a425808593191c577a49c91d01c1cbb3872cfe7b/extractcode_7z-16.5-py2.py3-none-manylinux2014_x86_64.whl
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,extractcode,libarchive
 license_expression: lgpl-2.1 and unrar and brian-gladman-3-clause
 name: extractcode-7z

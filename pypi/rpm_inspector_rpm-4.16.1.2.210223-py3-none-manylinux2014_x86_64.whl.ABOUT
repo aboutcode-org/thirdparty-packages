@@ -8,7 +8,7 @@ description: A ScanCode path provider plugin to provide a prebuilt native rpm bi
 download_url: https://files.pythonhosted.org/packages/d4/ff/2b83d6b42ac581f158d7f63d733acfbda47d9787c9c7b1ecba5e5b2dff1f/rpm_inspector_rpm-4.16.1.2.210223-py3-none-manylinux2014_x86_64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,packagedcode,scancode,rpm,rpmdb
 license_expression: apache-2.0 AND (gpl-2.0 AND lgpl-2.0)
 name: rpm-inspector-rpm

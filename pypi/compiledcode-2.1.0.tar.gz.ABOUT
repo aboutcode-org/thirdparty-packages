@@ -5,7 +5,7 @@ copyright: copyright (c) nexB and others
 description: A ScanCode scan plugin to get lkmclue, dwarf, gwt, cpp includes, code/comments
   lines generated code and elf info.
 download_url: https://files.pythonhosted.org/packages/55/bf/b06161d2b2d46f285c18832c96e9ad91b32e6a82533c2c161273b1adc3b1/compiledcode-2.1.0.tar.gz
-homepage_url: https://github.com/nexB/scancode-plugins/binary-analysis/scancode-compiledcode
+homepage_url: https://github.com/aboutcode-org/scancode-plugins/binary-analysis/scancode-compiledcode
 keywords: open source,scancode,dwarf,lkmclue,elf,cpp includes,gwt
 license_expression: apache-2.0
 name: compiledcode

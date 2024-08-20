@@ -7,11 +7,11 @@ copyright: Copyright (c) nexB Inc. and others.
 description: Utility library to parse, normalize and compare License expressions for Python
   using a boolean logic engine. For expressions using SPDX or any other license id scheme.
 download_url: https://files.pythonhosted.org/packages/16/5d/a1f7fb7bd4f2bf1f8e065d40334d3bb8115f904ca3f86c9d0800281c9941/license_expression-1.2-py2.py3-none-any.whl
-homepage_url: https://github.com/nexB/license-expression
+homepage_url: https://github.com/aboutcode-org/license-expression
 license_expression: apache-2.0
 license_file: apache-2.0.LICENSE
 name: license-expression
-notice_url: https://github.com/nexB/license-expression/blob/master/NOTICE
+notice_url: https://github.com/aboutcode-org/license-expression/blob/master/NOTICE
 owner: nexB
 owner_url: http://www.nexb.com/
 package_url: pkg:pypi/license-expression@1.2

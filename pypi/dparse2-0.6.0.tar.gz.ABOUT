@@ -5,7 +5,7 @@ checksum_sha1: 7fa6ce6a8df225bc45814cee8c9b0e8aceddc21b
 copyright: Copyright (c) Jannis Gebauer
 description: A parser for Python dependency files. Temp fork for Python 2 support.
 download_url: https://files.pythonhosted.org/packages/29/82/d38d71ea13133441b4cb54fd8ad5ccbe74ab6b239e662c365ed4418a2565/dparse2-0.6.0.tar.gz
-homepage_url: https://github.com/nexB/dparse
+homepage_url: https://github.com/aboutcode-org/dparse2
 keywords: dparse
 license_expression: mit
 name: dparse2

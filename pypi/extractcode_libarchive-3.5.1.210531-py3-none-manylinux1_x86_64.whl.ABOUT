@@ -6,7 +6,7 @@ description: A ScanCode path provider plugin to provide a prebuilt native libarc
 download_url: https://files.pythonhosted.org/packages/56/6e/8695d5773679fd05bd1c4e56a7b9ab3d5dc3c89aadfa9c1981a00fc66935/extractcode_libarchive-3.5.1.210531-py3-none-manylinux1_x86_64.whl
 holder: nexB
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,extractcode,libarchive
 license_expression: bsd-simplified
 name: extractcode-libarchive

@@ -6,7 +6,7 @@ description: Comprehensive filetype and mimetype detection using libmagic and Py
 download_url: https://files.pythonhosted.org/packages/82/05/b0c0c8248dc90d9f700ba9608e7be7860e6789515ca509a52abb7590a942/typecode-30.0.1.tar.gz
 holder: nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/typecode
+homepage_url: https://github.com/aboutcode-org/typecode
 keywords: scancode,scancode-toolkit,typecode
 license_expression: apache-2.0
 name: typecode

@@ -6,7 +6,7 @@ description: A ScanCode path provider plugin to provide system package provided 
 download_url: https://files.pythonhosted.org/packages/3c/03/b8aa5d249ca3ff5267c3831e1a33a0578b056faefcf863c60ba38ebdd8a7/extractcode_7z_system_provided-16.5.210122.tar.gz
 holder: nexB
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/scancode-plugins
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
 keywords: open source,extractcode,libarchive
 license_expression: lgpl-2.1 and unrar and brian-gladman-3-clause
 name: extractcode_7z_system_provided

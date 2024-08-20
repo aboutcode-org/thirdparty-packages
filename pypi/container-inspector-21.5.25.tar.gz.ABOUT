@@ -4,7 +4,7 @@ checksum_sha1: 1bc92862e7d1fddd97ba2ebb80632f6e0996a4e9
 copyright: copyright (c) nexB. Inc. and others
 description: Docker, containers, rootfs and virtual machinesrelated utilities.
 download_url: https://files.pythonhosted.org/packages/c6/37/09f25824b998e6fe83727954f35b1486c951cc184befecc4bf2642889bb9/container-inspector-21.5.25.tar.gz
-homepage_url: https://github.com/nexB/container-inspector
+homepage_url: https://github.com/aboutcode-org/container-inspector
 keywords: utilities
 license_expression: apache-2.0
 name: container-inspector
