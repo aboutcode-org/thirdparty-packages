@@ -6,7 +6,7 @@ description: Core utilities for Python packages. Fork to support LegacyVersion
 download_url: https://files.pythonhosted.org/packages/00/0c/a57d44f7f970ea31dfcda7ffbe8509d087c2386a28b791867a8868fc66da/packvers-21.5-py3-none-any.whl
 holder: Donald Stufft and individual contributors
 holder_contact: donald@stufft.io
-homepage_url: https://github.com/nexB/packvers
+homepage_url: https://github.com/aboutcode-org/packvers
 license_expression: bsd-simplified OR apache-2.0
 name: packvers
 package_url: pkg:pypi/packvers@21.5

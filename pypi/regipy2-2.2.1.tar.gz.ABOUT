@@ -3,7 +3,7 @@ checksum_md5: 9b5908c738cd535690fc4e77544baf18
 checksum_sha1: f2269bbf14983b249fdb37289af5a28513211f78
 copyright: Copyright (c) Martin G. Korman <martin@centauri.co.il>
 description: Python Registry Parser2 - This is a temporary advanced patched package, with relaxed
-  dependency constraints. It is there only until upstream is updated. See https://github.com/nexB/regipy/
+  dependency constraints. It is there only until upstream is updated. See https://github.com/aboutcode-org/regipy/
   and https://github.com/mkorman90/regipy/pull/200
 download_url: https://files.pythonhosted.org/packages/b6/05/982ed1dca9e410c32ce9291acdfa0a6dd2b1a66c78fac15af1f872bac60e/regipy2-2.2.1.tar.gz
 homepage_url: https://github.com/mkorman90/regipy/

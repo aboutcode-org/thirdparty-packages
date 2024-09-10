@@ -8,7 +8,7 @@ description: Query metadatdata from sdists / bdists / installed packages. Safer 
 download_url: https://files.pythonhosted.org/packages/90/8d/09cc1c99a30ac14050fc4e04e549e024be83ff72a7f63e75023501baf977/pkginfo2-30.0.0.tar.gz
 holder: Maintained by nexB, Inc. Authored by Tres Seaver, Agendaless Consulting
 holder_contact: tseaver@agendaless.com
-homepage_url: https://github.com/nexB/pkginfo2
+homepage_url: https://github.com/aboutcode-org/pkginfo2
 keywords: distribution sdist installed metadata
 license_expression: mit
 name: pkginfo2

@@ -6,7 +6,7 @@ copyright: |
   Copyright (c) Moz Inc.
   Copyright (c) nexB Inc.
 download_url: https://files.pythonhosted.org/packages/23/21/d176a137e4cc1ec4809534d116e9a06fc5fc0519077530ab5d040e356454/urlpy-0.5.tar.gz
-homepage_url: https://github.com/nexB/urlpy
+homepage_url: https://github.com/aboutcode-org/urlpy
 license_expression: mit
 name: urlpy
 package_url: pkg:pypi/urlpy@0.5

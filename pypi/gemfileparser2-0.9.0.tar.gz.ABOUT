@@ -8,7 +8,7 @@ description: Parse Ruby Gemfile, .gemspec and Cocoapod .podspec files using Pyth
 download_url: https://files.pythonhosted.org/packages/bf/bf/68380f82e21f3d386d0f887999b7b221207eae12e7ff46e2f5a0ac4fc087/gemfileparser2-0.9.0.tar.gz
 holder: Balasankar C, Rohit Potter, nexB. Inc. and others
 holder_contact: info@aboutcode.org
-homepage_url: https://github.com/nexB/gemfileparser2
+homepage_url: https://github.com/aboutcode-org/gemfileparser2
 keywords: Ruby Rubygem Gemfile gemspec Cocoapod podspec
 license_expression: unknown
 name: gemfileparser2
