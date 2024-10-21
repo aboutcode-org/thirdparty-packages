@@ -1,0 +1,13 @@
+about_resource: packaging-24.1-py3-none-any.whl
+attribute: yes
+checksum_md5: baac2b2ad17340cd00b30bd6db5ce024
+checksum_sha1: a050029d1e0c1b95b3ddcd566be4ad352cd42666
+copyright: Copyright (c) Donald Stufft and individual contributors
+download_url: https://files.pythonhosted.org/packages/08/aa/cc0199a5f0ad350994d660967a8efb233fe0416e4639146c089643407ce6/packaging-24.1-py3-none-any.whl
+license_expression: bsd-new OR apache-2.0
+name: packaging
+package_url: pkg:pypi/packaging@24.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '24.1'

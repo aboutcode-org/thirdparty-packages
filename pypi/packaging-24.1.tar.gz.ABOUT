@@ -1,0 +1,13 @@
+about_resource: packaging-24.1.tar.gz
+attribute: yes
+checksum_md5: 99b97d1f30017a62a2aae777a14782d0
+checksum_sha1: c055b5c5cc3f15be382da0bf35a7d57d29662447
+copyright: Copyright (c) Donald Stufft and individual contributors
+download_url: https://files.pythonhosted.org/packages/51/65/50db4dda066951078f0a96cf12f4b9ada6e4b811516bf0262c0f4f7064d4/packaging-24.1.tar.gz
+license_expression: bsd-new OR apache-2.0
+name: packaging
+package_url: pkg:pypi/packaging@24.1
+primary_language: Python
+track_changes: yes
+type: pypi
+version: '24.1'
