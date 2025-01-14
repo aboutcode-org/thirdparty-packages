@@ -1,0 +1,19 @@
+about_resource: go_inspector-0.5.0-py3-none-any.whl
+checksum_md5: 306997a59289690aade8621d31a224ed
+checksum_sha1: 0462f743ed71804cbc62787ce3f5f0e7d26a229c
+copyright: Copyright (c) nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0 AND MIT AND BSD-3-Clause WITH LicenRef-scancode-google-patent-license-golang
+description: go-inspector is a scancode plugin to extract symbols and dependencies found in
+  Go binaries.
+download_url: https://files.pythonhosted.org/packages/86/fc/ab68121476da4da1a133bd82ca6820fe53d1419fefa9afe7491b7efcdc62/go_inspector-0.5.0-py3-none-any.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/go-inspector
+keywords: utilities
+license_expression: apache-2.0 AND bsd-new
+name: go-inspector
+package_url: pkg:pypi/go-inspector@0.5.0
+primary_language: Python
+type: pypi
+version: 0.5.0

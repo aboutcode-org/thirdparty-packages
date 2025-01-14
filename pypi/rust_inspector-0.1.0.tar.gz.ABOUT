@@ -1,0 +1,19 @@
+about_resource: rust_inspector-0.1.0.tar.gz
+checksum_md5: fc447782874475e0ffd15b50e36ca082
+checksum_sha1: d709e7848f2d4a34836f4a34000b36c1f82022ac
+copyright: Copyright (c) nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0 AND MIT
+description: rust-inspector is a scancode plugin to extract symbols and dependencies found in
+  Rust binaries.
+download_url: https://files.pythonhosted.org/packages/43/94/7481d380aafab84b08ba632d1e4b60e6da4524c2a7899bbb156bd3e18ff7/rust_inspector-0.1.0.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/rust-inspector
+keywords: utilities
+license_expression: apache-2.0 AND mit
+name: rust_inspector
+package_url: pkg:pypi/rust-inspector@0.1.0
+primary_language: Python
+type: pypi
+version: 0.1.0
