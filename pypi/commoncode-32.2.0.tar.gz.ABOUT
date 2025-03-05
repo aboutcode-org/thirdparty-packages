@@ -1,0 +1,18 @@
+about_resource: commoncode-32.2.0.tar.gz
+checksum_md5: 06ee778e67ac93136219f204f1933c0a
+checksum_sha1: 501c5d3a2155a9afc411b6f615fd390c1874e49d
+copyright: Copyright (c) nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0
+description: Set of common utilities, originally split from ScanCode
+download_url: https://files.pythonhosted.org/packages/f5/f1/87efc00a87cbf81edfe5b8a95a8c2a679e4468b5895e94008dc73902c8ce/commoncode-32.2.0.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/commoncode
+keywords: utilities,scancode-toolkit
+license_expression: apache-2.0
+name: commoncode
+package_url: pkg:pypi/commoncode@32.2.0
+primary_language: Python
+type: pypi
+version: 32.2.0
