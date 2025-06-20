@@ -1,0 +1,18 @@
+about_resource: PyYAML-6.0.2-cp313-cp313-macosx_10_13_x86_64.whl
+attribute: yes
+checksum_md5: 0de10b76ffc610e6f6c938ed5bfef30b
+checksum_sha1: cd2b078815fbef619de0679d9d3c2c5399caa0cb
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/ef/e3/3af305b830494fa85d95f6d95ef7fa73f2ee1cc8ef5b495c7c3269fb835f/PyYAML-6.0.2-cp313-cp313-macosx_10_13_x86_64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notice_file: PyYAML-6.0.2-cp313-cp313-macosx_10_13_x86_64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0.2
+primary_language: Python
+type: pypi
+version: 6.0.2

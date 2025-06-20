@@ -1,0 +1,18 @@
+about_resource: PyYAML-6.0.2-cp312-cp312-win_amd64.whl
+attribute: yes
+checksum_md5: f8adf16efee1c9cb91dea76899f20fa1
+checksum_sha1: c669c8753aab6350de443d4cfaba63051d9007b6
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/0c/e8/4f648c598b17c3d06e8753d7d13d57542b30d56e6c2dedf9c331ae56312e/PyYAML-6.0.2-cp312-cp312-win_amd64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: PyYAML
+notice_file: PyYAML-6.0.2-cp312-cp312-win_amd64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0.2
+primary_language: Python
+type: pypi
+version: 6.0.2

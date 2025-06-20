@@ -1,0 +1,18 @@
+about_resource: lxml-5.4.0-cp313-cp313-macosx_10_13_universal2.whl
+attribute: yes
+checksum_md5: 1868690478f7fcd2fbdd78e93e7873e8
+checksum_sha1: c5c34e62a9078e37a6c419b543b32ada25ab9a3d
+copyright: Copyright (c) 2004 Infrae.
+description: lxml is the most feature-rich and easy-to-use library for processing XML and HTML
+  in the Python language.
+download_url: https://files.pythonhosted.org/packages/87/cb/2ba1e9dd953415f58548506fa5549a7f373ae55e80c61c9041b7fd09a38a/lxml-5.4.0-cp313-cp313-macosx_10_13_universal2.whl
+homepage_url: http://lxml.de/
+license_expression: bsd-new AND (mit AND gpl-2.0-plus AND zpl-2.0 AND zlib)
+name: lxml
+owner: Infrae
+package_url: pkg:pypi/lxml@5.4.0
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 5.4.0

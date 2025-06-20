@@ -1,0 +1,21 @@
+about_resource: intbitset-4.0.0.tar.gz
+attribute: yes
+checksum_md5: a625dceef38d3d7d803b45ac5c24d843
+checksum_sha1: 9a355f9f3c66116336b545eb785348ee3d41c44f
+contact: http://public.web.cern.ch/public/en/Contact-en.html
+copyright: Copyright (C) CERN and others
+description: Python C-based extension implementing fast integer bit sets
+download_url: https://files.pythonhosted.org/packages/97/28/1461048d37d258c820ed7db3cbb847f5cf39830a1ef671e6ac33b62f3607/intbitset-4.0.0.tar.gz
+homepage_url: https://github.com/inveniosoftware/intbitset
+license_expression: lgpl-3.0-plus
+name: intbitset
+notice_file: intbitset-4.0.0.tar.gz.NOTICE
+owner: CERN
+owner_url: http://public.web.cern.ch/public/
+package_url: pkg:pypi/intbitset@4.0.0
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/inveniosoftware/intbitset
+version: 4.0.0
