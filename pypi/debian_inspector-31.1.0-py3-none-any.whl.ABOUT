@@ -1,0 +1,23 @@
+about_resource: debian_inspector-31.1.0-py3-none-any.whl
+checksum_md5: 2b7c5626ea877850565b30d2bb3225e9
+checksum_sha1: b86f76cbd40f0b23920712c6b4de54c2ce843e86
+copyright: |
+  Copyright (c) nexB Inc. and others. http://nexb.com and https://github.com/nexB/debian_inspector
+  Copyright (c) Peter Odding
+  Copyright (c) Security Innovation, Inc
+  Copyright (c) The Climate Corporation (https://climate.com)
+  Copyright (c) Agustin Henze <tin@sluc.org.ar>
+description: Utilities to parse Debian package, copyright and control files.
+download_url: https://files.pythonhosted.org/packages/09/61/709907d112553b39c8c907f0f90618de58ec87ca4565959d2ad350c84b9f/debian_inspector-31.1.0-py3-none-any.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/nexB/debian_inspector
+keywords: debian,deb822,copyright,package,dependency,license,licensing,dep5,control,dsc,python-debian,dpkg,libapt
+license_expression: apache-2.0 AND bsd-new AND mit
+name: debian-inspector
+notice_file: debian_inspector-31.1.0-py3-none-any.whl.NOTICE
+owner: nexB. Inc. and others
+package_url: pkg:pypi/debian-inspector@31.1.0
+primary_language: Python
+type: pypi
+version: 31.1.0

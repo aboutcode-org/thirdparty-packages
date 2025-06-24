@@ -1,0 +1,15 @@
+about_resource: cryptography-45.0.4-cp37-abi3-macosx_10_9_universal2.whl
+checksum_md5: cee4ba35c49833ed65e96e347fa679d4
+checksum_sha1: d22e03ea430c7482f0a13a54b40441efd068ebd7
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/ce/0b/2488c89f3a30bc821c9d96eeacfcab6ff3accc08a9601ba03339c0fd05e5/cryptography-45.0.4-cp37-abi3-macosx_10_9_universal2.whl
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-45.0.4-cp37-abi3-macosx_10_9_universal2.whl.NOTICE
+package_url: pkg:pypi/cryptography@45.0.4
+primary_language: Python
+type: pypi
+version: 45.0.4

@@ -1,0 +1,15 @@
+about_resource: cryptography-45.0.4-cp311-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+checksum_md5: 514e6fb1041578340878b3e37fb63cb4
+checksum_sha1: bf12285dd6be646d5f66efe9a6eefd9edee9135f
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/67/30/fae1000228634bf0b647fca80403db5ca9e3933b91dd060570689f0bd0f7/cryptography-45.0.4-cp311-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-45.0.4-cp311-abi3-manylinux2014_x86_64.manylinux_2_17_x86_64.whl.NOTICE
+package_url: pkg:pypi/cryptography@45.0.4
+primary_language: Python
+type: pypi
+version: 45.0.4

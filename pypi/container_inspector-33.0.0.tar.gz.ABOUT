@@ -1,0 +1,14 @@
+about_resource: container_inspector-33.0.0.tar.gz
+checksum_md5: 186d90b2be977effa8c87b97beb01547
+checksum_sha1: 6f03ddb6b9cd9625bce79d0a16a432a61bf37169
+copyright: copyright (c) nexB. Inc. and others
+description: Docker, containers, rootfs and virtual machinesrelated utilities.
+download_url: https://files.pythonhosted.org/packages/57/fe/50dd7a684f740bd66ab2969888723fe6c16acff41629fb731e7e131d78bf/container_inspector-33.0.0.tar.gz
+homepage_url: https://github.com/nexB/container-inspector
+keywords: utilities
+license_expression: apache-2.0
+name: container_inspector
+package_url: pkg:pypi/container-inspector@33.0.0
+primary_language: Python
+type: pypi
+version: 33.0.0

@@ -1,0 +1,14 @@
+about_resource: boolean_py-5.0.tar.gz
+attribute: yes
+checksum_md5: 1a7ec75805094c91980b9f11240853c0
+checksum_sha1: acec3e4de326a52b0c3afadf9ce999e1cd9729dc
+copyright: Copyright (c) 2009-2016 Sebastian Kraemer, basti.kr@gmail.com and others
+description: Implements boolean algebra in one module.
+download_url: https://files.pythonhosted.org/packages/c4/cf/85379f13b76f3a69bca86b60237978af17d6aa0bc5998978c3b8cf05abb2/boolean_py-5.0.tar.gz
+homepage_url: https://github.com/bastikr/boolean.py
+license_expression: bsd-simplified
+name: boolean_py
+package_url: pkg:pypi/boolean-py@5.0
+primary_language: Python
+type: pypi
+version: '5.0'

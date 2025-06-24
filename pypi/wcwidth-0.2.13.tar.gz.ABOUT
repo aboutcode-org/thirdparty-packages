@@ -1,0 +1,18 @@
+about_resource: wcwidth-0.2.13.tar.gz
+attribute: yes
+checksum_md5: 5ce8dd9e6993dae268142feb1e605cd8
+checksum_sha1: f99ab9aa358a64a3f47b80a4302264b9c4a042a6
+contact: contact@jeffquast.com
+copyright: Copyright (c) 2014 Jeff Quast <contact@jeffquast.com>
+download_url: https://files.pythonhosted.org/packages/6c/63/53559446a878410fc5a5974feb13d31d78d752eb18aeba59c7fef1af7598/wcwidth-0.2.13.tar.gz
+homepage_url: https://github.com/jquast/wcwidth/
+license_expression: mit AND other-permissive
+name: wcwidth
+notice_file: wcwidth-0.2.13.tar.gz.NOTICE
+owner: Jeff Quast
+owner_url: http://jeffquast.com
+package_url: pkg:pypi/wcwidth@0.2.13
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/jquast/wcwidth/
+version: 0.2.13

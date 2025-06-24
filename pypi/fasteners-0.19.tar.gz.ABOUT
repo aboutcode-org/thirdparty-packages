@@ -1,0 +1,16 @@
+about_resource: fasteners-0.19.tar.gz
+checksum_md5: e957e11c2e00629e44166e1d2881798e
+checksum_sha1: 79516ab8ec401b85ad2be1b5180093ca24cacabb
+copyright: Copyright (c) OpenStack Foundation, Yahoo! Inc. and others
+description: A python package that provides useful locks.
+download_url: https://files.pythonhosted.org/packages/5f/d4/e834d929be54bfadb1f3e3b931c38e956aaa3b235a46a3c764c26c774902/fasteners-0.19.tar.gz
+holder: Joshua Harlow
+holder_contact: harlowja@yahoo-inc.com
+homepage_url: https://github.com/harlowja/fasteners
+keywords: locks thread threads interprocess processes process fasteners
+license_expression: apache-2.0
+name: fasteners
+package_url: pkg:pypi/fasteners@0.19
+primary_language: Python
+type: pypi
+version: '0.19'

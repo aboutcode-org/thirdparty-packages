@@ -1,0 +1,20 @@
+about_resource: six-1.17.0.tar.gz
+attribute: yes
+checksum_md5: a0387fe15662c71057b4fb2b7aa9056a
+checksum_sha1: 8c9bedf28312097645a0e272fec84ac9b1fee76b
+contact: benjamin@python.org
+copyright: Copyright (c) 2010-2011 Benjamin Peterson
+description: Six is a Python 2 and 3 compatibility library. It provides utility functions for
+  smoothing over the differences between the Python versions with the goal of writing Python
+  code that is compatible on both Python versions.
+download_url: https://files.pythonhosted.org/packages/94/e7/b2c673351809dca68a0e064b6af791aa332cf192da575fd474ed7d6f16a2/six-1.17.0.tar.gz
+homepage_url: http://bitbucket.org/gutworth/six
+license_expression: mit
+name: six
+notice_url: https://github.com/benjaminp/six/blob/master/LICENSE
+owner: Benjamin Peterson
+owner_url: http://www.benjamin-peterson.org/
+package_url: pkg:pypi/six@1.17.0
+primary_language: Python
+type: pypi
+version: 1.17.0

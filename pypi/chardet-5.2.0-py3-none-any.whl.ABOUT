@@ -1,0 +1,20 @@
+about_resource: chardet-5.2.0-py3-none-any.whl
+checksum_md5: b9eda7cd7d1582e269bd8eb7ffc4fcad
+checksum_sha1: 2facc0387556aa8a2956ef682d49fc3eae56d30a
+copyright: Copyright (c) Mark Pilgrim, Netscape Communications Corporation, Dan Blanchard, Ian
+  Cordasco and others
+description: Python 2/3 compatible character encoding detector.
+download_url: https://files.pythonhosted.org/packages/38/6f/f5fbc992a329ee4e0f288c1fe0e2ad9485ed064cac731ed2fe47dcc38cbf/chardet-5.2.0-py3-none-any.whl
+homepage_url: https://github.com/chardet/chardet
+keywords: encoding,i18n,xml
+license_expression: lgpl-2.1-plus
+license_file: lgpl-2.1.LICENSE
+name: chardet
+notice_url: https://github.com/chardet/chardet/blob/3.0.4/LICENSE
+owner: chardet Project
+owner_url: https://github.com/chardet
+package_url: pkg:pypi/chardet@5.2.0
+primary_language: Python
+type: pypi
+vcs_url: https://github.com/chardet/chardet.git
+version: 5.2.0

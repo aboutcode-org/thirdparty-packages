@@ -1,0 +1,14 @@
+about_resource: pycparser-2.22.tar.gz
+checksum_md5: 8922b0b1b53b419e3a38fba4aa43a348
+checksum_sha1: e36584394e8d98390572019db85916aef3cd99cd
+copyright: copyright (c) Eli Bendersky
+description: C parser in Python
+download_url: https://files.pythonhosted.org/packages/1d/b2/31537cf4b1ca988837256c910a668b553fceb8f069bedc4b1c826024b52c/pycparser-2.22.tar.gz
+holder_contact: eliben@gmail.com
+homepage_url: https://github.com/eliben/pycparser
+license_expression: bsd-new
+name: pycparser
+package_url: pkg:pypi/pycparser@2.22
+primary_language: Python
+type: pypi
+version: '2.22'

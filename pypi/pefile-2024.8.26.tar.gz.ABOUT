@@ -1,0 +1,16 @@
+about_resource: pefile-2024.8.26.tar.gz
+attribute: yes
+checksum_md5: f511b370db4c80137aadf457a905fa53
+checksum_sha1: f79d43b5ddce49d449fc6946ab7867e7ec8617ee
+copyright: Copyright (c) Ero Carrera <ero.carrera@gmail.com>
+description: Python PE parsing module
+download_url: https://files.pythonhosted.org/packages/03/4f/2750f7f6f025a1507cd3b7218691671eecfd0bbebebe8b39aa0fe1d360b8/pefile-2024.8.26.tar.gz
+homepage_url: https://github.com/erocarrera/pefile
+keywords: pe,exe,dll,pefile,pecoff
+license_expression: mit
+name: pefile
+owner: Ero Carrera
+package_url: pkg:pypi/pefile@2024.8.26
+primary_language: Python
+type: pypi
+version: 2024.8.26

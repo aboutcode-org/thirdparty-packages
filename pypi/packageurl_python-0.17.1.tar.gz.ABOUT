@@ -1,0 +1,12 @@
+about_resource: packageurl_python-0.17.1.tar.gz
+attribute: yes
+checksum_md5: bc2a019812c3f3afe2186b18bcc4319c
+checksum_sha1: dfbb806b3c9d780b75935bb5c6b8b409530ff0ed
+copyright: Copyright (c) the purl authors
+download_url: https://files.pythonhosted.org/packages/a9/b6/d28c4fa7535530879e7d64176f7ff081fb6308b50cac8e30f038a89e8fdd/packageurl_python-0.17.1.tar.gz
+license_expression: mit
+name: packageurl_python
+package_url: pkg:pypi/packageurl-python@0.17.1
+primary_language: Python
+type: pypi
+version: 0.17.1

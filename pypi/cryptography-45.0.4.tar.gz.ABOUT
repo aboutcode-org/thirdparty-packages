@@ -1,0 +1,15 @@
+about_resource: cryptography-45.0.4.tar.gz
+checksum_md5: 6d8a9d089f9c434c200e51d53cfa2ea5
+checksum_sha1: d9d4a73ce4c401fea4389f4f52942448cef45429
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/fe/c8/a2a376a8711c1e11708b9c9972e0c3223f5fc682552c82d8db844393d6ce/cryptography-45.0.4.tar.gz
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-45.0.4.tar.gz.NOTICE
+package_url: pkg:pypi/cryptography@45.0.4
+primary_language: Python
+type: pypi
+version: 45.0.4

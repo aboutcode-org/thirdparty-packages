@@ -1,0 +1,16 @@
+about_resource: pefile-2024.8.26-py3-none-any.whl
+attribute: yes
+checksum_md5: b6c7d2bd569fe4c2f471febc9c911f05
+checksum_sha1: 2b04dd6e0df4e0162bcc21465e17d3539da8faf9
+copyright: Copyright (c) Ero Carrera <ero.carrera@gmail.com>
+description: Python PE parsing module
+download_url: https://files.pythonhosted.org/packages/54/16/12b82f791c7f50ddec566873d5bdd245baa1491bac11d15ffb98aecc8f8b/pefile-2024.8.26-py3-none-any.whl
+homepage_url: https://github.com/erocarrera/pefile
+keywords: pe,exe,dll,pefile,pecoff
+license_expression: mit
+name: pefile
+owner: Ero Carrera
+package_url: pkg:pypi/pefile@2024.8.26
+primary_language: Python
+type: pypi
+version: 2024.8.26

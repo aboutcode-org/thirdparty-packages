@@ -1,0 +1,13 @@
+about_resource: attrs-25.3.0-py3-none-any.whl
+attribute: yes
+checksum_md5: a14ebc7e5f8ba18887b09460ada729e6
+checksum_sha1: b5f8661d64a8a4b81c262f668436641ecbbd56e2
+copyright: Copyright (c) Hynek Schlawack
+download_url: https://files.pythonhosted.org/packages/77/06/bb80f5f86020c4551da315d78b3ab75e8228f89f0162f2c3a819e407941a/attrs-25.3.0-py3-none-any.whl
+homepage_url: https://www.attrs.org/
+license_expression: mit
+name: attrs
+package_url: pkg:pypi/attrs@25.3.0
+primary_language: Python
+type: pypi
+version: 25.3.0

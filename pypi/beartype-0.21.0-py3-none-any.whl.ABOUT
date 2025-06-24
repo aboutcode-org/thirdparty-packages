@@ -1,0 +1,20 @@
+about_resource: beartype-0.21.0-py3-none-any.whl
+checksum_md5: f6e5a28d6da8ed431e02e85ec0a69bd9
+checksum_sha1: b1e9f85a9cee1c86a5a7dae807094d0369e57aed
+copyright: Copyright (c) Cecil Curry, et al. <leycec@gmail.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Unbearably fast runtime type checking in pure Python.
+download_url: https://files.pythonhosted.org/packages/94/31/87045d1c66ee10a52486c9d2047bc69f00f2689f69401bb1e998afb4b205/beartype-0.21.0-py3-none-any.whl
+holder: Cecil Curry, et al.
+holder_contact: leycec@gmail.com
+homepage_url: https://beartype.readthedocs.io
+keywords: type checking,type hints,PEP 483,PEP 484,PEP 544,PEP 563,PEP 585,PEP 586,PEP 589,PEP
+  593,PEP 604,PEP 3141
+license_expression: mit
+name: beartype
+package_url: pkg:pypi/beartype@0.21.0
+primary_language: Python
+type: pypi
+version: 0.21.0

@@ -1,0 +1,22 @@
+about_resource: pdfminer_six-20250506.tar.gz
+attribute: yes
+checksum_md5: f6762cc68a84f9dc9e1f418fe5ced91b
+checksum_sha1: 409868bca84c82b7f84d094e0fa03c881b6070c4
+contact: pdfminer@goulu.net
+copyright: Copyright (c) Yusuke Shinyama <yusuke at shinyama dot jp> and contributors
+description: 'PDFMiner.six is a fork of PDFMiner using six for Python 2+3 compatibility the
+  cmapsrc directory contains Adobe files: This directory contains Adobe CMap resources. CMaps
+  are required to decode text data written in CJK (Chinese, Japanese, Korean) language. CMap
+  resources are now available freely from Adobe web site: http://opensource.adobe.com/wiki/display/cmap/CMap+Resources'
+download_url: https://files.pythonhosted.org/packages/78/46/5223d613ac4963e1f7c07b2660fe0e9e770102ec6bda8c038400113fb215/pdfminer_six-20250506.tar.gz
+homepage_url: https://github.com/pdfminer/pdfminer.six
+license_expression: mit AND bsd-new
+name: pdfminer_six
+notice_file: pdfminer_six-20250506.tar.gz.NOTICE
+owner: pdfminer
+owner_url: https://github.com/pdfminer
+package_url: pkg:pypi/pdfminer-six@20250506
+primary_language: Python
+type: pypi
+vcs_url: https://github.com/pdfminer/pdfminer.six
+version: 20250506

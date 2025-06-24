@@ -1,0 +1,18 @@
+about_resource: importlib_metadata-6.2.1-py3-none-any.whl
+attribute: yes
+checksum_md5: 2519a247f5afee592f495c8996cf7f33
+checksum_sha1: d479d43ed101a0162e4fb1640ae1a9d0406354ac
+copyright: copyright Jason R. Coombs, Barry Warsaw
+download_url: https://files.pythonhosted.org/packages/63/bb/1622fce2a3efb66ec1c223f7bdba6eec49a443d436da092668787d7f19b3/importlib_metadata-6.2.1-py3-none-any.whl
+homepage_url: https://gitlab.com/python-devs/importlib_metadata/
+license_expression: apache-2.0
+name: importlib-metadata
+notice_file: importlib_metadata-6.2.1-py3-none-any.whl.NOTICE
+owner: python-devs
+owner_url: https://gitlab.com/python-devs
+package_url: pkg:pypi/importlib-metadata@6.2.1
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_repository: https://gitlab.com/python-devs/importlib_metadata.git
+version: 6.2.1

@@ -1,0 +1,13 @@
+about_resource: dockerfile-parse-2.0.1.tar.gz
+checksum_md5: 323d2d89cca3ed346b0204fd00562a0d
+checksum_sha1: 945f7b9e7ba1f02fc0889bc8b3d4e89197aa6b3a
+copyright: Copyright (c) Jiri Popelka <jpopelka@redhat.com>
+description: Python library for Dockerfile manipulation
+download_url: https://files.pythonhosted.org/packages/92/df/929ee0b5d2c8bd8d713c45e71b94ab57c7e11e322130724d54f469b2cd48/dockerfile-parse-2.0.1.tar.gz
+homepage_url: https://github.com/containerbuildsystem/dockerfile-parse
+license_expression: bsd-new
+name: dockerfile-parse
+package_url: pkg:pypi/dockerfile-parse@2.0.1
+primary_language: Python
+type: pypi
+version: 2.0.1

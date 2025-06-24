@@ -1,0 +1,14 @@
+about_resource: javaproperties-0.8.2.tar.gz
+attribute: yes
+checksum_md5: 9836b28fddd13b07649b3fe37dfe9d1c
+checksum_sha1: 01b0f50109e4bb29a01bc33a7bbce566ba90ebbb
+copyright: Copyright (c) John Thorvald Wodder II
+description: Python library for reading & writing Java .properties files
+download_url: https://files.pythonhosted.org/packages/62/b6/366850e576cc9052b0f5ace2b554d061be9370d95c08b69d0de7212591b2/javaproperties-0.8.2.tar.gz
+homepage_url: https://github.com/jwodder/javaproperties
+license_expression: mit
+name: javaproperties
+package_url: pkg:pypi/javaproperties@0.8.2
+primary_language: Python
+type: pypi
+version: 0.8.2
