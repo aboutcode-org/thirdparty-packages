@@ -1,0 +1,17 @@
+about_resource: markupsafe-3.0.3-cp312-cp312-macosx_10_13_x86_64.whl
+attribute: yes
+checksum_md5: 5e6e0fa3bd5c2ed6dfb7aee4f017a457
+checksum_sha1: 3724696fa20162714a58f5b16a9975f4dc1174a2
+contact: armin.ronacher@active-4.com
+copyright: Copyright (c) Armin Ronacher
+description: Implements an XML/HTML/XHTML Markup safe string for Python
+download_url: https://files.pythonhosted.org/packages/5a/72/147da192e38635ada20e0a2e1a51cf8823d2119ce8883f7053879c2199b5/markupsafe-3.0.3-cp312-cp312-macosx_10_13_x86_64.whl
+homepage_url: https://pypi.python.org/pypi/MarkupSafe/
+license_expression: bsd-new
+name: markupsafe
+owner: Armin Ronacher
+owner_url: http://lucumr.pocoo.org/about/
+package_url: pkg:pypi/markupsafe@3.0.3
+primary_language: Python
+type: pypi
+version: 3.0.3

@@ -1,0 +1,13 @@
+about_resource: tomli-2.3.0-cp312-cp312-macosx_10_13_x86_64.whl
+checksum_md5: 924a359c8d648ec1989e6362d39c9e97
+checksum_sha1: 5b0e5c775531bb07312ed7552e7d81fde900f70c
+copyright: copyright (c) Taneli Hukkinen <hukkin@users.noreply.github.com>
+description: A lil' TOML parser
+download_url: https://files.pythonhosted.org/packages/ff/b7/40f36368fcabc518bb11c8f06379a0fd631985046c038aca08c6d6a43c6e/tomli-2.3.0-cp312-cp312-macosx_10_13_x86_64.whl
+keywords: toml
+license_expression: mit
+name: tomli
+package_url: pkg:pypi/tomli@2.3.0
+primary_language: Python
+type: pypi
+version: 2.3.0

@@ -1,0 +1,16 @@
+about_resource: multiregex-2.0.3.tar.gz
+checksum_md5: 781871e73605750ee6020d3cfd3a4cc1
+checksum_sha1: 69530e3dc6e56f360d2cfb458fd97fa7a5ddc6a5
+copyright: Copyright (c) None <"QuantCo, Inc." <noreply@quantco.com>, Jonas Haag <jonas@lophus.org>>
+declared_license:
+  -
+description: Quickly match many regexes against a string. Provides 2-10x speedups over naïve
+  regex matching.
+download_url: https://files.pythonhosted.org/packages/32/a7/0f6da6a68ef59be423d1c96a87827a390a4c0e1e91669ce86d079cc5b66e/multiregex-2.0.3.tar.gz
+holder_contact: '"QuantCo, Inc." <noreply@quantco.com>, Jonas Haag <jonas@lophus.org>'
+license_expression: unknown
+name: multiregex
+package_url: pkg:pypi/multiregex@2.0.3
+primary_language: Python
+type: pypi
+version: 2.0.3
