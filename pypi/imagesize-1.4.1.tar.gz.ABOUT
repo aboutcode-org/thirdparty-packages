@@ -1,0 +1,18 @@
+about_resource: imagesize-1.4.1.tar.gz
+checksum_md5: 5a40586a25c07e1a8f16f6267252c321
+checksum_sha1: 89627e703f80c3ad2a77cc8168d85d119e71dcbe
+copyright: Copyright (c) Yoshiki Shibukawa <yoshiki@shibu.jp>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Getting image size from png/jpeg/jpeg2000/gif file
+download_url: https://files.pythonhosted.org/packages/a7/84/62473fb57d61e31fef6e36d64a179c8781605429fd927b5dd608c997be31/imagesize-1.4.1.tar.gz
+holder: Yoshiki Shibukawa
+holder_contact: yoshiki@shibu.jp
+homepage_url: https://github.com/shibukawa/imagesize_py
+license_expression: mit
+name: imagesize
+package_url: pkg:pypi/imagesize@1.4.1
+primary_language: Python
+type: pypi
+version: 1.4.1

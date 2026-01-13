@@ -1,0 +1,20 @@
+about_resource: certifi-2026.1.4.tar.gz
+attribute: yes
+checksum_md5: d8447ad858fa15af16f91e32f182aa85
+checksum_sha1: a016cddfefcb86a4e7ec3f9427a70e27b1a6df31
+copyright: Copyright (c) Mozilla Contributors, packaged by Kenneth Reitz and others
+description: Certifi is a carefully curated collection of Root Certificates for validating the
+  trustworthiness of SSL certificates while verifying the identity of TLS hosts. It has been
+  extracted from the Requests project.
+download_url: https://files.pythonhosted.org/packages/e0/2d/a891ca51311197f6ad14a7ef42e2399f36cf2f9bd44752b3dc4eab60fdc5/certifi-2026.1.4.tar.gz
+homepage_url: https://certifi.io/en/latest/
+license_expression: mpl-2.0
+name: certifi
+notice_file: certifi-2026.1.4.tar.gz.NOTICE
+owner: Kenneth Reitz
+package_url: pkg:pypi/certifi@2026.1.4
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 2026.1.4

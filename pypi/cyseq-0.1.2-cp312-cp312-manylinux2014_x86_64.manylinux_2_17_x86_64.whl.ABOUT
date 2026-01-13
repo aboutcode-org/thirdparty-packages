@@ -1,0 +1,18 @@
+about_resource: cyseq-0.1.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+checksum_md5: fb0641932f835debb7da46c3b789eda2
+checksum_sha1: d4d2d966d5e30ca43170bd2e5600ea414028ad13
+copyright: Copyright (c) nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0
+description: '"A Cython version of ScanCode-toolkit''s licensedcode.seq"'
+download_url: https://files.pythonhosted.org/packages/67/65/cbc6a134d47c9cc74077b4f56c89309c1ff921e6a46ce45a3fac7adbbf37/cyseq-0.1.2-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/aboutcode-org/cyseq
+keywords: utilities
+license_expression: apache-2.0
+name: cyseq
+package_url: pkg:pypi/cyseq@0.1.2
+primary_language: Python
+type: pypi
+version: 0.1.2

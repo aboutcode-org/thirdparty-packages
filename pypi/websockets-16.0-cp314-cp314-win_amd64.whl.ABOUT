@@ -1,0 +1,16 @@
+about_resource: websockets-16.0-cp314-cp314-win_amd64.whl
+checksum_md5: d0e6dc5125d577da3d3013aadf458607
+checksum_sha1: 6dcc6fe93534d37546246be57def8920e0674451
+copyright: Copyright (c) None <Aymeric Augustin <aymeric.augustin@m4x.org>>
+declared_license:
+  -
+description: An implementation of the WebSocket Protocol (RFC 6455 & 7692)
+download_url: https://files.pythonhosted.org/packages/8a/f1/ae6b937bf3126b5134ce1f482365fde31a357c784ac51852978768b5eff4/websockets-16.0-cp314-cp314-win_amd64.whl
+holder_contact: Aymeric Augustin <aymeric.augustin@m4x.org>
+keywords: WebSocket
+license_expression: unknown
+name: websockets
+package_url: pkg:pypi/websockets@16.0
+primary_language: Python
+type: pypi
+version: '16.0'

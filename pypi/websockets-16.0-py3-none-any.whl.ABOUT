@@ -1,0 +1,16 @@
+about_resource: websockets-16.0-py3-none-any.whl
+checksum_md5: 82395114e2e0d28e970801b58f1afd4f
+checksum_sha1: ce069b3e19f7685eca944b878924a16c69a3f5ec
+copyright: Copyright (c) None <Aymeric Augustin <aymeric.augustin@m4x.org>>
+declared_license:
+  -
+description: An implementation of the WebSocket Protocol (RFC 6455 & 7692)
+download_url: https://files.pythonhosted.org/packages/6f/28/258ebab549c2bf3e64d2b0217b973467394a9cea8c42f70418ca2c5d0d2e/websockets-16.0-py3-none-any.whl
+holder_contact: Aymeric Augustin <aymeric.augustin@m4x.org>
+keywords: WebSocket
+license_expression: unknown
+name: websockets
+package_url: pkg:pypi/websockets@16.0
+primary_language: Python
+type: pypi
+version: '16.0'

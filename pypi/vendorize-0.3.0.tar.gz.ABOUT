@@ -1,0 +1,18 @@
+about_resource: vendorize-0.3.0.tar.gz
+checksum_md5: 03b91026551cc64789e5b0f3c710d6ed
+checksum_sha1: 9ef7bbaebda16c7512c3145f6bcb2427d4f2020a
+copyright: Copyright (c) Michael Williamson <mike@zwobble.org>
+declared_license:
+  - BSD-2-Clause
+description: Vendorize packages from PyPI
+download_url: https://files.pythonhosted.org/packages/b5/80/84e3070c19d294b1c8036d337d4900da0bee2cd1b30fb3e72638bacbc884/vendorize-0.3.0.tar.gz
+holder: Michael Williamson
+holder_contact: mike@zwobble.org
+homepage_url: http://github.com/mwilliamson/python-vendorize
+keywords: vendor vendorize
+license_expression: bsd-simplified
+name: vendorize
+package_url: pkg:pypi/vendorize@0.3.0
+primary_language: Python
+type: pypi
+version: 0.3.0

@@ -1,0 +1,18 @@
+about_resource: wcwidth-0.2.14-py2.py3-none-any.whl
+attribute: yes
+checksum_md5: 73ab4b7a94fe638ad4d59cb9d17ebc89
+checksum_sha1: 727758b43b2a3aabf93f744969f7a16d3c3c29eb
+contact: contact@jeffquast.com
+copyright: Copyright (c) 2014 Jeff Quast <contact@jeffquast.com>
+download_url: https://files.pythonhosted.org/packages/af/b5/123f13c975e9f27ab9c0770f514345bd406d0e8d3b7a0723af9d43f710af/wcwidth-0.2.14-py2.py3-none-any.whl
+homepage_url: https://github.com/jquast/wcwidth/
+license_expression: mit AND other-permissive
+name: wcwidth
+notice_file: wcwidth-0.2.14-py2.py3-none-any.whl.NOTICE
+owner: Jeff Quast
+owner_url: http://jeffquast.com
+package_url: pkg:pypi/wcwidth@0.2.14
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/jquast/wcwidth/
+version: 0.2.14

@@ -1,0 +1,18 @@
+about_resource: stevedore-5.6.0-py3-none-any.whl
+checksum_md5: 852ca7cfd18c6df8a71c214d275c5b73
+checksum_sha1: c24cbcc771ded2aed7d9de0610a7f82fd9522233
+copyright: Copyright (c) OpenStack <openstack-discuss@lists.openstack.org>
+declared_license:
+  - UNKNOWN
+  - 'License :: OSI Approved :: Apache Software License'
+description: Manage dynamic plugins for Python applications
+download_url: https://files.pythonhosted.org/packages/f4/40/8561ce06dc46fd17242c7724ab25b257a2ac1b35f4ebf551b40ce6105cfa/stevedore-5.6.0-py3-none-any.whl
+holder: OpenStack
+holder_contact: openstack-discuss@lists.openstack.org
+homepage_url: https://docs.openstack.org/stevedore/latest/
+license_expression: unknown AND apache-2.0
+name: stevedore
+package_url: pkg:pypi/stevedore@5.6.0
+primary_language: Python
+type: pypi
+version: 5.6.0

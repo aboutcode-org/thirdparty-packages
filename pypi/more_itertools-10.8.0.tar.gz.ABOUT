@@ -1,0 +1,20 @@
+about_resource: more_itertools-10.8.0.tar.gz
+attribute: yes
+checksum_md5: 05fc46d7baf167d89c82a383c9f0c2fa
+checksum_sha1: d4d432573480f6105c2bb6a1d7493627efeef3d9
+contact: grinch@grinchcentral.com
+copyright: Copyright (c) Erik Rose
+description: More routines for operating on iterables, beyond itertools
+download_url: https://files.pythonhosted.org/packages/ea/5d/38b681d3fce7a266dd9ab73c66959406d565b3e85f21d5e66e1181d93721/more_itertools-10.8.0.tar.gz
+homepage_url: https://github.com/erikrose/more-itertools
+license_expression: mit
+name: more_itertools
+notice_file: more_itertools-10.8.0.tar.gz.NOTICE
+notice_url: https://github.com/erikrose/more-itertools/blob/5.0.0/LICENSE
+owner: Erik Rose
+owner_url: http://www.grinchcentral.com/
+package_url: pkg:pypi/more-itertools@10.8.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/erikrose/more-itertools
+version: 10.8.0

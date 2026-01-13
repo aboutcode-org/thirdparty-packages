@@ -1,0 +1,17 @@
+about_resource: watchfiles-1.1.1-cp313-cp313-macosx_10_12_x86_64.whl
+checksum_md5: 4713dc0a471cb57b934c4c3d0c529f3b
+checksum_sha1: 8933af42f662ffadec61b31e6640223b1ea749a0
+copyright: Copyright (c) None <Samuel Colvin <s@muelcolvin.com>>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: Simple, modern and high performance file watching and code reload in python.
+download_url: https://files.pythonhosted.org/packages/bb/f4/f750b29225fe77139f7ae5de89d4949f5a99f934c65a1f1c0b248f26f747/watchfiles-1.1.1-cp313-cp313-macosx_10_12_x86_64.whl
+holder_contact: Samuel Colvin <s@muelcolvin.com>
+homepage_url: https://github.com/samuelcolvin/watchfiles
+license_expression: mit
+name: watchfiles
+package_url: pkg:pypi/watchfiles@1.1.1
+primary_language: Python
+type: pypi
+version: 1.1.1

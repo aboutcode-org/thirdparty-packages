@@ -1,0 +1,18 @@
+about_resource: importlib_metadata-8.7.1.tar.gz
+attribute: yes
+checksum_md5: 4edb62e77e945bf4b898ea6427dcc7bd
+checksum_sha1: d88a97865086020b0b32ad9219c4261a79fb5b17
+copyright: copyright Jason R. Coombs, Barry Warsaw
+download_url: https://files.pythonhosted.org/packages/f3/49/3b30cad09e7771a4982d9975a8cbf64f00d4a1ececb53297f1d9a7be1b10/importlib_metadata-8.7.1.tar.gz
+homepage_url: https://gitlab.com/python-devs/importlib_metadata/
+license_expression: apache-2.0
+name: importlib_metadata
+notice_file: importlib_metadata-8.7.1.tar.gz.NOTICE
+owner: python-devs
+owner_url: https://gitlab.com/python-devs
+package_url: pkg:pypi/importlib-metadata@8.7.1
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_repository: https://gitlab.com/python-devs/importlib_metadata.git
+version: 8.7.1

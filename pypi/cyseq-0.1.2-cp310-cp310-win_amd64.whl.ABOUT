@@ -1,0 +1,18 @@
+about_resource: cyseq-0.1.2-cp310-cp310-win_amd64.whl
+checksum_md5: 6de684f88614aab4752f726723574398
+checksum_sha1: cf4bc3f1fb9ea212c9d34cfb270f98f95eb527a8
+copyright: Copyright (c) nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0
+description: '"A Cython version of ScanCode-toolkit''s licensedcode.seq"'
+download_url: https://files.pythonhosted.org/packages/03/95/6c69e84c7df4bb731c9cd02adb4e5123deb50e83e4704a1a232c03a4c41a/cyseq-0.1.2-cp310-cp310-win_amd64.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/aboutcode-org/cyseq
+keywords: utilities
+license_expression: apache-2.0
+name: cyseq
+package_url: pkg:pypi/cyseq@0.1.2
+primary_language: Python
+type: pypi
+version: 0.1.2

@@ -1,0 +1,15 @@
+about_resource: charset_normalizer-3.4.4-cp310-cp310-macosx_10_9_universal2.whl
+checksum_md5: b75a493852d29f306d4955366ec37c25
+checksum_sha1: cd1095a701b38a5e21dee4a1884337279481f845
+copyright: Ahmed TAHRI @Ousret <ahmed.tahri@cloudnursery.dev>
+description: The Real First Universal Charset Detector. Open, modern and actively maintained
+  alternative to Chardet.
+download_url: https://files.pythonhosted.org/packages/1f/b8/6d51fc1d52cbd52cd4ccedd5b5b2f0f6a11bbf6765c782298b0f3e808541/charset_normalizer-3.4.4-cp310-cp310-macosx_10_9_universal2.whl
+homepage_url: https://github.com/ousret/charset_normalizer
+keywords: encoding,i18n,txt,text,charset,charset-detector,normalization,unicode,chardet
+license_expression: mit
+name: charset-normalizer
+package_url: pkg:pypi/charset-normalizer@3.4.4
+primary_language: Python
+type: pypi
+version: 3.4.4

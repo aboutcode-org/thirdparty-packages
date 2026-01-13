@@ -1,0 +1,15 @@
+about_resource: jaraco_functools-4.4.0.tar.gz
+attribute: yes
+checksum_md5: 501918900674199182b1bfa39db200b6
+checksum_sha1: 60ef9fcc40a94c3aa8adbf800c59bbe41061ff35
+copyright: Copyright Jason R. Coombs
+description: Functools like those found in stdlib
+download_url: https://files.pythonhosted.org/packages/0f/27/056e0638a86749374d6f57d0b0db39f29509cce9313cf91bdc0ac4d91084/jaraco_functools-4.4.0.tar.gz
+homepage_url: https://github.com/jaraco/jaraco.functools
+license_expression: mit
+name: jaraco_functools
+owner: Jason R. Coombs
+package_url: pkg:pypi/jaraco-functools@4.4.0
+primary_language: Python
+type: pypi
+version: 4.4.0

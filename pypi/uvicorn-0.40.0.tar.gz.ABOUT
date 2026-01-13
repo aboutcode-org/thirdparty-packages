@@ -1,0 +1,15 @@
+about_resource: uvicorn-0.40.0.tar.gz
+checksum_md5: 9f7303c20d72660dc37ac54d697d0881
+checksum_sha1: f987d91cfd284d176a3870787c04df8f13139148
+copyright: Copyright (c) None <Tom Christie <tom@tomchristie.com>>
+declared_license:
+  -
+description: The lightning-fast ASGI server.
+download_url: https://files.pythonhosted.org/packages/c3/d1/8f3c683c9561a4e6689dd3b1d345c815f10f86acd044ee1fb9a4dcd0b8c5/uvicorn-0.40.0.tar.gz
+holder_contact: Tom Christie <tom@tomchristie.com>
+license_expression: unknown
+name: uvicorn
+package_url: pkg:pypi/uvicorn@0.40.0
+primary_language: Python
+type: pypi
+version: 0.40.0

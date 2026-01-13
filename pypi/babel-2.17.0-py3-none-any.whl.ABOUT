@@ -1,0 +1,18 @@
+about_resource: babel-2.17.0-py3-none-any.whl
+checksum_md5: 9f82d6eb8096399a44d03e50ae10494e
+checksum_sha1: e913528e3bbff33dfab3f85e570e82c170272399
+copyright: Copyright (c) Armin Ronacher <armin.ronacher@active-4.com>
+declared_license:
+  - BSD
+  - 'License :: OSI Approved :: BSD License'
+description: Internationalization utilities
+download_url: https://files.pythonhosted.org/packages/b7/b8/3fe70c75fe32afc4bb507f75563d39bc5642255d1d94f1f23604725780bf/babel-2.17.0-py3-none-any.whl
+holder: Armin Ronacher
+holder_contact: armin.ronacher@active-4.com
+homepage_url: http://babel.pocoo.org/
+license_expression: unknown AND bsd-new
+name: babel
+package_url: pkg:pypi/babel@2.17.0
+primary_language: Python
+type: pypi
+version: 2.17.0

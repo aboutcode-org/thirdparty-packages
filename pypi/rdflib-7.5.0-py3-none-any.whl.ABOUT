@@ -1,0 +1,19 @@
+about_resource: rdflib-7.5.0-py3-none-any.whl
+attribute: yes
+checksum_md5: 782d252d379622d2a00a8cf30dd2348f
+checksum_sha1: dde359fb68942cd4c7f40d87805278e91a6441f9
+copyright: Copyright (c) 2002-2015, RDFLib Team
+description: RDFLib is a Python library for working with RDF, a simple yet powerful language
+  for representing information.
+download_url: https://files.pythonhosted.org/packages/b9/20/35d2baebacf357b562bd081936b66cd845775442973cb033a377fd639a84/rdflib-7.5.0-py3-none-any.whl
+homepage_url: https://github.com/RDFLib/rdflib
+license_expression: bsd-new AND w3c AND w3c-software-19980720 AND lgpl-2.1-plus AND (gpl-2.0
+  OR bsd-new OR w3c OR mit)
+name: rdflib
+notice_file: rdflib-7.5.0-py3-none-any.whl.NOTICE
+package_url: pkg:pypi/rdflib@7.5.0
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 7.5.0

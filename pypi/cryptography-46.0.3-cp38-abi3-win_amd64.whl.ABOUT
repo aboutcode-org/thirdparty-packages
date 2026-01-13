@@ -1,0 +1,15 @@
+about_resource: cryptography-46.0.3-cp38-abi3-win_amd64.whl
+checksum_md5: 0d4b67bb75cbae8f9701609f9c9167d0
+checksum_sha1: a005e682a29ba94901be4bc1479fb6f3c62938b7
+copyright: copyright (c) The cryptography developers
+description: cryptography is a package which provides cryptographic recipes and primitives to
+  Python developers.
+download_url: https://files.pythonhosted.org/packages/90/45/b0d691df20633eff80955a0fc7695ff9051ffce8b69741444bd9ed7bd0db/cryptography-46.0.3-cp38-abi3-win_amd64.whl
+homepage_url: https://github.com/pyca/cryptography
+license_expression: (apache-2.0 OR bsd-new) AND python
+name: cryptography
+notice_file: cryptography-46.0.3-cp38-abi3-win_amd64.whl.NOTICE
+package_url: pkg:pypi/cryptography@46.0.3
+primary_language: Python
+type: pypi
+version: 46.0.3

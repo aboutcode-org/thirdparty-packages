@@ -1,0 +1,18 @@
+about_resource: importlib_metadata-8.7.1-py3-none-any.whl
+attribute: yes
+checksum_md5: 17518a8b7a8a452aa0fc16b98333a468
+checksum_sha1: 19b0d155f9873ab342c98c05aa7fdcb1b546d4eb
+copyright: copyright Jason R. Coombs, Barry Warsaw
+download_url: https://files.pythonhosted.org/packages/fa/5e/f8e9a1d23b9c20a551a8a02ea3637b4642e22c2626e3a13a9a29cdea99eb/importlib_metadata-8.7.1-py3-none-any.whl
+homepage_url: https://gitlab.com/python-devs/importlib_metadata/
+license_expression: apache-2.0
+name: importlib-metadata
+notice_file: importlib_metadata-8.7.1-py3-none-any.whl.NOTICE
+owner: python-devs
+owner_url: https://gitlab.com/python-devs
+package_url: pkg:pypi/importlib-metadata@8.7.1
+primary_language: Python
+track_changes: yes
+type: pypi
+vcs_repository: https://gitlab.com/python-devs/importlib_metadata.git
+version: 8.7.1

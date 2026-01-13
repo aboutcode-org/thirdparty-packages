@@ -1,0 +1,18 @@
+about_resource: beautifulsoup4-4.14.3.tar.gz
+attribute: yes
+checksum_md5: c7e801c7d4e2300c1112eeb0b21ccb9b
+checksum_sha1: 104ca5496607bbaef07419f5d01fa204e22a5b38
+copyright: |
+  Copyright (c) Leonard Richardson
+  Copyright (c) James Graham and other contributors
+  Copyright (c) Isaac Muse
+description: Screen-scraping library
+download_url: https://files.pythonhosted.org/packages/c3/b0/1c6a16426d389813b48d95e26898aff79abbde42ad353958ad95cc8c9b21/beautifulsoup4-4.14.3.tar.gz
+homepage_url: http://www.crummy.com/software/BeautifulSoup/bs4/
+license_expression: mit
+name: beautifulsoup4
+owner: Leonard Richardson
+package_url: pkg:pypi/beautifulsoup4@4.14.3
+primary_language: Python
+type: pypi
+version: 4.14.3

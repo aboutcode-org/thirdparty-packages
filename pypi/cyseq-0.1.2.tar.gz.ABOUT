@@ -1,0 +1,18 @@
+about_resource: cyseq-0.1.2.tar.gz
+checksum_md5: e2cb258142c74964d2d4f6ef000c3996
+checksum_sha1: 5568cd49b6323aa5a47659cb192cf5fc44bcd14a
+copyright: Copyright (c) nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0
+description: '"A Cython version of ScanCode-toolkit''s licensedcode.seq"'
+download_url: https://files.pythonhosted.org/packages/89/c6/1312d6de12f07bbcc208419191d97a9d90f77869a19bd3b0e80b601a5961/cyseq-0.1.2.tar.gz
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/aboutcode-org/cyseq
+keywords: utilities
+license_expression: apache-2.0
+name: cyseq
+package_url: pkg:pypi/cyseq@0.1.2
+primary_language: Python
+type: pypi
+version: 0.1.2

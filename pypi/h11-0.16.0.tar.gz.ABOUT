@@ -1,0 +1,18 @@
+about_resource: h11-0.16.0.tar.gz
+checksum_md5: af51401a776fd654cfd98a197af9f21f
+checksum_sha1: 0e688cdc149b713fa7d36909eccba687846f80f1
+copyright: Copyright (c) Nathaniel J. Smith <njs@pobox.com>
+declared_license:
+  - MIT
+  - 'License :: OSI Approved :: MIT License'
+description: A pure-Python, bring-your-own-I/O implementation of HTTP/1.1
+download_url: https://files.pythonhosted.org/packages/01/ee/02a2c011bdab74c6fb3c75474d40b3052059d95df7e73351460c8588d963/h11-0.16.0.tar.gz
+holder: Nathaniel J. Smith
+holder_contact: njs@pobox.com
+homepage_url: https://github.com/python-hyper/h11
+license_expression: mit
+name: h11
+package_url: pkg:pypi/h11@0.16.0
+primary_language: Python
+type: pypi
+version: 0.16.0

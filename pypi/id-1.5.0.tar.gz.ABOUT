@@ -1,0 +1,15 @@
+about_resource: id-1.5.0.tar.gz
+checksum_md5: 0dfa778f2fc740c95abd990209aa0036
+checksum_sha1: 553ca65e78a84bb9f3e83ea8b5c9e7ff64f2d79c
+copyright: Copyright (c) None <None>
+declared_license:
+  -
+  - 'License :: OSI Approved :: Apache Software License'
+description: A tool for generating OIDC identities
+download_url: https://files.pythonhosted.org/packages/22/11/102da08f88412d875fa2f1a9a469ff7ad4c874b0ca6fed0048fe385bdb3d/id-1.5.0.tar.gz
+license_expression: apache-2.0
+name: id
+package_url: pkg:pypi/id@1.5.0
+primary_language: Python
+type: pypi
+version: 1.5.0

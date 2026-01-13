@@ -1,0 +1,13 @@
+about_resource: attrs-25.4.0.tar.gz
+attribute: yes
+checksum_md5: 6197561dfec99660529830edcfeee0ba
+checksum_sha1: 838392742c2815fe098eb4e34874cce61f8e7ad5
+copyright: Copyright (c) Hynek Schlawack
+download_url: https://files.pythonhosted.org/packages/6b/5c/685e6633917e101e5dcb62b9dd76946cbb57c26e133bae9e0cd36033c0a9/attrs-25.4.0.tar.gz
+homepage_url: https://www.attrs.org/
+license_expression: mit
+name: attrs
+package_url: pkg:pypi/attrs@25.4.0
+primary_language: Python
+type: pypi
+version: 25.4.0

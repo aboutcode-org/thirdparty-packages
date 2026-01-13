@@ -1,0 +1,16 @@
+about_resource: websockets-16.0-cp311-cp311-macosx_10_9_x86_64.whl
+checksum_md5: 88060d7aec0bee4fe6e8645e8a9b0a14
+checksum_sha1: ef419e5434a1dc8644cab0f1b80fd315ae38f499
+copyright: Copyright (c) None <Aymeric Augustin <aymeric.augustin@m4x.org>>
+declared_license:
+  -
+description: An implementation of the WebSocket Protocol (RFC 6455 & 7692)
+download_url: https://files.pythonhosted.org/packages/f3/fa/abe89019d8d8815c8781e90d697dec52523fb8ebe308bf11664e8de1877e/websockets-16.0-cp311-cp311-macosx_10_9_x86_64.whl
+holder_contact: Aymeric Augustin <aymeric.augustin@m4x.org>
+keywords: WebSocket
+license_expression: unknown
+name: websockets
+package_url: pkg:pypi/websockets@16.0
+primary_language: Python
+type: pypi
+version: '16.0'

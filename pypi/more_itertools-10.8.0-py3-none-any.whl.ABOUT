@@ -1,0 +1,20 @@
+about_resource: more_itertools-10.8.0-py3-none-any.whl
+attribute: yes
+checksum_md5: fd85a36659d8319dad66a71f3445979c
+checksum_sha1: e4095eec72d0bacc3548a143397126169204d303
+contact: grinch@grinchcentral.com
+copyright: Copyright (c) Erik Rose
+description: More routines for operating on iterables, beyond itertools
+download_url: https://files.pythonhosted.org/packages/a4/8e/469e5a4a2f5855992e425f3cb33804cc07bf18d48f2db061aec61ce50270/more_itertools-10.8.0-py3-none-any.whl
+homepage_url: https://github.com/erikrose/more-itertools
+license_expression: mit
+name: more-itertools
+notice_file: more_itertools-10.8.0-py3-none-any.whl.NOTICE
+notice_url: https://github.com/erikrose/more-itertools/blob/5.0.0/LICENSE
+owner: Erik Rose
+owner_url: http://www.grinchcentral.com/
+package_url: pkg:pypi/more-itertools@10.8.0
+primary_language: Python
+type: pypi
+vcs_repository: https://github.com/erikrose/more-itertools
+version: 10.8.0
