@@ -1,0 +1,17 @@
+about_resource: typecode_libmagic_system_provided-33.0.0-py3-none-any.whl
+checksum_md5: aa080e4d8a89ca95f999bee2311e359c
+checksum_sha1: 8051b19f08681be5f460ef33263774e0e277cbe8
+copyright: Copyright (c) nexB Inc. and others
+description: A ScanCode path provider plugin to provide a system package provided libmagic binary
+  and database.
+download_url: https://files.pythonhosted.org/packages/8a/df/03e0a83590de850bdcfeb302b3153b97ef945b334d5bede04df4492cba60/typecode_libmagic_system_provided-33.0.0-py3-none-any.whl
+holder: nexB
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
+keywords: open source,typecode,libmagic
+license_expression: apache-2.0
+name: typecode-libmagic-system-provided
+package_url: pkg:pypi/typecode-libmagic-system-provided@33.0.0
+primary_language: Python
+type: pypi
+version: 33.0.0
