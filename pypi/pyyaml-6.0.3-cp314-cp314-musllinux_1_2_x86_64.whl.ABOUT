@@ -1,0 +1,18 @@
+about_resource: pyyaml-6.0.3-cp314-cp314-musllinux_1_2_x86_64.whl
+attribute: yes
+checksum_md5: b2266f896845642eb7ec2e8394462e2a
+checksum_sha1: af8c1f4b850cb9a37b7e451901ed3da5c64cbe38
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/d7/ce/af88a49043cd2e265be63d083fc75b27b6ed062f5f9fd6cdc223ad62f03e/pyyaml-6.0.3-cp314-cp314-musllinux_1_2_x86_64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: pyyaml
+notice_file: pyyaml-6.0.3-cp314-cp314-musllinux_1_2_x86_64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0.3
+primary_language: Python
+type: pypi
+version: 6.0.3

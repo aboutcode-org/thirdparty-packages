@@ -1,0 +1,18 @@
+about_resource: cyseq-0.1.3-cp313-cp313-musllinux_1_2_x86_64.whl
+checksum_md5: 7535a9aac9fe5b4937e152978707e51d
+checksum_sha1: d304b2151ec4cdad59e37e8f3bb5cc51d65a47a4
+copyright: Copyright (c) nexB. Inc. and others <info@aboutcode.org>
+declared_license:
+  - Apache-2.0
+description: '"A Cython version of ScanCode-toolkit''s licensedcode.seq"'
+download_url: https://files.pythonhosted.org/packages/a9/73/b9f17f99750b51c4df4012c9e1e5ecfa51a7815f22451b86592aa1830160/cyseq-0.1.3-cp313-cp313-musllinux_1_2_x86_64.whl
+holder: nexB. Inc. and others
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/aboutcode-org/cyseq
+keywords: utilities
+license_expression: apache-2.0
+name: cyseq
+package_url: pkg:pypi/cyseq@0.1.3
+primary_language: Python
+type: pypi
+version: 0.1.3

@@ -1,0 +1,21 @@
+about_resource: intbitset-4.1.2-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.whl
+attribute: yes
+checksum_md5: 31abcaf0a11249e856bb37b7f7b0d070
+checksum_sha1: 21361073cae66aff91ddf02ce3003f179e9bf7fd
+contact: http://public.web.cern.ch/public/en/Contact-en.html
+copyright: Copyright (C) CERN and others
+description: Python C-based extension implementing fast integer bit sets
+download_url: https://files.pythonhosted.org/packages/16/b0/ba57d56a483d0269baa7f4beef2fdc0309a20ab6c6bfed6cbea41fe99f57/intbitset-4.1.2-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.whl
+homepage_url: https://github.com/inveniosoftware/intbitset
+license_expression: lgpl-3.0-plus
+name: intbitset
+notice_file: intbitset-4.1.2-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.whl.NOTICE
+owner: CERN
+owner_url: http://public.web.cern.ch/public/
+package_url: pkg:pypi/intbitset@4.1.2
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/inveniosoftware/intbitset
+version: 4.1.2

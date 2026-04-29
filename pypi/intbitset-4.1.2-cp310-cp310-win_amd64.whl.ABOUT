@@ -1,0 +1,21 @@
+about_resource: intbitset-4.1.2-cp310-cp310-win_amd64.whl
+attribute: yes
+checksum_md5: 84aa2f73d70803a47b6afd9c70d31c65
+checksum_sha1: 78ebb1fc9e172fd0a13262aeea28c53cfe483cf7
+contact: http://public.web.cern.ch/public/en/Contact-en.html
+copyright: Copyright (C) CERN and others
+description: Python C-based extension implementing fast integer bit sets
+download_url: https://files.pythonhosted.org/packages/9b/01/9fd96635ea14c2f38e077280b130cf3585847029121f3056e8b0a1206019/intbitset-4.1.2-cp310-cp310-win_amd64.whl
+homepage_url: https://github.com/inveniosoftware/intbitset
+license_expression: lgpl-3.0-plus
+name: intbitset
+notice_file: intbitset-4.1.2-cp310-cp310-win_amd64.whl.NOTICE
+owner: CERN
+owner_url: http://public.web.cern.ch/public/
+package_url: pkg:pypi/intbitset@4.1.2
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/inveniosoftware/intbitset
+version: 4.1.2

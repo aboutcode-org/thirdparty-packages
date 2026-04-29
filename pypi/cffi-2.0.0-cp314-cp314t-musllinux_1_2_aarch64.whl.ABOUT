@@ -1,0 +1,13 @@
+about_resource: cffi-2.0.0-cp314-cp314t-musllinux_1_2_aarch64.whl
+checksum_md5: 933e3212f81a6869fc6218973050801f
+checksum_sha1: 222b5cc196d184126512c73d9f7e40cb69475f3d
+copyright: copyright (c) Armin Rigo, Maciej Fijalkowski
+description: Foreign Function Interface for Python calling C code.
+download_url: https://files.pythonhosted.org/packages/25/8e/342a504ff018a2825d395d44d63a767dd8ebc927ebda557fecdaca3ac33a/cffi-2.0.0-cp314-cp314t-musllinux_1_2_aarch64.whl
+homepage_url: http://cffi.readthedocs.org
+license_expression: mit
+name: cffi
+package_url: pkg:pypi/cffi@2.0.0
+primary_language: Python
+type: pypi
+version: 2.0.0

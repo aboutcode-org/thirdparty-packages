@@ -1,0 +1,18 @@
+about_resource: pyyaml-6.0.3-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
+attribute: yes
+checksum_md5: dda247d618737a14243c14e2ab03d52e
+checksum_sha1: 7aa0c0fd96d8cd79292f049f9ef8aaf3acb98413
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/b1/5e/f77dc6b9036943e285ba76b49e118d9ea929885becb0a29ba8a7c75e29fe/pyyaml-6.0.3-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: pyyaml
+notice_file: pyyaml-6.0.3-cp314-cp314t-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0.3
+primary_language: Python
+type: pypi
+version: 6.0.3

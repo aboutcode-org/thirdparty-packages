@@ -1,0 +1,21 @@
+about_resource: intbitset-4.1.2-cp313-cp313-musllinux_1_2_x86_64.whl
+attribute: yes
+checksum_md5: 21ee8701ea63bdceb6700718f49769be
+checksum_sha1: 70ae57b2d63d5945e75d6d6ebd3e8ed443bb9ae2
+contact: http://public.web.cern.ch/public/en/Contact-en.html
+copyright: Copyright (C) CERN and others
+description: Python C-based extension implementing fast integer bit sets
+download_url: https://files.pythonhosted.org/packages/27/39/210b3eca188868fa50ea4314857a63aff388487e38d3200126253fd75f75/intbitset-4.1.2-cp313-cp313-musllinux_1_2_x86_64.whl
+homepage_url: https://github.com/inveniosoftware/intbitset
+license_expression: lgpl-3.0-plus
+name: intbitset
+notice_file: intbitset-4.1.2-cp313-cp313-musllinux_1_2_x86_64.whl.NOTICE
+owner: CERN
+owner_url: http://public.web.cern.ch/public/
+package_url: pkg:pypi/intbitset@4.1.2
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+vcs_repository: https://github.com/inveniosoftware/intbitset
+version: 4.1.2

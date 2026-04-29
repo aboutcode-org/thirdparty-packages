@@ -1,0 +1,18 @@
+about_resource: pyyaml-6.0.3-cp311-cp311-macosx_11_0_arm64.whl
+attribute: yes
+checksum_md5: 4c4b7ae5637402ae69356f3e25e5ca4c
+checksum_sha1: 59b0221efe9fba9d04de8f2f86b7b3828e943870
+copyright: Copyright (c) 2006 Kirill Simonov
+description: YAML parser and emitter for Python
+download_url: https://files.pythonhosted.org/packages/16/19/13de8e4377ed53079ee996e1ab0a9c33ec2faf808a4647b7b4c0d46dd239/pyyaml-6.0.3-cp311-cp311-macosx_11_0_arm64.whl
+homepage_url: http://pyyaml.org/wiki/PyYAML
+license_expression: mit
+name: pyyaml
+notice_file: pyyaml-6.0.3-cp311-cp311-macosx_11_0_arm64.whl.NOTICE
+notice_url: http://svn.pyyaml.org/pyyaml/trunk/LICENSE
+owner: Kirill Simonov
+owner_url: http://www.yaml.org/
+package_url: pkg:pypi/pyyaml@6.0.3
+primary_language: Python
+type: pypi
+version: 6.0.3

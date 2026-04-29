@@ -1,0 +1,18 @@
+about_resource: lxml-6.1.0-cp314-cp314t-win_amd64.whl
+attribute: yes
+checksum_md5: a8b0e7f9f139d57631e3bd02b74f240b
+checksum_sha1: acdf43f0f1a59f3e8fea823729cd8914961993a7
+copyright: Copyright (c) 2004 Infrae.
+description: lxml is the most feature-rich and easy-to-use library for processing XML and HTML
+  in the Python language.
+download_url: https://files.pythonhosted.org/packages/64/ce/3554833989d074267c063209bae8b09815e5656456a2d332b947806b05ff/lxml-6.1.0-cp314-cp314t-win_amd64.whl
+homepage_url: http://lxml.de/
+license_expression: bsd-new AND (mit AND gpl-2.0-plus AND zpl-2.0 AND zlib)
+name: lxml
+owner: Infrae
+package_url: pkg:pypi/lxml@6.1.0
+primary_language: Python
+redistribute: yes
+track_changes: yes
+type: pypi
+version: 6.1.0
