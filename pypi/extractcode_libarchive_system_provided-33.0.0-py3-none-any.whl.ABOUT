@@ -1,0 +1,17 @@
+about_resource: extractcode_libarchive_system_provided-33.0.0-py3-none-any.whl
+checksum_md5: d2f5e2e3160d3a44165025dee541159f
+checksum_sha1: 15660c63741908867eabc998883e4fd7f3f9d664
+copyright: copyright (c) Tim Kientzle and others
+description: A ScanCode path provider plugin to provide a system package provided libarchive
+  shared library.
+download_url: https://files.pythonhosted.org/packages/46/4a/67ad5084eb856ecb8fb0d1396f622e509746b8a2e5b86da0c3469c4eda6d/extractcode_libarchive_system_provided-33.0.0-py3-none-any.whl
+holder: nexB
+holder_contact: info@aboutcode.org
+homepage_url: https://github.com/aboutcode-org/scancode-plugins
+keywords: open source,extractcode,libarchive
+license_expression: bsd-simplified
+name: extractcode-libarchive-system-provided
+package_url: pkg:pypi/extractcode-libarchive-system-provided@33.0.0
+primary_language: Python
+type: pypi
+version: 33.0.0
